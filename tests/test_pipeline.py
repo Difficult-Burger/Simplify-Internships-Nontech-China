@@ -6,14 +6,14 @@ from radar.pipeline import _age_label, _is_suspicious_source_drop, classify_job,
 
 class ClassifyJobTest(unittest.TestCase):
     def test_title_keyword_has_priority(self) -> None:
-        self.assertEqual(classify_job("国际化增长产品经理实习生", "产品"), "市场/增长")
+        self.assertEqual(classify_job("国际化增长产品经理实习生", "产品"), "增长")
 
     def test_raw_category_fallback(self) -> None:
         self.assertEqual(classify_job("创作者生态实习生", "运营"), "运营")
 
     def test_ascii_short_keyword_uses_boundaries(self) -> None:
-        self.assertEqual(classify_job("BD Intern", "销售"), "销售/商务")
-        self.assertNotEqual(classify_job("Brand Intern", "市场"), "销售/商务")
+        self.assertEqual(classify_job("BD Intern", "销售"), "商务")
+        self.assertNotEqual(classify_job("Brand Intern", "市场"), "商务")
 
     def test_unknown_role_is_rejected(self) -> None:
         self.assertIsNone(classify_job("后端开发工程师", "研发"))
@@ -27,14 +27,29 @@ class ClassifyJobTest(unittest.TestCase):
 
     def test_legitimate_nontech_edge_cases_are_kept(self) -> None:
         cases = {
-            "PR实习生": "市场/增长",
-            "国际电商数据分析实习生": "战略/商业分析",
+            "PR实习生": "市场",
+            "国际电商数据分析实习生": "商业分析",
             "游戏系统策划实习生": "产品",
-            "产业研究": "战略/商业分析",
+            "产业研究": "战略",
             "资质合规管理": "职能",
-            "动画": "设计/用户研究",
+            "动画": "设计",
             "项目实习生-产品": "产品",
             "项目实习生-职能": "职能",
+        }
+        for title, expected in cases.items():
+            with self.subTest(title=title):
+                self.assertEqual(classify_job(title, ""), expected)
+
+    def test_previously_combined_categories_are_distinct(self) -> None:
+        cases = {
+            "品牌市场实习生": "市场",
+            "用户增长实习生": "增长",
+            "战略研究实习生": "战略",
+            "经营分析实习生": "商业分析",
+            "渠道销售实习生": "销售",
+            "商务拓展实习生": "商务",
+            "交互设计实习生": "设计",
+            "用户研究实习生": "用户研究",
         }
         for title, expected in cases.items():
             with self.subTest(title=title):
