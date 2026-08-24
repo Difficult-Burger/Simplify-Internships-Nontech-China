@@ -52,6 +52,7 @@ function chinaDate(value) {
 }
 
 function ageLabel(job) {
+  if (!job.published_at) return "时间未公开";
   const days = Math.max(0, Math.floor((Date.now() - timestamp(job)) / 86400000));
   return days === 0 ? "今天" : `${days} 天前`;
 }

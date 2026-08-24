@@ -135,8 +135,10 @@ def _write_csv_file(path: Path, jobs: list[dict[str, Any]]) -> None:
 
 
 def _age_label(job: dict[str, Any], now: datetime | None = None) -> str:
+    if not job.get("published_at"):
+        return "时间未公开"
     reference = now or datetime.now(UTC)
-    posted = datetime.fromisoformat(str(job.get("published_at") or job["first_seen_at"]))
+    posted = datetime.fromisoformat(str(job["published_at"]))
     days = max(0, (reference - posted).days)
     return "今天" if days == 0 else f"{days} 天前"
 
@@ -179,7 +181,7 @@ def _update_readme(jobs: list[dict[str, Any]]) -> None:
         f"\n\n当前收录 **{len(jobs)}** 条在招岗位。\n\n"
         f"### 按岗位类别浏览\n\n{links}\n\n---\n\n"
         f"{_readme_sections(jobs)}\n\n"
-        "> `发布于` 优先使用企业官方发布时间；来源未公开发布时间时，使用本项目首次收录时间。\n\n"
+        "> `发布于` 使用企业官方发布时间；来源未提供该字段时显示“时间未公开”。\n\n"
     )
     before, remainder = content.split(start, 1)
     _, after = remainder.split(end, 1)

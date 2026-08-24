@@ -9,7 +9,7 @@
 ## 使用说明
 
 - 点击表格中的“投递”进入企业投递页面。
-- `发布于` 表示岗位距今多久；官方未公开发布时间时，使用本项目首次收录时间。
+- `发布于` 表示岗位距今多久；官方未公开发布时间时显示“时间未公开”。
 - README 每个岗位类别展示最新 60 条；完整岗位请使用上方筛选页面。
 - 数据每天北京时间约 08:20 自动更新。
 
@@ -45,43 +45,43 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 项目实习生-产品 · 实习 | 深圳 / 上海 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=-3) |
-| 腾讯 | 游戏策划培训生 · 校招 | 深圳 / 北京 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282032033786619904) |
-| 腾讯 | 游戏策划培训生 · 实习 | 深圳 / 上海 / 广州 / 成都 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751772835706880) |
-| 腾讯 | 游戏策划培训生 · 实习 | 深圳 / 上海 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696263304512512) |
-| 腾讯 | 银发AI创新产品 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506752) |
-| 腾讯 | 金融 AI Agent产品经理-财小通方向 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506773) |
-| 腾讯 | 金融 AI Agent产品经理-自选股方向 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506775) |
-| 腾讯 | 金融 AI Agent产品经理-理财通AI理财管家 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506774) |
-| 腾讯 | 金融 AI Agent产品经理- 投研方向 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506772) |
-| 腾讯 | 腾讯视频-AI产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506755) |
-| 腾讯 | 腾讯地图AI产品培训生 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506771) |
-| 腾讯 | 腾讯云MaaS产品培训生 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506768) |
-| 腾讯 | 腾讯云 WAND AI 产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506769) |
-| 腾讯 | 腾讯云 ADP 产品培训生 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506770) |
-| 腾讯 | 混元平台产品管培生 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506760) |
-| 腾讯 | 混元AI应用产品管培生 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506761) |
-| 腾讯 | 技术产品经理 · 校招 | 深圳 / 北京 / 上海 / 成都 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284317600528245760) |
-| 腾讯 | 技术产品经理 · 实习 | 深圳 / 北京 / 上海 / 成都 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696104600437761) |
-| 腾讯 | 技术产品经理 · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696103971292160) |
-| 腾讯 | 光子AI-AI陪伴类产品策划 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506759) |
-| 腾讯 | 元宝-语音策略产品经理 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506763) |
-| 腾讯 | 元宝-多模态创作产品经理 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506764) |
-| 腾讯 | 元宝-AI教育产品经理 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506765) |
-| 腾讯 | 元宝-AI搜索策略产品 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506766) |
-| 腾讯 | 产品策划 · 校招 | 深圳 / 北京 / 上海 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707374754604032) |
-| 腾讯 | 产品策划 · 实习 | 深圳 / 北京 / 上海 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1188988696721092608) |
-| 腾讯 | 产品策划 · 实习 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1212183855952704514) |
-| 腾讯 | ima生态-AI产培生 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506767) |
-| 腾讯 | WorkBuddy生态策略产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506780) |
-| 腾讯 | WorkBuddy Agent策略产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506781) |
-| 腾讯 | WeGame-AI产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506757) |
-| 腾讯 | QQ游戏开放生态产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506756) |
-| 腾讯 | QQagent产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506762) |
-| 腾讯 | Marvis马维斯-AI产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506754) |
-| 腾讯 | Cheso.ai产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506753) |
-| 腾讯 | AI产品经理 · 校招 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283126456553382912) |
-| 腾讯 | AI产品经理 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284862486247711744) |
+| 腾讯 | 项目实习生-产品 · 实习 | 深圳 / 上海 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=-3) |
+| 腾讯 | 游戏策划培训生 · 校招 | 深圳 / 北京 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282032033786619904) |
+| 腾讯 | 游戏策划培训生 · 实习 | 深圳 / 上海 / 广州 / 成都 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751772835706880) |
+| 腾讯 | 游戏策划培训生 · 实习 | 深圳 / 上海 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696263304512512) |
+| 腾讯 | 银发AI创新产品 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506752) |
+| 腾讯 | 金融 AI Agent产品经理-财小通方向 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506773) |
+| 腾讯 | 金融 AI Agent产品经理-自选股方向 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506775) |
+| 腾讯 | 金融 AI Agent产品经理-理财通AI理财管家 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506774) |
+| 腾讯 | 金融 AI Agent产品经理- 投研方向 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506772) |
+| 腾讯 | 腾讯视频-AI产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506755) |
+| 腾讯 | 腾讯地图AI产品培训生 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506771) |
+| 腾讯 | 腾讯云MaaS产品培训生 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506768) |
+| 腾讯 | 腾讯云 WAND AI 产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506769) |
+| 腾讯 | 腾讯云 ADP 产品培训生 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506770) |
+| 腾讯 | 混元平台产品管培生 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506760) |
+| 腾讯 | 混元AI应用产品管培生 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506761) |
+| 腾讯 | 技术产品经理 · 校招 | 深圳 / 北京 / 上海 / 成都 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284317600528245760) |
+| 腾讯 | 技术产品经理 · 实习 | 深圳 / 北京 / 上海 / 成都 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696104600437761) |
+| 腾讯 | 技术产品经理 · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696103971292160) |
+| 腾讯 | 光子AI-AI陪伴类产品策划 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506759) |
+| 腾讯 | 元宝-语音策略产品经理 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506763) |
+| 腾讯 | 元宝-多模态创作产品经理 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506764) |
+| 腾讯 | 元宝-AI教育产品经理 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506765) |
+| 腾讯 | 元宝-AI搜索策略产品 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506766) |
+| 腾讯 | 产品策划 · 校招 | 深圳 / 北京 / 上海 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707374754604032) |
+| 腾讯 | 产品策划 · 实习 | 深圳 / 北京 / 上海 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1188988696721092608) |
+| 腾讯 | 产品策划 · 实习 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1212183855952704514) |
+| 腾讯 | ima生态-AI产培生 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506767) |
+| 腾讯 | WorkBuddy生态策略产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506780) |
+| 腾讯 | WorkBuddy Agent策略产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506781) |
+| 腾讯 | WeGame-AI产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506757) |
+| 腾讯 | QQ游戏开放生态产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506756) |
+| 腾讯 | QQagent产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506762) |
+| 腾讯 | Marvis马维斯-AI产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506754) |
+| 腾讯 | Cheso.ai产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506753) |
+| 腾讯 | AI产品经理 · 校招 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283126456553382912) |
+| 腾讯 | AI产品经理 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284862486247711744) |
 | 字节跳动 | AI产品经理 - 抖音电商 · 校招 | 上海 / 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677588589015615749/detail) |
 | 字节跳动 | AIGC创意产品实习生 - 广告业务 · 实习 | 北京 / 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677469600480790789/detail) |
 | 字节跳动 | AI产品经理（模型训练策略方向） - AI数据与安全 · 校招 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677444792511482165/detail) |
@@ -116,35 +116,35 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 安全策略 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284528300198503424) |
-| 腾讯 | 安全策略 · 实习 | 深圳 / 北京 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102081) |
-| 腾讯 | 行业运营 · 校招 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283126495480718336) |
-| 腾讯 | 行业运营 · 实习 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100931) |
-| 腾讯 | 行业运营 · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1212183855952704521) |
-| 腾讯 | 物业运营与办公规划管理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283045533715604480) |
-| 腾讯 | 物业运营与办公规划管理 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957123234441216) |
-| 腾讯 | 游戏发行/运营培训生 · 校招 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282032033786619905) |
-| 腾讯 | 游戏发行/运营培训生 · 实习 | 深圳 / 上海 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751773724899328) |
-| 腾讯 | 游戏发行/运营培训生 · 实习 | 深圳 / 上海 / 澄迈县 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1227032278660950017) |
-| 腾讯 | 员工福利运营 · 校招 | 深圳 / 上海 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555968) |
-| 腾讯 | 员工福利运营 · 实习 | 深圳 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102082) |
-| 腾讯 | 内容运营 · 校招 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283126452350690304) |
-| 腾讯 | 内容运营 · 实习 | 深圳 / 北京 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696522596614144) |
-| 腾讯 | 内容运营 · 实习 | 深圳 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1218257148728045568) |
-| 腾讯 | 内容培训生-艺术创作方向（含AIGC） · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878504806818816) |
-| 腾讯 | 内容培训生-艺术创作方向（含AIGC） · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1229050258274030592) |
-| 腾讯 | 内容培训生-内容技术方向（含AIGC） · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1238177252446073856) |
-| 腾讯 | 内容培训生-内容创作及运营方向 · 实习 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1228857789737478144) |
-| 腾讯 | 内容培训生-内容创作及运营方向 · 实习 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1215999629615951872) |
-| 腾讯 | 内容创作 · 校招 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284592104206836736) |
-| 腾讯 | 内容创作 · 实习 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696469513274368) |
-| 腾讯 | 内容创作 · 实习 | 深圳 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226908073827117056) |
-| 腾讯 | 产品运营 · 校招 | 深圳 / 北京 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707379615819777) |
-| 腾讯 | 产品运营 · 实习 | 深圳 / 北京 / 上海 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1212816229455368192) |
-| 腾讯 | 产品运营 · 实习 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1218257147532668928) |
-| 腾讯 | 业务管理运营 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284317968595231744) |
-| 腾讯 | 业务管理运营 · 实习 | 深圳 / 北京 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226875738188556288) |
-| 腾讯 | 业务管理运营 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1234496944370743296) |
+| 腾讯 | 安全策略 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284528300198503424) |
+| 腾讯 | 安全策略 · 实习 | 深圳 / 北京 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102081) |
+| 腾讯 | 行业运营 · 校招 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283126495480718336) |
+| 腾讯 | 行业运营 · 实习 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100931) |
+| 腾讯 | 行业运营 · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1212183855952704521) |
+| 腾讯 | 物业运营与办公规划管理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283045533715604480) |
+| 腾讯 | 物业运营与办公规划管理 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957123234441216) |
+| 腾讯 | 游戏发行/运营培训生 · 校招 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282032033786619905) |
+| 腾讯 | 游戏发行/运营培训生 · 实习 | 深圳 / 上海 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751773724899328) |
+| 腾讯 | 游戏发行/运营培训生 · 实习 | 深圳 / 上海 / 澄迈县 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1227032278660950017) |
+| 腾讯 | 员工福利运营 · 校招 | 深圳 / 上海 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555968) |
+| 腾讯 | 员工福利运营 · 实习 | 深圳 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102082) |
+| 腾讯 | 内容运营 · 校招 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283126452350690304) |
+| 腾讯 | 内容运营 · 实习 | 深圳 / 北京 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696522596614144) |
+| 腾讯 | 内容运营 · 实习 | 深圳 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1218257148728045568) |
+| 腾讯 | 内容培训生-艺术创作方向（含AIGC） · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878504806818816) |
+| 腾讯 | 内容培训生-艺术创作方向（含AIGC） · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1229050258274030592) |
+| 腾讯 | 内容培训生-内容技术方向（含AIGC） · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1238177252446073856) |
+| 腾讯 | 内容培训生-内容创作及运营方向 · 实习 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1228857789737478144) |
+| 腾讯 | 内容培训生-内容创作及运营方向 · 实习 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1215999629615951872) |
+| 腾讯 | 内容创作 · 校招 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284592104206836736) |
+| 腾讯 | 内容创作 · 实习 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696469513274368) |
+| 腾讯 | 内容创作 · 实习 | 深圳 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226908073827117056) |
+| 腾讯 | 产品运营 · 校招 | 深圳 / 北京 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707379615819777) |
+| 腾讯 | 产品运营 · 实习 | 深圳 / 北京 / 上海 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1212816229455368192) |
+| 腾讯 | 产品运营 · 实习 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1218257147532668928) |
+| 腾讯 | 业务管理运营 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284317968595231744) |
+| 腾讯 | 业务管理运营 · 实习 | 深圳 / 北京 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226875738188556288) |
+| 腾讯 | 业务管理运营 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1234496944370743296) |
 | 字节跳动 | 招商策略实习生 - TikTok Shop · 实习 | 深圳 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677580737168754997/detail) |
 | 字节跳动 | 东南亚电商策略运营实习生 - TikTok Shop · 实习 | 深圳 / 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677554161329457413/detail) |
 | 字节跳动 | 标准运营 - 内容质量与数据服务平台 · 校招 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677529181178448181/detail) |
@@ -187,20 +187,20 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 项目实习生-市场 · 实习 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=-5) |
-| 腾讯 | 腾讯营销管培生 · 校招 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284207373170582528) |
-| 腾讯 | 腾讯营销管培生 · 实习 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226875613710029824) |
-| 腾讯 | 腾讯营销-妙思AIGC产品经理 · 校招 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506779) |
-| 腾讯 | 腾讯营销-AI智能运营产品经理 · 校招 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506777) |
-| 腾讯 | 腾讯营销-AI智能投放产品经理 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506778) |
-| 腾讯 | 腾讯营销-AI数据产品经理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506776) |
-| 腾讯 | 市场营销 · 校招 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707375417304064) |
-| 腾讯 | 市场营销 · 实习 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224067387964684288) |
-| 腾讯 | 市场营销 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1227032176378652672) |
-| 腾讯 | 市场研究 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284318005643518976) |
-| 腾讯 | 市场研究 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696587981619200) |
-| 腾讯 | 公关 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707442895266816) |
-| 腾讯 | 公关 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224788538126854144) |
+| 腾讯 | 项目实习生-市场 · 实习 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=-5) |
+| 腾讯 | 腾讯营销管培生 · 校招 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284207373170582528) |
+| 腾讯 | 腾讯营销管培生 · 实习 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226875613710029824) |
+| 腾讯 | 腾讯营销-妙思AIGC产品经理 · 校招 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506779) |
+| 腾讯 | 腾讯营销-AI智能运营产品经理 · 校招 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506777) |
+| 腾讯 | 腾讯营销-AI智能投放产品经理 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506778) |
+| 腾讯 | 腾讯营销-AI数据产品经理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506776) |
+| 腾讯 | 市场营销 · 校招 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707375417304064) |
+| 腾讯 | 市场营销 · 实习 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224067387964684288) |
+| 腾讯 | 市场营销 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1227032176378652672) |
+| 腾讯 | 市场研究 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284318005643518976) |
+| 腾讯 | 市场研究 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696587981619200) |
+| 腾讯 | 公关 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707442895266816) |
+| 腾讯 | 公关 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224788538126854144) |
 | 字节跳动 | 美国电商营销活动运营实习生 - TikTok Shop · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677588226387413301/detail) |
 | 字节跳动 | 品牌活动运营实习生 - TikTok Shop · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677543844053207349/detail) |
 | 字节跳动 | 印尼商城营销玩法实习生 - TikTok Shop · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677435692777687301/detail) |
@@ -258,25 +258,25 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 金融风险管理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1286769609550496768) |
-| 腾讯 | 金融风险管理 · 实习 | 深圳 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226875900751390720) |
-| 腾讯 | 法律/行业/产业研究 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957123230246912) |
-| 腾讯 | 数字生态研究 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284528300198503425) |
-| 腾讯 | 数字生态研究 · 实习 | 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930818) |
-| 腾讯 | 产业研究 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555971) |
-| 腾讯 | 投资运营分析师 · 校招 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1277366754477467648) |
-| 腾讯 | 投资者关系 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284207539936109568) |
-| 腾讯 | 投资者关系 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226875888789263360) |
-| 腾讯 | 投资分析(技术方向) · 实习 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1155545119882220545) |
-| 腾讯 | 投资分析 · 校招 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1277366755316311040) |
-| 腾讯 | 投资分析 · 实习 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1155545119882220544) |
-| 腾讯 | 投资分析 · 实习 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226875884628486144) |
-| 腾讯 | 战略商业分析师 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283126469811577856) |
-| 腾讯 | 战略商业分析师 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226875888789263361) |
-| 腾讯 | 战略商业分析师 · 实习 | 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226875890517316608) |
-| 腾讯 | 商业分析 · 校招 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707381767480320) |
-| 腾讯 | 商业分析 · 实习 | 深圳 / 北京 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224067393358393344) |
-| 腾讯 | 商业分析 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1227032278660950016) |
+| 腾讯 | 金融风险管理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1286769609550496768) |
+| 腾讯 | 金融风险管理 · 实习 | 深圳 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226875900751390720) |
+| 腾讯 | 法律/行业/产业研究 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957123230246912) |
+| 腾讯 | 数字生态研究 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284528300198503425) |
+| 腾讯 | 数字生态研究 · 实习 | 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930818) |
+| 腾讯 | 产业研究 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555971) |
+| 腾讯 | 投资运营分析师 · 校招 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1277366754477467648) |
+| 腾讯 | 投资者关系 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284207539936109568) |
+| 腾讯 | 投资者关系 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226875888789263360) |
+| 腾讯 | 投资分析(技术方向) · 实习 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1155545119882220545) |
+| 腾讯 | 投资分析 · 校招 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1277366755316311040) |
+| 腾讯 | 投资分析 · 实习 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1155545119882220544) |
+| 腾讯 | 投资分析 · 实习 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226875884628486144) |
+| 腾讯 | 战略商业分析师 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283126469811577856) |
+| 腾讯 | 战略商业分析师 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226875888789263361) |
+| 腾讯 | 战略商业分析师 · 实习 | 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226875890517316608) |
+| 腾讯 | 商业分析 · 校招 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707381767480320) |
+| 腾讯 | 商业分析 · 实习 | 深圳 / 北京 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224067393358393344) |
+| 腾讯 | 商业分析 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1227032278660950016) |
 | 字节跳动 | 数据分析实习生 - TikTok Shop · 实习 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677571671927212341/detail) |
 | 字节跳动 | 数据分析 - 内容质量与数据服务平台 · 校招 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677527047489472821/detail) |
 | 字节跳动 | 商业分析实习生 - 广告业务 · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677447953821370677/detail) |
@@ -329,17 +329,17 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 采购商务管理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284317795626329088) |
-| 腾讯 | 采购商务管理 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226585684903864320) |
-| 腾讯 | 采购商务管理 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1237050782143247360) |
-| 腾讯 | 行业解决方案-客户成功 · 校招 | 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283126495480718337) |
-| 腾讯 | 行业解决方案-客户成功 · 实习 | 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1243662428588616704) |
-| 腾讯 | 渠道管理运营 · 实习 | 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1272557644888201216) |
-| 腾讯 | 商务拓展 · 校招 | 深圳 / 北京 / 广州 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707380882482176) |
-| 腾讯 | 商务拓展 · 实习 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1200889496565214209) |
-| 腾讯 | 商务拓展 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1228831632895911936) |
-| 腾讯 | CSIG技术产品商务培训生 · 校招 | 青岛 / 深圳 / 北京 / 上海 / 广州 / 成都 / 武汉 / 杭州 / 南京 / 中国香港 / 西安 / 重庆 / 厦门 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284317542697182210) |
-| 腾讯 | CSIG技术产品商务培训生 · 实习 | 西安 / 青岛 / 深圳 / 北京 / 上海 / 广州 / 成都 / 杭州 / 南京 / 厦门 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100929) |
+| 腾讯 | 采购商务管理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284317795626329088) |
+| 腾讯 | 采购商务管理 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226585684903864320) |
+| 腾讯 | 采购商务管理 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1237050782143247360) |
+| 腾讯 | 行业解决方案-客户成功 · 校招 | 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283126495480718337) |
+| 腾讯 | 行业解决方案-客户成功 · 实习 | 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1243662428588616704) |
+| 腾讯 | 渠道管理运营 · 实习 | 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1272557644888201216) |
+| 腾讯 | 商务拓展 · 校招 | 深圳 / 北京 / 广州 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707380882482176) |
+| 腾讯 | 商务拓展 · 实习 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1200889496565214209) |
+| 腾讯 | 商务拓展 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1228831632895911936) |
+| 腾讯 | CSIG技术产品商务培训生 · 校招 | 青岛 / 深圳 / 北京 / 上海 / 广州 / 成都 / 武汉 / 杭州 / 南京 / 中国香港 / 西安 / 重庆 / 厦门 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284317542697182210) |
+| 腾讯 | CSIG技术产品商务培训生 · 实习 | 西安 / 青岛 / 深圳 / 北京 / 上海 / 广州 / 成都 / 杭州 / 南京 / 厦门 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100929) |
 | 字节跳动 | 商业化治理宣发实习生 - 广告业务 · 实习 | 北京 / 上海 | 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7675746086036506933/detail) |
 | 字节跳动 | 出海大客户/渠道销售（非电商-游戏） - Global Business Solutions · 校招 | 上海 / 深圳 | 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7675583335754697013/detail) |
 | 字节跳动 | 出海大客户/渠道销售（非电商-应用） - Global Business Solutions · 校招 | 北京 / 深圳 | 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7675578915612231989/detail) |
@@ -400,9 +400,9 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 项目管理 · 校招 | 西安 / 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707379615819776) |
-| 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100930) |
-| 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696276592067584) |
+| 腾讯 | 项目管理 · 校招 | 西安 / 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707379615819776) |
+| 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100930) |
+| 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696276592067584) |
 | 字节跳动 | 合规项目管理实习生 - TikTok Shop · 实习 | 上海 | 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676034052038936885/detail) |
 | 字节跳动 | 本地化项目管理实习生（小云雀Pippit） - 剪映CapCut · 实习 | 北京 | 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675257382511282485/detail) |
 | 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML · 实习 | 北京 | 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7672746499483666741/detail) |
@@ -460,60 +460,60 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 音频策划 · 校招 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878477271213056) |
-| 腾讯 | 音频策划 · 实习 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696244841414656) |
-| 腾讯 | 音频策划 · 实习 | 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1238177245701633024) |
-| 腾讯 | 特效 · 校招 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707427871269888) |
-| 腾讯 | 特效 · 实习 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224067382566449152) |
-| 腾讯 | 特效 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696331168351232) |
-| 腾讯 | 动画 · 校招 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707425254024193) |
-| 腾讯 | 动画 · 实习 | 深圳 / 上海 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751782147061760) |
-| 腾讯 | 动画 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696384415040514) |
-| 腾讯 | 项目实习生-设计 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=-4) |
-| 腾讯 | 视觉设计 · 校招 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707393989682176) |
-| 腾讯 | 视觉设计 · 实习 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1177660287760077824) |
-| 腾讯 | 视觉设计 · 实习 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1210646470286783489) |
-| 腾讯 | 视觉生成模型评测 · 实习 | 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1269457251706814464) |
-| 腾讯 | 用户研究 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878533483275264) |
-| 腾讯 | 用户研究 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1177660287764272128) |
-| 腾讯 | 用户研究 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1210646470286783490) |
-| 腾讯 | 游戏用户研究 · 实习 | 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1227032116983141376) |
-| 腾讯 | 游戏用户研究 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1257021174874167296) |
-| 腾讯 | 游戏宣发视觉设计 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878418584511488) |
-| 腾讯 | 游戏宣发视觉设计 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751795182958592) |
-| 腾讯 | 游戏宣发视觉设计 · 实习 | 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1270791052483418112) |
-| 腾讯 | 游戏动效设计(特效向) · 校招 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878477271213057) |
-| 腾讯 | 游戏动效设计(特效向) · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696291683401728) |
-| 腾讯 | 游戏动效设计(UI向) · 实习 | 深圳 / 上海 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696282652836864) |
-| 腾讯 | 游戏GUI视觉设计 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878428566955008) |
-| 腾讯 | 游戏GUI视觉设计 · 实习 | 深圳 / 上海 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751796143454208) |
-| 腾讯 | 游戏GUI视觉设计 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1228831632895911937) |
-| 腾讯 | 技术美术（多方向） · 校招 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878428562760704) |
-| 腾讯 | 技术美术（多方向） · 实习 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751794327154688) |
-| 腾讯 | 技术美术（多方向） · 实习 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696239841804288) |
-| 腾讯 | 技术美术（AI方向） · 校招 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878428566955009) |
-| 腾讯 | 多媒体设计 · 校招 | 深圳 / 北京 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283878464457614336) |
-| 腾讯 | 多媒体设计 · 实习 | 深圳 / 北京 / 上海 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751792028676096) |
-| 腾讯 | 多媒体设计 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696253330685952) |
-| 腾讯 | 光子AI-AI可交互模型原生产品策划 · 校招 | 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506758) |
-| 腾讯 | 产品体验设计 · 校招 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283126425985295360) |
-| 腾讯 | 产品体验设计 · 实习 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696067023896576) |
-| 腾讯 | 产品体验设计 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696253330685953) |
-| 腾讯 | 交互设计 · 校招 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707392714613760) |
-| 腾讯 | 交互设计 · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1177660287764272129) |
-| 腾讯 | 交互设计 · 实习 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1210646470286783491) |
-| 腾讯 | 3D角色设计 · 校招 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707425254024192) |
-| 腾讯 | 3D角色设计 · 实习 | 深圳 / 上海 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751780276402176) |
-| 腾讯 | 3D角色设计 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696437083144192) |
-| 腾讯 | 3D场景设计 · 校招 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707392714613761) |
-| 腾讯 | 3D场景设计 · 实习 | 深圳 / 上海 / 成都 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751781299646464) |
-| 腾讯 | 3D场景设计 · 实习 | 深圳 / 广州 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696230249431040) |
-| 腾讯 | 2D角色设计 · 校招 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707391506654208) |
-| 腾讯 | 2D角色设计 · 实习 | 深圳 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751778799841280) |
-| 腾讯 | 2D角色设计 · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696384415040512) |
-| 腾讯 | 2D场景设计 · 校招 | 深圳 / 上海 / 杭州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1282707391506654209) |
-| 腾讯 | 2D场景设计 · 实习 | 深圳 / 上海 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1219751779685005312) |
-| 腾讯 | 2D场景设计 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1224696384415040513) |
+| 腾讯 | 音频策划 · 校招 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878477271213056) |
+| 腾讯 | 音频策划 · 实习 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696244841414656) |
+| 腾讯 | 音频策划 · 实习 | 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1238177245701633024) |
+| 腾讯 | 特效 · 校招 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707427871269888) |
+| 腾讯 | 特效 · 实习 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224067382566449152) |
+| 腾讯 | 特效 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696331168351232) |
+| 腾讯 | 动画 · 校招 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707425254024193) |
+| 腾讯 | 动画 · 实习 | 深圳 / 上海 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751782147061760) |
+| 腾讯 | 动画 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696384415040514) |
+| 腾讯 | 项目实习生-设计 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=-4) |
+| 腾讯 | 视觉设计 · 校招 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707393989682176) |
+| 腾讯 | 视觉设计 · 实习 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1177660287760077824) |
+| 腾讯 | 视觉设计 · 实习 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1210646470286783489) |
+| 腾讯 | 视觉生成模型评测 · 实习 | 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1269457251706814464) |
+| 腾讯 | 用户研究 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878533483275264) |
+| 腾讯 | 用户研究 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1177660287764272128) |
+| 腾讯 | 用户研究 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1210646470286783490) |
+| 腾讯 | 游戏用户研究 · 实习 | 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1227032116983141376) |
+| 腾讯 | 游戏用户研究 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1257021174874167296) |
+| 腾讯 | 游戏宣发视觉设计 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878418584511488) |
+| 腾讯 | 游戏宣发视觉设计 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751795182958592) |
+| 腾讯 | 游戏宣发视觉设计 · 实习 | 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1270791052483418112) |
+| 腾讯 | 游戏动效设计(特效向) · 校招 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878477271213057) |
+| 腾讯 | 游戏动效设计(特效向) · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696291683401728) |
+| 腾讯 | 游戏动效设计(UI向) · 实习 | 深圳 / 上海 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696282652836864) |
+| 腾讯 | 游戏GUI视觉设计 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878428566955008) |
+| 腾讯 | 游戏GUI视觉设计 · 实习 | 深圳 / 上海 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751796143454208) |
+| 腾讯 | 游戏GUI视觉设计 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1228831632895911937) |
+| 腾讯 | 技术美术（多方向） · 校招 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878428562760704) |
+| 腾讯 | 技术美术（多方向） · 实习 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751794327154688) |
+| 腾讯 | 技术美术（多方向） · 实习 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696239841804288) |
+| 腾讯 | 技术美术（AI方向） · 校招 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878428566955009) |
+| 腾讯 | 多媒体设计 · 校招 | 深圳 / 北京 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283878464457614336) |
+| 腾讯 | 多媒体设计 · 实习 | 深圳 / 北京 / 上海 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751792028676096) |
+| 腾讯 | 多媒体设计 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696253330685952) |
+| 腾讯 | 光子AI-AI可交互模型原生产品策划 · 校招 | 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506758) |
+| 腾讯 | 产品体验设计 · 校招 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283126425985295360) |
+| 腾讯 | 产品体验设计 · 实习 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696067023896576) |
+| 腾讯 | 产品体验设计 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696253330685953) |
+| 腾讯 | 交互设计 · 校招 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707392714613760) |
+| 腾讯 | 交互设计 · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1177660287764272129) |
+| 腾讯 | 交互设计 · 实习 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1210646470286783491) |
+| 腾讯 | 3D角色设计 · 校招 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707425254024192) |
+| 腾讯 | 3D角色设计 · 实习 | 深圳 / 上海 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751780276402176) |
+| 腾讯 | 3D角色设计 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696437083144192) |
+| 腾讯 | 3D场景设计 · 校招 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707392714613761) |
+| 腾讯 | 3D场景设计 · 实习 | 深圳 / 上海 / 成都 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751781299646464) |
+| 腾讯 | 3D场景设计 · 实习 | 深圳 / 广州 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696230249431040) |
+| 腾讯 | 2D角色设计 · 校招 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707391506654208) |
+| 腾讯 | 2D角色设计 · 实习 | 深圳 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751778799841280) |
+| 腾讯 | 2D角色设计 · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696384415040512) |
+| 腾讯 | 2D场景设计 · 校招 | 深圳 / 上海 / 杭州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1282707391506654209) |
+| 腾讯 | 2D场景设计 · 实习 | 深圳 / 上海 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1219751779685005312) |
+| 腾讯 | 2D场景设计 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1224696384415040513) |
 | 字节跳动 | 产品UI设计师 - PICO · 校招 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677509004738693381/detail) |
 | 字节跳动 | 室内设计实习生 - Corporate Services · 实习 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677499638644001077/detail) |
 | 字节跳动 | AI工程设计实习生 - TikTok设计 · 实习 | 上海 | 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7676438194907040005/detail) |
@@ -531,35 +531,35 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 腾讯 | 项目实习生-职能 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=-6) |
-| 腾讯 | 金融合规 · 实习 | 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957068180006912) |
-| 腾讯 | 资质合规管理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555969) |
-| 腾讯 | 财经线培训生-分析类 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284632941590553600) |
-| 腾讯 | 财经线培训生-分析类 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226671919517307904) |
-| 腾讯 | 财经线培训生-专业类 · 校招 | 深圳 / 广州 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284632498743321600) |
-| 腾讯 | 财经线培训生-专业类 · 实习 | 深圳 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226671880397034496) |
-| 腾讯 | 设施设备管理 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1165235572529633280) |
-| 腾讯 | 秘书 · 校招 | 深圳 / 北京 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1283045530146251776) |
-| 腾讯 | 秘书 · 实习 | 深圳 / 北京 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1165235557480470528) |
-| 腾讯 | 文化交流与接待管理 · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284317763288245248) |
-| 腾讯 | 文化交流与接待管理 · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102083) |
-| 腾讯 | 公共事务 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361665) |
-| 腾讯 | 公共事务 · 实习 | 北京 / 重庆 / 成都 / 中国香港 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102080) |
-| 腾讯 | 专利 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361666) |
-| 腾讯 | 专利 · 实习 | 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930817) |
-| 腾讯 | 法务 · 校招 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361664) |
-| 腾讯 | 法务 · 实习 | 深圳 / 北京 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930816) |
-| 腾讯 | Overseas Legal Counsel · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555970) |
-| 腾讯 | Overseas Legal Counsel · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1226957123234441217) |
-| 腾讯 | AI-HR培训生（沟通方向） · 校招 | 深圳 / 北京 / 上海 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1286682406438715392) |
-| 腾讯 | AI-HR培训生（沟通方向） · 实习 | 深圳 / 北京 / 上海 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938819) |
-| 腾讯 | AI-HR培训生（技术&amp;应用方向） · 校招 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1286682460696231938) |
-| 腾讯 | AI-HR培训生（技术&amp;应用方向） · 实习 | 深圳 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938818) |
-| 腾讯 | AI-HR培训生（技术&amp;应用方向） · 实习 | 深圳 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1236457887866547200) |
-| 腾讯 | AI-HR培训生（创意方向） · 校招 | 深圳 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1286682460696231936) |
-| 腾讯 | AI-HR培训生（创意方向） · 实习 | 深圳 / 广州 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938816) |
-| 腾讯 | AI-HR培训生（分析方向） · 校招 | 深圳 / 北京 / 上海 / 广州 / 成都 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1286682460696231937) |
-| 腾讯 | AI-HR培训生（分析方向） · 实习 | 深圳 / 上海 | 今天 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938817) |
+| 腾讯 | 项目实习生-职能 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=-6) |
+| 腾讯 | 金融合规 · 实习 | 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957068180006912) |
+| 腾讯 | 资质合规管理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555969) |
+| 腾讯 | 财经线培训生-分析类 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284632941590553600) |
+| 腾讯 | 财经线培训生-分析类 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226671919517307904) |
+| 腾讯 | 财经线培训生-专业类 · 校招 | 深圳 / 广州 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284632498743321600) |
+| 腾讯 | 财经线培训生-专业类 · 实习 | 深圳 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226671880397034496) |
+| 腾讯 | 设施设备管理 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1165235572529633280) |
+| 腾讯 | 秘书 · 校招 | 深圳 / 北京 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1283045530146251776) |
+| 腾讯 | 秘书 · 实习 | 深圳 / 北京 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1165235557480470528) |
+| 腾讯 | 文化交流与接待管理 · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284317763288245248) |
+| 腾讯 | 文化交流与接待管理 · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102083) |
+| 腾讯 | 公共事务 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361665) |
+| 腾讯 | 公共事务 · 实习 | 北京 / 重庆 / 成都 / 中国香港 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102080) |
+| 腾讯 | 专利 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361666) |
+| 腾讯 | 专利 · 实习 | 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930817) |
+| 腾讯 | 法务 · 校招 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361664) |
+| 腾讯 | 法务 · 实习 | 深圳 / 北京 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930816) |
+| 腾讯 | Overseas Legal Counsel · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555970) |
+| 腾讯 | Overseas Legal Counsel · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1226957123234441217) |
+| 腾讯 | AI-HR培训生（沟通方向） · 校招 | 深圳 / 北京 / 上海 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1286682406438715392) |
+| 腾讯 | AI-HR培训生（沟通方向） · 实习 | 深圳 / 北京 / 上海 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938819) |
+| 腾讯 | AI-HR培训生（技术&amp;应用方向） · 校招 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1286682460696231938) |
+| 腾讯 | AI-HR培训生（技术&amp;应用方向） · 实习 | 深圳 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938818) |
+| 腾讯 | AI-HR培训生（技术&amp;应用方向） · 实习 | 深圳 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1236457887866547200) |
+| 腾讯 | AI-HR培训生（创意方向） · 校招 | 深圳 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1286682460696231936) |
+| 腾讯 | AI-HR培训生（创意方向） · 实习 | 深圳 / 广州 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938816) |
+| 腾讯 | AI-HR培训生（分析方向） · 校招 | 深圳 / 北京 / 上海 / 广州 / 成都 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1286682460696231937) |
+| 腾讯 | AI-HR培训生（分析方向） · 实习 | 深圳 / 上海 | 时间未公开 | [投递](https://join.qq.com/post_detail.html?postid=1216462959547938817) |
 | 字节跳动 | 财务实习生 · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677502703828633909/detail) |
 | 字节跳动 | 国际电商采购实习生 - TikTok Shop · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677433299497830709/detail) |
 | 字节跳动 | 支付风控策略实习生 - 国际支付 · 实习 | 上海 | 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676041811918162181/detail) |
@@ -592,7 +592,7 @@
 | 字节跳动 | 支付风控策略分析师 - 国际支付 · 校招 | 上海 | 24 天前 | [投递](https://jobs.bytedance.com/campus/position/7668537552103295237/detail) |
 | 字节跳动 | 行政运营管理 - Corporate Services · 校招 | 上海 / 北京 / 成都 / 深圳 | 24 天前 | [投递](https://jobs.bytedance.com/campus/position/7668528911895955717/detail) |
 
-> `发布于` 优先使用企业官方发布时间；来源未公开发布时间时，使用本项目首次收录时间。
+> `发布于` 使用企业官方发布时间；来源未提供该字段时显示“时间未公开”。
 
 <!-- JOBS_END -->
 
