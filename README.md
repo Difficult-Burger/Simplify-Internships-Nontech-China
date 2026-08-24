@@ -37,6 +37,202 @@ README 最多展示最新 500 条，完整数据请使用网页、JSON 或 CSV�
 
 | 公司 | 岗位 | 职能 | 城市 | 类型 | 首次发现 | 官方申请 |
 |---|---|---|---|---|---|---|
+| 腾讯 | 项目实习生-职能 | 职能 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=-6) |
+| 腾讯 | 项目实习生-产品 | 产品 | 深圳 / 上海 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=-3) |
+| 腾讯 | 音频策划 | 设计/用户研究 | 深圳 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878477271213056) |
+| 腾讯 | 音频策划 | 设计/用户研究 | 深圳 / 上海 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696244841414656) |
+| 腾讯 | 音频策划 | 设计/用户研究 | 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1238177245701633024) |
+| 腾讯 | 金融风险管理 | 战略/商业分析 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1286769609550496768) |
+| 腾讯 | 金融风险管理 | 战略/商业分析 | 深圳 / 中国香港 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226875900751390720) |
+| 腾讯 | 金融合规 | 职能 | 中国香港 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957068180006912) |
+| 腾讯 | 资质合规管理 | 职能 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284512614105555969) |
+| 腾讯 | 财经线培训生-分析类 | 职能 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284632941590553600) |
+| 腾讯 | 财经线培训生-分析类 | 职能 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226671919517307904) |
+| 腾讯 | 财经线培训生-专业类 | 职能 | 深圳 / 广州 / 中国香港 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284632498743321600) |
+| 腾讯 | 财经线培训生-专业类 | 职能 | 深圳 / 中国香港 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226671880397034496) |
+| 腾讯 | 设施设备管理 | 职能 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1165235572529633280) |
+| 腾讯 | 秘书 | 职能 | 深圳 / 北京 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283045530146251776) |
+| 腾讯 | 秘书 | 职能 | 深圳 / 北京 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1165235557480470528) |
+| 腾讯 | 特效 | 设计/用户研究 | 深圳 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707427871269888) |
+| 腾讯 | 特效 | 设计/用户研究 | 深圳 / 上海 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224067382566449152) |
+| 腾讯 | 特效 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696331168351232) |
+| 腾讯 | 游戏策划培训生 | 产品 | 深圳 / 北京 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282032033786619904) |
+| 腾讯 | 游戏策划培训生 | 产品 | 深圳 / 上海 / 广州 / 成都 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751772835706880) |
+| 腾讯 | 游戏策划培训生 | 产品 | 深圳 / 上海 / 中国香港 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696263304512512) |
+| 腾讯 | 法律/行业/产业研究 | 战略/商业分析 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957123230246912) |
+| 腾讯 | 文化交流与接待管理 | 职能 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284317763288245248) |
+| 腾讯 | 文化交流与接待管理 | 职能 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957086077102083) |
+| 腾讯 | 数字生态研究 | 战略/商业分析 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284528300198503425) |
+| 腾讯 | 数字生态研究 | 战略/商业分析 | 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957104464930818) |
+| 腾讯 | 安全策略 | 运营 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284528300198503424) |
+| 腾讯 | 安全策略 | 运营 | 深圳 / 北京 / 广州 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957086077102081) |
+| 腾讯 | 动画 | 设计/用户研究 | 深圳 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707425254024193) |
+| 腾讯 | 动画 | 设计/用户研究 | 深圳 / 上海 / 广州 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751782147061760) |
+| 腾讯 | 动画 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696384415040514) |
+| 腾讯 | 公共事务 | 职能 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284512614101361665) |
+| 腾讯 | 公共事务 | 职能 | 北京 / 重庆 / 成都 / 中国香港 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957086077102080) |
+| 腾讯 | 产业研究 | 战略/商业分析 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284512614105555971) |
+| 腾讯 | 专利 | 职能 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284512614101361666) |
+| 腾讯 | 专利 | 职能 | 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957104464930817) |
+| 腾讯 | 项目管理 | 项目管理 | 西安 / 深圳 / 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707379615819776) |
+| 腾讯 | 项目管理 | 项目管理 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1153452731391100930) |
+| 腾讯 | 项目管理 | 项目管理 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696276592067584) |
+| 腾讯 | 项目实习生-设计 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=-4) |
+| 腾讯 | 项目实习生-市场 | 市场/增长 | 深圳 / 北京 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=-5) |
+| 腾讯 | 银发AI创新产品 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506752) |
+| 腾讯 | 金融 AI Agent产品经理-财小通方向 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506773) |
+| 腾讯 | 金融 AI Agent产品经理-自选股方向 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506775) |
+| 腾讯 | 金融 AI Agent产品经理-理财通AI理财管家 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506774) |
+| 腾讯 | 金融 AI Agent产品经理- 投研方向 | 产品 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506772) |
+| 腾讯 | 采购商务管理 | 销售/商务 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284317795626329088) |
+| 腾讯 | 采购商务管理 | 销售/商务 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226585684903864320) |
+| 腾讯 | 采购商务管理 | 销售/商务 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1237050782143247360) |
+| 腾讯 | 视觉设计 | 设计/用户研究 | 深圳 / 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707393989682176) |
+| 腾讯 | 视觉设计 | 设计/用户研究 | 深圳 / 北京 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1177660287760077824) |
+| 腾讯 | 视觉设计 | 设计/用户研究 | 深圳 / 北京 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1210646470286783489) |
+| 腾讯 | 视觉生成模型评测 | 设计/用户研究 | 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1269457251706814464) |
+| 腾讯 | 行业运营 | 运营 | 深圳 / 北京 / 上海 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283126495480718336) |
+| 腾讯 | 行业运营 | 运营 | 深圳 / 北京 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1153452731391100931) |
+| 腾讯 | 行业运营 | 运营 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1212183855952704521) |
+| 腾讯 | 行业解决方案-客户成功 | 销售/商务 | 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283126495480718337) |
+| 腾讯 | 行业解决方案-客户成功 | 销售/商务 | 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1243662428588616704) |
+| 腾讯 | 腾讯视频-AI产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506755) |
+| 腾讯 | 腾讯营销管培生 | 市场/增长 | 深圳 / 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284207373170582528) |
+| 腾讯 | 腾讯营销管培生 | 市场/增长 | 深圳 / 北京 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226875613710029824) |
+| 腾讯 | 腾讯营销-妙思AIGC产品经理 | 市场/增长 | 深圳 / 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506779) |
+| 腾讯 | 腾讯营销-AI智能运营产品经理 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506777) |
+| 腾讯 | 腾讯营销-AI智能投放产品经理 | 市场/增长 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506778) |
+| 腾讯 | 腾讯营销-AI数据产品经理 | 市场/增长 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506776) |
+| 腾讯 | 腾讯地图AI产品培训生 | 产品 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506771) |
+| 腾讯 | 腾讯云MaaS产品培训生 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506768) |
+| 腾讯 | 腾讯云 WAND AI 产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506769) |
+| 腾讯 | 腾讯云 ADP 产品培训生 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506770) |
+| 腾讯 | 用户研究 | 设计/用户研究 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878533483275264) |
+| 腾讯 | 用户研究 | 设计/用户研究 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1177660287764272128) |
+| 腾讯 | 用户研究 | 设计/用户研究 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1210646470286783490) |
+| 腾讯 | 物业运营与办公规划管理 | 运营 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283045533715604480) |
+| 腾讯 | 物业运营与办公规划管理 | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957123234441216) |
+| 腾讯 | 游戏用户研究 | 设计/用户研究 | 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1227032116983141376) |
+| 腾讯 | 游戏用户研究 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1257021174874167296) |
+| 腾讯 | 游戏宣发视觉设计 | 设计/用户研究 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878418584511488) |
+| 腾讯 | 游戏宣发视觉设计 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751795182958592) |
+| 腾讯 | 游戏宣发视觉设计 | 设计/用户研究 | 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1270791052483418112) |
+| 腾讯 | 游戏发行/运营培训生 | 运营 | 深圳 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282032033786619905) |
+| 腾讯 | 游戏发行/运营培训生 | 运营 | 深圳 / 上海 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751773724899328) |
+| 腾讯 | 游戏发行/运营培训生 | 运营 | 深圳 / 上海 / 澄迈县 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1227032278660950017) |
+| 腾讯 | 游戏动效设计(特效向) | 设计/用户研究 | 深圳 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878477271213057) |
+| 腾讯 | 游戏动效设计(特效向) | 设计/用户研究 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696291683401728) |
+| 腾讯 | 游戏动效设计(UI向) | 设计/用户研究 | 深圳 / 上海 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696282652836864) |
+| 腾讯 | 游戏GUI视觉设计 | 设计/用户研究 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878428566955008) |
+| 腾讯 | 游戏GUI视觉设计 | 设计/用户研究 | 深圳 / 上海 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751796143454208) |
+| 腾讯 | 游戏GUI视觉设计 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1228831632895911937) |
+| 腾讯 | 渠道管理运营 | 销售/商务 | 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1272557644888201216) |
+| 腾讯 | 混元平台产品管培生 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506760) |
+| 腾讯 | 混元AI应用产品管培生 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506761) |
+| 腾讯 | 法务 | 职能 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284512614101361664) |
+| 腾讯 | 法务 | 职能 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957104464930816) |
+| 腾讯 | 投资运营分析师 | 战略/商业分析 | 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1277366754477467648) |
+| 腾讯 | 投资者关系 | 战略/商业分析 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284207539936109568) |
+| 腾讯 | 投资者关系 | 战略/商业分析 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226875888789263360) |
+| 腾讯 | 投资分析(技术方向) | 战略/商业分析 | 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1155545119882220545) |
+| 腾讯 | 投资分析 | 战略/商业分析 | 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1277366755316311040) |
+| 腾讯 | 投资分析 | 战略/商业分析 | 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1155545119882220544) |
+| 腾讯 | 投资分析 | 战略/商业分析 | 深圳 / 北京 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226875884628486144) |
+| 腾讯 | 技术美术（多方向） | 设计/用户研究 | 深圳 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878428562760704) |
+| 腾讯 | 技术美术（多方向） | 设计/用户研究 | 深圳 / 上海 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751794327154688) |
+| 腾讯 | 技术美术（多方向） | 设计/用户研究 | 深圳 / 上海 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696239841804288) |
+| 腾讯 | 技术美术（AI方向） | 设计/用户研究 | 深圳 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878428566955009) |
+| 腾讯 | 技术产品经理 | 产品 | 深圳 / 北京 / 上海 / 成都 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284317600528245760) |
+| 腾讯 | 技术产品经理 | 产品 | 深圳 / 北京 / 上海 / 成都 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696104600437761) |
+| 腾讯 | 技术产品经理 | 产品 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696103971292160) |
+| 腾讯 | 战略商业分析师 | 战略/商业分析 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283126469811577856) |
+| 腾讯 | 战略商业分析师 | 战略/商业分析 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226875888789263361) |
+| 腾讯 | 战略商业分析师 | 战略/商业分析 | 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226875890517316608) |
+| 腾讯 | 市场营销 | 市场/增长 | 深圳 / 北京 / 上海 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707375417304064) |
+| 腾讯 | 市场营销 | 市场/增长 | 深圳 / 北京 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224067387964684288) |
+| 腾讯 | 市场营销 | 市场/增长 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1227032176378652672) |
+| 腾讯 | 市场研究 | 市场/增长 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284318005643518976) |
+| 腾讯 | 市场研究 | 市场/增长 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696587981619200) |
+| 腾讯 | 多媒体设计 | 设计/用户研究 | 深圳 / 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878464457614336) |
+| 腾讯 | 多媒体设计 | 设计/用户研究 | 深圳 / 北京 / 上海 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751792028676096) |
+| 腾讯 | 多媒体设计 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696253330685952) |
+| 腾讯 | 商务拓展 | 销售/商务 | 深圳 / 北京 / 广州 / 中国香港 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707380882482176) |
+| 腾讯 | 商务拓展 | 销售/商务 | 深圳 / 北京 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1200889496565214209) |
+| 腾讯 | 商务拓展 | 销售/商务 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1228831632895911936) |
+| 腾讯 | 商业分析 | 战略/商业分析 | 深圳 / 北京 / 上海 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707381767480320) |
+| 腾讯 | 商业分析 | 战略/商业分析 | 深圳 / 北京 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224067393358393344) |
+| 腾讯 | 商业分析 | 战略/商业分析 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1227032278660950016) |
+| 腾讯 | 员工福利运营 | 运营 | 深圳 / 上海 / 中国香港 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284512614105555968) |
+| 腾讯 | 员工福利运营 | 运营 | 深圳 / 中国香港 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957086077102082) |
+| 腾讯 | 内容运营 | 运营 | 深圳 / 北京 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283126452350690304) |
+| 腾讯 | 内容运营 | 运营 | 深圳 / 北京 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696522596614144) |
+| 腾讯 | 内容运营 | 运营 | 深圳 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1218257148728045568) |
+| 腾讯 | 内容培训生-艺术创作方向（含AIGC） | 运营 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283878504806818816) |
+| 腾讯 | 内容培训生-艺术创作方向（含AIGC） | 运营 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1229050258274030592) |
+| 腾讯 | 内容培训生-内容技术方向（含AIGC） | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1238177252446073856) |
+| 腾讯 | 内容培训生-内容创作及运营方向 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1228857789737478144) |
+| 腾讯 | 内容培训生-内容创作及运营方向 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1215999629615951872) |
+| 腾讯 | 内容创作 | 运营 | 深圳 / 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284592104206836736) |
+| 腾讯 | 内容创作 | 运营 | 深圳 / 北京 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696469513274368) |
+| 腾讯 | 内容创作 | 运营 | 深圳 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226908073827117056) |
+| 腾讯 | 公关 | 市场/增长 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707442895266816) |
+| 腾讯 | 公关 | 市场/增长 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224788538126854144) |
+| 腾讯 | 光子AI-AI陪伴类产品策划 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506759) |
+| 腾讯 | 光子AI-AI可交互模型原生产品策划 | 设计/用户研究 | 中国香港 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506758) |
+| 腾讯 | 元宝-语音策略产品经理 | 产品 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506763) |
+| 腾讯 | 元宝-多模态创作产品经理 | 产品 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506764) |
+| 腾讯 | 元宝-AI教育产品经理 | 产品 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506765) |
+| 腾讯 | 元宝-AI搜索策略产品 | 产品 | 深圳 / 北京 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506766) |
+| 腾讯 | 产品运营 | 运营 | 深圳 / 北京 / 广州 / 成都 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707379615819777) |
+| 腾讯 | 产品运营 | 运营 | 深圳 / 北京 / 上海 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1212816229455368192) |
+| 腾讯 | 产品运营 | 运营 | 深圳 / 北京 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1218257147532668928) |
+| 腾讯 | 产品策划 | 产品 | 深圳 / 北京 / 上海 / 广州 / 成都 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707374754604032) |
+| 腾讯 | 产品策划 | 产品 | 深圳 / 北京 / 上海 / 广州 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1188988696721092608) |
+| 腾讯 | 产品策划 | 产品 | 深圳 / 北京 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1212183855952704514) |
+| 腾讯 | 产品体验设计 | 设计/用户研究 | 深圳 / 北京 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283126425985295360) |
+| 腾讯 | 产品体验设计 | 设计/用户研究 | 深圳 / 北京 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696067023896576) |
+| 腾讯 | 产品体验设计 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696253330685953) |
+| 腾讯 | 交互设计 | 设计/用户研究 | 深圳 / 上海 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707392714613760) |
+| 腾讯 | 交互设计 | 设计/用户研究 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1177660287764272129) |
+| 腾讯 | 交互设计 | 设计/用户研究 | 深圳 / 北京 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1210646470286783491) |
+| 腾讯 | 业务管理运营 | 运营 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284317968595231744) |
+| 腾讯 | 业务管理运营 | 运营 | 深圳 / 北京 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226875738188556288) |
+| 腾讯 | 业务管理运营 | 运营 | 深圳 / 北京 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1234496944370743296) |
+| 腾讯 | ima生态-AI产培生 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506767) |
+| 腾讯 | WorkBuddy生态策略产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506780) |
+| 腾讯 | WorkBuddy Agent策略产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506781) |
+| 腾讯 | WeGame-AI产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506757) |
+| 腾讯 | QQ游戏开放生态产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506756) |
+| 腾讯 | QQagent产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506762) |
+| 腾讯 | Overseas Legal Counsel | 职能 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284512614105555970) |
+| 腾讯 | Overseas Legal Counsel | 职能 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1226957123234441217) |
+| 腾讯 | Marvis马维斯-AI产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506754) |
+| 腾讯 | Cheso.ai产品经理 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1285066789650506753) |
+| 腾讯 | CSIG技术产品商务培训生 | 销售/商务 | 青岛 / 深圳 / 北京 / 上海 / 广州 / 成都 / 武汉 / 杭州 / 南京 / 中国香港 / 西安 / 重庆 / 厦门 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284317542697182210) |
+| 腾讯 | CSIG技术产品商务培训生 | 销售/商务 | 西安 / 青岛 / 深圳 / 北京 / 上海 / 广州 / 成都 / 杭州 / 南京 / 厦门 / 中国香港 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1153452731391100929) |
+| 腾讯 | AI产品经理 | 产品 | 深圳 / 北京 / 上海 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1283126456553382912) |
+| 腾讯 | AI产品经理 | 产品 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1284862486247711744) |
+| 腾讯 | AI-HR培训生（沟通方向） | 职能 | 深圳 / 北京 / 上海 / 广州 / 成都 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1286682406438715392) |
+| 腾讯 | AI-HR培训生（沟通方向） | 职能 | 深圳 / 北京 / 上海 / 广州 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1216462959547938819) |
+| 腾讯 | AI-HR培训生（技术&amp;应用方向） | 职能 | 深圳 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1286682460696231938) |
+| 腾讯 | AI-HR培训生（技术&amp;应用方向） | 职能 | 深圳 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1216462959547938818) |
+| 腾讯 | AI-HR培训生（技术&amp;应用方向） | 职能 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1236457887866547200) |
+| 腾讯 | AI-HR培训生（创意方向） | 职能 | 深圳 / 广州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1286682460696231936) |
+| 腾讯 | AI-HR培训生（创意方向） | 职能 | 深圳 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1216462959547938816) |
+| 腾讯 | AI-HR培训生（分析方向） | 职能 | 深圳 / 北京 / 上海 / 广州 / 成都 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1286682460696231937) |
+| 腾讯 | AI-HR培训生（分析方向） | 职能 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1216462959547938817) |
+| 腾讯 | 3D角色设计 | 设计/用户研究 | 深圳 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707425254024192) |
+| 腾讯 | 3D角色设计 | 设计/用户研究 | 深圳 / 上海 / 成都 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751780276402176) |
+| 腾讯 | 3D角色设计 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696437083144192) |
+| 腾讯 | 3D场景设计 | 设计/用户研究 | 深圳 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707392714613761) |
+| 腾讯 | 3D场景设计 | 设计/用户研究 | 深圳 / 上海 / 成都 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751781299646464) |
+| 腾讯 | 3D场景设计 | 设计/用户研究 | 深圳 / 广州 / 杭州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696230249431040) |
+| 腾讯 | 2D角色设计 | 设计/用户研究 | 深圳 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707391506654208) |
+| 腾讯 | 2D角色设计 | 设计/用户研究 | 深圳 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751778799841280) |
+| 腾讯 | 2D角色设计 | 设计/用户研究 | 深圳 / 上海 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696384415040512) |
+| 腾讯 | 2D场景设计 | 设计/用户研究 | 深圳 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1282707391506654209) |
+| 腾讯 | 2D场景设计 | 设计/用户研究 | 深圳 / 上海 / 广州 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1219751779685005312) |
+| 腾讯 | 2D场景设计 | 设计/用户研究 | 深圳 | 实习 | 2026-08-24 | [申请](https://join.qq.com/post_detail.html?postid=1224696384415040513) |
 | 字节跳动 | AI产品经理 - 抖音电商 | 产品 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7677588589015615749/detail) |
 | 字节跳动 | 美国电商营销活动运营实习生 - TikTok Shop | 市场/增长 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7677588226387413301/detail) |
 | 字节跳动 | 招商策略实习生 - TikTok Shop | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7677580737168754997/detail) |
@@ -341,202 +537,6 @@ README 最多展示最新 500 条，完整数据请使用网页、JSON 或 CSV�
 | 字节跳动 | 行业运营 - 抖音生活服务 | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670755680085379381/detail) |
 | 字节跳动 | 追星娱乐运营实习生 - 抖音UGC | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670745043214256389/detail) |
 | 字节跳动 | 大模型安全训练 - 内容质量与数据服务平台 | 运营 | 成都 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670743700485949749/detail) |
-| 字节跳动 | 策略运营（剪映生态） - 内容质量与数据服务平台 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670740280920164661/detail) |
-| 字节跳动 | 体裁分发策略产品实习生 - 悟空浏览器 | 产品 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670737438649944373/detail) |
-| 字节跳动 | AI数据运营（模型运营方向） - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670577844986087685/detail) |
-| 字节跳动 | AI数据运营（用户体验方向） - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670576288127666437/detail) |
-| 字节跳动 | 内容安全研判运营（英语方向） - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670576812528421125/detail) |
-| 字节跳动 | AI安全数据策略运营 - TikTok | 运营 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670576287066835205/detail) |
-| 字节跳动 | 生态内容研判运营 - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670575044343367941/detail) |
-| 字节跳动 | AI数据运营业务分析师 - TikTok | 运营 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670573605801019701/detail) |
-| 字节跳动 | AI数据运营（PGC方向） - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670571518624975109/detail) |
-| 字节跳动 | AI数据运营（生态方向） - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670571088346433845/detail) |
-| 字节跳动 | AI数据运营（生态专项方向） - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670571644012349749/detail) |
-| 字节跳动 | 拉美行业策略运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670520869705648389/detail) |
-| 字节跳动 | 蓝军研判策略产品（大模型方向）实习生-TikTok | 产品 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670511784392739077/detail) |
-| 字节跳动 | 策略运营实习生-TikTok | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670510013118662965/detail) |
-| 字节跳动 | 数据分析实习生 - TikTok Shop | 战略/商业分析 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670503047868877109/detail) |
-| 字节跳动 | 东南亚用户策略运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670474509115771141/detail) |
-| 字节跳动 | 新加坡Non Fashion行业运营实习生 - TikTok Shop | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670470664525367605/detail) |
-| 字节跳动 | 战略分析师 - Global Business Solutions | 战略/商业分析 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670465951632312629/detail) |
-| 字节跳动 | 模型运营 - 内容质量与数据服务平台 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670453918902520069/detail) |
-| 字节跳动 | 越南商城策略实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670449603622275333/detail) |
-| 字节跳动 | 墨西哥全托管西语实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670446153388902661/detail) |
-| 字节跳动 | AI产品实习生 - 数据平台 | 产品 | 上海 / 北京 / 杭州 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670443664103786805/detail) |
-| 字节跳动 | 印尼头部达人&amp;MCN运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670441921508575541/detail) |
-| 字节跳动 | 运营（企业服务系统方向）实习生 - 集团信息系统 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670433249356761349/detail) |
-| 字节跳动 | 产品经理 - IT | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670428424163690757/detail) |
-| 字节跳动 | 账号运营（虚拟演员角色） - 红果短剧 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670414313836906805/detail) |
-| 字节跳动 | 用户运营（二次元&amp;女性向游戏方向）实习生 - 抖音UGC | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670400241033365765/detail) |
-| 字节跳动 | 内容策划实习生 - 中国公共关系 | 市场/增长 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670384218747275525/detail) |
-| 字节跳动 | 经营分析实习生 - 抖音电商 | 战略/商业分析 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670380275373263109/detail) |
-| 字节跳动 | 东南亚跨境KA商家运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670377804903549237/detail) |
-| 字节跳动 | 生态治理策略实习生 - 内容质量与数据服务平台 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670375943256754485/detail) |
-| 字节跳动 | 供应链商务管理专员 - AI算力基础设施 | 销售/商务 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670180490167109941/detail) |
-| 字节跳动 | 美妆行业买手实习生 - TikTok Shop | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670162766154238261/detail) |
-| 字节跳动 | 图书教育电商运营 - 抖音电商 | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670156313842075957/detail) |
-| 字节跳动 | 硬件资产管理 - IT | 职能 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670143360515262773/detail) |
-| 字节跳动 | 软件资产管理 - IT | 职能 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670140084751206661/detail) |
-| 字节跳动 | 服务策略运营（商家） - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670135991535814917/detail) |
-| 字节跳动 | 商家增长运营 - 体验与服务 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670134818629912885/detail) |
-| 字节跳动 | 智能服务运营 - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670133137049405749/detail) |
-| 字节跳动 | 主播策略运营 - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670131986231183621/detail) |
-| 字节跳动 | 体验运营 - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670130161032284469/detail) |
-| 字节跳动 | 体验运营 - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670129595102071045/detail) |
-| 字节跳动 | 服务运营 - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670127874443413765/detail) |
-| 字节跳动 | 创作者增长运营 - 体验与服务 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670127830298757429/detail) |
-| 字节跳动 | 产品经理 - 体验与服务 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670125919325227269/detail) |
-| 字节跳动 | 服务策略 - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670124452865378565/detail) |
-| 字节跳动 | 体验运营 - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670123780908124421/detail) |
-| 字节跳动 | AI产品经理 - 体验与服务 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670118849173604661/detail) |
-| 字节跳动 | 商务运营实习生 - 飞书商业化 | 销售/商务 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670117873941661957/detail) |
-| 字节跳动 | AI产品运营（C端） - 体验与服务 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670116730651347205/detail) |
-| 字节跳动 | 内容运营实习生 - 抖音直播 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670112876828576005/detail) |
-| 字节跳动 | AI数据策略（Work-办公Agent）实习生 - AI数据与安全 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670111599429568773/detail) |
-| 字节跳动 | AI数据运营（数据质量治理方向）实习生 - AI数据与安全 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670111432515864885/detail) |
-| 字节跳动 | AI产品经理 - 飞书&amp;豆包办公任务 | 产品 | 上海 / 杭州 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670111236810656005/detail) |
-| 字节跳动 | AI商业化策略运营 - 飞书商业运营与策略 | 销售/商务 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670110976465193221/detail) |
-| 字节跳动 | AI产品经理（商业化系统方向） - 飞书商业运营与策略 | 销售/商务 | 上海 / 杭州 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670110294513027381/detail) |
-| 字节跳动 | 治理与体验运营 - TikTok生活服务 | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670109968367995189/detail) |
-| 字节跳动 | AI数据策略（AI PPT方向）实习生 - AI数据与安全 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670106080049613061/detail) |
-| 字节跳动 | 美国FBT商家运营实习生 - TikTok Shop | 运营 | 杭州 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670105238434531637/detail) |
-| 字节跳动 | AI大模型应用能力评估实习生 - AI数据与安全 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670096070607145221/detail) |
-| 字节跳动 | AI产品经理（AI平台产品方向） - 体验与服务 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670095174950242613/detail) |
-| 字节跳动 | 模型运营（数据标注）实习生 - 内容质量与数据服务平台 | 运营 | 北京 / 成都 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670095105617447173/detail) |
-| 字节跳动 | 达人运营实习生 - TikTok Shop | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670093518404323589/detail) |
-| 字节跳动 | AI大模型评估（生产力方向）实习生 - AI数据与安全 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670090515465734405/detail) |
-| 字节跳动 | 风险运营实习生 - 内容质量与数据服务平台 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670087003329071413/detail) |
-| 字节跳动 | 芯片供应链专员 - 芯片研发 | 职能 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670073430421047557/detail) |
-| 字节跳动 | 模型运营（生态治理）实习生 - 内容质量与数据服务平台 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670073382789515525/detail) |
-| 字节跳动 | 菲律宾策略运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670072750149912837/detail) |
-| 字节跳动 | 欺诈/安全策略分析师 - 财经业务 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670065395530008885/detail) |
-| 字节跳动 | 东南亚电商PH商品策略运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670057537026869557/detail) |
-| 字节跳动 | 战略与分析实习生 - TikTok Shop | 战略/商业分析 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670057173891991861/detail) |
-| 字节跳动 | 独立端产品实习生 - 抖音社交与互动 | 产品 | 深圳 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670046491373504821/detail) |
-| 字节跳动 | US商家内容中台直播实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670040256805652789/detail) |
-| 字节跳动 | 商业分析实习生 - Pangle | 战略/商业分析 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670038866590976261/detail) |
-| 字节跳动 | AI产品实习生 - 泛抖音 | 产品 | 杭州 / 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670026397909387573/detail) |
-| 字节跳动 | AI数据运营实习生（Memory方向） - AI数据与安全 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670021113314085125/detail) |
-| 字节跳动 | AI数据运营实习生（意图FC方向） - AI数据与安全 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670019369361852677/detail) |
-| 字节跳动 | 大模型产品经理 - 数据平台 | 产品 | 北京 / 杭州 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670016407059040517/detail) |
-| 字节跳动 | 大模型策略产品实习生 - 豆包 | 产品 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670015754113206581/detail) |
-| 字节跳动 | 语音大模型小语种运营实习生（印尼语/葡萄牙语） - Data语音 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670011255843653893/detail) |
-| 字节跳动 | AI产品经理 - 抖音生活服务 | 产品 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670005064061012229/detail) |
-| 字节跳动 | 小语种运营（法语）实习生 - Data语音 | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7670003908269328693/detail) |
-| 字节跳动 | 商业分析实习生-TikTok直播 | 战略/商业分析 | 北京 / 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669997546949577013/detail) |
-| 字节跳动 | 商家产品实习生 - 抖音电商 | 产品 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669996401640835333/detail) |
-| 字节跳动 | 履约服务商运营（安装方向）实习生 - 抖音电商 | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669995692425758981/detail) |
-| 字节跳动 | LATAM商家服务运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669995240446789941/detail) |
-| 字节跳动 | 推荐产品实习生 - 抖音电商 | 产品 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669994408255326517/detail) |
-| 字节跳动 | 战略商业分析师 - 抖音电商 | 战略/商业分析 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669800314486245637/detail) |
-| 字节跳动 | 菲律宾机构运营实习生 - TikTok Shop | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669776435573672197/detail) |
-| 字节跳动 | AI产品经理（搜索方向） - 抖音搜索 | 产品 | 上海 / 北京 / 杭州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669768445164996869/detail) |
-| 字节跳动 | 模型运营（生态治理） - 内容质量与数据服务平台 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669763702325299461/detail) |
-| 字节跳动 | 直播策略运营实习生 - 内容质量与数据服务平台 | 运营 | 济南 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669761075718359349/detail) |
-| 字节跳动 | 美护亲子萌宠行业运营 - 抖音电商 | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669760101607180597/detail) |
-| 字节跳动 | 游戏数值策划 - ZERO36工作室 | 产品 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669757119566514485/detail) |
-| 字节跳动 | 游戏战斗策划 - ZERO36工作室 | 产品 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669756763692960053/detail) |
-| 字节跳动 | 小语种运营（语音大模型）实习生 - Data语音 | 运营 | 北京 / 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669756085721270533/detail) |
-| 字节跳动 | 游戏关卡策划 - ZERO36工作室 | 产品 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669756083461327109/detail) |
-| 字节跳动 | 模型训练与运维（直播安全方向）实习生 - 内容质量与数据服务平台 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669756082781079861/detail) |
-| 字节跳动 | 大模型应用实习生 - 内容质量与数据服务平台 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669753481217231157/detail) |
-| 字节跳动 | 搜索安全策略运营 - 内容质量与数据服务平台 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669748788718504197/detail) |
-| 字节跳动 | EU/UK POP商家策略运营实习生 - TikTok Shop | 运营 | 深圳 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669741093433215285/detail) |
-| 字节跳动 | AI产品经理（数据方向） - 风控 | 产品 | 杭州 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669734885844240645/detail) |
-| 字节跳动 | 风险情报分析产品经理 - 风控 | 产品 | 杭州 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669733095578716469/detail) |
-| 字节跳动 | 内容安全研判运营（韩语方向） - TikTok | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669733000756529413/detail) |
-| 字节跳动 | 治理策略运营 - 抖音电商 | 运营 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669725381667211525/detail) |
-| 字节跳动 | 游戏战斗策划（PVE射击游戏） - 深圳射击项目 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669723691584194821/detail) |
-| 字节跳动 | 游戏系统策划（PVE射击游戏） - 深圳射击项目 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669723503123220741/detail) |
-| 字节跳动 | 游戏怪物策划（PVE射击游戏） - 深圳射击项目 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669723503433959685/detail) |
-| 字节跳动 | 游戏关卡策划（PVE射击游戏） - 深圳射击项目 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669723134733502725/detail) |
-| 字节跳动 | 游戏英雄策划（PVE射击游戏） - 深圳射击项目 | 产品 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669722963026413829/detail) |
-| 字节跳动 | 游戏UE交互设计师 - 深圳射击项目 | 设计/用户研究 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669721500454275381/detail) |
-| 字节跳动 | 游戏UI美术设计师 - 深圳射击项目 | 设计/用户研究 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669721412357540101/detail) |
-| 字节跳动 | 游戏硬表面原画设计师 - 深圳射击项目 | 设计/用户研究 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669721412320676149/detail) |
-| 字节跳动 | 游戏场景原画设计师 - 深圳射击项目 | 设计/用户研究 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669721337862687029/detail) |
-| 字节跳动 | 游戏研发特性产品经理 - 深圳射击项目 | 项目管理 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669720483260647733/detail) |
-| 字节跳动 | 游戏运营 - 深圳射击项目 | 运营 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669720537132599605/detail) |
-| 字节跳动 | 休闲游戏系统策划 - 绿洲工作室 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669719582702586117/detail) |
-| 字节跳动 | 游戏编导分镜设计师 - ZERO36工作室 | 设计/用户研究 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669719447934716213/detail) |
-| 字节跳动 | 游戏UI设计师 - ZERO36工作室 | 设计/用户研究 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669718995377719605/detail) |
-| 字节跳动 | 游戏战斗策划（搜打撤） - 绿洲工作室 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669716879779547445/detail) |
-| 字节跳动 | 游戏文案策划（搜打撤） - 绿洲工作室 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669716936419297589/detail) |
-| 字节跳动 | 游戏关卡策划（搜打撤） - 绿洲工作室 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669716620106107141/detail) |
-| 字节跳动 | 游戏系统数值策划（搜打撤） - 绿洲工作室 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669716592118352133/detail) |
-| 字节跳动 | 游戏UE策划（搜打撤） - 绿洲工作室 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669715891878971653/detail) |
-| 字节跳动 | 治理策略运营 - 抖音电商 | 运营 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669715540863207685/detail) |
-| 字节跳动 | 游戏角色原画设计师 - Glow Studio | 设计/用户研究 | 广州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669713775031748869/detail) |
-| 字节跳动 | 增长运营经理 - 今日头条 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669713389022791989/detail) |
-| 字节跳动 | 增长策略产品 - 今日头条 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669713090942716165/detail) |
-| 字节跳动 | 数据分析师 - 今日头条 | 战略/商业分析 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669712338309089589/detail) |
-| 字节跳动 | B端增长平台产品经理 - 番茄小说 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669711027556305157/detail) |
-| 字节跳动 | 东南亚电商PH商城策略运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669711027172804917/detail) |
-| 字节跳动 | 增长营销经理 - 番茄小说 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669710776109730101/detail) |
-| 字节跳动 | 素材策略运营 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669709449758345525/detail) |
-| 字节跳动 | 激励增长产品经理 - 番茄小说 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669708955290994997/detail) |
-| 字节跳动 | 数据分析师 - 番茄小说 | 战略/商业分析 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669707798918007045/detail) |
-| 字节跳动 | 分发策略产品经理 - 番茄小说 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669706686816569605/detail) |
-| 字节跳动 | 产品运营实习生 - 业务中台 | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669705641476344117/detail) |
-| 字节跳动 | 物理安全运营管理 - Corporate Services | 运营 | 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669705526162852149/detail) |
-| 字节跳动 | 安全策略运营实习生 - 内容质量与数据服务平台 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669703921591175429/detail) |
-| 字节跳动 | People产品设计 - 集团信息系统 | 设计/用户研究 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669703464071596341/detail) |
-| 字节跳动 | 流量策略运营实习生 - TikTok Shop | 运营 | 上海 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669700804584261941/detail) |
-| 字节跳动 | AI数据运营业务分析师 - TikTok | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669700354150533429/detail) |
-| 字节跳动 | 经营分析 - 抖音电商 | 战略/商业分析 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669698605365709061/detail) |
-| 字节跳动 | 陶瓷行业运营 - 抖音电商 | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669698648992909621/detail) |
-| 字节跳动 | 兴趣热点策划运营实习生 - 抖音内容运营 | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669698648992745781/detail) |
-| 字节跳动 | 木作文玩行业运营 - 抖音电商 | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669698543337097477/detail) |
-| 字节跳动 | 滋补行业运营 - 抖音电商 | 运营 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669698519996860725/detail) |
-| 字节跳动 | 直播产品运营 - TikTok直播 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669697495853238581/detail) |
-| 字节跳动 | PUSH运营（策略运营方向） - 内容质量与数据服务平台 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669697357131286789/detail) |
-| 字节跳动 | 模型运营 - TikTok | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669697225810954501/detail) |
-| 字节跳动 | 短剧产品经理 - 抖音短剧 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669696122201868597/detail) |
-| 字节跳动 | AI技术运营 - TikTok | 运营 | 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669696283721074949/detail) |
-| 字节跳动 | 大模型应用（评论方向） - 内容质量与数据服务平台 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669695267839117621/detail) |
-| 字节跳动 | 策略产品经理 - TikTok直播 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669694620138260789/detail) |
-| 字节跳动 | AI产品经理 - TikTok直播 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669694537530362117/detail) |
-| 字节跳动 | AI产品经理 - TikTok直播 | 产品 | 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669694035130697989/detail) |
-| 字节跳动 | 用户产品经理 - 西瓜视频 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669694035128371461/detail) |
-| 字节跳动 | AI产品经理 - TikTok直播 | 产品 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669693827938420997/detail) |
-| 字节跳动 | 内容策略运营 - 今日头条 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669693827432974597/detail) |
-| 字节跳动 | 大模型应用（商业化方向） - 内容质量与数据服务平台 | 销售/商务 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669693515362289925/detail) |
-| 字节跳动 | 创作者运营（音乐方向） - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669693235541756165/detail) |
-| 字节跳动 | 电商搜索产品运营 - 内容质量与数据服务平台 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669693454616316213/detail) |
-| 字节跳动 | 活动运营 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669693155660417285/detail) |
-| 字节跳动 | 网文编辑 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669693016471226629/detail) |
-| 字节跳动 | 行业运营（美妆日化） - 商业化 | 销售/商务 | 上海 / 广州 / 杭州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669692124774369589/detail) |
-| 字节跳动 | 行业运营（食饮家居） - 商业化 | 销售/商务 | 北京 / 上海 / 杭州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669692100606806277/detail) |
-| 字节跳动 | 经营分析 - 商业化 | 战略/商业分析 | 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669691874189658421/detail) |
-| 字节跳动 | 渠道策略运营 - 商业化 | 销售/商务 | 北京 / 上海 / 广州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669691566811089157/detail) |
-| 字节跳动 | AI产品经理（商家经营方向） - 抖音生活服务 | 产品 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669691023411087621/detail) |
-| 字节跳动 | 市场培训 - 商业化 | 市场/增长 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669691022977845557/detail) |
-| 字节跳动 | 风控运营 - 商业化 | 销售/商务 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669690932046006533/detail) |
-| 字节跳动 | IoT采购履行经理（结构件方向） - AI算力基础设施 | 职能 | 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669691023115897141/detail) |
-| 字节跳动 | 智能AI产品运营 - 商业化 | 销售/商务 | 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669691023216199941/detail) |
-| 字节跳动 | 产品解决方案 - 集团信息系统 | 销售/商务 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669690936641947957/detail) |
-| 字节跳动 | 渠道销售（全域经营） - 商业化 | 销售/商务 | 北京 / 上海 / 广州 / 杭州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669690089723889973/detail) |
-| 字节跳动 | 大客户销售（互动影视） - 商业化 | 销售/商务 | 北京 / 上海 / 广州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669690054541150517/detail) |
-| 字节跳动 | 电商用户产品实习生 - TikTok Shop | 产品 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669689836758403381/detail) |
-| 字节跳动 | 大客户销售（美妆日化） - 商业化 | 销售/商务 | 上海 / 广州 / 杭州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669689830837684485/detail) |
-| 字节跳动 | 大客户销售（服饰与健康母婴） - 商业化 | 销售/商务 | 北京 / 上海 / 广州 / 杭州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669689677919504645/detail) |
-| 字节跳动 | 大客户销售（食饮家居） - 商业化 | 销售/商务 | 广州 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669689543863748917/detail) |
-| 字节跳动 | 大客户销售（教育与平台服务） - 商业化 | 销售/商务 | 北京 / 上海 / 深圳 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669689472541968645/detail) |
-| 字节跳动 | 大客户销售（互动娱乐） - 商业化 | 销售/商务 | 上海 / 广州 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669689412078405941/detail) |
-| 字节跳动 | 创意视觉设计师 - 今日头条 | 设计/用户研究 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669688946822072629/detail) |
-| 字节跳动 | 渠道销售（创意经营） - 商业化 | 销售/商务 | 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669688971358357813/detail) |
-| 字节跳动 | 短剧策略运营 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669688957810903349/detail) |
-| 字节跳动 | 广告履约运营 - 商业化 | 销售/商务 | 北京 / 上海 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669688946746165557/detail) |
-| 字节跳动 | 内容策略运营 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669688561774037253/detail) |
-| 字节跳动 | 社区运营 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669687364375316741/detail) |
-| 字节跳动 | 战略分析师 - 番茄小说 | 战略/商业分析 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669687543886022965/detail) |
-| 字节跳动 | 用户体验运营 - 今日头条 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669687247249705221/detail) |
-| 字节跳动 | 治理策略运营 - 抖音电商 | 运营 | 上海 / 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669686705123674373/detail) |
-| 字节跳动 | 豆包AI大模型数据运营实习生 - Data AML | 运营 | 北京 | 实习 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669686823978895669/detail) |
-| 字节跳动 | 安全策略产品经理 - 今日头条 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669686024138459397/detail) |
-| 字节跳动 | PUGC内容策略运营 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669685743313389877/detail) |
-| 字节跳动 | AI产品经理（医疗大模型训练方向） - 小荷健康 | 产品 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669685095146457397/detail) |
-| 字节跳动 | 漫剧产品运营 - 番茄小说 | 运营 | 北京 | 校招 | 2026-08-24 | [申请](https://jobs.bytedance.com/campus/position/7669684790506211589/detail) |
 
 <!-- JOBS_END -->
 
