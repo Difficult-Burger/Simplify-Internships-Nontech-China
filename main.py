@@ -1,142 +1,29 @@
 #!/usr/bin/env python3
-"""List Updater CLI - Internship listing management tool."""
+"""Command line entrypoint for the China non-tech jobs radar."""
 
-from pathlib import Path
+import argparse
 
-import typer
-
-from list_updater import (
-    cmd_contribution_process,
-    cmd_listings_diff,
-    cmd_listings_fix,
-    cmd_listings_mark_inactive,
-    cmd_listings_remove,
-    cmd_listings_search,
-    cmd_listings_stats,
-    cmd_listings_validate,
-    cmd_readme_update,
-)
-
-app = typer.Typer(
-    name="list-updater",
-    help="Internship listing management CLI for GitHub Actions",
-    no_args_is_help=True,
-)
-
-# =============================================================================
-# README Commands
-# =============================================================================
-
-readme_app = typer.Typer(help="README operations")
-app.add_typer(readme_app, name="readme")
+from radar.pipeline import build_outputs, fetch_and_build, validate_data
 
 
-@readme_app.command("update")
-def readme_update() -> None:
-    """Update README files from listings.json."""
-    cmd_readme_update()
+def main() -> None:
+    parser = argparse.ArgumentParser(description="中国科技公司非技术岗信息雷达")
+    subparsers = parser.add_subparsers(dest="command", required=True)
 
+    fetch_parser = subparsers.add_parser("fetch", help="从官方招聘源抓取并生成所有产物")
+    fetch_parser.add_argument("--max-pages", type=int, default=50, help="每个数据源最多抓取页数")
 
-# =============================================================================
-# Contribution Commands
-# =============================================================================
+    subparsers.add_parser("build", help="从 data/jobs.json 重新生成 README、CSV 和静态站点数据")
+    subparsers.add_parser("validate", help="校验岗位数据 schema、分类和唯一性")
 
-contribution_app = typer.Typer(help="Contribution processing")
-app.add_typer(contribution_app, name="contribution")
-
-
-@contribution_app.command("process")
-def contribution_process(
-    event_file: Path = typer.Argument(..., help="Path to GitHub event JSON file"),
-) -> None:
-    """Process an approved contribution issue (new/edit internship)."""
-    cmd_contribution_process(str(event_file))
-
-
-# =============================================================================
-# Listings Commands
-# =============================================================================
-
-listings_app = typer.Typer(help="Listings management and analytics")
-app.add_typer(listings_app, name="listings")
-
-
-@listings_app.command("mark-inactive")
-def listings_mark_inactive(
-    event_file: Path = typer.Argument(..., help="Path to GitHub event JSON file"),
-) -> None:
-    """Bulk mark listings as inactive from a GitHub issue."""
-    cmd_listings_mark_inactive(str(event_file))
-
-
-@listings_app.command("remove")
-def listings_remove(
-    url: str | None = typer.Option(None, "--url", help="URL of the listing to remove"),
-    listing_id: str | None = typer.Option(None, "--id", help="UUID of the listing to remove"),
-    hide: bool = typer.Option(False, "--hide", help="Hide from all READMEs (set is_visible=false)"),
-    permanent: bool = typer.Option(False, "--permanent", help="Permanently delete from listings.json"),
-    confirm: bool = typer.Option(False, "--confirm", help="Required with --permanent to confirm deletion"),
-) -> None:
-    """Remove a listing by URL or ID. Default: mark inactive."""
-    cmd_listings_remove(url=url, listing_id=listing_id, hide=hide, permanent=permanent, confirm=confirm)
-
-
-@listings_app.command("stats")
-def listings_stats(
-    json_output: bool = typer.Option(False, "--json", help="Output as JSON"),
-) -> None:
-    """Show listing statistics (counts, categories, top companies)."""
-    cmd_listings_stats(json_output=json_output)
-
-
-@listings_app.command("validate")
-def listings_validate(
-    fix: bool = typer.Option(False, "--fix", help="Attempt to auto-fix issues"),
-) -> None:
-    """Validate listings.json schema and data integrity."""
-    cmd_listings_validate(fix=fix)
-
-
-@listings_app.command("search")
-def listings_search(
-    company: str | None = typer.Option(None, "--company", "-c", help="Filter by company name"),
-    title: str | None = typer.Option(None, "--title", "-t", help="Filter by job title"),
-    location: str | None = typer.Option(None, "--location", "-l", help="Filter by location"),
-    category: str | None = typer.Option(None, "--category", help="Filter by category"),
-    active: bool = typer.Option(False, "--active", help="Show only active listings"),
-    inactive: bool = typer.Option(False, "--inactive", help="Show only inactive listings"),
-    limit: int = typer.Option(20, "--limit", "-n", help="Maximum results to show"),
-) -> None:
-    """Search and filter listings."""
-    cmd_listings_search(
-        company=company,
-        title=title,
-        location=location,
-        category=category,
-        active_only=active,
-        inactive_only=inactive,
-        limit=limit,
-    )
-
-
-@listings_app.command("diff")
-def listings_diff(
-    since: str | None = typer.Option(None, "--since", help="Show changes since date (YYYY-MM-DD)"),
-    commit: str | None = typer.Option(None, "--commit", help="Show changes since git commit"),
-) -> None:
-    """Show changes to listings since a date or commit."""
-    cmd_listings_diff(since=since, commit=commit)
-
-
-@listings_app.command("fix")
-def listings_fix(
-    dry_run: bool = typer.Option(False, "--dry-run", help="Show fixes without saving"),
-    issue_type: str | None = typer.Option(None, "--type", help="Only fix specific type: empty, duplicate, blocked"),
-    auto: bool = typer.Option(False, "--auto", help="Auto-accept all recommended fixes"),
-) -> None:
-    """Interactively fix issues in listings.json."""
-    cmd_listings_fix(dry_run=dry_run, issue_type=issue_type, auto=auto)
+    args = parser.parse_args()
+    if args.command == "fetch":
+        fetch_and_build(max_pages=args.max_pages)
+    elif args.command == "build":
+        build_outputs()
+    else:
+        validate_data()
 
 
 if __name__ == "__main__":
-    app()
+    main()

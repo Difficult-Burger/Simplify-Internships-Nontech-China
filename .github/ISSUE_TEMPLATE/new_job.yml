@@ -1,0 +1,50 @@
+name: 提交新岗位
+description: 提交一个仍在开放的官方非技术实习或校招岗位
+title: "[新岗位] 公司 - 岗位名称"
+labels: ["new-job"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: 官方申请链接
+      description: 必须是企业官方招聘网站链接，不接受招聘平台转载。
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: 公司
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: 岗位名称
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 城市
+      placeholder: 北京 / 上海 / 远程
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: 招聘类型
+      options: ["实习", "校招"]
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 职能
+      options: ["产品", "运营", "市场/增长", "战略/商业分析", "销售/商务", "项目管理", "设计/用户研究", "职能"]
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 补充说明
+      description: 可说明来源、错分原因或开放状态证据。
