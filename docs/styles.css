@@ -56,7 +56,15 @@ h1 { margin: 0; font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC"
 .apply { justify-self: end; color: var(--accent); text-decoration: none; font-size: 12px; font-weight: 700; white-space: nowrap; }
 .apply:hover { text-decoration: underline; }
 .empty { padding: 48px 12px; color: var(--muted); text-align: center; background: var(--surface); font-size: 13px; }
-.load-more { width: 100%; margin-top: 12px; padding: 10px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; cursor: pointer; font-size: 12px; }
+.pagination { min-height: 58px; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 12px 0; }
+.page-summary { color: var(--muted); font-size: 11px; }
+.page-controls { display: flex; align-items: center; gap: 4px; }
+.page-controls button { min-width: 32px; height: 32px; padding: 0 9px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 5px; cursor: pointer; font-size: 11px; }
+.page-controls button:hover:not(:disabled) { color: var(--accent); border-color: #a9c7b5; }
+.page-controls button[aria-current="page"] { color: #fff; background: var(--accent); border-color: var(--accent); }
+.page-controls button:disabled { color: #b1b7b3; cursor: not-allowed; }
+.page-ellipsis { width: 24px; color: var(--muted); text-align: center; font-size: 11px; }
+.pagination-status { display: none; color: var(--muted); font-size: 11px; white-space: nowrap; }
 
 footer { display: flex; justify-content: space-between; padding: 16px max(20px, calc((100vw - 1240px) / 2)); color: var(--muted); background: var(--surface); border-top: 1px solid var(--line); font-size: 11px; }
 
@@ -69,6 +77,8 @@ footer { display: flex; justify-content: space-between; padding: 16px max(20px, 
   .job .category-cell, .job .location, .job .timing { display: none; }
   .compact-meta { display: block; }
   .apply { grid-column: 3; grid-row: 1; }
+  .page-number, .page-ellipsis { display: none; }
+  .pagination-status { display: inline; }
 }
 
 @media (max-width: 560px) {
@@ -89,5 +99,9 @@ footer { display: flex; justify-content: space-between; padding: 16px max(20px, 
   .title { font-size: 12px; }
   .duplicate-note { display: block; margin: 3px 0 0; }
   .apply { font-size: 11px; }
+  .pagination { align-items: stretch; flex-direction: column; gap: 8px; }
+  .page-summary { text-align: center; }
+  .page-controls { justify-content: space-between; }
+  .page-controls button { height: 36px; }
   footer { gap: 10px; padding: 14px; }
 }
