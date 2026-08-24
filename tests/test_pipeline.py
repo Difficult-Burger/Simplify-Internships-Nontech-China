@@ -75,6 +75,10 @@ class ClassifyJobTest(unittest.TestCase):
         now = datetime(2026, 8, 24, tzinfo=UTC)
         self.assertEqual(_age_label(job, now), "4 天前")
 
+    def test_age_label_does_not_present_discovery_as_publish_time(self) -> None:
+        job = {"published_at": "", "first_seen_at": "2026-08-24T00:00:00+00:00"}
+        self.assertEqual(_age_label(job), "时间未公开")
+
 
 if __name__ == "__main__":
     unittest.main()
