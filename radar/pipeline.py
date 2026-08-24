@@ -7,6 +7,7 @@ import re
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlparse
 
 from radar.config import CATEGORIES, CATEGORY_KEYWORDS, TECHNICAL_TITLE_KEYWORDS
 from radar.sources import fetch_bytedance, fetch_tencent
@@ -25,13 +26,17 @@ REQUIRED_FIELDS = {
     "raw_category",
     "locations",
     "stage",
-    "experience_requirement",
     "published_at",
     "first_seen_at",
     "last_seen_at",
     "url",
     "source",
 }
+SOURCE_RULES = {
+    "字节跳动招聘": {"company": "字节跳动", "host": "jobs.bytedance.com"},
+    "腾讯校招": {"company": "腾讯", "host": "join.qq.com"},
+}
+VALID_STAGES = {"实习", "校招"}
 
 
 def _now() -> str:
@@ -56,11 +61,15 @@ def classify_job(title: str, raw_category: str) -> str | None:
     raw_defaults = {
         "产品": "产品",
         "运营": "运营",
+        "数据分析": "战略/商业分析",
         "市场": "市场/增长",
+        "PR": "市场/增长",
         "销售": "销售/商务",
         "设计": "设计/用户研究",
+        "策划": "产品",
         "职能": "职能",
-        "游戏策划": "产品",
+        "内审": "职能",
+        "IT支持": "职能",
     }
     return next((category for token, category in raw_defaults.items() if token in raw_category), None)
 
@@ -70,6 +79,11 @@ def normalize_locations(locations: list[str]) -> list[str]:
     pieces = [piece for location in locations for piece in re.split(r"[\s/,，、|]+", location) if piece]
     normalized = ["深圳" if piece == "深圳总部" else piece for piece in pieces]
     return list(dict.fromkeys(normalized)) or ["地点未注明"]
+
+
+def _is_suspicious_source_drop(previous_count: int, current_count: int) -> bool:
+    """Protect the published dataset from a likely partial upstream response."""
+    return previous_count >= 20 and current_count < previous_count * 0.5
 
 
 def _load_jobs() -> list[dict[str, Any]]:
@@ -162,6 +176,28 @@ def validate_data(jobs: list[dict[str, Any]] | None = None) -> None:
             errors.append(f"第 {index + 1} 条缺少字段: {sorted(missing)}")
         if job.get("category") not in CATEGORIES:
             errors.append(f"第 {index + 1} 条分类无效: {job.get('category')}")
+        if job.get("stage") not in VALID_STAGES:
+            errors.append(f"第 {index + 1} 条招聘类型无效: {job.get('stage')}")
+        source = str(job.get("source", ""))
+        source_rule = SOURCE_RULES.get(source)
+        if source_rule is None:
+            errors.append(f"第 {index + 1} 条来源无效: {source}")
+        else:
+            if job.get("company") != source_rule["company"]:
+                errors.append(f"第 {index + 1} 条公司与来源不匹配: {job.get('company')} / {source}")
+            if urlparse(str(job.get("url", ""))).netloc != source_rule["host"]:
+                errors.append(f"第 {index + 1} 条申请域名与来源不匹配: {job.get('url')}")
+        if not isinstance(job.get("locations"), list) or not all(job.get("locations", [])):
+            errors.append(f"第 {index + 1} 条城市格式无效: {job.get('locations')}")
+        try:
+            first_seen = datetime.fromisoformat(str(job.get("first_seen_at", "")))
+            last_seen = datetime.fromisoformat(str(job.get("last_seen_at", "")))
+            if first_seen > last_seen:
+                errors.append(f"第 {index + 1} 条首次发现晚于最后确认")
+            if job.get("published_at"):
+                datetime.fromisoformat(str(job["published_at"]))
+        except ValueError:
+            errors.append(f"第 {index + 1} 条时间格式无效")
         for field, seen in (("id", seen_ids), ("url", seen_urls)):
             value = str(job.get(field, ""))
             if not value:
@@ -202,6 +238,11 @@ def fetch_and_build(max_pages: int = 50) -> None:
     for name, source_label, fetcher in sources:
         try:
             source_jobs = fetcher(max_pages=max_pages)
+            previous_count = sum(job.get("source") == source_label for job in existing)
+            if _is_suspicious_source_drop(previous_count, len(source_jobs)):
+                raise RuntimeError(
+                    f"{name} 返回量异常下降：上一版 {previous_count} 条，本次 {len(source_jobs)} 条；保留上一版数据"
+                )
             raw_jobs.extend(source_jobs)
             successful_sources.add(source_label)
             print(f"{name}：抓取 {len(source_jobs)} 个非技术岗")

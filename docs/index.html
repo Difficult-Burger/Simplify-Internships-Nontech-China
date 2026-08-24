@@ -3,54 +3,79 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="中国科技公司非技术实习与校招岗位雷达" />
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='32' fill='%23171713'/%3E%3Ccircle cx='32' cy='32' r='10' fill='%23e9472b'/%3E%3C/svg%3E" />
-    <title>非技术岗求职雷达</title>
+    <meta name="description" content="中国科技公司非技术实习与校招岗位，每日从企业官方招聘网站更新。" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23182720'/%3E%3Cpath d='M17 19h30v7H17zm0 12h22v7H17zm0 12h15v7H17z' fill='%23fff'/%3E%3C/svg%3E" />
+    <title>中国非技术岗雷达</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="paper-noise" aria-hidden="true"></div>
-    <header class="masthead">
-      <a class="wordmark" href="./">NONTECH<br />RADAR</a>
-      <div class="issue-line">
-        <span>中国科技公司</span>
-        <span>实习 · 校招</span>
-        <span id="updated-at">读取数据中</span>
-      </div>
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="中国非技术岗雷达首页">
+        <span class="brand-mark" aria-hidden="true">N</span>
+        <span>中国非技术岗雷达</span>
+      </a>
+      <nav aria-label="数据链接">
+        <a href="jobs.json">JSON</a>
+        <a href="jobs.csv">CSV</a>
+        <a href="https://github.com/Difficult-Burger/Simplify-Internships-Nontech-China">GitHub</a>
+      </nav>
     </header>
 
-    <main>
-      <section class="hero">
-        <p class="eyebrow">OFFICIAL SOURCES ONLY / 只看官方源</p>
-        <h1>别在信息流里<br />捞工作。</h1>
-        <p class="deck">把散落在企业官网的非技术岗，整理成一张每天更新、能追溯来源的清单。</p>
-        <div class="hero-stat"><strong id="total-count">—</strong><span>个当前岗位</span></div>
+    <main class="shell">
+      <section class="intro" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow"><span class="status-dot"></span>每日更新 · 仅收录企业官方来源</p>
+          <h1 id="page-title">中国科技公司非技术岗</h1>
+          <p class="intro-copy">聚合产品、运营、市场、战略、商务、项目管理、设计和职能类实习与校招岗位。</p>
+        </div>
+        <p id="updated-at" class="updated-at">正在读取最新数据…</p>
+      </section>
+
+      <section class="metrics" aria-label="数据概览">
+        <article><span>去重后岗位</span><strong id="unique-count">—</strong></article>
+        <article><span>官方发布记录</span><strong id="total-count">—</strong></article>
+        <article><span>最近 24 小时收录</span><strong id="new-count">—</strong><small>首次上线基线会计入</small></article>
+        <article><span>覆盖公司</span><strong id="company-count">—</strong></article>
+      </section>
+
+      <section class="source-panel" aria-label="数据源状态">
+        <div class="source-title">
+          <strong>数据源</strong>
+          <span>岗位内容与开放状态以企业官网为准</span>
+        </div>
+        <div id="source-list" class="source-list"></div>
       </section>
 
       <section class="filter-panel" aria-label="岗位筛选">
         <label class="search-field">
-          <span>搜索</span>
-          <input id="search" type="search" placeholder="岗位、公司、城市…" autocomplete="off" />
+          <span>关键词</span>
+          <input id="search" type="search" placeholder="搜索岗位、公司或城市" autocomplete="off" />
         </label>
         <label><span>职能</span><select id="category"><option value="">全部职能</option></select></label>
         <label><span>类型</span><select id="stage"><option value="">实习 + 校招</option><option>实习</option><option>校招</option></select></label>
         <label><span>城市</span><select id="city"><option value="">全部城市</option></select></label>
         <label><span>公司</span><select id="company"><option value="">全部公司</option></select></label>
-        <button id="reset" type="button">清空筛选</button>
+        <button id="reset" type="button">清空</button>
       </section>
 
       <section class="results-head">
-        <h2>正在开放</h2>
-        <p><strong id="result-count">0</strong> 条结果 · 默认按新鲜度排序</p>
+        <div>
+          <h2>在招岗位</h2>
+          <p><strong id="result-count">0</strong> 个去重结果</p>
+        </div>
+        <p class="sort-note">按官方发布时间或首次收录时间倒序</p>
       </section>
+
+      <div class="job-columns" aria-hidden="true">
+        <span>公司</span><span>岗位</span><span>职能</span><span>城市</span><span>类型 / 时间</span><span></span>
+      </div>
       <section id="job-list" class="job-list" aria-live="polite"></section>
-      <button id="load-more" class="load-more" type="button" hidden>继续看下一批</button>
+      <button id="load-more" class="load-more" type="button" hidden>显示更多岗位</button>
     </main>
 
     <footer>
-      <p>岗位正文和申请状态以企业官网为准。</p>
-      <a href="jobs.json">JSON</a>
-      <a href="jobs.csv">CSV</a>
+      <p>公开数据项目 · 不改写职位描述 · 不提供自动投递</p>
+      <p>发现错分、漏岗或失效链接，请在 <a href="https://github.com/Difficult-Burger/Simplify-Internships-Nontech-China/issues">GitHub Issues</a> 反馈。</p>
     </footer>
     <script src="app.js" defer></script>
   </body>
