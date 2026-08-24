@@ -1,6 +1,7 @@
 import unittest
+from datetime import UTC, datetime
 
-from radar.pipeline import _is_suspicious_source_drop, classify_job, normalize_locations, validate_data
+from radar.pipeline import _age_label, _is_suspicious_source_drop, classify_job, normalize_locations, validate_data
 
 
 class ClassifyJobTest(unittest.TestCase):
@@ -65,6 +66,14 @@ class ClassifyJobTest(unittest.TestCase):
         }
         with self.assertRaisesRegex(ValueError, "申请域名与来源不匹配"):
             validate_data([job])
+
+    def test_age_label_prefers_official_publish_time(self) -> None:
+        job = {
+            "published_at": "2026-08-20T00:00:00+00:00",
+            "first_seen_at": "2026-08-24T00:00:00+00:00",
+        }
+        now = datetime(2026, 8, 24, tzinfo=UTC)
+        self.assertEqual(_age_label(job, now), "4 天前")
 
 
 if __name__ == "__main__":

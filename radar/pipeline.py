@@ -134,21 +134,34 @@ def _write_csv_file(path: Path, jobs: list[dict[str, Any]]) -> None:
             writer.writerow({**job, "locations": " | ".join(job["locations"])})
 
 
-def _readme_table(jobs: list[dict[str, Any]], limit: int = 500) -> str:
-    rows = ["| 公司 | 岗位 | 职能 | 城市 | 类型 | 首次发现 | 官方申请 |", "|---|---|---|---|---|---|---|"]
-    for job in jobs[:limit]:
-        values = [
-            job["company"],
-            job["title"],
-            job["category"],
-            " / ".join(job["locations"]),
-            job["stage"],
-            job["first_seen_at"][:10],
-        ]
+def _age_label(job: dict[str, Any], now: datetime | None = None) -> str:
+    reference = now or datetime.now(UTC)
+    posted = datetime.fromisoformat(str(job.get("published_at") or job["first_seen_at"]))
+    days = max(0, (reference - posted).days)
+    return "今天" if days == 0 else f"{days} 天前"
+
+
+def _readme_table(jobs: list[dict[str, Any]]) -> str:
+    rows = ["| 公司 | 岗位 | 城市 | 发布于 | 投递链接 |", "|---|---|---|---|---|"]
+    for job in jobs:
+        values = [job["company"], f"{job['title']} · {job['stage']}", " / ".join(job["locations"]), _age_label(job)]
         safe = [html.escape(str(value)).replace("|", "\\|").replace("\n", " ") for value in values]
         safe_url = html.escape(str(job["url"]), quote=True)
-        rows.append(f"| {' | '.join(safe)} | [申请]({safe_url}) |")
+        rows.append(f"| {' | '.join(safe)} | [投递]({safe_url}) |")
     return "\n".join(rows)
+
+
+def _readme_sections(jobs: list[dict[str, Any]], per_category: int = 60) -> str:
+    sections: list[str] = []
+    for index, (category, emoji) in enumerate(CATEGORIES.items(), start=1):
+        category_jobs = [job for job in jobs if job["category"] == category][:per_category]
+        if not category_jobs:
+            continue
+        sections.append(
+            f'<a id="category-{index}"></a>\n\n## {emoji} 岗位类别：{category}\n\n'
+            f"最新展示 {len(category_jobs)} 条。\n\n{_readme_table(category_jobs)}"
+        )
+    return "\n\n---\n\n".join(sections)
 
 
 def _update_readme(jobs: list[dict[str, Any]]) -> None:
@@ -158,8 +171,16 @@ def _update_readme(jobs: list[dict[str, Any]]) -> None:
     if start not in content or end not in content:
         raise ValueError("README 缺少岗位表更新标记")
     category_counts = {category: sum(job["category"] == category for job in jobs) for category in CATEGORIES}
-    summary = " · ".join(f"{emoji} {category} {category_counts[category]}" for category, emoji in CATEGORIES.items())
-    generated = f"\n\n当前收录 **{len(jobs)}** 个在招岗位。{summary}\n\n{_readme_table(jobs)}\n\n"
+    links = "\n\n".join(
+        f"{emoji} **[{category}](#category-{index})**（{category_counts[category]}）"
+        for index, (category, emoji) in enumerate(CATEGORIES.items(), start=1)
+    )
+    generated = (
+        f"\n\n当前收录 **{len(jobs)}** 条在招岗位。\n\n"
+        f"### 按岗位类别浏览\n\n{links}\n\n---\n\n"
+        f"{_readme_sections(jobs)}\n\n"
+        "> `发布于` 优先使用企业官方发布时间；来源未公开发布时间时，使用本项目首次收录时间。\n\n"
+    )
     before, remainder = content.split(start, 1)
     _, after = remainder.split(end, 1)
     README.write_text(before + start + generated + end + after, encoding="utf-8")

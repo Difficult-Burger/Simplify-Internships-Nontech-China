@@ -22,28 +22,12 @@
     </header>
 
     <main class="shell">
-      <section class="intro" aria-labelledby="page-title">
+      <section class="page-head" aria-labelledby="page-title">
         <div>
-          <p class="eyebrow"><span class="status-dot"></span>每日更新 · 仅收录企业官方来源</p>
           <h1 id="page-title">中国科技公司非技术岗</h1>
-          <p class="intro-copy">聚合产品、运营、市场、战略、商务、项目管理、设计和职能类实习与校招岗位。</p>
+          <p>产品、运营、市场、战略、商务、项目管理、设计和职能类实习与校招。</p>
         </div>
-        <p id="updated-at" class="updated-at">正在读取最新数据…</p>
-      </section>
-
-      <section class="metrics" aria-label="数据概览">
-        <article><span>去重后岗位</span><strong id="unique-count">—</strong></article>
-        <article><span>官方发布记录</span><strong id="total-count">—</strong></article>
-        <article><span>最近 24 小时收录</span><strong id="new-count">—</strong><small>首次上线基线会计入</small></article>
-        <article><span>覆盖公司</span><strong id="company-count">—</strong></article>
-      </section>
-
-      <section class="source-panel" aria-label="数据源状态">
-        <div class="source-title">
-          <strong>数据源</strong>
-          <span>岗位内容与开放状态以企业官网为准</span>
-        </div>
-        <div id="source-list" class="source-list"></div>
+        <div class="page-status"><span><i></i>每日更新</span><span id="updated-at">读取数据中…</span></div>
       </section>
 
       <section class="filter-panel" aria-label="岗位筛选">
@@ -51,31 +35,28 @@
           <span>关键词</span>
           <input id="search" type="search" placeholder="搜索岗位、公司或城市" autocomplete="off" />
         </label>
-        <label><span>职能</span><select id="category"><option value="">全部职能</option></select></label>
-        <label><span>类型</span><select id="stage"><option value="">实习 + 校招</option><option>实习</option><option>校招</option></select></label>
+        <label><span>岗位类别</span><select id="category"><option value="">全部类别</option></select></label>
+        <label><span>招聘类型</span><select id="stage"><option value="">实习 + 校招</option><option>实习</option><option>校招</option></select></label>
         <label><span>城市</span><select id="city"><option value="">全部城市</option></select></label>
         <label><span>公司</span><select id="company"><option value="">全部公司</option></select></label>
         <button id="reset" type="button">清空</button>
       </section>
 
       <section class="results-head">
-        <div>
-          <h2>在招岗位</h2>
-          <p><strong id="result-count">0</strong> 个去重结果</p>
-        </div>
-        <p class="sort-note">按官方发布时间或首次收录时间倒序</p>
+        <p><strong id="result-count">0</strong> 个岗位</p>
+        <span>按发布时间倒序</span>
       </section>
 
       <div class="job-columns" aria-hidden="true">
-        <span>公司</span><span>岗位</span><span>职能</span><span>城市</span><span>类型 / 时间</span><span></span>
+        <span>公司</span><span>岗位</span><span>岗位类别</span><span>城市</span><span>类型 / 发布于</span><span>投递链接</span>
       </div>
       <section id="job-list" class="job-list" aria-live="polite"></section>
       <button id="load-more" class="load-more" type="button" hidden>显示更多岗位</button>
     </main>
 
     <footer>
-      <p>公开数据项目 · 不改写职位描述 · 不提供自动投递</p>
-      <p>发现错分、漏岗或失效链接，请在 <a href="https://github.com/Difficult-Burger/Simplify-Internships-Nontech-China/issues">GitHub Issues</a> 反馈。</p>
+      <span>岗位内容与开放状态以企业官网为准</span>
+      <a href="https://github.com/Difficult-Burger/Simplify-Internships-Nontech-China/issues">反馈问题</a>
     </footer>
     <script src="app.js" defer></script>
   </body>
