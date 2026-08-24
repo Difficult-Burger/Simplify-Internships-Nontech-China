@@ -51,21 +51,25 @@ def _contains(text: str, keyword: str) -> bool:
 
 def classify_job(title: str, raw_category: str) -> str | None:
     """Map an official title/category to one of the public non-tech categories."""
-    text = f"{title} {raw_category}".casefold()
-    if any(keyword in title.casefold() for keyword in TECHNICAL_TITLE_KEYWORDS):
+    title_text = title.casefold()
+    raw_text = raw_category.casefold()
+    if any(keyword in title_text for keyword in TECHNICAL_TITLE_KEYWORDS):
         return None
     for category, keywords in CATEGORY_KEYWORDS.items():
-        if any(_contains(text, keyword.casefold()) for keyword in keywords):
+        if any(_contains(title_text, keyword.casefold()) for keyword in keywords):
+            return category
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if any(_contains(raw_text, keyword.casefold()) for keyword in keywords):
             return category
 
     raw_defaults = {
         "产品": "产品",
         "运营": "运营",
-        "数据分析": "战略/商业分析",
-        "市场": "市场/增长",
-        "PR": "市场/增长",
-        "销售": "销售/商务",
-        "设计": "设计/用户研究",
+        "数据分析": "商业分析",
+        "市场": "市场",
+        "PR": "市场",
+        "销售": "销售",
+        "设计": "设计",
         "策划": "产品",
         "职能": "职能",
         "内审": "职能",
