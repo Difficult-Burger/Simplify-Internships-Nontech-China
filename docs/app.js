@@ -39,7 +39,7 @@ function groupJobs(jobs) {
 }
 
 function chinaDate(value) {
-  if (!value) return "时间未公开";
+  if (!value) return "未知";
   return new Intl.DateTimeFormat("zh-CN", {
     timeZone: "Asia/Shanghai",
     year: "numeric",
@@ -52,7 +52,7 @@ function chinaDate(value) {
 }
 
 function ageLabel(job) {
-  if (!job.published_at) return "时间未公开";
+  if (!job.published_at) return "未知";
   const days = Math.max(0, Math.floor((Date.now() - timestamp(job)) / 86400000));
   return days === 0 ? "今天" : `${days} 天前`;
 }

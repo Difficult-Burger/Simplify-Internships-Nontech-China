@@ -92,7 +92,7 @@ class ClassifyJobTest(unittest.TestCase):
 
     def test_age_label_does_not_present_discovery_as_publish_time(self) -> None:
         job = {"published_at": "", "first_seen_at": "2026-08-24T00:00:00+00:00"}
-        self.assertEqual(_age_label(job), "时间未公开")
+        self.assertEqual(_age_label(job), "未知")
 
 
 if __name__ == "__main__":
