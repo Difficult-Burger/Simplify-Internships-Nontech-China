@@ -15,7 +15,7 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6768** 条在招岗位。
+当前收录 **6764** 条在招岗位。
 
 ### 按岗位类别浏览
 
@@ -25,7 +25,7 @@
 
 ✎ **[内容](#category-3)**（280）
 
-📣 **[市场](#category-4)**（441）
+📣 **[市场](#category-4)**（440）
 
 💼 **[销售](#category-5)**（223）
 
@@ -37,7 +37,7 @@
 
 📋 **[项目管理](#category-9)**（117）
 
-✦ **[设计](#category-10)**（684）
+✦ **[设计](#category-10)**（682）
 
 🔍 **[用户研究](#category-11)**（67）
 
@@ -47,7 +47,7 @@
 
 🧾 **[财务](#category-14)**（93）
 
-⚖️ **[法务合规](#category-15)**（97）
+⚖️ **[法务合规](#category-15)**（96）
 
 📦 **[采购供应链](#category-16)**（166）
 
@@ -278,8 +278,7 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 文远知行 | 市场公关实习生（广州） · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/a1b6b83c-841e-41cd-b31b-e28ece182f77) |
-| 文远知行 | 市场公关实习生 · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/0d5e154b-19f5-45ec-979b-70d1071ecc78) |
+| 美团 | 公共关系岗 · 校招 | 南京 / 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4694790935&amp;jobShareType=1&amp;highlightType=campus) |
 | 快手 | 游戏投放优化师 · 校招 | 广州 / 杭州 | 未知 | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=68795d2f22d9452a9710a91c4aeaae48) |
 | 小米 | 电商运营专员-广告投放-local · 校招 | 雅加达 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670933692873836851/detail) |
 | 小米 | 整合营销专员-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930864516532543/detail) |
@@ -338,6 +337,7 @@
 | 阿里巴巴 | 品牌营销-日韩市场 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904960002) |
 | 阿里巴巴 | 千问-市场营销实习生 · 实习 | 广州 / 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904120002) |
 | 阿里巴巴 | 公共关系专员 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907820070) |
+| 阿里巴巴 | SLG营销实习生（日本/韩国海外发行） · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199905480002) |
 
 ---
 
@@ -704,8 +704,6 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 文远知行 | 机械结构设计工程师 · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/1acdc37c-b4e7-4e0b-8605-f36d4b3e05bd) |
-| 文远知行 | 工业设计工程师【2027届校招】 · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/e0a09b2e-dd28-44a8-8756-22047d8f9776) |
 | 小米 | 车身电控子系统设计-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670914793260255514/detail) |
 | 小米 | 设计传播专员-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918704973334822/detail) |
 | 小米 | 视觉设计师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923684555016458/detail) |
@@ -764,6 +762,8 @@
 | 小米 | 电机电磁设计工程师-实习-2027届 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7656752691511609638/detail) |
 | 小米 | 用户体验设计师实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7553107909829298441/detail) |
 | 小米 | 用户体验设计师 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675324653325256979/detail) |
+| 小米 | 技术美术 TA 实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660719255185590591/detail) |
+| 小米 | 性能与内存DFX设计实习生 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7621736273699588388/detail) |
 
 ---
 
@@ -1061,7 +1061,6 @@
 |---|---|---|---|---|
 | 美团 | 法务岗 · 校招 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695022677&amp;jobShareType=1&amp;highlightType=campus) |
 | 百度 | 法律产品评估助理（J104013） · 校招 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/4138e014-825c-4dba-9aca-8b1f8479b126) |
-| 文远知行 | 安全合规工程师【2027届校招】 · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/94c88b02-ebfb-49c8-89b3-c3bda270fb87) |
 | 小米 | 海外产品合规工程师-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918893741246771/detail) |
 | 小米 | 法务专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292638209149220/detail) |
 | 小米 | 安全合规工程师 · 校招 | 新加坡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934932043516179/detail) |
@@ -1119,6 +1118,7 @@
 | OPPO | 法务经理 · 校招 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1765) |
 | OPPO | 法务经理 · 实习 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1664) |
 | OPPO | 专利工程师 · 校招 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1796) |
+| OPPO | 专利工程师 · 实习 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1665) |
 
 ---
 
