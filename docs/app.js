@@ -1,4 +1,4 @@
-const state = { jobs: [], grouped: [], filtered: [], page: 1, pageSize: 20 };
+const state = { jobs: [], companies: [], grouped: [], filtered: [], page: 1, pageSize: 20 };
 const $ = (selector) => document.querySelector(selector);
 const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]);
 const number = (value) => value.toLocaleString("zh-CN");
@@ -155,9 +155,13 @@ function applyFilters() {
 
 async function boot() {
   try {
-    const response = await fetch("jobs.json", { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    state.jobs = await response.json();
+    const [jobsResponse, companiesResponse] = await Promise.all([
+      fetch("jobs.json", { cache: "no-store" }),
+      fetch("companies.json", { cache: "no-store" }),
+    ]);
+    if (!jobsResponse.ok || !companiesResponse.ok) throw new Error(`HTTP ${jobsResponse.status}/${companiesResponse.status}`);
+    state.jobs = await jobsResponse.json();
+    state.companies = await companiesResponse.json();
     state.grouped = groupJobs(state.jobs);
     state.filtered = state.grouped;
     const requestedPage = Number(new URLSearchParams(window.location.search).get("page"));
@@ -166,7 +170,7 @@ async function boot() {
     $("#updated-at").textContent = latestSeen ? `更新 ${chinaDate(latestSeen)}` : "等待更新";
     addOptions($("#category"), unique(state.grouped.map((job) => job.category)));
     addOptions($("#city"), unique(state.grouped.flatMap((job) => job.locations || [])));
-    addOptions($("#company"), unique(state.grouped.map((job) => job.company)));
+    addOptions($("#company"), unique(state.companies.map((company) => company.company)));
     render();
   } catch (error) {
     $("#job-list").innerHTML = `<p class="empty">数据读取失败：${escapeHtml(error.message)}</p>`;

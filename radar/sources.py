@@ -152,3 +152,91 @@ def fetch_tencent(max_pages: int = 50, page_size: int = 100) -> list[JsonObject]
         if not rows or len(jobs) >= total or len(rows) < page_size:
             break
     return jobs
+
+
+def _fetch_feishu_campus(
+    *,
+    host: str,
+    channel: str,
+    company: str,
+    source: str,
+    id_prefix: str,
+    max_pages: int,
+    page_size: int = 100,
+) -> list[JsonObject]:
+    url = f"https://{host}/api/v1/search/job/posts"
+    headers = {
+        "Accept": "application/json, text/plain, */*",
+        "portal-channel": channel,
+        "portal-platform": "pc",
+        "website-path": channel,
+        "Origin": f"https://{host}",
+        "Referer": f"https://{host}/{channel}/",
+    }
+    jobs: list[JsonObject] = []
+    for page in range(max_pages):
+        response = _post_json(
+            url,
+            {
+                "keyword": "",
+                "limit": page_size,
+                "offset": page * page_size,
+                "portal_type": 3,
+                "portal_entrance": 1,
+                "language": "zh",
+            },
+            headers,
+        )
+        if response.get("code") != 0:
+            raise RuntimeError(f"{company}接口返回错误: {response.get('message', 'unknown error')}")
+        data = response.get("data") or {}
+        rows = data.get("job_post_list") or []
+        for row in rows:
+            upstream_id = str(row.get("id") or "")
+            if not upstream_id:
+                continue
+            cities = row.get("city_list") or ([row.get("city_info")] if row.get("city_info") else [])
+            locations = [city.get("name", "") for city in cities if city and city.get("name")]
+            recruit_type = (row.get("recruit_type") or {}).get("name", "")
+            raw_category = (row.get("job_category") or {}).get("name") or (row.get("job_function") or {}).get(
+                "name", ""
+            )
+            jobs.append(
+                {
+                    "id": f"{id_prefix}:{upstream_id}",
+                    "company": company,
+                    "title": str(row.get("title") or "").strip(),
+                    "raw_category": raw_category,
+                    "locations": locations,
+                    "stage": "实习" if "实习" in f"{recruit_type} {row.get('title', '')}" else "校招",
+                    "published_at": _iso_from_milliseconds(row.get("publish_time")),
+                    "url": f"https://{host}/{channel}/position/{upstream_id}/detail",
+                    "source": source,
+                }
+            )
+        total = int(data.get("count") or len(rows))
+        if not rows or len(jobs) >= total or len(rows) < page_size:
+            break
+    return jobs
+
+
+def fetch_momenta(max_pages: int = 50) -> list[JsonObject]:
+    return _fetch_feishu_campus(
+        host="momenta.jobs.feishu.cn",
+        channel="campus",
+        company="Momenta",
+        source="Momenta招聘",
+        id_prefix="momenta",
+        max_pages=max_pages,
+    )
+
+
+def fetch_sensetime(max_pages: int = 50) -> list[JsonObject]:
+    return _fetch_feishu_campus(
+        host="hr-jobs.sensetime.com",
+        channel="edu",
+        company="商汤",
+        source="商汤招聘",
+        id_prefix="sensetime",
+        max_pages=max_pages,
+    )
