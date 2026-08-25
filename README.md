@@ -15,37 +15,37 @@
 
 <!-- JOBS_START -->
 
-当前收录 **7089** 条在招岗位。
+当前收录 **7110** 条在招岗位。
 
 ### 按岗位类别浏览
 
-🧭 **[产品](#category-1)**（1413）
+🧭 **[产品](#category-1)**（1439）
 
-⚙️ **[运营](#category-2)**（2217）
+⚙️ **[运营](#category-2)**（2220）
 
-📣 **[市场](#category-3)**（522）
+📣 **[市场](#category-3)**（518）
 
-📈 **[增长](#category-4)**（194）
+📈 **[增长](#category-4)**（193）
 
-♟️ **[战略](#category-5)**（174）
+♟️ **[战略](#category-5)**（170）
 
-📊 **[商业分析](#category-6)**（267）
+📊 **[商业分析](#category-6)**（274）
 
 💼 **[销售](#category-7)**（239）
 
-🤝 **[商务](#category-8)**（282）
+🤝 **[商务](#category-8)**（280）
 
-📋 **[项目管理](#category-9)**（112）
+📋 **[项目管理](#category-9)**（104）
 
-🎓 **[管培生](#category-10)**（87）
+🎓 **[管培生](#category-10)**（78）
 
-✦ **[设计](#category-11)**（744）
+✦ **[设计](#category-11)**（729）
 
-🔍 **[用户研究](#category-12)**（56）
+🔍 **[用户研究](#category-12)**（62）
 
-🧑‍💼 **[HR](#category-13)**（439）
+🧑‍💼 **[HR](#category-13)**（457）
 
-🏢 **[职能](#category-14)**（343）
+🏢 **[职能](#category-14)**（347）
 
 ---
 
@@ -57,66 +57,66 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 滴滴 | 高级风控产品经理（北京/上海） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64866/detail) |
-| 滴滴 | 高级风控产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65243/detail) |
-| 滴滴 | 高级硬件工程师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63964/detail) |
-| 滴滴 | 高级产品经理（账务方向） · 校招 | 深圳 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62836/detail) |
-| 滴滴 | 高级产品经理（充电平台与 AI 创新） · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65442/detail) |
-| 滴滴 | 高级产品经理（Funding方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64053/detail) |
-| 滴滴 | 资金产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64839/detail) |
-| 滴滴 | 语音算法高级专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65381/detail) |
-| 滴滴 | 自动驾驶司机管理 &amp; 司机端产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65145/detail) |
-| 滴滴 | 网约车B端交易产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65928/detail) |
-| 滴滴 | 线路产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61951/detail) |
-| 滴滴 | 用户体验高级产品经理（国际化-日本） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63320/detail) |
-| 滴滴 | 用户产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65184/detail) |
-| 滴滴 | 服务治理策略产品经理（司机体验） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65393/detail) |
-| 滴滴 | 智能硬件负责人 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61756/detail) |
-| 滴滴 | 数据产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63780/detail) |
-| 滴滴 | 数据产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65568/detail) |
-| 滴滴 | 数据产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65447/detail) |
-| 滴滴 | 数据产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65446/detail) |
-| 滴滴 | 数据产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65284/detail) |
-| 滴滴 | 数字银行产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65573/detail) |
-| 滴滴 | 支付产品经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64689/detail) |
-| 滴滴 | 拼车-司机体验与交易产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64219/detail) |
-| 滴滴 | 开发agent产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64811/detail) |
-| 滴滴 | 座舱策略产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64719/detail) |
-| 滴滴 | 巴西高级产品经理（司乘体验方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65830/detail) |
-| 滴滴 | 巴西支付产品经理（支付产品方向） · 校招 | 深圳 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64970/detail) |
-| 滴滴 | 导购交易用户产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62065/detail) |
-| 滴滴 | 大模型推理引擎研发资深工程师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65440/detail) |
-| 滴滴 | 国际金融 App 平台高级产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64724/detail) |
-| 滴滴 | 国际支付产品-高级产品经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64082/detail) |
-| 滴滴 | 国际化闪送高级产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65431/detail) |
-| 滴滴 | 国际化用户产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62144/detail) |
-| 滴滴 | 国际化用增中台产品经理（创意产品方向） · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62800/detail) |
-| 滴滴 | 国际化履约高级产品经理（商超/闪送方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65525/detail) |
-| 滴滴 | 国际化司机中台产品经理（拉新准入方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65635/detail) |
-| 滴滴 | 国际化加油平台产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64427/detail) |
-| 滴滴 | 国际化信贷风控平台高级产品经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62759/detail) |
-| 滴滴 | 国际化企业滴滴结算产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64668/detail) |
-| 滴滴 | 国际化-信贷贷后催收产品经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65131/detail) |
-| 滴滴 | 国际化-信用卡高级产品经理(交易反欺诈) · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64727/detail) |
-| 滴滴 | 借记卡用户体验产品经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64688/detail) |
-| 滴滴 | 信贷高级产品经理（额度方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65864/detail) |
-| 滴滴 | 信贷高级产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65794/detail) |
-| 滴滴 | 信贷产品经理（用户经营方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63956/detail) |
-| 滴滴 | 信贷产品经理（机构资金） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64924/detail) |
-| 滴滴 | 信贷产品经理（支付交易） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65236/detail) |
-| 滴滴 | 信用卡高级产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63965/detail) |
-| 滴滴 | 信息安全产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65800/detail) |
-| 滴滴 | 体验策略产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65443/detail) |
-| 滴滴 | 体验治理策略产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63177/detail) |
-| 滴滴 | 企业内网产品经理（AI方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63915/detail) |
-| 滴滴 | 产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62735/detail) |
-| 滴滴 | 产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62150/detail) |
-| 滴滴 | 产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65081/detail) |
-| 滴滴 | 产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64908/detail) |
-| 滴滴 | 产品专家（出行规划） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65507/detail) |
-| 滴滴 | 产品专家/高级产品经理（海外保险） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65002/detail) |
-| 滴滴 | 专车高级产品经理-西语区 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62905/detail) |
-| 滴滴 | RTC技术专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65482/detail) |
+| 阿里巴巴 | 日常实习生-1688-Agent产品 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199909120001) |
+| 阿里巴巴 | 数据产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199909100002) |
+| 网易 | 游戏文案实习生（短期） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78380) |
+| 网易 | 产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78379) |
+| 网易 | 产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78375) |
+| 百度 | 搜索策略产品实习生（J104992） · 实习 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/348a6d57-7566-4e8a-936d-ee84ab34a84b) |
+| 百度 | 多模态AI产品经理实习生（J104891） · 实习 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/afe997a3-5981-4d47-9f91-8d5f022e8a13) |
+| 百度 | AI产品经理（J104969） · 校招 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/13f15203-3c24-480d-96ac-8d49e425e4e0) |
+| 爱奇艺 | 产品实习生（电商业务） · 实习 | 北京 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7470359047783565604/detail) |
+| 滴滴 | 网约车产品经理（司机体验&amp;管理） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65919/detail) |
+| 小米 | 金融产品实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672738312276789540/detail) |
+| 小米 | 自驾-产品经理-暑期实习 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7537538847506514028/detail) |
+| 小米 | 自动驾驶-地图数据产品经理-实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7561693351351748900/detail) |
+| 小米 | 耳机软件产品经理实习生-2027届 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7667418813620668713/detail) |
+| 小米 | 终端产品经理-实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670444704546294026/detail) |
+| 小米 | 电池系统属性工程师 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7665274691507030322/detail) |
+| 小米 | 海外电商系统产品经理实习生 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7647349811091884339/detail) |
+| 小米 | 法规管理系统AI产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7561254047480269075/detail) |
+| 小米 | 汽车金融机构产品实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7667784294798068019/detail) |
+| 小米 | 汽车金融数据产品实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7667845914576947499/detail) |
+| 小米 | 汽车金融产品经理-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672739479048931634/detail) |
+| 小米 | 机器人模型产品经理实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670459532618860846/detail) |
+| 小米 | 数据产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7587618485883488539/detail) |
+| 小米 | 数据产品实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675324568667719986/detail) |
+| 小米 | 影像产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7592863879609321766/detail) |
+| 小米 | 小米汽车-自动驾驶-行车产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7587299185456843059/detail) |
+| 小米 | 小米汽车 - 自动驾驶- 行车（城区）产品经理 - 实习 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7545385082913423468/detail) |
+| 小米 | 小米汽车 - 自动驾驶- 行车产品经理 - 暑期实习 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7503474727828602989/detail) |
+| 小米 | 小米IoT产品实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7631488925312076068/detail) |
+| 小米 | 国际CRM-产品经理实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7663054350562281778/detail) |
+| 小米 | 商业产品（流量策略）实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7358280499309838444/detail) |
+| 小米 | 体验产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7601099261011085610/detail) |
+| 小米 | 体验产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7566525077626964230/detail) |
+| 小米 | 产品经理实习生（智能网联方向）—上海 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7542338835427016813/detail) |
+| 小米 | 产品经理实习生-2027届-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7676369354003892486/detail) |
+| 小米 | 产品经理实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7676369733437049124/detail) |
+| 小米 | 产品经理实习生-2027届 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7674959972048947483/detail) |
+| 小米 | 产品经理实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660109067801545023/detail) |
+| 小米 | 产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670443782232803610/detail) |
+| 小米 | 产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7667402665236973875/detail) |
+| 小米 | 产品经理实习 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7663315300850911526/detail) |
+| 小米 | 产品经理-硬件方向-实习-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7655223179933845802/detail) |
+| 小米 | 产品经理-实习-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7661885577650948379/detail) |
+| 小米 | 产品经理-实习 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7605898417445341503/detail) |
+| 小米 | 产品经理-2027届 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672223902755981604/detail) |
+| 小米 | 产品经理-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670002863993424138/detail) |
+| 小米 | 产品实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7615143239251413298/detail) |
+| 小米 | API和数据库方向 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7659233009254926633/detail) |
+| 小米 | AI培训方向产品经理-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7677898666723789094/detail) |
+| 小米 | AI创新产品实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7621073873320478995/detail) |
+| 小米 | AI创新产品实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7605147007258446123/detail) |
+| 小米 | AI产品经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7621512530250713382/detail) |
+| 小米 | AI 策略产品实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672275109378377994/detail) |
+| 小米 | AI 产品实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7654079382692333865/detail) |
+| 地平线 | 【地瓜机器人】具身开发平台产品经理 · 校招 | 北京 | 未知 | [投递](https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html#/postDetail?postId=6a8d58ea4315481304d42878) |
+| 哔哩哔哩 | 交易C2C产品实习生 · 实习 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/30181) |
+| vivo | AI架构工程师-实习 · 实习 | 深圳 | 未知 | [投递](https://hr-campus.vivo.com/intern/detail?jobAdId=561290784) |
+| 字节跳动 | AI产品经理（业务风控方向） - TikTok研发 · 校招 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677847856178841909/detail) |
+| 字节跳动 | AI产品实习生（评估与标注质量方向） - TikTok · 实习 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677834564777462069/detail) |
+| 字节跳动 | 策略产品实习生 - TikTok生活服务 · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677829646159661365/detail) |
 
 ---
 
@@ -128,66 +128,66 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 滴滴 | 高级运力运营经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63670/detail) |
-| 滴滴 | 高级智能运营专员 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65668/detail) |
-| 滴滴 | 高级体验运营专员 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63752/detail) |
-| 滴滴 | 高级产品运营专员 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65701/detail) |
-| 滴滴 | 餐饮运营经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65605/detail) |
-| 滴滴 | 降发生策略运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64757/detail) |
-| 滴滴 | 部门运营经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65089/detail) |
-| 滴滴 | 运营经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65599/detail) |
-| 滴滴 | 运营分析顾问 · 校招 | 济南 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61854/detail) |
-| 滴滴 | 运营分析专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65861/detail) |
-| 滴滴 | 运营分析专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64386/detail) |
-| 滴滴 | 运营分析专家 · 校招 | 广州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64992/detail) |
-| 滴滴 | 运力运营顾问 · 校招 | 成都 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64638/detail) |
-| 滴滴 | 运力运营顾问 · 校招 | 成都 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65707/detail) |
-| 滴滴 | 运力运营专家（组织运力方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64010/detail) |
-| 滴滴 | 运力运营专家 · 校招 | 广州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62923/detail) |
-| 滴滴 | 运力运营专家 · 校招 | 金华 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64648/detail) |
-| 滴滴 | 运力运营专家 · 校招 | 苏州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64539/detail) |
-| 滴滴 | 运力运营专家 · 校招 | 金华 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61610/detail) |
-| 滴滴 | 运力运营专家 · 校招 | 嘉兴 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65703/detail) |
-| 滴滴 | 运力运营专家 · 校招 | 宁波 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/60898/detail) |
-| 滴滴 | 运力策略运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63557/detail) |
-| 滴滴 | 资源运营/供应商管理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62892/detail) |
-| 滴滴 | 资深策略运营经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64143/detail) |
-| 滴滴 | 西语区外卖平台策略运营-佣金政策方向 · 校招 | Mexico / City | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65135/detail) |
-| 滴滴 | 营商运营顾问/专家 · 校招 | 南宁 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65745/detail) |
-| 滴滴 | 自动驾驶运力运营经理 · 校招 | 深圳 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62302/detail) |
-| 滴滴 | 自动驾驶运力运营经理 · 校招 | 广州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62950/detail) |
-| 滴滴 | 自动驾驶车辆运营管理 · 校招 | 广州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64318/detail) |
-| 滴滴 | 自动驾驶策略运营专家 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62782/detail) |
-| 滴滴 | 自动驾驶城市供给侧运营负责人 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63060/detail) |
-| 滴滴 | 自动驾驶B端运营区域安全主管 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65334/detail) |
-| 滴滴 | 网约车策略运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62098/detail) |
-| 滴滴 | 结算运营专员 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65324/detail) |
-| 滴滴 | 线下体验专员 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64716/detail) |
-| 滴滴 | 策略运营（体验运营方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64659/detail) |
-| 滴滴 | 策略运营顾问-资产 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64909/detail) |
-| 滴滴 | 策略运营顾问 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65894/detail) |
-| 滴滴 | 策略运营顾问 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65112/detail) |
-| 滴滴 | 策略运营经理-商品运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64085/detail) |
-| 滴滴 | 策略运营专家-充电 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65202/detail) |
-| 滴滴 | 策略运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62462/detail) |
-| 滴滴 | 策略运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63311/detail) |
-| 滴滴 | 策略运营专家 · 校招 | 广州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65315/detail) |
-| 滴滴 | 策略运营专家 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64758/detail) |
-| 滴滴 | 策略运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65680/detail) |
-| 滴滴 | 策略运营专家 · 校招 | 成都 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63465/detail) |
-| 滴滴 | 策略运营-杭州 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65429/detail) |
-| 滴滴 | 策略运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65453/detail) |
-| 滴滴 | 私家车运营 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64075/detail) |
-| 滴滴 | 用户运营（新客方向） · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65098/detail) |
-| 滴滴 | 用户运营高级分析师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64097/detail) |
-| 滴滴 | 用户运营顾问/专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65412/detail) |
-| 滴滴 | 用户运营顾问 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65921/detail) |
-| 滴滴 | 用户运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63643/detail) |
-| 滴滴 | 用户策略运营 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62001/detail) |
-| 滴滴 | 用户策略运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65345/detail) |
-| 滴滴 | 理赔服务标准运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65154/detail) |
-| 滴滴 | 现金贷策略运营 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64893/detail) |
-| 滴滴 | 特价专区运营-供给运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63705/detail) |
+| 美团 | 产品运营实习生 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4720388663&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 音乐人运营实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78372) |
+| 网易 | 音乐人活动运营实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78370) |
+| 网易 | 笔记内容运营实习生（网易云音乐） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77187) |
+| 网易 | 游戏画师KOL运营实习生 · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=70408) |
+| 网易 | 创作者运营实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78368) |
+| 米哈游 | 海外创意运营实习生-韩语 · 实习 | 上海 | 未知 | [投递](https://jobs.mihoyo.com/#/position/9382) |
+| 米哈游 | 海外创意运营实习生-英语 · 实习 | 上海 | 未知 | [投递](https://jobs.mihoyo.com/#/position/9386) |
+| 米哈游 | 支付内容策略实习生（俄语方向） · 实习 | 上海 | 未知 | [投递](https://jobs.mihoyo.com/#/position/9383) |
+| 百度 | 新媒体运营实习生（小红书方向）（J104958） · 实习 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/18b326b0-5a89-469b-9593-1fc980df3685) |
+| 爱奇艺 | 内容运营（泛娱乐方向） · 校招 | 北京 | 未知 | [投递](https://careers.iqiyi.com/campus/position/7677906209177798958/detail) |
+| 爱奇艺 | 内容运营实习生-台湾 · 实习 | 上海 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7677796434238327046/detail) |
+| 滴滴 | 资深开发工程师（骑手运营方向） · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63496/detail) |
+| 滴滴 | 策略运营顾问 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65607/detail) |
+| 滴滴 | 策略运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63376/detail) |
+| 滴滴 | 社区运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65267/detail) |
+| 滴滴 | 服务体验运营专家（AI方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65640/detail) |
+| 滴滴 | 产品与用户运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65884/detail) |
+| 滴滴 | Operations Senior Analyst · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65914/detail) |
+| 滴滴 | G端运营顾问 - 杭州 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64783/detail) |
+| 小红书 | 运营中台产运实习生 · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21851) |
+| 小红书 | 小红书时尚买手运营实习生 · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/20911) |
+| 小红书 | 【REDstar】Product Engineer-产品工程师-社区内容方向 · 校招 | 北京 / 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21861) |
+| 小红书 | 【2027届】马当路练习生-家居垂类运营实习生 · 实习 | 上海 / 北京 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21853) |
+| 小米 | 韩国电商运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7648924946525096238/detail) |
+| 小米 | 韩国电商运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7495599632958685292/detail) |
+| 小米 | 集团活动运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7674812888209803546/detail) |
+| 小米 | 金融运营专员实习生 · 实习 | 呼和浩特 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672213442337736969/detail) |
+| 小米 | 金融运营专员-综合管理方向-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670719928370186502/detail) |
+| 小米 | 运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673391666929502518/detail) |
+| 小米 | 车友会运营专员-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7676030766674381066/detail) |
+| 小米 | 跨境运营实习生-2027届 · 实习 | 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673390297242863913/detail) |
+| 小米 | 跨境运营实习生-2027届 · 实习 | 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672968257346980150/detail) |
+| 小米 | 越南电商运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7665615205909514539/detail) |
+| 小米 | 资源开发工程师-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675949144159504682/detail) |
+| 小米 | 试验室运营工程师实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7582476374779414834/detail) |
+| 小米 | 罗马尼亚语电商运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7485625069730807917/detail) |
+| 小米 | 社招新员工培训运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7652616835976268086/detail) |
+| 小米 | 短剧产品运营-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660499999508400390/detail) |
+| 小米 | 电商运营实习生-东南亚 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7498261461404500077/detail) |
+| 小米 | 电商运营实习生 · 实习 | 东京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7507189396840546413/detail) |
+| 小米 | 用户运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7579535408725068078/detail) |
+| 小米 | 用户运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7314935210951606380/detail) |
+| 小米 | 活动运营-实习-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670089973189773595/detail) |
+| 小米 | 法国电商运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7471073390707900525/detail) |
+| 小米 | 汽车金融保险运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7647376526841104694/detail) |
+| 小米 | 汽车保险运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7647376701940517163/detail) |
+| 小米 | 日本电商运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7495599654902759533/detail) |
+| 小米 | 日本小米网实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7616320881782098203/detail) |
+| 小米 | 新媒体运营实习生（AI产品/创新业务方向）-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7659983928392796457/detail) |
+| 小米 | 新媒体运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7676031444678985990/detail) |
+| 小米 | 新媒体运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7677508565409581331/detail) |
+| 小米 | 文化运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7651448520528365866/detail) |
+| 小米 | 文化运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675573663793973530/detail) |
+| 小米 | 数据管理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7530915087378497645/detail) |
+| 小米 | 手机品类电商运营-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7642610103274981675/detail) |
+| 小米 | 意大利电商运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7529731137599357037/detail) |
+| 小米 | 影视内容运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7657378838590736683/detail) |
+| 小米 | 影视业务AI自动化运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7657378841523439913/detail) |
+| 小米 | 影像运营实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675368446361045286/detail) |
 
 ---
 
@@ -199,6 +199,27 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 阿里巴巴 | 品牌营销实习生 · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908740003) |
+| 网易 | 营销推广视觉设计实习生（二次元方向） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77323) |
+| 网易 | 游戏海外市场营销策划实习生（韩语方向） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=76253) |
+| 网易 | 游戏市场营销实习生（光遇） · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78381) |
+| 爱奇艺 | 会员媒介运营实习生 · 实习 | 北京 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7597324233894611219/detail) |
+| 滴滴 | 交易市场研究员（决策支持方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61402/detail) |
+| 小红书 | 周边品牌设计实习生/ 小红书 · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/17140) |
+| 小红书 | 周边品牌设计实习生/  小红书 · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21852) |
+| 小米 | 营销助理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7550219373237405998/detail) |
+| 小米 | 策划实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7562108507961428278/detail) |
+| 小米 | 汽车金融市场运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7667383305553611071/detail) |
+| 小米 | 汽车体验营销-传播实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7618027692021401902/detail) |
+| 小米 | 新媒体实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7566605386058041638/detail) |
+| 小米 | 市场实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7551684865759578422/detail) |
+| 小米 | 国际校招雇主品牌实习生（人力资源方向） · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7618949364152928566/detail) |
+| 小米 | 国际广告投放实习生 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7618862527103109426/detail) |
+| 小米 | 产品传播-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7654784145105193279/detail) |
+| 小米 | Marketing Intern (Content Production Intern) · 实习 | 马尼拉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602078397901424937/detail) |
+| 小米 | Marketing Intern · 实习 | 伊斯坦布尔 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7574780930847918387/detail) |
+| 小米 | Creator Intern · 实习 | 东京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7532311245832126572/detail) |
+| 字节跳动 | 美国市场商家达人机构运营实习生 - TikTok Shop · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677797357031950645/detail) |
 | 滴滴 | 资深Java工程师-墨西哥银行营销方向 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64987/detail) |
 | 滴滴 | 营销高级算法专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64574/detail) |
 | 滴滴 | 营销策划（组长） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61941/detail) |
@@ -232,33 +253,12 @@
 | 智谱AI | 市场部实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7611424426219620618/detail) |
 | 智谱AI | 市场实习生（国际方向 / AI Native） · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7601043404269750537/detail) |
 | 智谱AI | Marketing Intern (Global / AI Native, Technical Background Preferred) · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7623240518135499017/detail) |
-| 小米 | 电商运营专员-广告投放-local · 校招 | 雅加达 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670933692873836851/detail) |
-| 小米 | 整合营销专员-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930864516532543/detail) |
-| 小米 | 整合营销专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885425788061978/detail) |
-| 小米 | 广告投放及运营 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884904113195274/detail) |
-| 小米 | 市场品牌推广 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292176374417670/detail) |
-| 小米 | 市场传播专员-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918712568891699/detail) |
-| 小米 | 市场主管 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884801415645467/detail) |
-| 小米 | 市场专员（国际汽车市场） · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885774128122139/detail) |
-| 小米 | 市场专员-西语-外派 · 校招 | 墨西哥城 / 圣地亚哥 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935066206783807/detail) |
-| 小米 | 市场专员-外派 · 校招 | 约翰内斯堡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935375619442971/detail) |
-| 小米 | 市场专员-俄语 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670886531393849641/detail) |
-| 小米 | 市场专员-local · 校招 | 巴黎 / 杜塞尔多夫 / 马德里 / 伦敦 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934761405548846/detail) |
-| 小米 | 市场专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885775769159974/detail) |
-| 小米 | 中国区-品牌视觉设计师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291324489173254/detail) |
-| 小米 | PR Specialist-local · 校招 | 雅加达 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670931927511992630/detail) |
-| 小米 | Marketing Specialist-local · 校招 | 米兰 / 贝尔格莱德 / 曼谷 / 迪拜 / 吉隆坡 / 布拉格直辖 / 拉合尔 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935141807982858/detail) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-整合营销 · 校招 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907960002) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-市场宣发 · 校招 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907920004) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-剧集营销 · 校招 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907920005) |
 | 阿里巴巴 | 营销实习生 · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199906140001) |
 | 阿里巴巴 | 灵犀互娱-游戏营销实习生 · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199903920066) |
 | 阿里巴巴 | 灵犀互娱-游戏产品营销（内容向） · 校招 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904020016) |
-| 阿里巴巴 | 灵犀互娱-媒介公关实习生 · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199905000003) |
-| 阿里巴巴 | 游戏营销（日语） · 校招 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907780072) |
-| 阿里巴巴 | 游戏营销（SLG） · 校招 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907680011) |
-| 阿里巴巴 | 游戏营销 · 校招 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907800015) |
-| 阿里巴巴 | 游戏市场及用户研究-日常实习生 · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904940001) |
 
 ---
 
@@ -270,11 +270,11 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 美团 | AI运营增长实习生 · 实习 | 上海 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4709281316&amp;jobShareType=1&amp;highlightType=campus) |
+| 字节跳动 | 美国平台物流商家增长实习生 - TikTok Shop · 实习 | 深圳 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677799494008457525/detail) |
 | 滴滴 | 高级用户增长运营专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64915/detail) |
 | 滴滴 | 高级iOS开发工程师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63236/detail) |
-| 滴滴 | 高级Unity客户端工程师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63954/detail) |
 | 滴滴 | 高级Android工程师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61503/detail) |
-| 滴滴 | 运力增长运营专家或分析师_滴滴国际化出行澳新地区ANZ · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65257/detail) |
 | 滴滴 | 运力增长商业分析 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65630/detail) |
 | 滴滴 | 营销增长工程师/架构师 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65023/detail) |
 | 滴滴 | 营销增长中台-会员商家策略 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65637/detail) |
@@ -296,7 +296,6 @@
 | 滴滴 | 增长推荐策略产品 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65165/detail) |
 | 滴滴 | 增长产品运营（裂变方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64816/detail) |
 | 滴滴 | 增长产品经理（国际出行BR） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65307/detail) |
-| 滴滴 | 增长专家工程师-杭州/上海 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64643/detail) |
 | 滴滴 | 国际金融用户增长高级产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65498/detail) |
 | 滴滴 | 国际化用户增长产品（归因方向） · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64960/detail) |
 | 滴滴 | 国际化用户增长产品 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65113/detail) |
@@ -330,6 +329,7 @@
 | 网易 | PUSH增长组实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=75275) |
 | 网易 | AI创新增长运营实习生（内容策划方向） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78155) |
 | 米哈游 | 游戏增长策略分析实习生 · 实习 | 上海 | 未知 | [投递](https://jobs.mihoyo.com/#/position/7776) |
+| 米哈游 | 增长洞察数据分析实习生 · 实习 | 上海 | 未知 | [投递](https://jobs.mihoyo.com/#/position/7491) |
 
 ---
 
@@ -341,6 +341,8 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 小米 | 战略技术规划实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7661954393022368010/detail) |
+| 字节跳动 | 国际电商战略产品运营实习生 - TikTok Shop · 实习 | 上海 / 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677855581592848693/detail) |
 | 滴滴 | 高级战略分析师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65180/detail) |
 | 滴滴 | 酒店集团战略合作专家 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65749/detail) |
 | 滴滴 | 运力运营专家（偏战略） · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65649/detail) |
@@ -356,11 +358,6 @@
 | 滴滴 | Strategy BP (Commercial Planning Lead) · 校招 | Mexico / City | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63124/detail) |
 | 滴滴 | Reduce occurrence strategy operation · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64333/detail) |
 | 滴滴 | AI战略经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64087/detail) |
-| 小米 | 投资者关系专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924464812656939/detail) |
-| 小米 | 投资专员 · 校招 | 北京 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924409896618249/detail) |
-| 小米 | 战略分析师-生态链 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671291316311247154/detail) |
-| 小米 | 战略分析师 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670931317907032356/detail) |
-| 小米 | 产品经理-战略运营方向 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930765983009078/detail) |
 | 阿里巴巴 | 投资实习生 · 实习 | 北京 / 上海 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199903720037) |
 | 阿里巴巴 | 战略实习生 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199903780045) |
 | 阿里巴巴 | 国际智能定价和投资AI Agent-阿里星/BravoStar · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907780095) |
@@ -377,7 +374,6 @@
 | 米哈游 | 二级投资研究员 · 校招 | 上海 | 未知 | [投递](https://jobs.mihoyo.com/#/position/9142) |
 | 百度 | 金融投资研究实习生（AI Agent方向）（J103277） · 实习 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/8078ad98-171a-4167-b111-5cb8549e4ff6) |
 | 百度 | 秒哒战略实习生（J104490） · 实习 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/d293abdf-fe76-404b-b65f-0f4de5b0df47) |
-| 百度 | 战略运营管理部PMO实习生（J103820） · 实习 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/8a2adac9-f2b3-400f-aeaa-ed9dbe9bb677) |
 | 百度 | 实习生岗位：大模型行业研究及战略规划实习生（J100224） · 实习 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/3432be75-f869-4f50-af11-bf70bd272248) |
 | 百度 | 大模型行业研究及规划助理（J104295） · 校招 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/fe563d12-aaf1-4578-a537-a5b606f442ea) |
 | 百度 | 北京-投资经理(J100758) · 校招 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/GRADUATE/45cd8aa8-587a-4cfe-a8d0-5290376e6427) |
@@ -401,6 +397,10 @@
 | OPPO | 战略文案经理 · 实习 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1723) |
 | 腾讯 | 法律/行业/产业研究 · 实习 | 深圳 / 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957123230246912) |
 | 腾讯 | 数字生态研究 · 校招 | 深圳 / 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284528300198503425) |
+| 腾讯 | 数字生态研究 · 实习 | 广州 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930818) |
+| 腾讯 | 产业研究 · 校招 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555971) |
+| 腾讯 | 投资运营分析师 · 校招 | 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1277366754477467648) |
+| 腾讯 | 投资者关系 · 校招 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284207539936109568) |
 
 ---
 
@@ -412,6 +412,16 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 美团 | 商业分析实习生（大模型应用BP） · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4721378720&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 数据分析实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78389) |
+| 爱奇艺 | 数据分析实习生 · 实习 | 北京 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7573944297029372166/detail) |
+| 滴滴 | 商业分析专家-机酒火 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62676/detail) |
+| 小米 | 数据分析师实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7612831146682861865/detail) |
+| 小米 | 数据分析师 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7659233124874176787/detail) |
+| 小米 | 数据分析实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7669709815383656745/detail) |
+| 小米 | 大数据分析应用工程师实习生 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7486053312358629485/detail) |
+| 字节跳动 | 效果广告数据分析&amp;AI Agent实习生 - Pangle · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677898794873063685/detail) |
+| 字节跳动 | 经营分析实习生 - 抖音电商运营 · 实习 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677840882946967813/detail) |
 | 滴滴 | 高级数据分析师 (北京或者上海) · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65425/detail) |
 | 滴滴 | 高级数据分析师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64706/detail) |
 | 滴滴 | 高级数据分析师 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65569/detail) |
@@ -456,22 +466,12 @@
 | 滴滴 | 商业分析专家（SaaS方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63276/detail) |
 | 滴滴 | 商业分析专家（C端方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62682/detail) |
 | 滴滴 | 商业分析专家-两轮车 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64742/detail) |
-| 滴滴 | 商业分析专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65392/detail) |
 | 滴滴 | 商业分析专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63095/detail) |
+| 滴滴 | 商业分析专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65392/detail) |
 | 滴滴 | 商业分析专家 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65217/detail) |
 | 滴滴 | 商业分析专家 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63656/detail) |
 | 滴滴 | 商业分析专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64853/detail) |
 | 滴滴 | 商业分析专家 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65261/detail) |
-| 滴滴 | 商业分析专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65373/detail) |
-| 滴滴 | 商业分析专家 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64798/detail) |
-| 小米 | 数据分析师 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670931105016908075/detail) |
-| 阿里巴巴 | 阿里国际风险管理-风控数据分析-日常实习生 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904740004) |
-| 阿里巴巴 | 金融风控分析师 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907780010) |
-| 阿里巴巴 | 数据分析师 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907780074) |
-| 阿里巴巴 | 国际数字商业集团-风险管理部-泛应急管理-日常实习生 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199906540003) |
-| 阿里巴巴 | 商业数据分析 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908480019) |
-| 阿里巴巴 | AI商业分析师 · 校招 | 上海 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907720068) |
-| 阿里巴巴 | AI Coding 数据分析与评测-阿里星 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908300007) |
 
 ---
 
@@ -483,6 +483,58 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 滴滴 | 渠道运营经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65938/detail) |
+| 小米 | 零售顾问实习生（旗舰店专用） · 实习 | 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602444532957759780/detail) |
+| 小米 | 零售顾问实习生-温州 · 实习 | 温州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670459129118525705/detail) |
+| 小米 | 零售顾问实习生-嘉兴 · 实习 | 嘉兴 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670133314582432042/detail) |
+| 小米 | 零售顾问实习生-2027届 · 实习 | 南宁 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670140816937568566/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672622342618548506/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 西安 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670452373482981673/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 长春 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670074535157238022/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602584600736942342/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 邯郸 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602444835899951379/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 广州 / 佛山 / 中山 / 清远 / 汕头 / 惠州 / 珠海 / 海口 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602444011344988426/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 保定 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602147120636086554/detail) |
+| 小米 | 零售顾问实习生 · 实习 | 邵阳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7505996427942183021/detail) |
+| 小米 | 销售运营实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7665165124462463278/detail) |
+| 小米 | 运营商销售管理 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670358671436269862/detail) |
+| 小米 | 西班牙新零售实习生 · 实习 | 马德里 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602540476692056361/detail) |
+| 小米 | 网络发展实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7425924052760133741/detail) |
+| 小米 | 电商销售运营实习生 · 实习 | 马尼拉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7563853216476432686/detail) |
+| 小米 | 电商销售专员（实习） · 实习 | 首尔 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7616286604608506162/detail) |
+| 小米 | 澎程-零售顾问实习生-镇江 · 实习 | 镇江 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673045188805183786/detail) |
+| 小米 | 澎程-零售顾问实习生-苏州工业园区 · 实习 | 苏州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672688672462113043/detail) |
+| 小米 | 澎程-零售顾问实习生-苏州塔园路 · 实习 | 苏州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675314796111219007/detail) |
+| 小米 | 澎程-零售顾问实习生-盐城 · 实习 | 盐城 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675693677951863103/detail) |
+| 小米 | 澎程-零售顾问实习生-泰州 · 实习 | 泰州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675933482779330858/detail) |
+| 小米 | 澎程-零售顾问实习生-无锡荟聚 · 实习 | 无锡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673046966183758131/detail) |
+| 小米 | 澎程-零售顾问实习生-无锡恒隆 · 实习 | 无锡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7674592137254504758/detail) |
+| 小米 | 澎程-零售顾问实习生-无锡交付中心 · 实习 | 无锡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673767227188169001/detail) |
+| 小米 | 澎程-零售顾问实习生-扬州 · 实习 | 扬州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673046266649594158/detail) |
+| 小米 | 澎程-零售顾问实习生-常州 · 实习 | 常州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673047423710710070/detail) |
+| 小米 | 澎程-零售顾问实习生-宿迁 · 实习 | 宿迁 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672688064197003529/detail) |
+| 小米 | 澎程-零售顾问实习生-南通 · 实习 | 南通 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673705531252689190/detail) |
+| 小米 | 澎程-零售顾问实习生-南京雨润大街店 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673046963176933651/detail) |
+| 小米 | 澎程-零售顾问实习生-南京金陵天地 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675283466238380326/detail) |
+| 小米 | 澎程-零售顾问实习生-南京景枫 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7674593315493038372/detail) |
+| 小米 | 广告销售助理实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675565535757945138/detail) |
+| 小米 | 小米零售顾问实习生-青岛市北 · 实习 | 青岛 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670031397364795702/detail) |
+| 小米 | 小米零售顾问实习生-烟台 · 实习 | 烟台 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670033358148552998/detail) |
+| 小米 | 小米零售顾问实习生-德州 · 实习 | 德州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670030487062137129/detail) |
+| 小米 | 小米零售顾问实习生 · 实习 | 菏泽 / 潍坊 / 烟台 / 临沂 / 济宁 / 淄博 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7602816901367384330/detail) |
+| 小米 | 小米汽车零售实习生-2027届 · 实习 | 郑州 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670814305470417178/detail) |
+| 小米 | 小米汽车-零售顾问实习生-阜新 · 实习 | 沈阳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7615198692920756530/detail) |
+| 小米 | 小米汽车-零售顾问实习生-沈阳 · 实习 | 沈阳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7603186366432151851/detail) |
+| 小米 | 小米汽车-零售顾问实习生-江苏 · 实习 | 南京 / 常州 / 淮安 / 南通 / 苏州 / 无锡 / 扬州 / 泰州 / 宿迁 / 徐州 / 盐城 / 镇江 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7605046628122757385/detail) |
+| 小米 | 小米汽车-零售顾问实习生-大连 · 实习 | 大连 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7603184624856729897/detail) |
+| 小米 | 小米汽车-零售顾问实习生-南京 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7507440270176272492/detail) |
+| 小米 | 实习生 · 实习 | 吉隆坡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7540184897102528620/detail) |
+| 小米 | 国际渠道财经实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7676024976357558574/detail) |
+| 小米 | 四川-零售销售助理-成都万象城 · 实习 | 成都 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670520034964146442/detail) |
+| 小米 | 产品顾问实习生 · 实习 | 新加坡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7610380653645220159/detail) |
+| 小米 | Sales Advisor Intern · 实习 | 雅加达 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7485925686952099949/detail) |
+| 小米 | Retail Intern 零售管理培训师实习生 · 实习 | 曼谷 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7597011047187745033/detail) |
+| 小米 | FF培训发展实习生 · 实习 | 曼谷 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7515273447699431532/detail) |
 | 滴滴 | 高级支付渠道产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65031/detail) |
 | 滴滴 | 销售运营-效能优化方向 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64610/detail) |
 | 滴滴 | 销售经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65657/detail) |
@@ -491,58 +543,6 @@
 | 滴滴 | 渠道顾问 · 校招 | 石家庄 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62614/detail) |
 | 滴滴 | 渠道部负责人 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65533/detail) |
 | 滴滴 | 渠道运营顾问/专家（南京，镇江，扬州） · 校招 | 南京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63889/detail) |
-| 滴滴 | 渠道运营专家 · 校招 | 南京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62633/detail) |
-| 滴滴 | 渠道运营专家 · 校招 | 南宁 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65104/detail) |
-| 滴滴 | 渠道运营专家 · 校招 | 苏州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65801/detail) |
-| 滴滴 | 渠道运营专家 · 校招 | 嘉兴 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63149/detail) |
-| 滴滴 | 渠道运营专家 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65296/detail) |
-| 滴滴 | 渠道运营专家 · 校招 | 南昌 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62198/detail) |
-| 滴滴 | 渠道经理 · 校招 | 天津 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65902/detail) |
-| 滴滴 | 渠道经理 · 校招 | 拉萨 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65099/detail) |
-| 滴滴 | 渠道经理 · 校招 | 南昌 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65223/detail) |
-| 滴滴 | 渠道经理 · 校招 | 郑州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65503/detail) |
-| 滴滴 | 渠道管理专家 · 校招 | 广州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65547/detail) |
-| 滴滴 | 渠道管理专家 · 校招 | 珠海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65258/detail) |
-| 滴滴 | 渠道管理专家 · 校招 | 合肥 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63262/detail) |
-| 滴滴 | 渠道管理专家 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62992/detail) |
-| 滴滴 | 渠道策略运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65783/detail) |
-| 滴滴 | 渠道商务经理 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65583/detail) |
-| 滴滴 | 渠道合作专家-深圳 · 校招 | 深圳 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62526/detail) |
-| 滴滴 | 渠道反作弊策略专家 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65152/detail) |
-| 滴滴 | 渠道及品类运营 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65858/detail) |
-| 滴滴 | 支付渠道产品经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64198/detail) |
-| 滴滴 | 客户成功经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65278/detail) |
-| 滴滴 | 客户成功经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62798/detail) |
-| 滴滴 | 大客户销售经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65010/detail) |
-| 滴滴 | 大客户销售经理 · 校招 | 南京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64828/detail) |
-| 滴滴 | 大客户销售经理 · 校招 | 深圳 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63393/detail) |
-| 滴滴 | 商旅大客户销售经理 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65862/detail) |
-| 滴滴 | 产品运营专家（渠道管理方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65346/detail) |
-| 滴滴 | 产品专家（支付渠道） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64186/detail) |
-| 智谱AI | 国际销售实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7547559088360950067/detail) |
-| 智谱AI | 国际销售助理 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7546129451894950194/detail) |
-| 小米 | 零售主管-外派 · 校招 | 罗安达 / 约翰内斯堡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671117671589644571/detail) |
-| 小米 | 零售主管-俄语 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885937555638570/detail) |
-| 小米 | 销售运营-俄语 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670886600494270761/detail) |
-| 小米 | 销售运营-local · 校招 | 杜塞尔多夫 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934357804091686/detail) |
-| 小米 | 销售运营 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885879783147830/detail) |
-| 小米 | 销售管理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885563403340068/detail) |
-| 小米 | 电商销售运营-local · 校招 | 莫斯科 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935283243977011/detail) |
-| 小米 | 电商销售运营 · 校招 | 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885805251037446/detail) |
-| 小米 | 电商销售主管-local · 校招 | 米兰 / 杜塞尔多夫 / 马德里 / 伦敦 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934733808159022/detail) |
-| 小米 | 渠道零售阵地主管 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884875013310766/detail) |
-| 小米 | 渠道零售品类运营主管 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885138124982574/detail) |
-| 小米 | 渠道零售FF主管-local · 校招 | 波哥大 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935187111053578/detail) |
-| 小米 | 渠道零售FF主管 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885141824178458/detail) |
-| 小米 | 渠道销售主管-外派 · 校招 | 阿比让 / 拉各斯 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935430540593458/detail) |
-| 小米 | 渠道运营专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885336150460718/detail) |
-| 小米 | 渠道管理专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885964466768169/detail) |
-| 小米 | 新零售平台支持岗-local · 校招 | 布拉格直辖 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934099002935598/detail) |
-| 小米 | 新零售平台-俄语 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670886531393505577/detail) |
-| 小米 | 新零售平台-local · 校招 | 莫斯科 / 阿拉木图 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671117936485370150/detail) |
-| 小米 | 手机计划-Local · 校招 | 马尼拉 / 莫斯科 / 曼谷 / 胡志明 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935313682549001/detail) |
-| 小米 | 广告销售 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293003588143386/detail) |
-| 小米 | 广告销售 · 校招 | 新加坡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935343642741030/detail) |
 
 ---
 
@@ -554,6 +554,16 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 网易 | 音乐商务实习生（AI音乐方向） · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78396) |
+| 网易 | 商务助理实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78393) |
+| 爱奇艺 | 电影商务支持实习生 · 实习 | 北京 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7534546935148316971/detail) |
+| 滴滴 | 商务合作经理 - 贵州 · 校招 | 贵阳 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61688/detail) |
+| 小米 | 财务信息化解决方案专员实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7616940594250336554/detail) |
+| 小米 | 商务合作主管实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7650336835495741742/detail) |
+| 小米 | 商务助理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7530377350727336044/detail) |
+| 小米 | 商业化产品实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7654542562132445449/detail) |
+| 小米 | 商业化产品实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7415577637843714157/detail) |
+| 小米 | AI业务商务实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7663049245109750022/detail) |
 | 滴滴 | 钱包风控解决方案 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64878/detail) |
 | 滴滴 | 解决方案SA · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64877/detail) |
 | 滴滴 | 解决方案SA · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64905/detail) |
@@ -565,9 +575,7 @@
 | 滴滴 | 商务拓展经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63434/detail) |
 | 滴滴 | 商务拓展及运营经理 （网约公交方向） · 校招 | 广州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64982/detail) |
 | 滴滴 | 商务拓展专家 · 校招 | 天津 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63847/detail) |
-| 滴滴 | 商务拓展专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65138/detail) |
 | 滴滴 | 商务拓展专家 · 校招 | 武汉 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64363/detail) |
-| 滴滴 | 商务拓展-汕头 · 校招 | 汕头 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64752/detail) |
 | 滴滴 | 商务合作经理-内蒙古 · 校招 | 呼和浩特 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65856/detail) |
 | 滴滴 | 商务合作经理 - 东北 · 校招 | 哈尔滨 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64153/detail) |
 | 滴滴 | 商务合作经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63484/detail) |
@@ -580,11 +588,6 @@
 | 智谱AI | AI解决方案实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7615104295198050606/detail) |
 | 智谱AI | AI产品经理/解决方案实习生-厦门 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7595519424645400842/detail) |
 | 智谱AI | AI产品+解决方案实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7614090220368152874/detail) |
-| 小米 | 海外商业化运营 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293278901668132/detail) |
-| 小米 | 商务经理 · 校招 | 北京 / 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293337206933786/detail) |
-| 小米 | 商务拓展经理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885805262899499/detail) |
-| 小米 | 商业化产品运营 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923768931322163/detail) |
-| 小米 | 商业化产品经理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293010621778227/detail) |
 | 阿里巴巴 | 软件解决方案工程师 · 校招 | 杭州 / 上海 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907780046) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-音乐内容商务合作 · 校招 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907920002) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-演出商务拓展 · 校招 | 北京 / 杭州 / 上海 / 深圳 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908000004) |
@@ -611,9 +614,6 @@
 | 网易 | 海外商务实习生（AI方向） · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=65647) |
 | 网易 | 海外商务实习生 · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77455) |
 | 网易 | 易盾-售前解决方案实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77080) |
-| 网易 | 工作室商务实习生（云上工作室） · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78313) |
-| 网易 | 商务拓展实习生（可转正） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77979) |
-| 网易 | 商务助理实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77345) |
 
 ---
 
@@ -625,26 +625,20 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 小米 | 项目经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7645249852381268265/detail) |
+| 小米 | 项目经理-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7665689974457092371/detail) |
+| 小米 | 项目管理实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7628223021711853874/detail) |
+| 小米 | 项目管理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7657163588175857962/detail) |
+| 小米 | 软件项目经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7605478636774918436/detail) |
+| 小米 | 车联网项目经理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7524396173412958317/detail) |
+| 小米 | 嵌入式操作系统项目经理实习生-2027届 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675324312857856302/detail) |
+| 字节跳动 | 大模型PMO实习生 - Data AML · 实习 | 深圳 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677809080896293125/detail) |
+| 字节跳动 | 数据分析与项目管理实习生 - TikTok · 实习 | 北京 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677784499285428485/detail) |
 | 滴滴 | 高级项目经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65158/detail) |
 | 滴滴 | 高级项目经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62522/detail) |
 | 滴滴 | 资深硬件项目经理 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65299/detail) |
 | 滴滴 | 国际化项目管理（PMO） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65141/detail) |
 | 智谱AI | 项目经理实习生 · 实习 | 深圳 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7586983744834849051/detail) |
-| 小米 | 项目经理-汽车 · 校招 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918893741754675/detail) |
-| 小米 | 项目经理-基金会 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671489622266661174/detail) |
-| 小米 | 项目经理-local · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934501371054399/detail) |
-| 小米 | 项目经理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884217367021850/detail) |
-| 小米 | 软件项目经理-汽车 · 校招 | 北京 / 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670931328757680447/detail) |
-| 小米 | 软件项目经理 · 校招 | 武汉 / 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670890041496832266/detail) |
-| 小米 | 硬件项目经理 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670931227578632484/detail) |
-| 小米 | 相机项目经理 · 校招 | 北京 / 南京 / 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671295356038580522/detail) |
-| 小米 | 汽车软件项目经理 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670890452460489003/detail) |
-| 小米 | 本地化项目经理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292970372778303/detail) |
-| 小米 | 显示触控项目管理工程师 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671294870677440777/detail) |
-| 小米 | 技术规划项目管理-汽车 · 校招 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671294190080379146/detail) |
-| 小米 | 合规认证项目经理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885568703760678/detail) |
-| 小米 | 包材项目经理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885531078002954/detail) |
-| 小米 | NPI 项目经理-手机 · 校招 | 北京 / 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670891732023888155/detail) |
 | 阿里巴巴 | 项目管理 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907740092) |
 | 阿里巴巴 | 游戏美术项目管理 · 校招 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907740085) |
 | 阿里巴巴 | 日常实习生-研发项目管理-AI应用方向 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907680064) |
@@ -664,7 +658,6 @@
 | 百度 | 北京-数据中心项目管理工程师(J101185) · 校招 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/GRADUATE/257f5f71-cbdb-4628-87ab-23e6a821ea04) |
 | 百度 | 北京-产研项目管理(J100768) · 校招 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/GRADUATE/49e5f2c5-2790-4b20-902e-c20fbbf117f7) |
 | 爱奇艺 | 项目管理实习生（产品方向） · 实习 | 北京 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7671093397747697930/detail) |
-| 爱奇艺 | 配音管理实习生（英语） · 实习 | 重庆 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7413266377504950579/detail) |
 | 智元机器人 | 项目管理实习生 · 实习 | 上海 | 未知 | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7575019057390438692/detail) |
 | 智元机器人 | 软件项目经理实习生 · 实习 | 深圳 | 未知 | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7651498434209794354/detail) |
 | 智元机器人 | 软件项目经理-灵犀业务部 · 校招 | 深圳 | 未知 | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7662016205608536347/detail) |
@@ -685,6 +678,13 @@
 | 京东 | 产研项目管理 · 校招 | 北京 | 未知 | [投递](https://campus.jd.com/#/newDetails?publishId=9096) |
 | 京东 | 产研项目管理 · 实习 | 北京 / 深圳 / 成都 | 未知 | [投递](https://campus.jd.com/#/newDetails?publishId=4916) |
 | vivo | 硬件测试项目经理-27届秋招 · 校招 | 东莞 | 未知 | [投递](https://hr-campus.vivo.com/campus/detail?jobAdId=561282828) |
+| 腾讯 | 项目管理 · 校招 | 西安 / 深圳 / 北京 / 上海 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1282707379615819776) |
+| 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100930) |
+| 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1224696276592067584) |
+| 字节跳动 | 合规项目管理实习生 - TikTok Shop · 实习 | 上海 | 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676034052038936885/detail) |
+| 字节跳动 | 本地化项目管理实习生（小云雀Pippit） - 剪映CapCut · 实习 | 北京 | 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675257382511282485/detail) |
+| 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML · 实习 | 北京 | 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672746499483666741/detail) |
+| 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML · 实习 | 北京 | 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672617875840125237/detail) |
 
 ---
 
@@ -696,16 +696,7 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 小米 | 生产管理培训生-汽车工厂 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919733348305203/detail) |
-| 小米 | 新零售管培生-西语-外派 · 校招 | 圣地亚哥 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935478127986970/detail) |
-| 小米 | 新零售管培生-外派 · 校招 | 约翰内斯堡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935610878511410/detail) |
-| 小米 | 中国区-销售管培生 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129801244231982/detail) |
-| 小米 | 中国区-物流管培生 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292549434902811/detail) |
-| 小米 | 中国区-技术管培生 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291796579043627/detail) |
-| 小米 | 中国区-市场管培生 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129798714460470/detail) |
-| 小米 | 中国区-备件管培生 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7675291796579289387/detail) |
-| 小米 | 中国区-售后管培生 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292530737137963/detail) |
-| 小米 | New Retail Management Trainee-local · 校招 | 曼谷 / 东京 / 约翰内斯堡 / 巴塞罗那 / 迪拜 / 卡萨布兰卡 / 胡志明 / 巴黎 / 吉隆坡 / 杜塞尔多夫 / 马德里 / 伦敦 / 雅加达 / 马尼拉 / 新加坡 / 中国香港 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935050502998298/detail) |
+| 小米 | 新零售管培生实习生 · 实习 | 迪拜 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7593963411378243903/detail) |
 | 阿里巴巴 | 阿里云管培生-商业技术方向 · 校招 | 北京 / 杭州 / 上海 / 深圳 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907780029) |
 | 蚂蚁集团 | WF Business 业务增长管培生 · 校招 | 上海 / 深圳 | 未知 | [投递](https://talent.antgroup.com/campus-position?positionId=260721011008742) |
 | 蚂蚁集团 | OceanBase销售管培生（商业技术方向） · 校招 | 北京 / 上海 / 杭州 / 深圳 | 未知 | [投递](https://talent.antgroup.com/campus-position?positionId=260820011569212) |
@@ -756,6 +747,15 @@
 | 腾讯 | 腾讯云 ADP 产品培训生 · 校招 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506770) |
 | 腾讯 | 游戏发行/运营培训生 · 校招 | 深圳 / 上海 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1282032033786619905) |
 | 腾讯 | 游戏发行/运营培训生 · 实习 | 深圳 / 上海 / 成都 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1219751773724899328) |
+| 腾讯 | 游戏发行/运营培训生 · 实习 | 深圳 / 上海 / 澄迈县 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1227032278660950017) |
+| 腾讯 | 混元平台产品管培生 · 校招 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506760) |
+| 腾讯 | 混元AI应用产品管培生 · 校招 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506761) |
+| 腾讯 | 内容培训生-艺术创作方向（含AIGC） · 校招 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1283878504806818816) |
+| 腾讯 | 内容培训生-艺术创作方向（含AIGC） · 实习 | 深圳 / 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1229050258274030592) |
+| 腾讯 | 内容培训生-内容技术方向（含AIGC） · 实习 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1238177252446073856) |
+| 腾讯 | 内容培训生-内容创作及运营方向 · 实习 | 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1228857789737478144) |
+| 腾讯 | 内容培训生-内容创作及运营方向 · 实习 | 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1215999629615951872) |
+| 腾讯 | 元宝-AI搜索策略产品 · 校招 | 深圳 / 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1285066789650506766) |
 
 ---
 
@@ -767,6 +767,38 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 阿里巴巴 | AI视频导演/视频剪辑 实习生 · 实习 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199905780003) |
+| 爱奇艺 | 交互设计实习生 · 实习 | 上海 | 未知 | [投递](https://careers.iqiyi.com/intern/position/7665179429753604371/detail) |
+| 滴滴 | 高级UI视觉设计师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65965/detail) |
+| 滴滴 | 体验设计专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61133/detail) |
+| 滴滴 | 体验视觉设计师 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65852/detail) |
+| 滴滴 | AI设计工程师 / AI Design Technologist · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61923/detail) |
+| 智元机器人 | 设计实习生-人力资源部 · 实习 | 上海 | 未知 | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7480734568652212491/detail) |
+| 小红书 | 交易体验设计实习生 · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21870) |
+| 小米 | 设计实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7514625914963378284/detail) |
+| 小米 | 计算机视觉算法实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7631489236621183286/detail) |
+| 小米 | 视觉设计师实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7612468282264799494/detail) |
+| 小米 | 视觉设计师-实习 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7595763752453441818/detail) |
+| 小米 | 视觉设计实习生 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7571001994685958426/detail) |
+| 小米 | 视觉设计实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7563924374747793683/detail) |
+| 小米 | 视觉设计实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7563478037440104713/detail) |
+| 小米 | 视觉设计实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7537842909430726764/detail) |
+| 小米 | 视觉生成算法实习生-2027届 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7652175262894016778/detail) |
+| 小米 | 电机电磁设计工程师-实习-2027届 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7656752691511609638/detail) |
+| 小米 | 用户体验设计师实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7553107909829298441/detail) |
+| 小米 | 用户体验设计师 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675324653325256979/detail) |
+| 小米 | 深度学习视觉算法实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7538006915218358381/detail) |
+| 小米 | 技术美术 TA 实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660719255185590591/detail) |
+| 小米 | 性能与内存DFX设计实习生 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7621736273699588388/detail) |
+| 小米 | 定位建图算法设计师-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7662199192878418214/detail) |
+| 小米 | 体验设计师-2027届 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675576749086198057/detail) |
+| 小米 | 人因工程实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672982485626865958/detail) |
+| 小米 | UI设计实习生—上海 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7546126740533723244/detail) |
+| 小米 | UIUE实习生 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7571645010808359218/detail) |
+| 小米 | OTA系统设计工程师实习生 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7623671668795672875/detail) |
+| 小米 | AI产品经理实习生（摄影与视觉美学方向） · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7613346896761719059/detail) |
+| 哔哩哔哩 | Ai设计工程实习生 · 实习 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/30163) |
+| 字节跳动 | 豆包音乐设计实习生 - Data语音 · 实习 | 上海 | 今天 | [投递](https://jobs.bytedance.com/campus/position/7677831251039275269/detail) |
 | 滴滴 | 高级服务设计专员 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61113/detail) |
 | 滴滴 | 高级服务设计专员 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65004/detail) |
 | 滴滴 | 高级专家结构设计工程师 · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62803/detail) |
@@ -788,45 +820,13 @@
 | 滴滴 | 专家/架构设计工程师-资金平台 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61163/detail) |
 | 滴滴 | UI/UX设计师（人工智能方向） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65375/detail) |
 | 智谱AI | UX设计实习生 · 实习 | 深圳 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7533070961513449779/detail) |
-| 小米 | 车身电控子系统设计-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670914793260255514/detail) |
-| 小米 | 设计传播专员-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918704973334822/detail) |
-| 小米 | 视觉设计师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923684555016458/detail) |
-| 小米 | 芯片设计工程师-总线方向 · 校招 | 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670909880098916635/detail) |
-| 小米 | 芯片设计工程师-处理器集成方向 · 校招 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670910502419613962/detail) |
-| 小米 | 芯片设计工程师-SOC方向 · 校招 | 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670910149318904091/detail) |
-| 小米 | 芯片设计工程师-DDR方向 · 校招 | 西安 / 上海 / 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670910721584466226/detail) |
-| 小米 | 芯片设计工程师 · 校招 | 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129001520384319/detail) |
-| 小米 | 芯片设计实现工程师 · 校招 | 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129007186315547/detail) |
-| 小米 | 芯片物理设计工程师（AI方向） · 校招 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129267694897427/detail) |
-| 小米 | 芯片物理设计工程师 · 校招 | 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129267564677430/detail) |
-| 小米 | 芯片模拟设计工程师 · 校招 | 西安 / 上海 / 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129165291407658/detail) |
-| 小米 | 芯片封装设计工程师 · 校招 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129357704055103/detail) |
-| 小米 | 芯片DFT设计工程师 · 校招 | 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129305015159086/detail) |
-| 小米 | 电驱系统电机机械设计工程师-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293520091007268/detail) |
-| 小米 | 电池系统结构设计工程师-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670931641015437587/detail) |
-| 小米 | 电控制动设计发布工程师-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919405559761161/detail) |
-| 小米 | 用户体验设计师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670931317907425572/detail) |
-| 小米 | 热设计工程师-手机 · 校招 | 北京 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670891097451268406/detail) |
-| 小米 | 整车线束设计与发布工程师-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919624431995163/detail) |
-| 小米 | 数字设计师-汽车 · 校招 | 北京 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670920221837855027/detail) |
-| 小米 | 数字芯片设计工程师 · 校招 | 北京 / 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670905317728012570/detail) |
-| 小米 | 控制器结构设计工程师-汽车 · 校招 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919594529573146/detail) |
-| 小米 | 技术美术设计师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885169322707254/detail) |
-| 小米 | 工业设计师 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129684612794687/detail) |
-| 小米 | 射频模拟设计工程师 · 校招 | 北京 / 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670893348081027366/detail) |
-| 小米 | 处理器设计工程师 · 校招 | 北京 / 西安 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670910617801574665/detail) |
-| 小米 | 包装设计师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670890691862300938/detail) |
-| 小米 | 包装结构工程师-手机 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671294825320843570/detail) |
-| 小米 | 充电硬件设计工程师-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671294048838371610/detail) |
-| 小米 | 交互设计师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885425268410687/detail) |
-| 小米 | UI设计师 · 校招 | 北京 / 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885332691601706/detail) |
-| 小米 | SRAM设计工程师 · 校招 | 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129269266827563/detail) |
-| 小米 | SOC设计工程师 · 校招 | 西安 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670910435231303987/detail) |
-| 小米 | NPU芯片设计工程师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670906109528770862/detail) |
-| 小米 | ID设计师（汽车电子方向） · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670890824054786345/detail) |
-| 小米 | ID设计师-配件 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670891025368320283/detail) |
-| 小米 | ID设计师-电视 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670891149083494706/detail) |
-| 小米 | ID设计师-手机 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670891396471179539/detail) |
+| 阿里巴巴 | 面向大模型的实时交互式 AI Agent 系统架构研究-阿里星/A Star · 校招 | 北京 / 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907740113) |
+| 阿里巴巴 | 视频设计实习生 · 实习 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908040004) |
+| 阿里巴巴 | 视觉设计实习生 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907900007) |
+| 阿里巴巴 | 视觉生成算法实习生 · 实习 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199903900010) |
+| 阿里巴巴 | 虎鲸文娱娱跃班-少儿自制-美术 · 校招 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907920006) |
+| 阿里巴巴 | 虎鲸文娱-鲸英班-少儿内容创意策划（少儿动画方向） · 校招 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199903840017) |
+| 阿里巴巴 | 虎鲸文娱-鲸英班-AI美术设计&amp;视频制作（少儿动画方向） · 校招 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199903700025) |
 
 ---
 
@@ -834,13 +834,18 @@
 
 ## 🔍 岗位类别：用户研究
 
-最新展示 56 条。
+最新展示 60 条。
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 小米 | 软件用户研究实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673354349762742574/detail) |
+| 小米 | 用户研究工程师-实习 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7595093203621234986/detail) |
+| 小米 | 用户研究实习生 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7670798135215753508/detail) |
+| 小米 | 用户研究实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7668569543820445962/detail) |
+| 小米 | 小爱用户研究员实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7652283938221017380/detail) |
+| 小米 | 体验运营-用户研究方向 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675206003805849907/detail) |
 | 滴滴 | 用户研究专家——创新项目方向 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65615/detail) |
 | 智谱AI | 用户研究实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7572125479491651890/detail) |
-| 小米 | 产品经理（用户研究方向） · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670892057284348210/detail) |
 | 阿里巴巴 | 虎鲸文娱-鲸英班-用户研究实习生 · 实习 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199906900009) |
 | 阿里巴巴 | 日常实习生-产品经理-用户研究方向 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199905260006) |
 | 阿里巴巴 | AliExpress Global Stars-Local User Research Intern-U.S. · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904740003) |
@@ -886,14 +891,13 @@
 | 腾讯 | 用户研究 · 实习 | 深圳 / 北京 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1210646470286783490) |
 | 腾讯 | 游戏用户研究 · 实习 | 上海 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1227032116983141376) |
 | 腾讯 | 游戏用户研究 · 实习 | 深圳 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1257021174874167296) |
-| 字节跳动 | 用户研究分析师 - 经营办公室（用户研究） · 校招 | 上海 / 北京 | 27 天前 | [投递](https://jobs.bytedance.com/campus/position/7667609460127516933/detail) |
-| 字节跳动 | 用户研究实习生 - TikTok Shop · 实习 | 上海 | 59 天前 | [投递](https://jobs.bytedance.com/campus/position/7655589162951379253/detail) |
-| 字节跳动 | 调研工具产品实习生-经营办公室（用户研究） · 实习 | 深圳 | 147 天前 | [投递](https://jobs.bytedance.com/campus/position/7623018360788224309/detail) |
-| 字节跳动 | 用户研究实习生-TikTok · 实习 | 上海 | 180 天前 | [投递](https://jobs.bytedance.com/campus/position/7610628495240710453/detail) |
-| 字节跳动 | 用户研究实习生-经营办公室（用户研究） · 实习 | 北京 | 367 天前 | [投递](https://jobs.bytedance.com/campus/position/7541233422347798791/detail) |
-| 字节跳动 | 用户研究实习生-经营办公室（用户研究） · 实习 | 上海 | 378 天前 | [投递](https://jobs.bytedance.com/campus/position/7537237389146016018/detail) |
-| 字节跳动 | 用户研究实习生-经营办公室（用户研究） · 实习 | 上海 | 416 天前 | [投递](https://jobs.bytedance.com/campus/position/7523165171423168775/detail) |
-| 字节跳动 | 用户研究实习生-TikTok · 实习 | 上海 | 1236 天前 | [投递](https://jobs.bytedance.com/campus/position/7218839802317359419/detail) |
+| 字节跳动 | 用户研究分析师 - 经营办公室（用户研究） · 校招 | 上海 / 北京 | 28 天前 | [投递](https://jobs.bytedance.com/campus/position/7667609460127516933/detail) |
+| 字节跳动 | 用户研究实习生 - TikTok Shop · 实习 | 上海 | 60 天前 | [投递](https://jobs.bytedance.com/campus/position/7655589162951379253/detail) |
+| 字节跳动 | 调研工具产品实习生-经营办公室（用户研究） · 实习 | 深圳 | 148 天前 | [投递](https://jobs.bytedance.com/campus/position/7623018360788224309/detail) |
+| 字节跳动 | 用户研究实习生-TikTok · 实习 | 上海 | 181 天前 | [投递](https://jobs.bytedance.com/campus/position/7610628495240710453/detail) |
+| 字节跳动 | 用户研究实习生-经营办公室（用户研究） · 实习 | 北京 | 368 天前 | [投递](https://jobs.bytedance.com/campus/position/7541233422347798791/detail) |
+| 字节跳动 | 用户研究实习生 - AI创新业务 · 实习 | 上海 | 378 天前 | [投递](https://jobs.bytedance.com/campus/position/7537570891476994312/detail) |
+| 字节跳动 | 用户研究实习生-经营办公室（用户研究） · 实习 | 上海 | 379 天前 | [投递](https://jobs.bytedance.com/campus/position/7537237389146016018/detail) |
 
 ---
 
@@ -905,6 +909,35 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 美团 | 招聘实习生岗位-到餐 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4720332830&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 培训实习生 · 实习 | 上海 / 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4718717802&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 员工沟通与关怀实习生 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4688630032&amp;jobShareType=1&amp;highlightType=campus) |
+| 小红书 | HR实习生 · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/16985) |
+| 小米 | 海外招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7615914922379938091/detail) |
+| 小米 | 海外招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7588057126959139122/detail) |
+| 小米 | 海外招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7527247855557656684/detail) |
+| 小米 | 海外业务招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7615529265581410598/detail) |
+| 小米 | 校园招聘实习生 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673503496009009414/detail) |
+| 小米 | 招聘实习生-校园招聘方向 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7674987610020333866/detail) |
+| 小米 | 招聘实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675179709324658986/detail) |
+| 小米 | 招聘实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7646368869590337811/detail) |
+| 小米 | 招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675650040887609663/detail) |
+| 小米 | 招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7674960488404666650/detail) |
+| 小米 | 招聘实习生 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672329514538027315/detail) |
+| 小米 | 招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7529368968387510381/detail) |
+| 小米 | 招聘专员实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675919610021710106/detail) |
+| 小米 | 小米汽车-人力资源实习生-武汉 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7462244988559736941/detail) |
+| 小米 | 国际部招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7445141312175358060/detail) |
+| 小米 | 国际招聘实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7619229908720339210/detail) |
+| 小米 | 人力资源（应届生培训运营）实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7662222263982999817/detail) |
+| 小米 | 人力资源实习生-校园招聘方向 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7676304550390909211/detail) |
+| 小米 | 人力资源实习生-校园招聘方向 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7612529361765566774/detail) |
+| 小米 | 人力资源实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7469601070180794476/detail) |
+| 小米 | 人力资源专员-招聘方向 · 实习 | 深圳 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673392556142577956/detail) |
+| 小米 | 人力资源专员-招聘-实习 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7494180468439498860/detail) |
+| 小米 | HR招聘实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7669764575680760107/detail) |
+| 小米 | HRBP实习生 · 实习 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7677550484974127387/detail) |
+| 小米 | 27届招聘实习生-国际职能平台 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7469690121537847405/detail) |
 | 滴滴 | 高级招聘顾问 · 校招 | 上海 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65574/detail) |
 | 滴滴 | Senior TD Manager · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61569/detail) |
 | 滴滴 | People Analytics Manager · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61815/detail) |
@@ -915,16 +948,6 @@
 | 滴滴 | HRBP · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64748/detail) |
 | 滴滴 | Benefits Administration Manager · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61318/detail) |
 | 智谱AI | HR实习生（招聘方向） · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7514975395118614823/detail) |
-| 小米 | 人力资源专员-薪酬 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924149524023578/detail) |
-| 小米 | 人力资源专员-组织与人才发展 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924625261824265/detail) |
-| 小米 | 人力资源专员-招聘 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924303102052614/detail) |
-| 小米 | 人力资源专员-培训 · 校招 | 北京 / 南京 / 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924249989499142/detail) |
-| 小米 | 人力资源专员-国际招聘 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923881368996102/detail) |
-| 小米 | 人力资源专员-国际payroll · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923755846666532/detail) |
-| 小米 | 人力资源专员-国际ops · 校招 | 雅加达 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670935018223225124/detail) |
-| 小米 | 人力资源专员-国际ops · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924268314167571/detail) |
-| 小米 | 人力资源专员-SSC · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671128883530172718/detail) |
-| 小米 | 人力资源专员-HRBP · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924236890851638/detail) |
 | 阿里巴巴 | 灵犀互娱-HR实习生（项目执行方向） · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199903740035) |
 | 阿里巴巴 | 灵犀互娱-HR实习生(组织文化与运营方向) · 实习 | 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904800003) |
 | 阿里巴巴 | 千问-HR实习生-培训方向 · 实习 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908680005) |
@@ -946,25 +969,6 @@
 | 美团 | 小象超市-招聘实习生 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4168001862&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 人力资源实习生 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4684312822&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | Keeta-HR实习生（招聘） · 实习 | 深圳 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2955109555&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR招聘实习生-研发方向 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4062439004&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR招聘实习生 · 实习 | 北京 / 上海 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2927053230&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR招聘实习生 · 实习 | 深圳 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4611399961&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR实习生-招聘方向 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4494593401&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR实习生-招聘-简历寻访 · 实习 | 北京 / 杭州 / 上海 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4648648766&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR实习生 · 实习 | 成都 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4674414269&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR Ops Support · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4708149694&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | HR Intern-海外招聘实习生 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3716562469&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | AI组织转型 · 校招 | 北京 / 上海 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4694828828&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | AI智能学习 · 校招 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4694886973&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | AI招聘实习生 · 实习 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3405980682&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | AI招聘Builder · 校招 | 北京 / 上海 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695062216&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | AI Recruiting Builder · 校招 | 成都 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695078142&amp;jobShareType=1&amp;highlightType=campus) |
-| 网易 | 校招HR实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=6259) |
-| 网易 | 招聘实习生 · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=73579) |
-| 网易 | 招聘实习生 · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=76225) |
-| 网易 | 招聘实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77261) |
-| 网易 | 招聘实习生 · 实习 | 广州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=76560) |
-| 网易 | 招聘实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=75965) |
 
 ---
 
@@ -976,6 +980,40 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 美团 | 税务合规 · 实习 | 成都 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4718009811&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 党务实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78391) |
+| 滴滴 | 公共事务高级经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/63908/detail) |
+| 小红书 | 采购中台实习生（数据方向） · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21849) |
+| 小红书 | 电商财务分析实习生 · 实习 | 上海 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21848) |
+| 小米 | 项目申报专员实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7667044621037635867/detail) |
+| 小米 | 项目申报&amp;政策支持岗（实习生） · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7621150010131400998/detail) |
+| 小米 | 集团高招实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660413095655606579/detail) |
+| 小米 | 集团高招实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7621468340221315347/detail) |
+| 小米 | 集团高招实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7442231758018560108/detail) |
+| 小米 | 部门助理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7618546845396011273/detail) |
+| 小米 | 财务实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7674812939804133638/detail) |
+| 小米 | 财务专员实习生-2027届 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7668221928939538734/detail) |
+| 小米 | 行政专员-实习-2027届 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7655253254112987419/detail) |
+| 小米 | 翻译实习生（笔译） · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7616938982844320063/detail) |
+| 小米 | 税务专员实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675203116224055593/detail) |
+| 小米 | 监察专员-实习 · 实习 | 班加罗尔 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7560665299776637235/detail) |
+| 小米 | 电池工艺实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7512367948537151597/detail) |
+| 小米 | 海外电商运营财务实习生 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7633627111081068841/detail) |
+| 小米 | 法国财经实习-2027届 · 实习 | 巴黎 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7644752279828580658/detail) |
+| 小米 | 法务专员实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7555089560876632329/detail) |
+| 小米 | 法务专员-实习-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660078445531384115/detail) |
+| 小米 | 智驾安全与合规实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7626229557163051274/detail) |
+| 小米 | 技术规划部实习生 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673437787525433654/detail) |
+| 小米 | 技术合作经理-2027届 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7672574956165728518/detail) |
+| 小米 | 工签专员实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7675697109495990591/detail) |
+| 小米 | 学习发展实习生 · 实习 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7664441210504841514/detail) |
+| 小米 | 包装管理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7548287347839107180/detail) |
+| 小米 | 内控实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673336644220815643/detail) |
+| 小米 | 业务资金管理实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7661989141269629235/detail) |
+| 小米 | 业务资金管理实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7616938266046204166/detail) |
+| 小米 | Tax Compliance &amp; Accounting Intern, Vietnam · 实习 | 胡志明 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7673427096538335542/detail) |
+| 小米 | FPA分析专员实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7649344601431001387/detail) |
+| 哔哩哔哩 | bilibili技术采购实习生 · 实习 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/30173) |
 | 美团 | 法务岗(诉讼方向) · 校招 | 北京 / 重庆 / 上海 / 广州 / 武汉 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697314746&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 法务岗 · 校招 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695022677&amp;jobShareType=1&amp;highlightType=campus) |
 | 滴滴 | 风控产品专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62652/detail) |
@@ -1002,40 +1040,6 @@
 | 滴滴 | 医疗专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62135/detail) |
 | 滴滴 | 公共事务高级经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64468/detail) |
 | 滴滴 | 公共事务经理 · 校招 | 天津 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65874/detail) |
-| 滴滴 | 公共事务经理 · 校招 | 拉萨 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65854/detail) |
-| 滴滴 | 公共事务经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64464/detail) |
-| 滴滴 | 公共事务专家（深圳） · 校招 | 深圳 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62491/detail) |
-| 滴滴 | 公共事务专家（杭州） · 校招 | 杭州 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62490/detail) |
-| 滴滴 | 公共事务专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/65070/detail) |
-| 滴滴 | IBG Fintech Finance BP · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64421/detail) |
-| 滴滴 | Fintech财务经理（英文口语流利） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64707/detail) |
-| 智谱AI | 财务实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7581739856084011273/detail) |
-| 智谱AI | 法务实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7378148317522839845/detail) |
-| 小米 | 采购专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129707790240036/detail) |
-| 小米 | 部门助理 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918797347359022/detail) |
-| 小米 | 资金专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924049661331750/detail) |
-| 小米 | 财务分析专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923982602799396/detail) |
-| 小米 | 财务专员 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923755845798180/detail) |
-| 小米 | 行政专员 · 校招 | 武汉 / 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671291333982521627/detail) |
-| 小米 | 税务专员-转让定价 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923787223370034/detail) |
-| 小米 | 税务专员-国际税 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924155562592558/detail) |
-| 小米 | 税务专员-国内税 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923685701077275/detail) |
-| 小米 | 知识产权工程师-商标流程方向 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292350149691686/detail) |
-| 小米 | 海外产品合规工程师-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918893741246771/detail) |
-| 小米 | 法务专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292638209149220/detail) |
-| 小米 | 投后专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923941339580715/detail) |
-| 小米 | 成本管理专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923491008416019/detail) |
-| 小米 | 成本数据专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885336130177289/detail) |
-| 小米 | 小米汽车-技术采购工程师 · 校招 | 上海 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918927643691310/detail) |
-| 小米 | 安全合规工程师 · 校招 | 新加坡 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934932043516179/detail) |
-| 小米 | 安全合规工程师 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924387096971570/detail) |
-| 小米 | 安全事务专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671290558057777418/detail) |
-| 小米 | 国际法务专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293243661060402/detail) |
-| 小米 | 国内法规认证工程师-汽车 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918766142622003/detail) |
-| 小米 | 合同管理专员-西语 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885668138912036/detail) |
-| 小米 | 公共事务专员 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293133066488070/detail) |
-| 小米 | 中国区-汽车培训校招生 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7675292531886983475/detail) |
-| 小米 | 专利工程师 · 校招 | 武汉 / 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671290941668526363/detail) |
 
 > `发布于` 使用企业官方发布时间；来源未提供该字段时显示“未知”。
 
