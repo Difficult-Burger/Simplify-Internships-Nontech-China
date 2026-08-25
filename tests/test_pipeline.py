@@ -87,6 +87,8 @@ class ClassifyJobTest(unittest.TestCase):
         self.assertIsNone(classify_job("计算语言学实习生（ASR方向）", "运营"))
         self.assertIsNone(classify_job("资深开发工程师（骑手运营方向）", "运营"))
         self.assertIsNone(classify_job("AI芯片Linux平台软件工程师", "产品"))
+        self.assertIsNone(classify_job("游戏客户端工程师（Unity3D）【2027届】", "游戏"))
+        self.assertIsNone(classify_job("游戏服务端工程师【2027届】", "游戏"))
 
     def test_senior_social_roles_are_rejected(self) -> None:
         self.assertIsNone(classify_job("高级产品经理", "产品"))

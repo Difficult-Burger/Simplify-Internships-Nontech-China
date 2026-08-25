@@ -15,11 +15,11 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6773** 条在招岗位。
+当前收录 **6769** 条在招岗位。
 
 ### 按岗位类别浏览
 
-🧭 **[产品](#category-1)**（1464）
+🧭 **[产品](#category-1)**（1463）
 
 ⚙️ **[运营](#category-2)**（1992）
 
@@ -41,7 +41,7 @@
 
 🔍 **[用户研究](#category-11)**（67）
 
-🎮 **[游戏](#category-12)**（170）
+🎮 **[游戏](#category-12)**（167）
 
 🧑‍💼 **[HR](#category-13)**（434）
 
@@ -846,10 +846,7 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 哔哩哔哩 | 游戏服务端工程师【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29745) |
 | 哔哩哔哩 | 游戏战斗策划【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29705) |
-| 哔哩哔哩 | 游戏客户端工程师（Unity3D）【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29744) |
-| 哔哩哔哩 | 游戏客户端工程师（Unity3D/Unreal）【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29743) |
 | 哔哩哔哩 | 场景原画实习生 · 实习 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29066) |
 | 阿里巴巴 | 灵犀互娱-游戏战斗策划实习生（卡牌） · 实习 | 上海 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904460003) |
 | 阿里巴巴 | 游戏角色原画（国风二次元） · 校招 | 上海 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907620014) |
@@ -906,6 +903,9 @@
 | 网易 | 玩法策划实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78143) |
 | 网易 | 游戏项目实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=62800) |
 | 网易 | 游戏系统策划实习生（逆水寒端游） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=58770) |
+| 网易 | 游戏系统策划实习生（逆水寒手游） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=63192) |
+| 网易 | 游戏系统策划实习生（游戏性能与包体管理） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=75191) |
+| 网易 | 游戏系统策划实习生（永劫无间端游） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=70552) |
 
 ---
 

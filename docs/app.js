@@ -178,10 +178,22 @@ function applyFilters() {
 
 function updateSubcategoryOptions() {
   const category = $("#category").value;
+  const select = $("#subcategory");
+  if (!category) {
+    replaceOptions(select, "先选岗位类别", []);
+    select.disabled = true;
+    return;
+  }
   const values = unique(state.grouped
-    .filter((job) => !category || job.category === category)
+    .filter((job) => job.category === category)
     .map((job) => job.subcategory));
-  replaceOptions($("#subcategory"), "全部方向", values);
+  if (values.length <= 1) {
+    replaceOptions(select, "无需细分", []);
+    select.disabled = true;
+    return;
+  }
+  replaceOptions(select, "全部细分方向", values);
+  select.disabled = false;
 }
 
 function updateSourceStatus(companyName) {
