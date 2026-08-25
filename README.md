@@ -15,7 +15,7 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6769** 条在招岗位。
+当前收录 **6768** 条在招岗位。
 
 ### 按岗位类别浏览
 
@@ -25,7 +25,7 @@
 
 ✎ **[内容](#category-3)**（280）
 
-📣 **[市场](#category-4)**（442）
+📣 **[市场](#category-4)**（441）
 
 💼 **[销售](#category-5)**（223）
 
@@ -278,7 +278,6 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 美团 | 公共关系岗 · 校招 | 南京 / 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4694790935&amp;jobShareType=1&amp;highlightType=campus) |
 | 文远知行 | 市场公关实习生（广州） · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/a1b6b83c-841e-41cd-b31b-e28ece182f77) |
 | 文远知行 | 市场公关实习生 · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/0d5e154b-19f5-45ec-979b-70d1071ecc78) |
 | 快手 | 游戏投放优化师 · 校招 | 广州 / 杭州 | 未知 | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=68795d2f22d9452a9710a91c4aeaae48) |
@@ -338,6 +337,7 @@
 | 阿里巴巴 | 品牌营销实习生 · 实习 | 北京 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199906540001) |
 | 阿里巴巴 | 品牌营销-日韩市场 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904960002) |
 | 阿里巴巴 | 千问-市场营销实习生 · 实习 | 广州 / 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904120002) |
+| 阿里巴巴 | 公共关系专员 · 校招 | 杭州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907820070) |
 
 ---
 
