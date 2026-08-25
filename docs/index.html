@@ -30,18 +30,18 @@
         <div class="page-status"><span><i></i>每日更新</span><span id="updated-at">读取数据中…</span></div>
       </section>
 
-      <section class="filter-panel" aria-label="岗位筛选">
+      <section id="filter-panel" class="filter-panel" aria-label="岗位筛选">
         <label class="search-field">
           <span>关键词</span>
           <input id="search" type="search" placeholder="搜索岗位、公司或城市" autocomplete="off" />
         </label>
-        <label><span>岗位类别</span><select id="category"><option value="">全部类别</option></select></label>
-        <label><span>细分方向</span><select id="subcategory" disabled><option value="">先选岗位类别</option></select></label>
-        <label><span>招聘项目</span><select id="program"><option value="">全部项目</option></select></label>
-        <label><span>岗位标签</span><select id="tag"><option value="">全部标签</option></select></label>
-        <label><span>招聘类型</span><select id="stage"><option value="">实习 + 校招</option><option>实习</option><option>校招</option></select></label>
-        <label><span>城市</span><select id="city"><option value="">全部城市</option></select></label>
-        <label><span>公司</span><select id="company"><option value="">全部公司</option></select></label>
+        <div class="filter-field"><span>岗位类别</span><details id="category-filter" class="multi-filter"><summary id="category-summary">全部类别</summary><div id="category-options" class="option-panel"></div></details></div>
+        <div class="filter-field"><span>细分方向</span><details id="subcategory-filter" class="multi-filter is-disabled"><summary id="subcategory-summary">先选岗位类别</summary><div id="subcategory-options" class="option-panel"></div></details></div>
+        <div class="filter-field"><span>招聘项目</span><details id="program-filter" class="multi-filter"><summary id="program-summary">全部项目</summary><div id="program-options" class="option-panel"></div></details></div>
+        <div class="filter-field"><span>岗位标签</span><details id="tag-filter" class="multi-filter"><summary id="tag-summary">全部标签</summary><div id="tag-options" class="option-panel"></div></details></div>
+        <div class="filter-field"><span>招聘类型</span><details id="stage-filter" class="multi-filter"><summary id="stage-summary">全部类型</summary><div id="stage-options" class="option-panel"></div></details></div>
+        <div class="filter-field"><span>城市</span><details id="city-filter" class="multi-filter"><summary id="city-summary">全部城市</summary><div id="city-options" class="option-panel option-panel-wide"></div></details></div>
+        <div class="filter-field"><span>公司</span><details id="company-filter" class="multi-filter"><summary id="company-summary">全部公司</summary><div id="company-options" class="option-panel option-panel-wide"></div></details></div>
         <button id="reset" type="button">清空</button>
       </section>
       <p id="source-status" class="source-status" hidden></p>
