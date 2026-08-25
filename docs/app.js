@@ -1,4 +1,4 @@
-const filterKeys = ["category", "subcategory", "program", "tag", "stage", "city", "company"];
+const filterKeys = ["category", "subcategory", "program", "tag", "stage", "freshness", "city", "company"];
 const majorCities = ["北京", "上海", "深圳", "广州", "杭州", "成都", "南京", "武汉", "西安", "苏州"];
 const filterNames = {
   category: "岗位类别",
@@ -6,6 +6,7 @@ const filterNames = {
   program: "招聘项目",
   tag: "岗位标签",
   stage: "招聘类型",
+  freshness: "新鲜度",
   city: "城市",
   company: "公司",
 };
@@ -34,7 +35,8 @@ function matchesQuery(haystack, query) {
   return haystack.includes(query);
 }
 
-function timestamp(job) {
+function freshnessTimestamp(job) {
+  if (job.freshness_basis === "baseline") return 0;
   return Date.parse(job.published_at || job.first_seen_at || 0) || 0;
 }
 
@@ -48,10 +50,12 @@ function groupJobs(jobs) {
       groups.set(key, { ...job, duplicate_count: 1 });
     } else {
       current.duplicate_count += 1;
-      if (timestamp(job) > timestamp(current)) groups.set(key, { ...job, duplicate_count: current.duplicate_count });
+      if (freshnessTimestamp(job) > freshnessTimestamp(current)) {
+        groups.set(key, { ...job, duplicate_count: current.duplicate_count });
+      }
     }
   }
-  return [...groups.values()].sort((a, b) => timestamp(b) - timestamp(a));
+  return [...groups.values()].sort((a, b) => freshnessTimestamp(b) - freshnessTimestamp(a));
 }
 
 function chinaDate(value) {
@@ -67,11 +71,22 @@ function chinaDate(value) {
   }).format(new Date(value));
 }
 
-function ageLabel(job) {
-  if (!job.published_at) return "未知";
-  const days = Math.max(0, Math.floor((Date.now() - timestamp(job)) / 86400000));
-  if (days === 0) return "今天";
-  return days > 14 ? ">14 天前" : `${days} 天前`;
+function freshnessLabel(job) {
+  if (job.freshness_basis === "baseline") return "存量岗位";
+  const timestamp = freshnessTimestamp(job);
+  if (!timestamp) return "存量岗位";
+  const days = Math.max(0, Math.floor((Date.now() - timestamp) / 86400000));
+  const age = days === 0 ? "今天" : (days > 14 ? ">14 天前" : `${days} 天前`);
+  return job.freshness_basis === "official" ? `发布于 ${age}` : `新收录 ${age}`;
+}
+
+function confirmationLabel(job) {
+  const company = state.companies.find((item) => item.company === job.company);
+  if (company?.status === "抓取失败") return "本轮未确认";
+  const timestamp = Date.parse(job.last_seen_at || 0);
+  if (!timestamp) return "尚未确认";
+  const days = Math.max(0, Math.floor((Date.now() - timestamp) / 86400000));
+  return days === 0 ? "今日确认" : `${days} 天前确认`;
 }
 
 function pageNumbers(current, total) {
@@ -148,15 +163,16 @@ function render() {
   } else {
     list.innerHTML = jobs.map((job) => {
       const cities = (job.locations || []).join(" / ");
-      const age = ageLabel(job);
+      const freshness = freshnessLabel(job);
+      const confirmation = confirmationLabel(job);
       const tags = (job.tags || []).length ? ` · ${(job.tags || []).join(" / ")}` : "";
       const duplicate = job.duplicate_count > 1 ? `<span class="duplicate-note">合并 ${job.duplicate_count} 条发布</span>` : "";
       return `<article class="job">
         <div class="company">${escapeHtml(job.company)}</div>
-        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(age)}</div></div>
+        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(freshness)} · ${escapeHtml(confirmation)}</div></div>
         <div class="category-cell"><span class="tag">${escapeHtml(job.category)}</span><span class="direction">${escapeHtml(job.subcategory || job.category)}${escapeHtml(tags)}</span></div>
         <div class="location">${escapeHtml(cities)}</div>
-        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label">${escapeHtml(age)}</span></div>
+        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label">${escapeHtml(freshness)}</span><span class="confirmation">${escapeHtml(confirmation)}</span></div>
         <a class="apply" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer">投递 ↗</a>
       </article>`;
     }).join("");
@@ -170,6 +186,7 @@ const filterDefaults = {
   program: "全部项目",
   tag: "全部标签",
   stage: "全部类型",
+  freshness: "全部时间",
   city: "全部城市",
   company: "全部公司",
 };
@@ -238,7 +255,7 @@ function updateSubcategoryOptions() {
 function renderAllFilters() {
   renderMultiFilter("category", state.optionValues.category);
   updateSubcategoryOptions();
-  ["program", "tag", "stage", "city", "company"].forEach((key) => {
+  ["program", "tag", "stage", "freshness", "city", "company"].forEach((key) => {
     renderMultiFilter(key, state.optionValues[key]);
   });
 }
@@ -246,6 +263,18 @@ function renderAllFilters() {
 function selectedMatches(key, values) {
   const selected = state.selections[key];
   return selected.size === 0 || values.some((value) => selected.has(value));
+}
+
+function freshnessMatches(job) {
+  const selected = state.selections.freshness;
+  if (!selected.size) return true;
+  if (job.freshness_basis === "baseline") return selected.has("存量岗位");
+  const timestamp = freshnessTimestamp(job);
+  if (!timestamp) return selected.has("存量岗位");
+  const hours = Math.max(0, (Date.now() - timestamp) / 3600000);
+  return (selected.has("最近24小时") && hours <= 24)
+    || (selected.has("最近7天") && hours <= 24 * 7)
+    || (selected.has("最近14天") && hours <= 24 * 14);
 }
 
 function applyFilters() {
@@ -258,6 +287,7 @@ function applyFilters() {
       && selectedMatches("program", [job.program])
       && selectedMatches("tag", job.tags || [])
       && selectedMatches("stage", [job.stage])
+      && freshnessMatches(job)
       && selectedMatches("city", job.locations || [])
       && selectedMatches("company", [job.company]);
   });
@@ -317,6 +347,7 @@ async function boot() {
       program: unique(state.grouped.map((job) => job.program)),
       tag: unique(state.grouped.flatMap((job) => job.tags || [])),
       stage: unique(state.grouped.map((job) => job.stage)),
+      freshness: ["最近24小时", "最近7天", "最近14天", "存量岗位"],
       city: unique(state.grouped.flatMap((job) => job.locations || [])),
       company: unique(state.companies.map((company) => company.company)),
     };

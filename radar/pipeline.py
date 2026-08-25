@@ -51,6 +51,7 @@ REQUIRED_FIELDS = {
     "program",
     "tags",
     "published_at",
+    "freshness_basis",
     "first_seen_at",
     "last_seen_at",
     "url",
@@ -77,6 +78,7 @@ MONITORED_COMPANIES = [
     *[{"company": company.company, "source": company.source} for company in APPROVED_COMPANIES],
 ]
 VALID_STAGES = {"实习", "校招"}
+VALID_FRESHNESS_BASES = {"official", "discovered", "baseline"}
 
 
 def _now() -> str:
@@ -207,6 +209,8 @@ def _normalize(raw_jobs: list[dict[str, Any]], existing: list[dict[str, Any]]) -
             continue
         category, subcategory = details
         job_id = str(raw["id"])
+        previous = old_by_id.get(job_id, {})
+        freshness_basis = "official" if raw.get("published_at") else previous.get("freshness_basis", "discovered")
         normalized[job_id] = {
             **raw,
             "category": category,
@@ -214,14 +218,21 @@ def _normalize(raw_jobs: list[dict[str, Any]], existing: list[dict[str, Any]]) -
             "program": classify_program(title, str(raw.get("stage", ""))),
             "tags": classify_tags(title, raw_category),
             "locations": normalize_locations(raw.get("locations") or []),
-            "first_seen_at": old_by_id.get(job_id, {}).get("first_seen_at", now),
+            "freshness_basis": freshness_basis,
+            "first_seen_at": previous.get("first_seen_at", now),
             "last_seen_at": now,
         }
     return sorted(
         normalized.values(),
-        key=lambda job: (job.get("published_at") or job["first_seen_at"], job["company"], job["title"]),
+        key=lambda job: (_freshness_timestamp(job), job["company"], job["title"]),
         reverse=True,
     )
+
+
+def _freshness_timestamp(job: dict[str, Any]) -> str:
+    if job.get("freshness_basis") == "baseline":
+        return ""
+    return str(job.get("published_at") or job.get("first_seen_at") or "")
 
 
 def _write_json(path: Path, jobs: list[dict[str, Any]]) -> None:
@@ -283,10 +294,28 @@ def _age_label(job: dict[str, Any], now: datetime | None = None) -> str:
     return ">14 天前" if days > 14 else f"{days} 天前"
 
 
+def _freshness_label(job: dict[str, Any], now: datetime | None = None) -> str:
+    basis = job.get("freshness_basis")
+    if basis == "baseline":
+        return "存量岗位"
+    value = job.get("published_at") if basis == "official" else job.get("first_seen_at")
+    if not value:
+        return "存量岗位"
+    reference = now or datetime.now(UTC)
+    days = max(0, (reference - datetime.fromisoformat(str(value))).days)
+    age = "今天" if days == 0 else (">14 天前" if days > 14 else f"{days} 天前")
+    return f"发布于 {age}" if basis == "official" else f"新收录 {age}"
+
+
 def _readme_table(jobs: list[dict[str, Any]]) -> str:
-    rows = ["| 公司 | 岗位 | 城市 | 发布于 | 投递链接 |", "|---|---|---|---|---|"]
+    rows = ["| 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |", "|---|---|---|---|---|"]
     for job in jobs:
-        values = [job["company"], f"{job['title']} · {job['stage']}", " / ".join(job["locations"]), _age_label(job)]
+        values = [
+            job["company"],
+            f"{job['title']} · {job['stage']}",
+            " / ".join(job["locations"]),
+            _freshness_label(job),
+        ]
         safe = [html.escape(str(value)).replace("|", "\\|").replace("\n", " ") for value in values]
         safe_url = html.escape(str(job["url"]), quote=True)
         rows.append(f"| {' | '.join(safe)} | [投递]({safe_url}) |")
@@ -321,7 +350,7 @@ def _update_readme(jobs: list[dict[str, Any]]) -> None:
         f"\n\n当前收录 **{len(jobs)}** 条在招岗位。\n\n"
         f"### 按岗位类别浏览\n\n{links}\n\n---\n\n"
         f"{_readme_sections(jobs)}\n\n"
-        "> `发布于` 使用企业官方发布时间；来源未提供该字段时显示“未知”。\n\n"
+        "> `发布于` 使用企业官方时间；`新收录` 是本项目首次发现时间；首批批量导入显示为`存量岗位`。\n\n"
     )
     before, remainder = content.split(start, 1)
     _, after = remainder.split(end, 1)
@@ -345,6 +374,10 @@ def validate_data(jobs: list[dict[str, Any]] | None = None) -> None:
             errors.append(f"第 {index + 1} 条招聘类型无效: {job.get('stage')}")
         if not isinstance(job.get("tags"), list):
             errors.append(f"第 {index + 1} 条岗位标签格式无效")
+        if job.get("freshness_basis") not in VALID_FRESHNESS_BASES:
+            errors.append(f"第 {index + 1} 条新鲜度依据无效: {job.get('freshness_basis')}")
+        if job.get("published_at") and job.get("freshness_basis") != "official":
+            errors.append(f"第 {index + 1} 条有官方时间但新鲜度依据不是 official")
         source = str(job.get("source", ""))
         source_rule = SOURCE_RULES.get(source)
         if source_rule is None:
@@ -389,6 +422,9 @@ def build_outputs(jobs: list[dict[str, Any]] | None = None, successful_sources: 
         if not details:
             continue
         category, subcategory = details
+        freshness_basis = job.get("freshness_basis")
+        if freshness_basis not in VALID_FRESHNESS_BASES:
+            freshness_basis = "official" if job.get("published_at") else "baseline"
         rebuilt.append(
             {
                 **job,
@@ -396,10 +432,15 @@ def build_outputs(jobs: list[dict[str, Any]] | None = None, successful_sources: 
                 "subcategory": subcategory,
                 "program": classify_program(title, str(job.get("stage", ""))),
                 "tags": classify_tags(title, raw_category),
+                "freshness_basis": freshness_basis,
                 "locations": normalize_locations(job.get("locations") or []),
             }
         )
-    jobs = rebuilt
+    jobs = sorted(
+        rebuilt,
+        key=lambda job: (_freshness_timestamp(job), job["company"], job["title"]),
+        reverse=True,
+    )
     validate_data(jobs)
     _write_json(JOBS_JSON, jobs)
     _write_json(SITE_JSON, jobs)
@@ -462,7 +503,7 @@ def fetch_and_build(max_pages: int = 50) -> None:
         ]
         jobs = sorted(
             {job["id"]: job for job in [*jobs, *preserved]}.values(),
-            key=lambda job: (job.get("published_at") or job["first_seen_at"], job["company"], job["title"]),
+            key=lambda job: (_freshness_timestamp(job), job["company"], job["title"]),
             reverse=True,
         )
     build_outputs(jobs, successful_sources)
