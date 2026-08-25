@@ -15,7 +15,7 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6766** 条在招岗位。
+当前收录 **6773** 条在招岗位。
 
 ### 按岗位类别浏览
 
@@ -23,7 +23,7 @@
 
 ⚙️ **[运营](#category-2)**（1992）
 
-✎ **[内容](#category-3)**（279）
+✎ **[内容](#category-3)**（280）
 
 📣 **[市场](#category-4)**（442）
 
@@ -41,13 +41,13 @@
 
 🔍 **[用户研究](#category-11)**（67）
 
-🎮 **[游戏](#category-12)**（165）
+🎮 **[游戏](#category-12)**（170）
 
 🧑‍💼 **[HR](#category-13)**（434）
 
 🧾 **[财务](#category-14)**（93）
 
-⚖️ **[法务合规](#category-15)**（96）
+⚖️ **[法务合规](#category-15)**（97）
 
 📦 **[采购供应链](#category-16)**（166）
 
@@ -207,6 +207,7 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 哔哩哔哩 | 海外创作者生态实习生（日语方向） · 实习 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/28316) |
 | 网易 | 视频编导实习生 · 实习 | 上海 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78020) |
 | 小米 | 内容策划 · 校招 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129748432980230/detail) |
 | 米哈游 | 支付内容策略实习生（俄语方向） · 实习 | 上海 | 未知 | [投递](https://jobs.mihoyo.com/#/position/9383) |
@@ -266,7 +267,6 @@
 | 网易 | 二次元/AI抽象内容，运营实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=75341) |
 | 网易 | PUSH增长组实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=75275) |
 | 网易 | AI导演实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=76627) |
-| 网易 | AI创新增长运营实习生（内容策划方向） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78155) |
 
 ---
 
@@ -846,6 +846,11 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 哔哩哔哩 | 游戏服务端工程师【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29745) |
+| 哔哩哔哩 | 游戏战斗策划【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29705) |
+| 哔哩哔哩 | 游戏客户端工程师（Unity3D）【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29744) |
+| 哔哩哔哩 | 游戏客户端工程师（Unity3D/Unreal）【2027届】 · 校招 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29743) |
+| 哔哩哔哩 | 场景原画实习生 · 实习 | 上海 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29066) |
 | 阿里巴巴 | 灵犀互娱-游戏战斗策划实习生（卡牌） · 实习 | 上海 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904460003) |
 | 阿里巴巴 | 游戏角色原画（国风二次元） · 校招 | 上海 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907620014) |
 | 阿里巴巴 | 游戏角色原画（写实） · 校招 | 北京 / 广州 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907700018) |
@@ -901,11 +906,6 @@
 | 网易 | 玩法策划实习生 · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=78143) |
 | 网易 | 游戏项目实习生 · 实习 | 北京 | 未知 | [投递](https://hr.163.com/job-detail.html?id=62800) |
 | 网易 | 游戏系统策划实习生（逆水寒端游） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=58770) |
-| 网易 | 游戏系统策划实习生（逆水寒手游） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=63192) |
-| 网易 | 游戏系统策划实习生（游戏性能与包体管理） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=75191) |
-| 网易 | 游戏系统策划实习生（永劫无间端游） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=70552) |
-| 网易 | 游戏系统策划实习生（归唐） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=76824) |
-| 网易 | 游戏系统策划实习生（天谕） · 实习 | 杭州 | 未知 | [投递](https://hr.163.com/job-detail.html?id=77866) |
 
 ---
 
@@ -1059,6 +1059,7 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
+| 美团 | 法务岗 · 校招 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695022677&amp;jobShareType=1&amp;highlightType=campus) |
 | 百度 | 法律产品评估助理（J104013） · 校招 | 北京 | 未知 | [投递](https://talent.baidu.com/jobs/detail/INTERN/4138e014-825c-4dba-9aca-8b1f8479b126) |
 | 文远知行 | 安全合规工程师【2027届校招】 · 实习 | 地点未注明 | 未知 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/94c88b02-ebfb-49c8-89b3-c3bda270fb87) |
 | 小米 | 海外产品合规工程师-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918893741246771/detail) |
@@ -1118,7 +1119,6 @@
 | OPPO | 法务经理 · 校招 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1765) |
 | OPPO | 法务经理 · 实习 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1664) |
 | OPPO | 专利工程师 · 校招 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1796) |
-| OPPO | 专利工程师 · 实习 | 东莞 | 未知 | [投递](https://careers.oppo.com/#/campus/talent/positionDetail/1665) |
 
 ---
 
