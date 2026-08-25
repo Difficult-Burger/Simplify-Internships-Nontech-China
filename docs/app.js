@@ -71,13 +71,28 @@ function chinaDate(value) {
   }).format(new Date(value));
 }
 
+function relativeAge(timestamp) {
+  const hours = Math.max(0, (Date.now() - timestamp) / 3600000);
+  if (hours < 1) return "1 小时内";
+  if (hours < 24) return `${Math.floor(hours)} 小时前`;
+  const days = Math.floor(hours / 24);
+  return days > 14 ? ">14 天前" : `${days} 天前`;
+}
+
 function freshnessLabel(job) {
   if (job.freshness_basis === "baseline") return "存量岗位";
   const timestamp = freshnessTimestamp(job);
   if (!timestamp) return "存量岗位";
-  const days = Math.max(0, Math.floor((Date.now() - timestamp) / 86400000));
-  const age = days === 0 ? "今天" : (days > 14 ? ">14 天前" : `${days} 天前`);
+  const age = relativeAge(timestamp);
   return job.freshness_basis === "official" ? `发布于 ${age}` : `新收录 ${age}`;
+}
+
+function freshnessEvidence(job) {
+  if (job.freshness_basis === "baseline") return "项目首次上线时批量导入，官网未提供发布时间";
+  const value = job.freshness_basis === "official" ? job.published_at : job.first_seen_at;
+  const prefix = job.freshness_basis === "official" ? "企业官方接口发布时间" : "本项目首次收录时间";
+  const merged = job.duplicate_count > 1 ? "；合并岗位采用最新一条时间" : "";
+  return `${prefix}：${chinaDate(value)}${merged}`;
 }
 
 function confirmationLabel(job) {
@@ -85,8 +100,9 @@ function confirmationLabel(job) {
   if (company?.status === "抓取失败") return "本轮未确认";
   const timestamp = Date.parse(job.last_seen_at || 0);
   if (!timestamp) return "尚未确认";
-  const days = Math.max(0, Math.floor((Date.now() - timestamp) / 86400000));
-  return days === 0 ? "今日确认" : `${days} 天前确认`;
+  const hours = Math.max(0, (Date.now() - timestamp) / 3600000);
+  if (hours < 1) return "刚刚确认";
+  return `${relativeAge(timestamp)}确认`;
 }
 
 function pageNumbers(current, total) {
@@ -164,6 +180,7 @@ function render() {
     list.innerHTML = jobs.map((job) => {
       const cities = (job.locations || []).join(" / ");
       const freshness = freshnessLabel(job);
+      const evidence = freshnessEvidence(job);
       const confirmation = confirmationLabel(job);
       const tags = (job.tags || []).length ? ` · ${(job.tags || []).join(" / ")}` : "";
       const duplicate = job.duplicate_count > 1 ? `<span class="duplicate-note">合并 ${job.duplicate_count} 条发布</span>` : "";
@@ -172,7 +189,7 @@ function render() {
         <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(freshness)} · ${escapeHtml(confirmation)}</div></div>
         <div class="category-cell"><span class="tag">${escapeHtml(job.category)}</span><span class="direction">${escapeHtml(job.subcategory || job.category)}${escapeHtml(tags)}</span></div>
         <div class="location">${escapeHtml(cities)}</div>
-        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label">${escapeHtml(freshness)}</span><span class="confirmation">${escapeHtml(confirmation)}</span></div>
+        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span><span class="confirmation">${escapeHtml(confirmation)}</span></div>
         <a class="apply" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer">投递 ↗</a>
       </article>`;
     }).join("");

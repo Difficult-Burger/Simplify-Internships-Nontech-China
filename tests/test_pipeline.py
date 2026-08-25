@@ -149,6 +149,11 @@ class ClassifyJobTest(unittest.TestCase):
         self.assertEqual(_freshness_label(discovered, now), "新收录 1 天前")
         self.assertEqual(_freshness_label(baseline, now), "存量岗位")
 
+    def test_freshness_label_uses_hours_across_midnight(self) -> None:
+        job = {"freshness_basis": "official", "published_at": "2026-08-25T14:22:09+00:00"}
+        now = datetime(2026, 8, 25, 20, 23, tzinfo=UTC)
+        self.assertEqual(_freshness_label(job, now), "发布于 6 小时前")
+
     def test_normalize_preserves_baseline_and_marks_new_discoveries(self) -> None:
         existing = [
             {
