@@ -4,7 +4,9 @@ from datetime import UTC, datetime
 from radar.pipeline import (
     _age_label,
     _company_manifest,
+    _freshness_label,
     _is_suspicious_source_drop,
+    _normalize,
     classify_job,
     classify_job_details,
     classify_program,
@@ -113,6 +115,7 @@ class ClassifyJobTest(unittest.TestCase):
             "program": "实习招聘",
             "tags": [],
             "published_at": "",
+            "freshness_basis": "baseline",
             "first_seen_at": "2026-08-24T00:00:00+00:00",
             "last_seen_at": "2026-08-24T01:00:00+00:00",
             "url": "https://example.com/job/1",
@@ -136,6 +139,39 @@ class ClassifyJobTest(unittest.TestCase):
     def test_age_label_does_not_present_discovery_as_publish_time(self) -> None:
         job = {"published_at": "", "first_seen_at": "2026-08-24T00:00:00+00:00"}
         self.assertEqual(_age_label(job), "未知")
+
+    def test_freshness_labels_distinguish_time_semantics(self) -> None:
+        now = datetime(2026, 8, 24, tzinfo=UTC)
+        official = {"freshness_basis": "official", "published_at": "2026-08-20T00:00:00+00:00"}
+        discovered = {"freshness_basis": "discovered", "first_seen_at": "2026-08-23T00:00:00+00:00"}
+        baseline = {"freshness_basis": "baseline", "first_seen_at": "2026-08-24T00:00:00+00:00"}
+        self.assertEqual(_freshness_label(official, now), "发布于 4 天前")
+        self.assertEqual(_freshness_label(discovered, now), "新收录 1 天前")
+        self.assertEqual(_freshness_label(baseline, now), "存量岗位")
+
+    def test_normalize_preserves_baseline_and_marks_new_discoveries(self) -> None:
+        existing = [
+            {
+                "id": "old",
+                "first_seen_at": "2026-08-24T00:00:00+00:00",
+                "freshness_basis": "baseline",
+            }
+        ]
+        common = {
+            "company": "示例公司",
+            "title": "产品经理实习生",
+            "raw_category": "产品",
+            "locations": ["北京"],
+            "stage": "实习",
+            "published_at": "",
+            "url": "https://example.com/job",
+            "source": "示例招聘",
+        }
+        jobs = _normalize([{**common, "id": "old"}, {**common, "id": "new"}], existing)
+        by_id = {job["id"]: job for job in jobs}
+        self.assertEqual(by_id["old"]["freshness_basis"], "baseline")
+        self.assertEqual(by_id["old"]["first_seen_at"], "2026-08-24T00:00:00+00:00")
+        self.assertEqual(by_id["new"]["freshness_basis"], "discovered")
 
     def test_company_manifest_distinguishes_source_states(self) -> None:
         jobs = [{"source": "字节跳动招聘"}]
