@@ -1,4 +1,14 @@
 const filterKeys = ["category", "subcategory", "program", "tag", "stage", "city", "company"];
+const majorCities = ["北京", "上海", "深圳", "广州", "杭州", "成都", "南京", "武汉", "西安", "苏州"];
+const filterNames = {
+  category: "岗位类别",
+  subcategory: "细分方向",
+  program: "招聘项目",
+  tag: "岗位标签",
+  stage: "招聘类型",
+  city: "城市",
+  company: "公司",
+};
 const state = {
   jobs: [],
   companies: [],
@@ -171,6 +181,30 @@ function updateFilterSummary(key) {
     : selected.length === 1 ? selected[0] : `已选 ${selected.length} 项`;
 }
 
+function optionChoices(key, values) {
+  return values.map((value) => `<label class="option-choice">
+    <input type="checkbox" data-filter="${key}" value="${escapeHtml(value)}" ${state.selections[key].has(value) ? "checked" : ""}>
+    <span>${escapeHtml(value)}</span>
+  </label>`).join("");
+}
+
+function optionGroup(key, label, values) {
+  if (!values.length) return "";
+  return `<section class="option-group" data-option-group>
+    ${label ? `<h4>${escapeHtml(label)}</h4>` : ""}
+    <div class="option-grid">${optionChoices(key, values)}</div>
+  </section>`;
+}
+
+function optionPanel(key, values) {
+  const search = `<input class="option-search" type="search" data-option-search="${key}" aria-label="搜索${filterNames[key]}选项" placeholder="搜索${filterNames[key]}" autocomplete="off">`;
+  if (key !== "city") return search + optionGroup(key, "", values);
+  const available = new Set(values);
+  const popular = majorCities.filter((city) => available.has(city));
+  const other = values.filter((city) => !majorCities.includes(city));
+  return search + optionGroup(key, "热门城市", popular) + optionGroup(key, "其他城市", other);
+}
+
 function renderMultiFilter(key, values, disabledLabel = "") {
   const details = $(`#${key}-filter`);
   const options = $(`#${key}-options`);
@@ -185,10 +219,7 @@ function renderMultiFilter(key, values, disabledLabel = "") {
     return;
   }
   details.classList.remove("is-disabled");
-  options.innerHTML = values.map((value) => `<label class="option-choice">
-    <input type="checkbox" data-filter="${key}" value="${escapeHtml(value)}" ${state.selections[key].has(value) ? "checked" : ""}>
-    <span>${escapeHtml(value)}</span>
-  </label>`).join("");
+  options.innerHTML = optionPanel(key, values);
   updateFilterSummary(key);
 }
 
@@ -252,6 +283,20 @@ function updateSourceStatus() {
   element.textContent = message ? `${company.company}：${message}` : "";
 }
 
+function searchFilterOptions(input) {
+  const query = input.value.trim().toLocaleLowerCase("zh-CN");
+  const panel = input.closest(".option-panel");
+  panel.querySelectorAll("[data-option-group]").forEach((group) => {
+    let visible = 0;
+    group.querySelectorAll(".option-choice").forEach((choice) => {
+      const matches = !query || choice.textContent.toLocaleLowerCase("zh-CN").includes(query);
+      choice.hidden = !matches;
+      if (matches) visible += 1;
+    });
+    group.hidden = visible === 0;
+  });
+}
+
 async function boot() {
   try {
     const [jobsResponse, companiesResponse] = await Promise.all([
@@ -284,6 +329,10 @@ async function boot() {
 }
 
 $("#search").addEventListener("input", applyFilters);
+$("#filter-panel").addEventListener("input", (event) => {
+  const input = event.target.closest("input[data-option-search]");
+  if (input) searchFilterOptions(input);
+});
 $("#filter-panel").addEventListener("change", (event) => {
   const input = event.target.closest("input[data-filter]");
   if (!input) return;
