@@ -95,16 +95,6 @@ function freshnessEvidence(job) {
   return `${prefix}：${chinaDate(value)}${merged}`;
 }
 
-function confirmationLabel(job) {
-  const company = state.companies.find((item) => item.company === job.company);
-  if (company?.status === "抓取失败") return "本轮未确认";
-  const timestamp = Date.parse(job.last_seen_at || 0);
-  if (!timestamp) return "尚未确认";
-  const hours = Math.max(0, (Date.now() - timestamp) / 3600000);
-  if (hours < 1) return "刚刚确认";
-  return `${relativeAge(timestamp)}确认`;
-}
-
 function pageNumbers(current, total) {
   const pages = new Set([1, total]);
   for (let page = current - 2; page <= current + 2; page += 1) {
@@ -181,15 +171,14 @@ function render() {
       const cities = (job.locations || []).join(" / ");
       const freshness = freshnessLabel(job);
       const evidence = freshnessEvidence(job);
-      const confirmation = confirmationLabel(job);
       const tags = (job.tags || []).length ? ` · ${(job.tags || []).join(" / ")}` : "";
       const duplicate = job.duplicate_count > 1 ? `<span class="duplicate-note">合并 ${job.duplicate_count} 条发布</span>` : "";
       return `<article class="job">
         <div class="company">${escapeHtml(job.company)}</div>
-        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(freshness)} · ${escapeHtml(confirmation)}</div></div>
+        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(freshness)}</div></div>
         <div class="category-cell"><span class="tag">${escapeHtml(job.category)}</span><span class="direction">${escapeHtml(job.subcategory || job.category)}${escapeHtml(tags)}</span></div>
         <div class="location">${escapeHtml(cities)}</div>
-        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span><span class="confirmation">${escapeHtml(confirmation)}</span></div>
+        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span></div>
         <a class="apply" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer">投递 ↗</a>
       </article>`;
     }).join("");
@@ -423,3 +412,6 @@ window.addEventListener("popstate", () => {
   setPage(page, false);
 });
 boot();
+setInterval(() => {
+  if (state.jobs.length) render();
+}, 60000);

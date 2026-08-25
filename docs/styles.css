@@ -72,7 +72,7 @@ h1 { margin: 0; font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC"
 .direction { display: block; margin-top: 3px; color: var(--muted); font-size: 10px; }
 .location, .timing, .compact-meta { color: #4d5650; font-size: 11px; line-height: 1.4; }
 .stage { color: var(--ink); font-weight: 650; }
-.time-label, .confirmation { display: block; margin-top: 2px; color: var(--muted); font-size: 10px; }
+.time-label { display: block; margin-top: 2px; color: var(--muted); font-size: 10px; }
 .time-label[title] { cursor: help; text-decoration: underline dotted; text-underline-offset: 2px; }
 .compact-meta { display: none; margin-top: 5px; color: var(--muted); }
 .apply { justify-self: end; color: var(--accent); text-decoration: none; font-size: 12px; font-weight: 700; white-space: nowrap; }
