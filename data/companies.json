@@ -134,5 +134,85 @@
   {
     "company": "银河通用",
     "source": "银河通用招聘"
+  },
+  {
+    "company": "哈啰",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "SHEIN",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "得物",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "知乎",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "安克创新",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "大疆",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "影石创新",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "传音",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "作业帮",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "猿辅导",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "莉莉丝",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "叠纸游戏",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "沐瞳科技",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "完美世界",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "小马智行",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
+  },
+  {
+    "company": "元戎启行",
+    "source": "待接入官方招聘源",
+    "status": "待接入"
   }
 ]
