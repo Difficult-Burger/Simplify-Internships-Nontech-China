@@ -302,8 +302,14 @@ def _freshness_label(job: dict[str, Any], now: datetime | None = None) -> str:
     if not value:
         return "存量岗位"
     reference = now or datetime.now(UTC)
-    days = max(0, (reference - datetime.fromisoformat(str(value))).days)
-    age = "今天" if days == 0 else (">14 天前" if days > 14 else f"{days} 天前")
+    hours = max(0, int((reference - datetime.fromisoformat(str(value))).total_seconds() // 3600))
+    days = hours // 24
+    if hours == 0:
+        age = "1 小时内"
+    elif hours < 24:
+        age = f"{hours} 小时前"
+    else:
+        age = ">14 天前" if days > 14 else f"{days} 天前"
     return f"发布于 {age}" if basis == "official" else f"新收录 {age}"
 
 
