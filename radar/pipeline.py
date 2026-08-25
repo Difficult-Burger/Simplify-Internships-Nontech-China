@@ -9,7 +9,9 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
+from radar.company_pool import APPROVED_COMPANIES
 from radar.config import CATEGORIES, CATEGORY_KEYWORDS, TECHNICAL_TITLE_KEYWORDS
+from radar.job_pro_sources import fetch_approved_companies
 from radar.sources import fetch_bytedance, fetch_tencent
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -33,8 +35,9 @@ REQUIRED_FIELDS = {
     "source",
 }
 SOURCE_RULES = {
-    "字节跳动招聘": {"company": "字节跳动", "host": "jobs.bytedance.com"},
-    "腾讯校招": {"company": "腾讯", "host": "join.qq.com"},
+    "字节跳动招聘": {"company": "字节跳动", "hosts": ("jobs.bytedance.com",)},
+    "腾讯校招": {"company": "腾讯", "hosts": ("join.qq.com",)},
+    **{company.source: {"company": company.company, "hosts": company.hosts} for company in APPROVED_COMPANIES},
 }
 VALID_STAGES = {"实习", "校招"}
 
@@ -82,8 +85,42 @@ def classify_job(title: str, raw_category: str) -> str | None:
 def normalize_locations(locations: list[str]) -> list[str]:
     """Split source-specific multi-city strings into stable city filters."""
     pieces = [piece for location in locations for piece in re.split(r"[\s/,，、|]+", location) if piece]
-    normalized = ["深圳" if piece == "深圳总部" else piece for piece in pieces]
+    normalized = [_normalize_location_piece(piece) for piece in pieces]
     return list(dict.fromkeys(normalized)) or ["地点未注明"]
+
+
+def _normalize_location_piece(location: str) -> str:
+    location = location.strip()
+    aliases = {
+        "深圳总部": "深圳",
+        "香港": "中国香港",
+        "香港特别行政区": "中国香港",
+        "中国-香港特别行政区": "中国香港",
+        "海淀区": "北京",
+        "拱墅区": "杭州",
+        "其他": "地点未注明",
+        "其它": "地点未注明",
+    }
+    if location in aliases:
+        return aliases[location]
+    parts = [part for part in re.split(r"[-·]", location) if part]
+    city_parts = [part for part in parts if part.endswith("市")]
+    if city_parts:
+        location = city_parts[-1]
+    elif len(parts) > 1:
+        location = parts[-1]
+    for municipality in ("北京", "上海", "天津", "重庆"):
+        if municipality in location:
+            return municipality
+    if location.endswith("市"):
+        location = location[:-1]
+    if location.endswith("特别行政区"):
+        location = location.removesuffix("特别行政区")
+    if location == "香港":
+        return "中国香港"
+    if location.endswith("省"):
+        location = location[:-1]
+    return location or "地点未注明"
 
 
 def _is_suspicious_source_drop(previous_count: int, current_count: int) -> bool:
@@ -213,7 +250,7 @@ def validate_data(jobs: list[dict[str, Any]] | None = None) -> None:
         else:
             if job.get("company") != source_rule["company"]:
                 errors.append(f"第 {index + 1} 条公司与来源不匹配: {job.get('company')} / {source}")
-            if urlparse(str(job.get("url", ""))).netloc != source_rule["host"]:
+            if urlparse(str(job.get("url", ""))).netloc not in source_rule["hosts"]:
                 errors.append(f"第 {index + 1} 条申请域名与来源不匹配: {job.get('url')}")
         if not isinstance(job.get("locations"), list) or not all(job.get("locations", [])):
             errors.append(f"第 {index + 1} 条城市格式无效: {job.get('locations')}")
@@ -277,6 +314,19 @@ def fetch_and_build(max_pages: int = 50) -> None:
         except RuntimeError as error:
             failures.append(str(error))
             print(f"{name}：抓取失败，{error}")
+
+    job_pro_groups, job_pro_failures = fetch_approved_companies(max_pages=max_pages)
+    failures.extend(job_pro_failures)
+    for source_label, source_jobs in job_pro_groups.items():
+        previous_count = sum(job.get("source") == source_label for job in existing)
+        if _is_suspicious_source_drop(previous_count, len(source_jobs)):
+            failures.append(f"{source_label} 返回量异常下降：上一版 {previous_count} 条，本次 {len(source_jobs)} 条")
+            continue
+        raw_jobs.extend(source_jobs)
+        successful_sources.add(source_label)
+        print(f"{source_label}：抓取 {len(source_jobs)} 个早期职业岗位")
+    for failure in job_pro_failures:
+        print(f"扩展公司抓取失败：{failure}")
     if not raw_jobs:
         raise RuntimeError("所有官方数据源均抓取失败；保留已有数据，未覆盖输出。")
     jobs = _normalize(raw_jobs, existing)

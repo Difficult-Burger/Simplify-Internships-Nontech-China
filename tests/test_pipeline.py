@@ -25,6 +25,12 @@ class ClassifyJobTest(unittest.TestCase):
     def test_multi_city_source_text_is_split(self) -> None:
         self.assertEqual(normalize_locations(["深圳总部 北京 / 上海、广州"]), ["深圳", "北京", "上海", "广州"])
 
+    def test_province_city_district_formats_are_normalized(self) -> None:
+        self.assertEqual(
+            normalize_locations(["北京市-北京市-房山区 / 广东省-深圳市 / 香港特别行政区"]),
+            ["北京", "深圳", "中国香港"],
+        )
+
     def test_legitimate_nontech_edge_cases_are_kept(self) -> None:
         cases = {
             "PR实习生": "市场",
