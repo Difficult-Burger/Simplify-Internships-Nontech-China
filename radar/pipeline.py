@@ -10,9 +10,26 @@ from typing import Any
 from urllib.parse import urlparse
 
 from radar.company_pool import APPROVED_COMPANIES, PENDING_COMPANIES
-from radar.config import CATEGORIES, CATEGORY_KEYWORDS, TECHNICAL_TITLE_KEYWORDS
+from radar.config import (
+    CATEGORIES,
+    CLASSIFICATION_RULES,
+    EARLY_CAREER_TITLE_KEYWORDS,
+    JOB_TAG_KEYWORDS,
+    RAW_CATEGORY_DEFAULTS,
+    SENIOR_TITLE_KEYWORDS,
+    TECHNICAL_RAW_CATEGORY_KEYWORDS,
+    TECHNICAL_TITLE_KEYWORDS,
+)
 from radar.job_pro_sources import fetch_approved_companies
-from radar.sources import fetch_bytedance, fetch_momenta, fetch_sensetime, fetch_tencent
+from radar.sources import (
+    fetch_bytedance,
+    fetch_lilith,
+    fetch_momenta,
+    fetch_moonton,
+    fetch_papegames,
+    fetch_sensetime,
+    fetch_tencent,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 JOBS_JSON = ROOT / "data" / "jobs.json"
@@ -27,9 +44,12 @@ REQUIRED_FIELDS = {
     "company",
     "title",
     "category",
+    "subcategory",
     "raw_category",
     "locations",
     "stage",
+    "program",
+    "tags",
     "published_at",
     "first_seen_at",
     "last_seen_at",
@@ -41,6 +61,9 @@ SOURCE_RULES = {
     "腾讯校招": {"company": "腾讯", "hosts": ("join.qq.com",)},
     "Momenta招聘": {"company": "Momenta", "hosts": ("momenta.jobs.feishu.cn",)},
     "商汤招聘": {"company": "商汤", "hosts": ("hr-jobs.sensetime.com",)},
+    "莉莉丝招聘": {"company": "莉莉丝", "hosts": ("lilithgames.jobs.feishu.cn",)},
+    "叠纸游戏招聘": {"company": "叠纸游戏", "hosts": ("career.papegames.com",)},
+    "沐瞳科技招聘": {"company": "沐瞳科技", "hosts": ("moonton.jobs.feishu.cn",)},
     **{company.source: {"company": company.company, "hosts": company.hosts} for company in APPROVED_COMPANIES},
 }
 MONITORED_COMPANIES = [
@@ -48,14 +71,10 @@ MONITORED_COMPANIES = [
     {"company": "腾讯", "source": "腾讯校招"},
     {"company": "Momenta", "source": "Momenta招聘"},
     {"company": "商汤", "source": "商汤招聘"},
+    {"company": "莉莉丝", "source": "莉莉丝招聘"},
+    {"company": "叠纸游戏", "source": "叠纸游戏招聘"},
+    {"company": "沐瞳科技", "source": "沐瞳科技招聘"},
     *[{"company": company.company, "source": company.source} for company in APPROVED_COMPANIES],
-]
-COMPANY_POOL = [
-    *MONITORED_COMPANIES,
-    *[
-        {"company": company, "source": "待接入官方招聘源", "status": "待接入"}
-        for company in PENDING_COMPANIES
-    ],
 ]
 VALID_STAGES = {"实习", "校招"}
 
@@ -71,33 +90,53 @@ def _contains(text: str, keyword: str) -> bool:
 
 
 def classify_job(title: str, raw_category: str) -> str | None:
-    """Map an official title/category to one of the public non-tech categories."""
+    """Map an official title/category to one public non-tech category."""
+    details = classify_job_details(title, raw_category)
+    return details[0] if details else None
+
+
+def classify_job_details(title: str, raw_category: str) -> tuple[str, str] | None:
+    """Return the public first-level category and second-level direction."""
     title_text = title.casefold()
     raw_text = raw_category.casefold()
-    if any(keyword in title_text for keyword in TECHNICAL_TITLE_KEYWORDS):
+    if any(keyword.casefold() in title_text for keyword in TECHNICAL_TITLE_KEYWORDS):
         return None
-    for category, keywords in CATEGORY_KEYWORDS.items():
+    if any(keyword.casefold() in raw_text for keyword in TECHNICAL_RAW_CATEGORY_KEYWORDS):
+        return None
+    has_senior_title = any(keyword.casefold() in title_text for keyword in SENIOR_TITLE_KEYWORDS)
+    has_early_career_title = any(keyword.casefold() in title_text for keyword in EARLY_CAREER_TITLE_KEYWORDS) or bool(
+        re.search(r"20\d{2}届", title_text)
+    )
+    if has_senior_title and not has_early_career_title:
+        return None
+    for category, subcategory, keywords in CLASSIFICATION_RULES:
         if any(_contains(title_text, keyword.casefold()) for keyword in keywords):
-            return category
-    for category, keywords in CATEGORY_KEYWORDS.items():
+            return category, subcategory
+    for category, subcategory, keywords in CLASSIFICATION_RULES:
         if any(_contains(raw_text, keyword.casefold()) for keyword in keywords):
-            return category
+            return category, subcategory
+    return next(
+        ((category, subcategory) for token, category, subcategory in RAW_CATEGORY_DEFAULTS if token in raw_category),
+        None,
+    )
 
-    raw_defaults = {
-        "产品": "产品",
-        "运营": "运营",
-        "数据分析": "商业分析",
-        "市场": "市场",
-        "PR": "市场",
-        "销售": "销售",
-        "设计": "设计",
-        "策划": "产品",
-        "人力": "HR",
-        "职能": "职能",
-        "内审": "职能",
-        "IT支持": "职能",
-    }
-    return next((category for token, category in raw_defaults.items() if token in raw_category), None)
+
+def classify_program(title: str, stage: str) -> str:
+    text = title.casefold()
+    if any(keyword in text for keyword in ("管培生", "培训生", "management trainee", "graduate trainee")):
+        return "管培生"
+    if any(keyword in text for keyword in ("青云", "专项", "seed", "byteintern", "人才计划")):
+        return "人才专项"
+    return "实习招聘" if stage == "实习" else "校园招聘"
+
+
+def classify_tags(title: str, raw_category: str) -> list[str]:
+    text = f"{title} {raw_category}".casefold()
+    return [
+        tag
+        for tag, keywords in JOB_TAG_KEYWORDS.items()
+        if any(_contains(text, keyword.casefold()) for keyword in keywords)
+    ]
 
 
 def normalize_locations(locations: list[str]) -> list[str]:
@@ -161,13 +200,19 @@ def _normalize(raw_jobs: list[dict[str, Any]], existing: list[dict[str, Any]]) -
     old_by_id = {job["id"]: job for job in existing if job.get("id")}
     normalized: dict[str, dict[str, Any]] = {}
     for raw in raw_jobs:
-        category = classify_job(str(raw.get("title", "")), str(raw.get("raw_category", "")))
-        if not category:
+        title = str(raw.get("title", ""))
+        raw_category = str(raw.get("raw_category", ""))
+        details = classify_job_details(title, raw_category)
+        if not details:
             continue
+        category, subcategory = details
         job_id = str(raw["id"])
         normalized[job_id] = {
             **raw,
             "category": category,
+            "subcategory": subcategory,
+            "program": classify_program(title, str(raw.get("stage", ""))),
+            "tags": classify_tags(title, raw_category),
             "locations": normalize_locations(raw.get("locations") or []),
             "first_seen_at": old_by_id.get(job_id, {}).get("first_seen_at", now),
             "last_seen_at": now,
@@ -184,14 +229,47 @@ def _write_json(path: Path, jobs: list[dict[str, Any]]) -> None:
     path.write_text(json.dumps(jobs, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def _company_manifest(jobs: list[dict[str, Any]], successful_sources: set[str] | None) -> list[dict[str, str]]:
+    existing: dict[str, dict[str, str]] = {}
+    if COMPANIES_JSON.exists():
+        with COMPANIES_JSON.open(encoding="utf-8") as file:
+            existing = {row["source"]: row for row in json.load(file) if row.get("source")}
+    counts = {source: sum(job.get("source") == source for job in jobs) for source in SOURCE_RULES}
+    checked_at = _now()
+    manifest: list[dict[str, str]] = []
+    for company in MONITORED_COMPANIES:
+        source = company["source"]
+        previous = existing.get(source, {})
+        if successful_sources is None:
+            status = previous.get("status") or ("已更新" if counts[source] else "暂无匹配岗位")
+            updated_at = previous.get("updated_at", "")
+        elif source in successful_sources:
+            status = "已更新" if counts[source] else "暂无匹配岗位"
+            updated_at = checked_at
+        else:
+            status = "抓取失败"
+            updated_at = previous.get("updated_at", "")
+        manifest.append({**company, "status": status, "updated_at": updated_at})
+    manifest.extend(
+        {
+            "company": company,
+            "source": "待接入官方招聘源",
+            "status": "待接入",
+            "updated_at": "",
+        }
+        for company in PENDING_COMPANIES
+    )
+    return manifest
+
+
 def _write_csv_file(path: Path, jobs: list[dict[str, Any]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    fields = sorted(REQUIRED_FIELDS - {"locations"}) + ["locations"]
+    fields = sorted(REQUIRED_FIELDS - {"locations", "tags"}) + ["locations", "tags"]
     with path.open("w", encoding="utf-8-sig", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         for job in jobs:
-            writer.writerow({**job, "locations": " | ".join(job["locations"])})
+            writer.writerow({**job, "locations": " | ".join(job["locations"]), "tags": " | ".join(job["tags"])})
 
 
 def _age_label(job: dict[str, Any], now: datetime | None = None) -> str:
@@ -200,7 +278,9 @@ def _age_label(job: dict[str, Any], now: datetime | None = None) -> str:
     reference = now or datetime.now(UTC)
     posted = datetime.fromisoformat(str(job["published_at"]))
     days = max(0, (reference - posted).days)
-    return "今天" if days == 0 else f"{days} 天前"
+    if days == 0:
+        return "今天"
+    return ">14 天前" if days > 14 else f"{days} 天前"
 
 
 def _readme_table(jobs: list[dict[str, Any]]) -> str:
@@ -259,8 +339,12 @@ def validate_data(jobs: list[dict[str, Any]] | None = None) -> None:
             errors.append(f"第 {index + 1} 条缺少字段: {sorted(missing)}")
         if job.get("category") not in CATEGORIES:
             errors.append(f"第 {index + 1} 条分类无效: {job.get('category')}")
+        if not job.get("subcategory"):
+            errors.append(f"第 {index + 1} 条岗位方向为空")
         if job.get("stage") not in VALID_STAGES:
             errors.append(f"第 {index + 1} 条招聘类型无效: {job.get('stage')}")
+        if not isinstance(job.get("tags"), list):
+            errors.append(f"第 {index + 1} 条岗位标签格式无效")
         source = str(job.get("source", ""))
         source_rule = SOURCE_RULES.get(source)
         if source_rule is None:
@@ -293,18 +377,35 @@ def validate_data(jobs: list[dict[str, Any]] | None = None) -> None:
     print(f"校验通过：{len(jobs)} 个岗位，ID 和官方链接均唯一。")
 
 
-def build_outputs(jobs: list[dict[str, Any]] | None = None) -> None:
+def build_outputs(jobs: list[dict[str, Any]] | None = None, successful_sources: set[str] | None = None) -> None:
     jobs = _load_jobs() if jobs is None else jobs
-    jobs = [
-        {**job, "category": category, "locations": normalize_locations(job.get("locations") or [])}
-        for job in jobs
-        if (category := classify_job(str(job.get("title", "")), str(job.get("raw_category", ""))))
-    ]
+    rebuilt: list[dict[str, Any]] = []
+    for job in jobs:
+        if job.get("source") not in SOURCE_RULES:
+            continue
+        title = str(job.get("title", ""))
+        raw_category = str(job.get("raw_category", ""))
+        details = classify_job_details(title, raw_category)
+        if not details:
+            continue
+        category, subcategory = details
+        rebuilt.append(
+            {
+                **job,
+                "category": category,
+                "subcategory": subcategory,
+                "program": classify_program(title, str(job.get("stage", ""))),
+                "tags": classify_tags(title, raw_category),
+                "locations": normalize_locations(job.get("locations") or []),
+            }
+        )
+    jobs = rebuilt
     validate_data(jobs)
     _write_json(JOBS_JSON, jobs)
     _write_json(SITE_JSON, jobs)
-    _write_json(COMPANIES_JSON, COMPANY_POOL)
-    _write_json(SITE_COMPANIES_JSON, COMPANY_POOL)
+    companies = _company_manifest(jobs, successful_sources)
+    _write_json(COMPANIES_JSON, companies)
+    _write_json(SITE_COMPANIES_JSON, companies)
     _write_csv_file(JOBS_CSV, jobs)
     _write_csv_file(SITE_CSV, jobs)
     _update_readme(jobs)
@@ -321,6 +422,9 @@ def fetch_and_build(max_pages: int = 50) -> None:
         ("腾讯", "腾讯校招", fetch_tencent),
         ("Momenta", "Momenta招聘", fetch_momenta),
         ("商汤", "商汤招聘", fetch_sensetime),
+        ("莉莉丝", "莉莉丝招聘", fetch_lilith),
+        ("叠纸游戏", "叠纸游戏招聘", fetch_papegames),
+        ("沐瞳科技", "沐瞳科技招聘", fetch_moonton),
     )
     for name, source_label, fetcher in sources:
         try:
@@ -361,6 +465,6 @@ def fetch_and_build(max_pages: int = 50) -> None:
             key=lambda job: (job.get("published_at") or job["first_seen_at"], job["company"], job["title"]),
             reverse=True,
         )
-    build_outputs(jobs)
+    build_outputs(jobs, successful_sources)
     if failures:
         print("部分数据源失败；成功来源已更新，失败来源不会被伪装为最新数据。")

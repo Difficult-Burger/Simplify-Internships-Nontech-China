@@ -20,7 +20,6 @@ APPROVED_COMPANIES = (
     JobProCompany("antgroup", "蚂蚁集团", "蚂蚁集团招聘", ("talent.antgroup.com",), ("campus", "intern")),
     JobProCompany("baidu", "百度", "百度招聘", ("talent.baidu.com",), ("campus", "intern")),
     JobProCompany("bilibili", "哔哩哔哩", "哔哩哔哩招聘", ("jobs.bilibili.com",), ("campus", "intern")),
-    JobProCompany("didi", "滴滴", "滴滴招聘", ("talent.didiglobal.com",), ("campus",)),
     JobProCompany("jd", "京东", "京东招聘", ("campus.jd.com",), ("campus", "intern")),
     JobProCompany("kuaishou", "快手", "快手招聘", ("campus.kuaishou.cn",), ("campus", "intern")),
     JobProCompany("meituan", "美团", "美团招聘", ("zhaopin.meituan.com",), ("campus", "intern")),
@@ -50,6 +49,7 @@ APPROVED_COMPANIES = (
 
 
 PENDING_COMPANIES = (
+    "滴滴",
     "哈啰",
     "SHEIN",
     "得物",
@@ -60,9 +60,6 @@ PENDING_COMPANIES = (
     "传音",
     "作业帮",
     "猿辅导",
-    "莉莉丝",
-    "叠纸游戏",
-    "沐瞳科技",
     "完美世界",
     "小马智行",
     "元戎启行",
