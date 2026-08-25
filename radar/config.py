@@ -13,8 +13,10 @@ CATEGORIES: OrderedDict[str, str] = OrderedDict(
         ("销售", "💼"),
         ("商务", "🤝"),
         ("项目管理", "📋"),
+        ("管培生", "🎓"),
         ("设计", "✦"),
         ("用户研究", "🔍"),
+        ("HR", "🧑‍💼"),
         ("职能", "🏢"),
     ]
 )
@@ -22,6 +24,10 @@ CATEGORIES: OrderedDict[str, str] = OrderedDict(
 CATEGORY_KEYWORDS: OrderedDict[str, tuple[str, ...]] = OrderedDict(
     [
         ("项目管理", ("项目管理", "项目经理", "program manager", "project manager", "项目pm")),
+        (
+            "管培生",
+            ("管培生", "培训生", "management trainee", "graduate trainee"),
+        ),
         (
             "增长",
             ("增长", "growth"),
@@ -114,10 +120,22 @@ CATEGORY_KEYWORDS: OrderedDict[str, tuple[str, ...]] = OrderedDict(
             ),
         ),
         (
-            "职能",
+            "HR",
             (
+                "人力资源",
                 "人力",
                 "招聘",
+                "hrbp",
+                "hr bp",
+                "talent acquisition",
+                "human resources",
+                "recruiter",
+                "hr",
+            ),
+        ),
+        (
+            "职能",
+            (
                 "财务",
                 "财经",
                 "法务",
@@ -134,10 +152,8 @@ CATEGORY_KEYWORDS: OrderedDict[str, tuple[str, ...]] = OrderedDict(
                 "设施设备管理",
                 "资产管理",
                 "项目实习生-职能",
-                "hr",
                 "finance",
                 "legal",
-                "recruiter",
             ),
         ),
         (
