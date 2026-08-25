@@ -240,3 +240,36 @@ def fetch_sensetime(max_pages: int = 50) -> list[JsonObject]:
         id_prefix="sensetime",
         max_pages=max_pages,
     )
+
+
+def fetch_lilith(max_pages: int = 50) -> list[JsonObject]:
+    return _fetch_feishu_campus(
+        host="lilithgames.jobs.feishu.cn",
+        channel="campus",
+        company="莉莉丝",
+        source="莉莉丝招聘",
+        id_prefix="lilith",
+        max_pages=max_pages,
+    )
+
+
+def fetch_papegames(max_pages: int = 50) -> list[JsonObject]:
+    return _fetch_feishu_campus(
+        host="career.papegames.com",
+        channel="campus",
+        company="叠纸游戏",
+        source="叠纸游戏招聘",
+        id_prefix="papegames",
+        max_pages=max_pages,
+    )
+
+
+def fetch_moonton(max_pages: int = 50) -> list[JsonObject]:
+    return _fetch_feishu_campus(
+        host="moonton.jobs.feishu.cn",
+        channel="campus",
+        company="沐瞳科技",
+        source="沐瞳科技招聘",
+        id_prefix="moonton",
+        max_pages=max_pages,
+    )

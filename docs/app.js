@@ -11,6 +11,11 @@ function addOptions(select, values) {
   values.forEach((value) => select.insertAdjacentHTML("beforeend", `<option>${escapeHtml(value)}</option>`));
 }
 
+function replaceOptions(select, firstLabel, values) {
+  select.innerHTML = `<option value="">${escapeHtml(firstLabel)}</option>`;
+  addOptions(select, values);
+}
+
 function matchesQuery(haystack, query) {
   if (/^[a-z0-9]{1,3}$/.test(query)) {
     return new RegExp(`(^|[^a-z0-9])${query}([^a-z0-9]|$)`).test(haystack);
@@ -54,7 +59,8 @@ function chinaDate(value) {
 function ageLabel(job) {
   if (!job.published_at) return "未知";
   const days = Math.max(0, Math.floor((Date.now() - timestamp(job)) / 86400000));
-  return days === 0 ? "今天" : `${days} 天前`;
+  if (days === 0) return "今天";
+  return days > 14 ? ">14 天前" : `${days} 天前`;
 }
 
 function pageNumbers(current, total) {
@@ -115,18 +121,28 @@ function render() {
   const jobs = state.filtered.slice(start, start + state.pageSize);
   $("#result-count").textContent = number(state.filtered.length);
   if (!jobs.length) {
-    list.innerHTML = '<p class="empty">没有找到符合条件的岗位，请减少筛选条件后重试。</p>';
+    const company = state.companies.find((item) => item.company === $("#company").value);
+    const messages = {
+      "抓取失败": "本轮官方源抓取失败，暂时没有可展示的已确认岗位。",
+      "暂无匹配岗位": "最近一次检查未发现符合范围的实习或校招岗位。",
+      "待接入": "官方招聘源正在接入，暂未展示岗位。",
+    };
+    const message = company && messages[company.status]
+      ? messages[company.status]
+      : "没有找到符合条件的岗位，请减少筛选条件后重试。";
+    list.innerHTML = `<p class="empty">${escapeHtml(message)}</p>`;
   } else {
     list.innerHTML = jobs.map((job) => {
       const cities = (job.locations || []).join(" / ");
       const age = ageLabel(job);
+      const tags = (job.tags || []).length ? ` · ${(job.tags || []).join(" / ")}` : "";
       const duplicate = job.duplicate_count > 1 ? `<span class="duplicate-note">合并 ${job.duplicate_count} 条发布</span>` : "";
       return `<article class="job">
         <div class="company">${escapeHtml(job.company)}</div>
-        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(age)}</div></div>
-        <div class="category-cell"><span class="tag">${escapeHtml(job.category)}</span></div>
+        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(age)}</div></div>
+        <div class="category-cell"><span class="tag">${escapeHtml(job.category)}</span><span class="direction">${escapeHtml(job.subcategory || job.category)}${escapeHtml(tags)}</span></div>
         <div class="location">${escapeHtml(cities)}</div>
-        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="time-label">${escapeHtml(age)}</span></div>
+        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label">${escapeHtml(age)}</span></div>
         <a class="apply" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer">投递 ↗</a>
       </article>`;
     }).join("");
@@ -137,20 +153,48 @@ function render() {
 function applyFilters() {
   const query = $("#search").value.trim().toLocaleLowerCase("zh-CN");
   const category = $("#category").value;
+  const subcategory = $("#subcategory").value;
+  const program = $("#program").value;
+  const tag = $("#tag").value;
   const stage = $("#stage").value;
   const city = $("#city").value;
   const company = $("#company").value;
   state.filtered = state.grouped.filter((job) => {
-    const haystack = [job.company, job.title, job.category, job.raw_category, ...(job.locations || [])].join(" ").toLocaleLowerCase("zh-CN");
+    const haystack = [job.company, job.title, job.category, job.subcategory, job.raw_category, job.program, ...(job.tags || []), ...(job.locations || [])].join(" ").toLocaleLowerCase("zh-CN");
     return (!query || matchesQuery(haystack, query))
       && (!category || job.category === category)
+      && (!subcategory || job.subcategory === subcategory)
+      && (!program || job.program === program)
+      && (!tag || (job.tags || []).includes(tag))
       && (!stage || job.stage === stage)
       && (!city || (job.locations || []).includes(city))
       && (!company || job.company === company);
   });
+  updateSourceStatus(company);
   state.page = 1;
   updatePageUrl();
   render();
+}
+
+function updateSubcategoryOptions() {
+  const category = $("#category").value;
+  const values = unique(state.grouped
+    .filter((job) => !category || job.category === category)
+    .map((job) => job.subcategory));
+  replaceOptions($("#subcategory"), "全部方向", values);
+}
+
+function updateSourceStatus(companyName) {
+  const element = $("#source-status");
+  const company = state.companies.find((item) => item.company === companyName);
+  const messages = {
+    "抓取失败": "本轮官方源抓取失败，当前结果来自上次成功更新。",
+    "暂无匹配岗位": "最近一次检查未发现符合本项目范围的实习或校招岗位。",
+    "待接入": "该公司的官方招聘源正在接入，暂未展示岗位。",
+  };
+  const message = company ? messages[company.status] : "";
+  element.hidden = !message;
+  element.textContent = message ? `${companyName}：${message}` : "";
 }
 
 async function boot() {
@@ -169,6 +213,9 @@ async function boot() {
     const latestSeen = state.jobs.map((job) => Date.parse(job.last_seen_at || 0)).filter(Boolean).sort((a, b) => b - a)[0];
     $("#updated-at").textContent = latestSeen ? `更新 ${chinaDate(latestSeen)}` : "等待更新";
     addOptions($("#category"), unique(state.grouped.map((job) => job.category)));
+    updateSubcategoryOptions();
+    addOptions($("#program"), unique(state.grouped.map((job) => job.program)));
+    addOptions($("#tag"), unique(state.grouped.flatMap((job) => job.tags || [])));
     addOptions($("#city"), unique(state.grouped.flatMap((job) => job.locations || [])));
     addOptions($("#company"), unique(state.companies.map((company) => company.company)));
     render();
@@ -178,11 +225,16 @@ async function boot() {
   }
 }
 
-["#search", "#category", "#stage", "#city", "#company"].forEach((selector) => {
+["#search", "#subcategory", "#program", "#tag", "#stage", "#city", "#company"].forEach((selector) => {
   $(selector).addEventListener(selector === "#search" ? "input" : "change", applyFilters);
 });
+$("#category").addEventListener("change", () => {
+  updateSubcategoryOptions();
+  applyFilters();
+});
 $("#reset").addEventListener("click", () => {
-  ["#search", "#category", "#stage", "#city", "#company"].forEach((selector) => { $(selector).value = ""; });
+  ["#search", "#category", "#subcategory", "#program", "#tag", "#stage", "#city", "#company"].forEach((selector) => { $(selector).value = ""; });
+  updateSubcategoryOptions();
   applyFilters();
 });
 $("#page-controls").addEventListener("click", (event) => {

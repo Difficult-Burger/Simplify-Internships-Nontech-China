@@ -25,7 +25,7 @@
       <section class="page-head" aria-labelledby="page-title">
         <div>
           <h1 id="page-title">中国科技公司非技术岗</h1>
-          <p>产品、运营、市场、战略、商务、项目管理、设计和职能类实习与校招。</p>
+          <p>按岗位大类、方向和招聘项目浏览互联网与 AI 行业实习及校招。</p>
         </div>
         <div class="page-status"><span><i></i>每日更新</span><span id="updated-at">读取数据中…</span></div>
       </section>
@@ -35,12 +35,16 @@
           <span>关键词</span>
           <input id="search" type="search" placeholder="搜索岗位、公司或城市" autocomplete="off" />
         </label>
-        <label><span>岗位类别</span><select id="category"><option value="">全部类别</option></select></label>
+        <label><span>岗位大类</span><select id="category"><option value="">全部大类</option></select></label>
+        <label><span>岗位方向</span><select id="subcategory"><option value="">全部方向</option></select></label>
+        <label><span>招聘项目</span><select id="program"><option value="">全部项目</option></select></label>
+        <label><span>岗位标签</span><select id="tag"><option value="">全部标签</option></select></label>
         <label><span>招聘类型</span><select id="stage"><option value="">实习 + 校招</option><option>实习</option><option>校招</option></select></label>
         <label><span>城市</span><select id="city"><option value="">全部城市</option></select></label>
         <label><span>公司</span><select id="company"><option value="">全部公司</option></select></label>
         <button id="reset" type="button">清空</button>
       </section>
+      <p id="source-status" class="source-status" hidden></p>
 
       <section class="results-head">
         <p><strong id="result-count">0</strong> 个岗位</p>
@@ -48,7 +52,7 @@
       </section>
 
       <div class="job-columns" aria-hidden="true">
-        <span>公司</span><span>岗位</span><span>岗位类别</span><span>城市</span><span>类型 / 发布于</span><span>投递链接</span>
+        <span>公司</span><span>岗位</span><span>类别 / 方向</span><span>城市</span><span>类型 / 发布于</span><span>投递链接</span>
       </div>
       <section id="job-list" class="job-list" aria-live="polite"></section>
       <nav id="pagination" class="pagination" aria-label="岗位结果分页" hidden>
