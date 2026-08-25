@@ -15,7 +15,7 @@
 
 <!-- JOBS_START -->
 
-当前收录 **7388** 条在招岗位。
+当前收录 **7385** 条在招岗位。
 
 ### 按岗位类别浏览
 
@@ -23,7 +23,7 @@
 
 ⚙️ **[运营](#category-2)**（2293）
 
-📣 **[市场](#category-3)**（536）
+📣 **[市场](#category-3)**（535）
 
 📈 **[增长](#category-4)**（194）
 
@@ -45,7 +45,7 @@
 
 🧑‍💼 **[HR](#category-13)**（466）
 
-🏢 **[职能](#category-14)**（373）
+🏢 **[职能](#category-14)**（371）
 
 ---
 
@@ -980,7 +980,6 @@
 
 | 公司 | 岗位 | 城市 | 发布于 | 投递链接 |
 |---|---|---|---|---|
-| 美团 | 法务岗(诉讼方向) · 校招 | 北京 / 重庆 / 上海 / 广州 / 武汉 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697314746&amp;jobShareType=1&amp;highlightType=campus) |
 | 滴滴 | 风控产品专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/62652/detail) |
 | 滴滴 | 采购经理 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64370/detail) |
 | 滴滴 | 采购专家 · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/61525/detail) |
@@ -1014,7 +1013,6 @@
 | 滴滴 | Fintech财务经理（英文口语流利） · 校招 | 北京 | 未知 | [投递](https://talent.didiglobal.com/campus#/position/64707/detail) |
 | 智谱AI | 财务实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7581739856084011273/detail) |
 | 智谱AI | 法务实习生 · 实习 | 北京 | 未知 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7378148317522839845/detail) |
-| 美团 | 法务岗 · 校招 | 北京 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695022677&amp;jobShareType=1&amp;highlightType=campus) |
 | 小米 | 项目申报专员实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7667044621037635867/detail) |
 | 小米 | 项目申报&amp;政策支持岗（实习生） · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7621150010131400998/detail) |
 | 小米 | 集团高招实习生-2027届 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660413095655606579/detail) |
@@ -1040,6 +1038,8 @@
 | 小米 | 知识产权工程师-商标流程方向 · 校招 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671292350149691686/detail) |
 | 小米 | 监察专员-实习 · 实习 | 班加罗尔 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7560665299776637235/detail) |
 | 小米 | 电池工艺实习生 · 实习 | 北京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7512367948537151597/detail) |
+| 小米 | 海外电商运营财务实习生 · 实习 | 武汉 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7633627111081068841/detail) |
+| 小米 | 海外产品合规工程师-汽车 · 校招 | 南京 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918893741246771/detail) |
 
 > `发布于` 使用企业官方发布时间；来源未提供该字段时显示“未知”。
 
