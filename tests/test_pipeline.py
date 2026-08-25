@@ -55,6 +55,19 @@ class ClassifyJobTest(unittest.TestCase):
             with self.subTest(title=title):
                 self.assertEqual(classify_job(title, ""), expected)
 
+    def test_hr_and_trainee_are_separate_categories(self) -> None:
+        cases = {
+            "HR实习生": "HR",
+            "招聘实习生": "HR",
+            "HRBP": "HR",
+            "腾讯营销管培生": "管培生",
+            "游戏发行运营培训生": "管培生",
+            "AI-HR培训生（分析方向）": "管培生",
+        }
+        for title, expected in cases.items():
+            with self.subTest(title=title):
+                self.assertEqual(classify_job(title, ""), expected)
+
     def test_technical_edge_cases_are_rejected(self) -> None:
         self.assertIsNone(classify_job("UI开发", "设计"))
         self.assertIsNone(classify_job("计算语言学实习生（ASR方向）", "运营"))

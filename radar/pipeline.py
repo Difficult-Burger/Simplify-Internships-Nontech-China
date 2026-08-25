@@ -71,6 +71,7 @@ def classify_job(title: str, raw_category: str) -> str | None:
         "销售": "销售",
         "设计": "设计",
         "策划": "产品",
+        "人力": "HR",
         "职能": "职能",
         "内审": "职能",
         "IT支持": "职能",
