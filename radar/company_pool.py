@@ -20,7 +20,7 @@ APPROVED_COMPANIES = (
     JobProCompany("antgroup", "蚂蚁集团", "蚂蚁集团招聘", ("talent.antgroup.com",), ("campus", "intern")),
     JobProCompany("baidu", "百度", "百度招聘", ("talent.baidu.com",), ("campus", "intern")),
     JobProCompany("bilibili", "哔哩哔哩", "哔哩哔哩招聘", ("jobs.bilibili.com",), ("campus", "intern")),
-    JobProCompany("didi", "滴滴", "滴滴招聘", ("talent.didiglobal.com",), ("campus", "intern")),
+    JobProCompany("didi", "滴滴", "滴滴招聘", ("talent.didiglobal.com",), ("campus",)),
     JobProCompany("jd", "京东", "京东招聘", ("campus.jd.com",), ("campus", "intern")),
     JobProCompany("kuaishou", "快手", "快手招聘", ("campus.kuaishou.cn",), ("campus", "intern")),
     JobProCompany("meituan", "美团", "美团招聘", ("zhaopin.meituan.com",), ("campus", "intern")),
@@ -44,14 +44,14 @@ APPROVED_COMPANIES = (
     JobProCompany("deepseek", "DeepSeek", "DeepSeek招聘", ("app.mokahr.com",), ("all",), True),
     JobProCompany("moonshot", "Moonshot AI", "Moonshot招聘", ("app.mokahr.com",), ("all",), True),
     JobProCompany("stepfun", "阶跃星辰", "阶跃星辰招聘", ("app.mokahr.com",), ("all",), True),
-    JobProCompany("zerooneai", "零一万物", "零一万物招聘", ("01ai.jobs.feishu.cn",), ("all",), True),
-    JobProCompany("baichuan", "百川智能", "百川智能招聘", ("cq6qe6bvfr6.jobs.feishu.cn",), ("all",), True),
+    JobProCompany("zhipu", "智谱AI", "智谱AI招聘", ("zhipu-ai.jobs.feishu.cn",), ("all",), True),
     JobProCompany("galaxyuniversal", "银河通用", "银河通用招聘", ("app.mokahr.com",), ("all",), True),
 )
 
 
 EXCLUDED_COMPANIES = {
-    "国资、院校或研究体系边界": ("中金", "海康威视", "科大讯飞", "寒武纪", "智谱AI", "商汤", "微众银行"),
+    "国资、院校或研究体系边界": ("中金", "海康威视", "科大讯飞", "寒武纪", "微众银行"),
     "暂不属于互联网或AI核心范围": ("比亚迪", "吉利", "理想", "蔚来", "小鹏", "顺丰", "平安"),
     "当前仅有第三方招聘平台数据": ("菜鸟",),
+    "用户明确不纳入": ("零一万物", "百川智能"),
 }

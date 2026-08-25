@@ -12,13 +12,15 @@ from urllib.parse import urlparse
 from radar.company_pool import APPROVED_COMPANIES
 from radar.config import CATEGORIES, CATEGORY_KEYWORDS, TECHNICAL_TITLE_KEYWORDS
 from radar.job_pro_sources import fetch_approved_companies
-from radar.sources import fetch_bytedance, fetch_tencent
+from radar.sources import fetch_bytedance, fetch_momenta, fetch_sensetime, fetch_tencent
 
 ROOT = Path(__file__).resolve().parent.parent
 JOBS_JSON = ROOT / "data" / "jobs.json"
 JOBS_CSV = ROOT / "data" / "jobs.csv"
 SITE_JSON = ROOT / "docs" / "jobs.json"
 SITE_CSV = ROOT / "docs" / "jobs.csv"
+COMPANIES_JSON = ROOT / "data" / "companies.json"
+SITE_COMPANIES_JSON = ROOT / "docs" / "companies.json"
 README = ROOT / "README.md"
 REQUIRED_FIELDS = {
     "id",
@@ -37,8 +39,17 @@ REQUIRED_FIELDS = {
 SOURCE_RULES = {
     "字节跳动招聘": {"company": "字节跳动", "hosts": ("jobs.bytedance.com",)},
     "腾讯校招": {"company": "腾讯", "hosts": ("join.qq.com",)},
+    "Momenta招聘": {"company": "Momenta", "hosts": ("momenta.jobs.feishu.cn",)},
+    "商汤招聘": {"company": "商汤", "hosts": ("hr-jobs.sensetime.com",)},
     **{company.source: {"company": company.company, "hosts": company.hosts} for company in APPROVED_COMPANIES},
 }
+MONITORED_COMPANIES = [
+    {"company": "字节跳动", "source": "字节跳动招聘"},
+    {"company": "腾讯", "source": "腾讯校招"},
+    {"company": "Momenta", "source": "Momenta招聘"},
+    {"company": "商汤", "source": "商汤招聘"},
+    *[{"company": company.company, "source": company.source} for company in APPROVED_COMPANIES],
+]
 VALID_STAGES = {"实习", "校招"}
 
 
@@ -285,6 +296,8 @@ def build_outputs(jobs: list[dict[str, Any]] | None = None) -> None:
     validate_data(jobs)
     _write_json(JOBS_JSON, jobs)
     _write_json(SITE_JSON, jobs)
+    _write_json(COMPANIES_JSON, MONITORED_COMPANIES)
+    _write_json(SITE_COMPANIES_JSON, MONITORED_COMPANIES)
     _write_csv_file(JOBS_CSV, jobs)
     _write_csv_file(SITE_CSV, jobs)
     _update_readme(jobs)
@@ -299,6 +312,8 @@ def fetch_and_build(max_pages: int = 50) -> None:
     sources = (
         ("字节跳动", "字节跳动招聘", fetch_bytedance),
         ("腾讯", "腾讯校招", fetch_tencent),
+        ("Momenta", "Momenta招聘", fetch_momenta),
+        ("商汤", "商汤招聘", fetch_sensetime),
     )
     for name, source_label, fetcher in sources:
         try:
@@ -315,7 +330,7 @@ def fetch_and_build(max_pages: int = 50) -> None:
             failures.append(str(error))
             print(f"{name}：抓取失败，{error}")
 
-    job_pro_groups, job_pro_failures = fetch_approved_companies(max_pages=max_pages)
+    job_pro_groups, job_pro_failures = fetch_approved_companies(max_pages=max(max_pages, 100))
     failures.extend(job_pro_failures)
     for source_label, source_jobs in job_pro_groups.items():
         previous_count = sum(job.get("source") == source_label for job in existing)
@@ -331,7 +346,9 @@ def fetch_and_build(max_pages: int = 50) -> None:
         raise RuntimeError("所有官方数据源均抓取失败；保留已有数据，未覆盖输出。")
     jobs = _normalize(raw_jobs, existing)
     if failures:
-        preserved = [job for job in existing if job.get("source") not in successful_sources]
+        preserved = [
+            job for job in existing if job.get("source") not in successful_sources and job.get("source") in SOURCE_RULES
+        ]
         jobs = sorted(
             {job["id"]: job for job in [*jobs, *preserved]}.values(),
             key=lambda job: (job.get("published_at") or job["first_seen_at"], job["company"], job["title"]),

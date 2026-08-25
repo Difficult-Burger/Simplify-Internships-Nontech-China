@@ -87,7 +87,7 @@ def _fetch_company(company: JobProCompany, max_pages: int) -> list[JsonObject]:
     return list(positions.values())
 
 
-def fetch_approved_companies(max_pages: int = 50) -> tuple[dict[str, list[JsonObject]], list[str]]:
+def fetch_approved_companies(max_pages: int = 100) -> tuple[dict[str, list[JsonObject]], list[str]]:
     """Return jobs grouped by source label plus per-company failures."""
     grouped: dict[str, list[JsonObject]] = {}
     failures: list[str] = []
