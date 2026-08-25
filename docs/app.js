@@ -1,19 +1,20 @@
-const state = { jobs: [], companies: [], grouped: [], filtered: [], page: 1, pageSize: 20 };
+const filterKeys = ["category", "subcategory", "program", "tag", "stage", "city", "company"];
+const state = {
+  jobs: [],
+  companies: [],
+  grouped: [],
+  filtered: [],
+  page: 1,
+  pageSize: 20,
+  selections: Object.fromEntries(filterKeys.map((key) => [key, new Set()])),
+  optionValues: {},
+};
 const $ = (selector) => document.querySelector(selector);
 const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]);
 const number = (value) => value.toLocaleString("zh-CN");
 
 function unique(values) {
   return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b, "zh-CN"));
-}
-
-function addOptions(select, values) {
-  values.forEach((value) => select.insertAdjacentHTML("beforeend", `<option>${escapeHtml(value)}</option>`));
-}
-
-function replaceOptions(select, firstLabel, values) {
-  select.innerHTML = `<option value="">${escapeHtml(firstLabel)}</option>`;
-  addOptions(select, values);
 }
 
 function matchesQuery(haystack, query) {
@@ -121,7 +122,10 @@ function render() {
   const jobs = state.filtered.slice(start, start + state.pageSize);
   $("#result-count").textContent = number(state.filtered.length);
   if (!jobs.length) {
-    const company = state.companies.find((item) => item.company === $("#company").value);
+    const selectedCompanies = [...state.selections.company];
+    const company = selectedCompanies.length === 1
+      ? state.companies.find((item) => item.company === selectedCompanies[0])
+      : null;
     const messages = {
       "抓取失败": "本轮官方源抓取失败，暂时没有可展示的已确认岗位。",
       "暂无匹配岗位": "最近一次检查未发现符合范围的实习或校招岗位。",
@@ -150,55 +154,94 @@ function render() {
   renderPagination();
 }
 
+const filterDefaults = {
+  category: "全部类别",
+  subcategory: "全部细分方向",
+  program: "全部项目",
+  tag: "全部标签",
+  stage: "全部类型",
+  city: "全部城市",
+  company: "全部公司",
+};
+
+function updateFilterSummary(key) {
+  const selected = [...state.selections[key]];
+  $(`#${key}-summary`).textContent = selected.length === 0
+    ? filterDefaults[key]
+    : selected.length === 1 ? selected[0] : `已选 ${selected.length} 项`;
+}
+
+function renderMultiFilter(key, values, disabledLabel = "") {
+  const details = $(`#${key}-filter`);
+  const options = $(`#${key}-options`);
+  const valid = new Set(values);
+  state.selections[key] = new Set([...state.selections[key]].filter((value) => valid.has(value)));
+  if (disabledLabel) {
+    state.selections[key].clear();
+    details.open = false;
+    details.classList.add("is-disabled");
+    $(`#${key}-summary`).textContent = disabledLabel;
+    options.innerHTML = "";
+    return;
+  }
+  details.classList.remove("is-disabled");
+  options.innerHTML = values.map((value) => `<label class="option-choice">
+    <input type="checkbox" data-filter="${key}" value="${escapeHtml(value)}" ${state.selections[key].has(value) ? "checked" : ""}>
+    <span>${escapeHtml(value)}</span>
+  </label>`).join("");
+  updateFilterSummary(key);
+}
+
+function updateSubcategoryOptions() {
+  const categories = state.selections.category;
+  if (!categories.size) {
+    renderMultiFilter("subcategory", [], "先选岗位类别");
+    return;
+  }
+  const values = unique(state.grouped
+    .filter((job) => categories.has(job.category))
+    .map((job) => job.subcategory));
+  renderMultiFilter("subcategory", values, values.length <= 1 ? "无需细分" : "");
+}
+
+function renderAllFilters() {
+  renderMultiFilter("category", state.optionValues.category);
+  updateSubcategoryOptions();
+  ["program", "tag", "stage", "city", "company"].forEach((key) => {
+    renderMultiFilter(key, state.optionValues[key]);
+  });
+}
+
+function selectedMatches(key, values) {
+  const selected = state.selections[key];
+  return selected.size === 0 || values.some((value) => selected.has(value));
+}
+
 function applyFilters() {
   const query = $("#search").value.trim().toLocaleLowerCase("zh-CN");
-  const category = $("#category").value;
-  const subcategory = $("#subcategory").value;
-  const program = $("#program").value;
-  const tag = $("#tag").value;
-  const stage = $("#stage").value;
-  const city = $("#city").value;
-  const company = $("#company").value;
   state.filtered = state.grouped.filter((job) => {
     const haystack = [job.company, job.title, job.category, job.subcategory, job.raw_category, job.program, ...(job.tags || []), ...(job.locations || [])].join(" ").toLocaleLowerCase("zh-CN");
     return (!query || matchesQuery(haystack, query))
-      && (!category || job.category === category)
-      && (!subcategory || job.subcategory === subcategory)
-      && (!program || job.program === program)
-      && (!tag || (job.tags || []).includes(tag))
-      && (!stage || job.stage === stage)
-      && (!city || (job.locations || []).includes(city))
-      && (!company || job.company === company);
+      && selectedMatches("category", [job.category])
+      && selectedMatches("subcategory", [job.subcategory])
+      && selectedMatches("program", [job.program])
+      && selectedMatches("tag", job.tags || [])
+      && selectedMatches("stage", [job.stage])
+      && selectedMatches("city", job.locations || [])
+      && selectedMatches("company", [job.company]);
   });
-  updateSourceStatus(company);
+  updateSourceStatus();
   state.page = 1;
   updatePageUrl();
   render();
 }
 
-function updateSubcategoryOptions() {
-  const category = $("#category").value;
-  const select = $("#subcategory");
-  if (!category) {
-    replaceOptions(select, "先选岗位类别", []);
-    select.disabled = true;
-    return;
-  }
-  const values = unique(state.grouped
-    .filter((job) => job.category === category)
-    .map((job) => job.subcategory));
-  if (values.length <= 1) {
-    replaceOptions(select, "无需细分", []);
-    select.disabled = true;
-    return;
-  }
-  replaceOptions(select, "全部细分方向", values);
-  select.disabled = false;
-}
-
-function updateSourceStatus(companyName) {
+function updateSourceStatus() {
   const element = $("#source-status");
-  const company = state.companies.find((item) => item.company === companyName);
+  const companyNames = [...state.selections.company];
+  const company = companyNames.length === 1
+    ? state.companies.find((item) => item.company === companyNames[0])
+    : null;
   const messages = {
     "抓取失败": "本轮官方源抓取失败，当前结果来自上次成功更新。",
     "暂无匹配岗位": "最近一次检查未发现符合本项目范围的实习或校招岗位。",
@@ -206,7 +249,7 @@ function updateSourceStatus(companyName) {
   };
   const message = company ? messages[company.status] : "";
   element.hidden = !message;
-  element.textContent = message ? `${companyName}：${message}` : "";
+  element.textContent = message ? `${company.company}：${message}` : "";
 }
 
 async function boot() {
@@ -224,12 +267,15 @@ async function boot() {
     state.page = Number.isInteger(requestedPage) && requestedPage > 0 ? requestedPage : 1;
     const latestSeen = state.jobs.map((job) => Date.parse(job.last_seen_at || 0)).filter(Boolean).sort((a, b) => b - a)[0];
     $("#updated-at").textContent = latestSeen ? `更新 ${chinaDate(latestSeen)}` : "等待更新";
-    addOptions($("#category"), unique(state.grouped.map((job) => job.category)));
-    updateSubcategoryOptions();
-    addOptions($("#program"), unique(state.grouped.map((job) => job.program)));
-    addOptions($("#tag"), unique(state.grouped.flatMap((job) => job.tags || [])));
-    addOptions($("#city"), unique(state.grouped.flatMap((job) => job.locations || [])));
-    addOptions($("#company"), unique(state.companies.map((company) => company.company)));
+    state.optionValues = {
+      category: unique(state.grouped.map((job) => job.category)),
+      program: unique(state.grouped.map((job) => job.program)),
+      tag: unique(state.grouped.flatMap((job) => job.tags || [])),
+      stage: unique(state.grouped.map((job) => job.stage)),
+      city: unique(state.grouped.flatMap((job) => job.locations || [])),
+      company: unique(state.companies.map((company) => company.company)),
+    };
+    renderAllFilters();
     render();
   } catch (error) {
     $("#job-list").innerHTML = `<p class="empty">数据读取失败：${escapeHtml(error.message)}</p>`;
@@ -237,17 +283,39 @@ async function boot() {
   }
 }
 
-["#search", "#subcategory", "#program", "#tag", "#stage", "#city", "#company"].forEach((selector) => {
-  $(selector).addEventListener(selector === "#search" ? "input" : "change", applyFilters);
-});
-$("#category").addEventListener("change", () => {
-  updateSubcategoryOptions();
+$("#search").addEventListener("input", applyFilters);
+$("#filter-panel").addEventListener("change", (event) => {
+  const input = event.target.closest("input[data-filter]");
+  if (!input) return;
+  const key = input.dataset.filter;
+  if (input.checked) state.selections[key].add(input.value);
+  else state.selections[key].delete(input.value);
+  updateFilterSummary(key);
+  if (key === "category") updateSubcategoryOptions();
   applyFilters();
+});
+$("#filter-panel").addEventListener("click", (event) => {
+  const summary = event.target.closest(".multi-filter.is-disabled summary");
+  if (summary) event.preventDefault();
 });
 $("#reset").addEventListener("click", () => {
-  ["#search", "#category", "#subcategory", "#program", "#tag", "#stage", "#city", "#company"].forEach((selector) => { $(selector).value = ""; });
-  updateSubcategoryOptions();
+  $("#search").value = "";
+  filterKeys.forEach((key) => state.selections[key].clear());
+  document.querySelectorAll(".multi-filter").forEach((details) => { details.open = false; });
+  renderAllFilters();
   applyFilters();
+});
+document.querySelectorAll(".multi-filter").forEach((details) => {
+  details.addEventListener("toggle", () => {
+    if (!details.open) return;
+    document.querySelectorAll(".multi-filter").forEach((other) => {
+      if (other !== details) other.open = false;
+    });
+  });
+});
+document.addEventListener("click", (event) => {
+  if (event.target.closest(".multi-filter")) return;
+  document.querySelectorAll(".multi-filter").forEach((details) => { details.open = false; });
 });
 $("#page-controls").addEventListener("click", (event) => {
   const button = event.target.closest("button[data-page]");
