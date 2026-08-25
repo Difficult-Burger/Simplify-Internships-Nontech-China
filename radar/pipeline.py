@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
-from radar.company_pool import APPROVED_COMPANIES
+from radar.company_pool import APPROVED_COMPANIES, PENDING_COMPANIES
 from radar.config import CATEGORIES, CATEGORY_KEYWORDS, TECHNICAL_TITLE_KEYWORDS
 from radar.job_pro_sources import fetch_approved_companies
 from radar.sources import fetch_bytedance, fetch_momenta, fetch_sensetime, fetch_tencent
@@ -49,6 +49,13 @@ MONITORED_COMPANIES = [
     {"company": "Momenta", "source": "Momenta招聘"},
     {"company": "商汤", "source": "商汤招聘"},
     *[{"company": company.company, "source": company.source} for company in APPROVED_COMPANIES],
+]
+COMPANY_POOL = [
+    *MONITORED_COMPANIES,
+    *[
+        {"company": company, "source": "待接入官方招聘源", "status": "待接入"}
+        for company in PENDING_COMPANIES
+    ],
 ]
 VALID_STAGES = {"实习", "校招"}
 
@@ -296,8 +303,8 @@ def build_outputs(jobs: list[dict[str, Any]] | None = None) -> None:
     validate_data(jobs)
     _write_json(JOBS_JSON, jobs)
     _write_json(SITE_JSON, jobs)
-    _write_json(COMPANIES_JSON, MONITORED_COMPANIES)
-    _write_json(SITE_COMPANIES_JSON, MONITORED_COMPANIES)
+    _write_json(COMPANIES_JSON, COMPANY_POOL)
+    _write_json(SITE_COMPANIES_JSON, COMPANY_POOL)
     _write_csv_file(JOBS_CSV, jobs)
     _write_csv_file(SITE_CSV, jobs)
     _update_readme(jobs)
