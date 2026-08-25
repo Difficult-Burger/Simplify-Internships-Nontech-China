@@ -1,9 +1,6 @@
 ﻿category,company,first_seen_at,id,last_seen_at,program,published_at,raw_category,source,stage,subcategory,title,url,locations,tags
 法务合规,美团,2026-08-25T18:29:22+00:00,meituan:4695022677,2026-08-25T18:29:22+00:00,校园招聘,,公司事务 · 职能类,美团招聘,校招,法务,法务岗,https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695022677&jobShareType=1&highlightType=campus,北京,
-游戏,哔哩哔哩,2026-08-25T18:29:22+00:00,bilibili:29745,2026-08-25T18:29:22+00:00,校园招聘,,游戏类,哔哩哔哩招聘,校招,游戏策划,游戏服务端工程师【2027届】,https://jobs.bilibili.com/campus/positions/29745,上海,
 游戏,哔哩哔哩,2026-08-25T18:29:22+00:00,bilibili:29705,2026-08-25T18:29:22+00:00,校园招聘,,游戏类,哔哩哔哩招聘,校招,游戏策划,游戏战斗策划【2027届】,https://jobs.bilibili.com/campus/positions/29705,上海,
-游戏,哔哩哔哩,2026-08-25T18:29:22+00:00,bilibili:29744,2026-08-25T18:29:22+00:00,校园招聘,,游戏类,哔哩哔哩招聘,校招,游戏策划,游戏客户端工程师（Unity3D）【2027届】,https://jobs.bilibili.com/campus/positions/29744,上海,
-游戏,哔哩哔哩,2026-08-25T18:29:22+00:00,bilibili:29743,2026-08-25T18:29:22+00:00,校园招聘,,游戏类,哔哩哔哩招聘,校招,游戏策划,游戏客户端工程师（Unity3D/Unreal）【2027届】,https://jobs.bilibili.com/campus/positions/29743,上海,
 内容,哔哩哔哩,2026-08-25T18:29:22+00:00,bilibili:28316,2026-08-25T18:29:22+00:00,实习招聘,,游戏类,哔哩哔哩招聘,实习,内容策划,海外创作者生态实习生（日语方向）,https://jobs.bilibili.com/campus/positions/28316,上海,国际化
 游戏,哔哩哔哩,2026-08-25T18:29:22+00:00,bilibili:29066,2026-08-25T18:29:22+00:00,实习招聘,,游戏类,哔哩哔哩招聘,实习,游戏策划,场景原画实习生,https://jobs.bilibili.com/campus/positions/29066,上海,
 采购供应链,阿里巴巴,2026-08-25T18:23:44+00:00,alibaba:199908540006,2026-08-25T18:29:22+00:00,校园招聘,,物流类 / 菜鸟,阿里巴巴招聘,校招,供应链,物流规划,https://campus-talent.alibaba.com/campus/position/199908540006,杭州,
@@ -3257,7 +3254,6 @@ HR,京东,2026-08-25T00:31:22+00:00,jd:4964,2026-08-25T18:29:22+00:00,实习招�
 设计,vivo,2026-08-25T00:31:22+00:00,vivo:561282620,2026-08-25T18:29:22+00:00,校园招聘,,工业设计中心,vivo招聘,校招,其他设计,CMF设计师（IOT方向）-27届秋招,https://hr-campus.vivo.com/campus/detail?jobAdId=561282620,东莞,
 设计,vivo,2026-08-25T00:31:22+00:00,vivo:561282610,2026-08-25T18:29:22+00:00,校园招聘,,职员虚拟组织,vivo招聘,校招,其他设计,CMF设计师-27届秋招,https://hr-campus.vivo.com/campus/detail?jobAdId=561282610,东莞,
 产品,vivo,2026-08-25T00:31:22+00:00,vivo:561263698,2026-08-25T18:29:22+00:00,实习招聘,,AI产品部,vivo招聘,实习,产品经理,AI架构工程师-27届实习,https://hr-campus.vivo.com/intern/detail?jobAdId=561263698,杭州 | 南京,AI
-产品,vivo,2026-08-25T00:31:22+00:00,vivo:561282522,2026-08-25T18:29:22+00:00,校园招聘,,AI产品部,vivo招聘,校招,产品经理,AI客户端工程师（Android 方向）-27届秋招,https://hr-campus.vivo.com/campus/detail?jobAdId=561282522,杭州,AI
 运营,vivo,2026-08-25T00:31:22+00:00,vivo:561182395,2026-08-25T18:29:22+00:00,实习招聘,,AI产品部,vivo招聘,实习,产品运营,AI产品运营设计师-杭州实习,https://hr-campus.vivo.com/intern/detail?jobAdId=561182395,杭州,AI
 产品,vivo,2026-08-25T00:31:22+00:00,vivo:561218066,2026-08-25T18:29:22+00:00,实习招聘,,AI产品部,vivo招聘,实习,产品经理,AI产品规划经理（深圳）-实习,https://hr-campus.vivo.com/intern/detail?jobAdId=561218066,深圳,AI
 产品,vivo,2026-08-25T00:31:22+00:00,vivo:561282502,2026-08-25T18:29:22+00:00,校园招聘,,AI产品部,vivo招聘,校招,产品经理,AI产品规划经理-27届秋招,https://hr-campus.vivo.com/campus/detail?jobAdId=561282502,深圳,AI

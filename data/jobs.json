@@ -19,25 +19,6 @@
     "last_seen_at": "2026-08-25T18:29:22+00:00"
   },
   {
-    "id": "bilibili:29745",
-    "company": "哔哩哔哩",
-    "title": "游戏服务端工程师【2027届】",
-    "raw_category": "游戏类",
-    "locations": [
-      "上海"
-    ],
-    "stage": "校招",
-    "published_at": "",
-    "url": "https://jobs.bilibili.com/campus/positions/29745",
-    "source": "哔哩哔哩招聘",
-    "category": "游戏",
-    "subcategory": "游戏策划",
-    "program": "校园招聘",
-    "tags": [],
-    "first_seen_at": "2026-08-25T18:29:22+00:00",
-    "last_seen_at": "2026-08-25T18:29:22+00:00"
-  },
-  {
     "id": "bilibili:29705",
     "company": "哔哩哔哩",
     "title": "游戏战斗策划【2027届】",
@@ -48,44 +29,6 @@
     "stage": "校招",
     "published_at": "",
     "url": "https://jobs.bilibili.com/campus/positions/29705",
-    "source": "哔哩哔哩招聘",
-    "category": "游戏",
-    "subcategory": "游戏策划",
-    "program": "校园招聘",
-    "tags": [],
-    "first_seen_at": "2026-08-25T18:29:22+00:00",
-    "last_seen_at": "2026-08-25T18:29:22+00:00"
-  },
-  {
-    "id": "bilibili:29744",
-    "company": "哔哩哔哩",
-    "title": "游戏客户端工程师（Unity3D）【2027届】",
-    "raw_category": "游戏类",
-    "locations": [
-      "上海"
-    ],
-    "stage": "校招",
-    "published_at": "",
-    "url": "https://jobs.bilibili.com/campus/positions/29744",
-    "source": "哔哩哔哩招聘",
-    "category": "游戏",
-    "subcategory": "游戏策划",
-    "program": "校园招聘",
-    "tags": [],
-    "first_seen_at": "2026-08-25T18:29:22+00:00",
-    "last_seen_at": "2026-08-25T18:29:22+00:00"
-  },
-  {
-    "id": "bilibili:29743",
-    "company": "哔哩哔哩",
-    "title": "游戏客户端工程师（Unity3D/Unreal）【2027届】",
-    "raw_category": "游戏类",
-    "locations": [
-      "上海"
-    ],
-    "stage": "校招",
-    "published_at": "",
-    "url": "https://jobs.bilibili.com/campus/positions/29743",
     "source": "哔哩哔哩招聘",
     "category": "游戏",
     "subcategory": "游戏策划",
@@ -64649,27 +64592,6 @@
     "category": "产品",
     "subcategory": "产品经理",
     "program": "实习招聘",
-    "tags": [
-      "AI"
-    ],
-    "first_seen_at": "2026-08-25T00:31:22+00:00",
-    "last_seen_at": "2026-08-25T18:29:22+00:00"
-  },
-  {
-    "id": "vivo:561282522",
-    "company": "vivo",
-    "title": "AI客户端工程师（Android 方向）-27届秋招",
-    "raw_category": "AI产品部",
-    "locations": [
-      "杭州"
-    ],
-    "stage": "校招",
-    "published_at": "",
-    "url": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282522",
-    "source": "vivo招聘",
-    "category": "产品",
-    "subcategory": "产品经理",
-    "program": "校园招聘",
     "tags": [
       "AI"
     ],
