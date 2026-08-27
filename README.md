@@ -15,45 +15,45 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6760** 条在招岗位。
+当前收录 **6797** 条在招岗位。
 
 ### 按岗位类别浏览
 
-🧭 **[产品](#category-1)**（1463）
+🧭 **[产品](#category-1)**（1464）
 
-⚙️ **[运营](#category-2)**（1989）
+⚙️ **[运营](#category-2)**（1999）
 
-✎ **[内容](#category-3)**（280）
+✎ **[内容](#category-3)**（282）
 
-📣 **[市场](#category-4)**（439）
+📣 **[市场](#category-4)**（446）
 
-💼 **[销售](#category-5)**（223）
+💼 **[销售](#category-5)**（220）
 
-🤝 **[商务拓展](#category-6)**（120）
+🤝 **[商务拓展](#category-6)**（125）
 
-♟️ **[战略投资](#category-7)**（133）
+♟️ **[战略投资](#category-7)**（134）
 
-📊 **[数据分析](#category-8)**（242）
+📊 **[数据分析](#category-8)**（246）
 
 📋 **[项目管理](#category-9)**（117）
 
-✦ **[设计](#category-10)**（682）
+✦ **[设计](#category-10)**（681）
 
 🔍 **[用户研究](#category-11)**（67）
 
-🎮 **[游戏](#category-12)**（167）
+🎮 **[游戏](#category-12)**（168）
 
-🧑‍💼 **[HR](#category-13)**（434）
+🧑‍💼 **[HR](#category-13)**（438）
 
-🧾 **[财务](#category-14)**（93）
+🧾 **[财务](#category-14)**（94）
 
-⚖️ **[法务合规](#category-15)**（96）
+⚖️ **[法务合规](#category-15)**（100）
 
-📦 **[采购供应链](#category-16)**（166）
+📦 **[采购供应链](#category-16)**（167）
 
-🏢 **[行政](#category-17)**（35）
+🏢 **[行政](#category-17)**（36）
 
-🛡️ **[审计风控](#category-18)**（14）
+🛡️ **[审计风控](#category-18)**（13）
 
 ---
 
@@ -65,66 +65,66 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| vivo | 海外产品项目助理-实习 · 实习 | 东莞 | 新收录 1 小时内 | [投递](https://hr-campus.vivo.com/intern/detail?jobAdId=561292054) |
-| 字节跳动 | AI产品经理（业务风控方向） - TikTok研发 · 校招 | 北京 | 发布于 19 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677847856178841909/detail) |
-| 字节跳动 | AI产品实习生（评估与标注质量方向） - TikTok · 实习 | 北京 | 发布于 20 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677834564777462069/detail) |
-| 字节跳动 | 策略产品实习生 - TikTok生活服务 · 实习 | 上海 | 发布于 21 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677829646159661365/detail) |
-| 字节跳动 | AI产品经理 - 抖音电商 · 校招 | 上海 / 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677588589015615749/detail) |
-| 字节跳动 | AIGC创意产品实习生 - 广告业务 · 实习 | 北京 / 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677469600480790789/detail) |
-| 字节跳动 | AI产品经理（模型训练策略方向） - AI数据与安全 · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677444792511482165/detail) |
-| 字节跳动 | AI产品实习生 - 广告业务 · 实习 | 北京 / 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677440843802380549/detail) |
-| 字节跳动 | AI产品经理（治理策略方向） - 抖音电商 · 校招 | 上海 / 北京 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676433354120038661/detail) |
-| 字节跳动 | 豆包AI大模型Agent评测产品实习生 - 火山方舟 · 实习 | 上海 / 北京 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676350693393811765/detail) |
-| 字节跳动 | 推荐产品实习生 - 抖音电商 · 实习 | 北京 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676318458393397557/detail) |
-| 字节跳动 | 广告策略产品实习生 - 广告业务 · 实习 | 北京 / 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676290873403623733/detail) |
-| 字节跳动 | AI产品实习生 - Aime · 实习 | 北京 / 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676081500040431877/detail) |
-| 字节跳动 | GNE平台产品（治理方向）实习生 - TikTok生活服务 · 实习 | 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7675948852339919157/detail) |
-| 字节跳动 | 广告产品实习生 - 广告业务 · 实习 | 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675745742295697717/detail) |
-| 字节跳动 | 营销工具产品经理（AI方向） - TikTok Shop · 校招 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675675169187219717/detail) |
-| 字节跳动 | 商家资金AI产品实习生 - TikTok Shop · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675672678468978997/detail) |
-| 字节跳动 | AI产品实习生 - Data AML · 实习 | 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675650131153701125/detail) |
-| 字节跳动 | 大模型安全产品实习生 - 火山方舟 · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675353973675460869/detail) |
-| 字节跳动 | AIMV音乐产品经理（抖音AI产品人才校招） - 抖音音乐 · 校招 | 上海 / 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675285766054054197/detail) |
-| 字节跳动 | 垂类策略运营产品经理（抖音AI产品人才校招） - 抖音运营 · 校招 | 北京 / 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675260955961968901/detail) |
-| 字节跳动 | 兴趣推荐策略产品实习生-TikTok · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675242123075225909/detail) |
-| 字节跳动 | 具身数据产品实习生 - Seed · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675239927936239877/detail) |
-| 字节跳动 | AI大模型评测产品实习生 - 火山方舟 · 实习 | 上海 / 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674950150314477877/detail) |
-| 字节跳动 | AIGC产品实习生（IAA方向） - 广告业务 · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674944037608409349/detail) |
-| 字节跳动 | 广告策略产品实习生（内容消费方向） - 广告业务 · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674943205221861685/detail) |
-| 字节跳动 | 达人营销产品实习生 - 抖音生活服务 · 实习 | 北京 / 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674933871479130373/detail) |
-| 字节跳动 | 推荐策略产品经理 - TikTok生活服务 · 校招 | 上海 / 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674932405712111877/detail) |
-| 字节跳动 | 创意产品实习生 - TikTok · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674930292679657781/detail) |
-| 字节跳动 | 平台产品（POI方向）实习生-TikTok生活服务 · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674874443010885893/detail) |
-| 字节跳动 | 推荐产品实习生 - 抖音电商 · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674872390589188405/detail) |
-| 字节跳动 | 语音大模型平台产品实习生 - Data语音 · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674861834033875253/detail) |
-| 字节跳动 | TikTok品牌广告产品策略运营实习生 - Global Business Solutions · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674837182969137461/detail) |
-| 字节跳动 | 交易产品经理 - TikTok Shop · 校招 | 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7674635781763778821/detail) |
-| 字节跳动 | 投放策略产品实习生 - 抖音 · 实习 | 北京 / 深圳 | 发布于 11 天前 | [投递](https://jobs.bytedance.com/campus/position/7673816932219062581/detail) |
-| 字节跳动 | 音乐合作平台产品经理（抖音AI产品人才校招） - 抖音音乐 · 校招 | 北京 / 上海 | 发布于 11 天前 | [投递](https://jobs.bytedance.com/campus/position/7673761412287646005/detail) |
-| 字节跳动 | AI产品实习生 - 数据平台 · 实习 | 上海 / 北京 | 发布于 11 天前 | [投递](https://jobs.bytedance.com/campus/position/7673733057043712261/detail) |
-| 字节跳动 | 社区生态产品实习生-TikTok · 实习 | 上海 | 发布于 11 天前 | [投递](https://jobs.bytedance.com/campus/position/7673732306931173685/detail) |
-| 字节跳动 | AI产品实习生（商家方向） - 抖音电商 · 实习 | 北京 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673696354150189365/detail) |
-| 字节跳动 | 增长策略产品经理实习生-TikTok生活服务 · 实习 | 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673483220014680325/detail) |
-| 字节跳动 | 智能产品实习生 - 体验与服务 · 实习 | 成都 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673465153480034613/detail) |
-| 字节跳动 | 产品实习生-TikTok · 实习 | 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673454377625323829/detail) |
-| 字节跳动 | 国际商家金融产品经理 - 国际支付 · 校招 | 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673452190275619125/detail) |
-| 字节跳动 | AI产品实习生（增长投放方向） - 抖音 · 实习 | 北京 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673409327177533701/detail) |
-| 字节跳动 | 平台产品实习生-TikTok · 实习 | 北京 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673076219252623669/detail) |
-| 字节跳动 | 国际化商业产品实习生 - Global Ads Core · 实习 | 深圳 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673018391829449013/detail) |
-| 字节跳动 | 用户增长补贴策略产品实习生 - 抖音生活服务 · 实习 | 北京 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673000359934200117/detail) |
-| 字节跳动 | AI产品实习生（企业级智能体） - 数据平台 · 实习 | 北京 / 深圳 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672709044188236085/detail) |
-| 字节跳动 | AI产品实习生（营销Agent方向） - 剪映CapCut · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672654924648728885/detail) |
-| 字节跳动 | 产品（Agentic Commerce方向）实习生 - 国际化电商广告 · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672613276421982469/detail) |
-| 字节跳动 | 大模型产品实习生-TikTok · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672401115376929029/detail) |
-| 字节跳动 | 广告产品实习生 - 抖音生活服务 · 实习 | 上海 / 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672337680158230789/detail) |
-| 字节跳动 | 国际商业化数据产品实习生 - 国际化广告数据平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672292287360485685/detail) |
-| 字节跳动 | 策略产品经理 - 红果短剧 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672285925036968197/detail) |
-| 字节跳动 | 商品产品实习生 - TikTok Shop · 实习 | 珠海 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672270818408745221/detail) |
-| 字节跳动 | Agent数据分析产品实习生 - 火山方舟 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672244065208551685/detail) |
-| 字节跳动 | 豆包AI大模型产品实习生 - 火山方舟 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671188492174674181/detail) |
-| 字节跳动 | 豆包AI大模型产品实习生 - 火山方舟 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671174222509541685/detail) |
-| 字节跳动 | AI产品实习生 - 模型数据工程 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671121792090851637/detail) |
-| 字节跳动 | AI产品实习生（游戏方向） - ZERO36工作室 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671118749334849797/detail) |
+| 阿里巴巴 | 灵犀互娱-AI产品经理 · 校招 | 广州 | 新收录 1 小时内 | [投递](https://campus-talent.alibaba.com/campus/position/199909200001) |
+| 阿里巴巴 | QwenAudio语音AI产品实习生 · 实习 | 北京 / 杭州 | 新收录 1 小时内 | [投递](https://campus-talent.alibaba.com/campus/position/199909180001) |
+| 百度 | 业务运营平台产品经理实习生（J105076） · 实习 | 上海 | 新收录 1 小时内 | [投递](https://talent.baidu.com/jobs/detail/INTERN/62427c97-1687-41ba-84fb-df057083b127) |
+| 爱奇艺 | 用户增长产品实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://careers.iqiyi.com/intern/position/7389223571232573732/detail) |
+| 携程 | AI 产品经理（2027届秋招）(MJ036636) · 校招 | Shanghai | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036636) |
+| 小红书 | 推荐产品实习生（AI / 推荐方向） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21910) |
+| 小红书 | 出海广告产品实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21875) |
+| 小红书 | 产品实习生（活动玩法&amp;记录） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21886) |
+| 小红书 | AI策略产品经理（大模型/Agent方向） · 校招 | 北京 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21890) |
+| 小米 | 大模型问答策略产品实习生-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678594407340689727/detail) |
+| 小米 | 国际化语音产品经理-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678594798639417636/detail) |
+| 小米 | 内容-策略产品实习生-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678594377204582692/detail) |
+| 小米 | 产品经理-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7677508878283573567/detail) |
+| 哔哩哔哩 | 自助化投放产品经理-实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30217) |
+| 哔哩哔哩 | 商业化流量产品实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30223) |
+| 哔哩哔哩 | 产品经理实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30221) |
+| 字节跳动 | 风控策略产品经理（账号/增长/营收方向） - TikTok研发 · 校招 | 上海 | 发布于 1 小时内 | [投递](https://jobs.bytedance.com/campus/position/7678639283918670133/detail) |
+| 字节跳动 | AI产品经理（Seed评测方向） - 火山方舟 · 校招 | 北京 / 上海 | 发布于 2 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678601631490984197/detail) |
+| 字节跳动 | 社区互动产品经理（抖音AI产品人才校招） - 抖音直播 · 校招 | 北京 | 发布于 5 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678564572653488389/detail) |
+| 字节跳动 | AI策略产品实习生 - TikTok产品 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678168575945967877/detail) |
+| vivo | 海外产品项目助理-实习 · 实习 | 东莞 | 新收录 1 天前 | [投递](https://hr-campus.vivo.com/intern/detail?jobAdId=561292054) |
+| 字节跳动 | AI产品经理（业务风控方向） - TikTok研发 · 校招 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677847856178841909/detail) |
+| 字节跳动 | AI产品实习生（评估与标注质量方向） - TikTok · 实习 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677834564777462069/detail) |
+| 字节跳动 | 策略产品实习生 - TikTok生活服务 · 实习 | 上海 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677829646159661365/detail) |
+| 字节跳动 | AI产品经理 - 抖音电商 · 校招 | 上海 / 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677588589015615749/detail) |
+| 字节跳动 | 产品实习生 - 飞书 · 实习 | 武汉 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677519698083285301/detail) |
+| 字节跳动 | 产品实习生 - 体验与服务 · 实习 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677518055546620213/detail) |
+| 字节跳动 | AIGC创意产品实习生 - 广告业务 · 实习 | 北京 / 上海 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677469600480790789/detail) |
+| 字节跳动 | AI产品经理（模型训练策略方向） - AI数据与安全 · 校招 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677444792511482165/detail) |
+| 字节跳动 | AI产品实习生 - 广告业务 · 实习 | 北京 / 上海 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677440843802380549/detail) |
+| 字节跳动 | AI产品经理（治理策略方向） - 抖音电商 · 校招 | 上海 / 北京 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676433354120038661/detail) |
+| 字节跳动 | 豆包AI大模型Agent评测产品实习生 - 火山方舟 · 实习 | 上海 / 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7676350693393811765/detail) |
+| 字节跳动 | 推荐产品实习生 - 抖音电商 · 实习 | 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7676318458393397557/detail) |
+| 字节跳动 | 广告策略产品实习生 - 广告业务 · 实习 | 北京 / 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7676290873403623733/detail) |
+| 字节跳动 | AI产品实习生 - Aime · 实习 | 北京 / 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7676081500040431877/detail) |
+| 字节跳动 | GNE平台产品实习生 - TikTok生活服务 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675948852339919157/detail) |
+| 字节跳动 | 广告产品实习生 - 广告业务 · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675745742295697717/detail) |
+| 字节跳动 | 营销工具产品经理（AI方向） - TikTok Shop · 校招 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675675169187219717/detail) |
+| 字节跳动 | 商家资金AI产品实习生 - TikTok Shop · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675672678468978997/detail) |
+| 字节跳动 | AI产品实习生 - Data AML · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675650131153701125/detail) |
+| 字节跳动 | 大模型安全产品实习生 - 火山方舟 · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675353973675460869/detail) |
+| 字节跳动 | AIMV音乐产品经理（抖音AI产品人才校招） - 抖音音乐 · 校招 | 上海 / 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675285766054054197/detail) |
+| 字节跳动 | 垂类策略运营产品经理（抖音AI产品人才校招） - 抖音运营 · 校招 | 北京 / 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675260955961968901/detail) |
+| 字节跳动 | 兴趣推荐策略产品实习生-TikTok · 实习 | 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675242123075225909/detail) |
+| 字节跳动 | 具身数据产品实习生 - Seed · 实习 | 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675239927936239877/detail) |
+| 字节跳动 | AI大模型评测产品实习生 - 火山方舟 · 实习 | 上海 / 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7674950150314477877/detail) |
+| 字节跳动 | AIGC产品实习生（IAA方向） - 广告业务 · 实习 | 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7674944037608409349/detail) |
+| 字节跳动 | 广告策略产品实习生（内容消费方向） - 广告业务 · 实习 | 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7674943205221861685/detail) |
+| 字节跳动 | 达人营销产品实习生 - 抖音生活服务 · 实习 | 北京 / 上海 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674933871479130373/detail) |
+| 字节跳动 | 推荐策略产品经理 - TikTok生活服务 · 校招 | 上海 / 北京 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674932405712111877/detail) |
+| 字节跳动 | 创意产品实习生 - TikTok · 实习 | 北京 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674930292679657781/detail) |
+| 字节跳动 | 平台产品（POI方向）实习生-TikTok生活服务 · 实习 | 北京 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674874443010885893/detail) |
+| 字节跳动 | 推荐产品实习生 - 抖音电商 · 实习 | 北京 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674872390589188405/detail) |
+| 字节跳动 | 产品经理（音乐） - TikTok · 校招 | 上海 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674865705004976437/detail) |
+| 字节跳动 | 语音大模型平台产品实习生 - Data语音 · 实习 | 北京 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674861834033875253/detail) |
+| 字节跳动 | TikTok品牌广告产品策略运营实习生 - Global Business Solutions · 实习 | 北京 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674837182969137461/detail) |
+| 字节跳动 | 交易产品经理 - TikTok Shop · 校招 | 上海 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674635781763778821/detail) |
+| 字节跳动 | 投放策略产品实习生 - 抖音 · 实习 | 北京 / 深圳 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673816932219062581/detail) |
+| 字节跳动 | 音乐合作平台产品经理（抖音AI产品人才校招） - 抖音音乐 · 校招 | 北京 / 上海 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673761412287646005/detail) |
+| 字节跳动 | AI产品实习生 - 数据平台 · 实习 | 上海 / 北京 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673733057043712261/detail) |
 
 ---
 
@@ -136,66 +136,66 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 小米 | 运动健康实验室运营专员实习生（活动运营）-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678149453454575935/detail) |
-| 字节跳动 | 商家入驻治理运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 11 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677973076232636677/detail) |
-| 字节跳动 | AI数据质量运营 - TikTok · 校招 | 上海 | 发布于 12 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677965728884427061/detail) |
-| 字节跳动 | 国际电商大标品实习生 - TikTok Shop · 实习 | 上海 | 发布于 16 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677907044152281349/detail) |
-| 字节跳动 | 区域商家运营 - 抖音生活服务 · 校招 | 北京 | 发布于 16 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677903925353957637/detail) |
-| 字节跳动 | 服务体验运营实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 17 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677887765569341749/detail) |
-| 字节跳动 | 国际电商战略产品运营实习生 - TikTok Shop · 实习 | 上海 / 北京 | 发布于 19 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677855581592848693/detail) |
-| 字节跳动 | 秒杀频道策略运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 19 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677847886873413941/detail) |
-| 字节跳动 | 招商策略实习生 - TikTok Shop · 实习 | 深圳 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677580737168754997/detail) |
-| 字节跳动 | 东南亚电商策略运营实习生 - TikTok Shop · 实习 | 深圳 / 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677554161329457413/detail) |
-| 字节跳动 | 产品运营（AI方向）实习生 - TikTok产品 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677540909055150341/detail) |
-| 字节跳动 | 快消生活行业运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677500826289948981/detail) |
-| 字节跳动 | 东南亚电商直播运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677500042200287493/detail) |
-| 字节跳动 | 东南亚电商策略运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677499415334422837/detail) |
-| 字节跳动 | 剪映热点内容运营实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677492679236602165/detail) |
-| 字节跳动 | 日用家纺行业商家运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677485413922490677/detail) |
-| 字节跳动 | 剪映Agent策略运营 - 剪映CapCut · 校招 | 深圳 / 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677480459190389045/detail) |
-| 字节跳动 | 国际电商数据产品运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677475476245104901/detail) |
-| 字节跳动 | 印尼商家运营实习生 - TikTok Shop · 实习 | 深圳 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677457336251828533/detail) |
-| 字节跳动 | 行业运营实习生 - TikTok Shop · 实习 | 深圳 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677440179351619893/detail) |
-| 字节跳动 | 菲律宾大促运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677438105138219317/detail) |
-| 字节跳动 | AI数据运营（ToB Agent方向） - AI数据与安全 · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677424368449833221/detail) |
-| 字节跳动 | UK商城供给孵化运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676425531558889733/detail) |
-| 字节跳动 | 醒图作者运营实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676414545212803381/detail) |
-| 字节跳动 | 美区POP商家运营实习生（汽摩工具组） - TikTok Shop · 实习 | 上海 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676406754099398965/detail) |
-| 字节跳动 | 商家运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676390895828437253/detail) |
-| 字节跳动 | 开放平台运营（短剧方向）实习生 - TikTok产品 · 实习 | 上海 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676344137335966005/detail) |
-| 字节跳动 | AI短剧内容运营实习生 - TikTok · 实习 | 上海 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676307457295436085/detail) |
-| 字节跳动 | 质量检查（QA）实习生 - TikTok生活服务 · 实习 | 北京 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676094235288324405/detail) |
-| 字节跳动 | 新加坡大促策略运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676084665744640261/detail) |
-| 字节跳动 | Agent效果运营实习生 - 抖音社交与互动 · 实习 | 深圳 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676042214067865861/detail) |
-| 字节跳动 | 用户运营（攀岩方向）实习生 - 抖音UGC · 实习 | 北京 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676038058000599301/detail) |
-| 字节跳动 | 策略运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7675953259871127813/detail) |
-| 字节跳动 | 达人策略（直播方向）实习生 - TikTok生活服务 · 实习 | 北京 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7675929837876037893/detail) |
-| 字节跳动 | 商业化治理宣发实习生 - 广告业务 · 实习 | 北京 / 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675746086036506933/detail) |
-| 字节跳动 | 服务运营（日语）实习生 - TikTok Shop · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675739000921639173/detail) |
-| 字节跳动 | 策略运营实习生 - 抖音社交与互动 · 实习 | 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675717481690761477/detail) |
-| 字节跳动 | 产品运营（开播供给方向）实习生 - 抖音直播 · 实习 | 深圳 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675678294877456693/detail) |
-| 字节跳动 | 产品运营（AI轻应用方向）实习生 - 抖音直播 · 实习 | 深圳 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675678522107398405/detail) |
-| 字节跳动 | 新公会运营实习生 - TikTok直播 · 实习 | 深圳 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675660045326911749/detail) |
-| 字节跳动 | 策略运营实习生 - 抖音生态 · 实习 | 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675642403180546309/detail) |
-| 字节跳动 | 女装行业商家运营实习生 - TikTok Shop · 实习 | 广州 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675637104203057413/detail) |
-| 字节跳动 | 商家运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675635995903428917/detail) |
-| 字节跳动 | 印尼电商运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675629851691206917/detail) |
-| 字节跳动 | 越南服饰行业运营实习生 - TikTok Shop · 实习 | 深圳 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675573854149675269/detail) |
-| 字节跳动 | 音乐发行平台运营实习生-TikTok · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675563820484069685/detail) |
-| 字节跳动 | 运营实习生 - PICO · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675382193724246277/detail) |
-| 字节跳动 | 粉丝经济运营实习生 - 汽水音乐 · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675373448756054277/detail) |
-| 字节跳动 | 机构运营实习生 - 抖音运营 · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675372550525225221/detail) |
-| 字节跳动 | 电商运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675337320409450805/detail) |
-| 字节跳动 | 策略运营实习生 - 抖音电商 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675312353537231157/detail) |
-| 字节跳动 | 商品策略实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675304803947841797/detail) |
-| 字节跳动 | 广告产品运营实习生 - 国际化电商广告 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675268196536535301/detail) |
-| 字节跳动 | 价格策略实习生 - 抖音电商 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675265569215613189/detail) |
-| 字节跳动 | 投稿策略实习生 - 抖音生态 · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675243808321882421/detail) |
-| 字节跳动 | 治理策略运营 - TikTok · 校招 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675243215033813301/detail) |
-| 字节跳动 | EL活动运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675208362657253637/detail) |
-| 字节跳动 | 生态治理实习生-TikTok · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675190632675264821/detail) |
-| 字节跳动 | 平台活动运营实习生 - 抖音电商 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675189536532597045/detail) |
-| 字节跳动 | Agent评测与工程实习生 - AI数据与安全 · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674957854763567365/detail) |
+| 阿里巴巴 | User Operations- Forward Youth Program (TH/ID/VN/MY/PH) · 校招 | 杭州 | 新收录 1 小时内 | [投递](https://campus-talent.alibaba.com/campus/position/199907640029) |
+| 阿里巴巴 | Partner Operations- Forward Youth Program (TH/ID/VN/MY/PH) · 校招 | 广州 | 新收录 1 小时内 | [投递](https://campus-talent.alibaba.com/campus/position/199907780022) |
+| 美团 | 光年之外 - AI 浏览器-产品运营实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4278962780&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | AI 实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4724134707&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 短剧运营实习生 · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78415) |
+| 网易 | 游戏运营策划实习生（永劫无间） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=60058) |
+| 网易 | 新媒体运营实习生（人才发展） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=29896) |
+| 网易 | 内容运营实习生（光遇） · 实习 | 广州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78430) |
+| 网易 | 内容运营与设计实习生/培训运营实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78444) |
+| 网易 | AI社交产品运营实习生 · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78434) |
+| 米哈游 | 版本运营实习生-绝区零 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.mihoyo.com/#/position/9390) |
+| 百度 | 模型平台运营实习生（J104983） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://talent.baidu.com/jobs/detail/INTERN/57c29253-a3dc-4ebf-b6f5-8e925898617d) |
+| 百度 | 医药项目运营实习生（J104631） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://talent.baidu.com/jobs/detail/INTERN/496fe0f9-fa62-425d-b3a4-fb634fd5832a) |
+| 爱奇艺 | 泛娱乐运营实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://careers.iqiyi.com/intern/position/7678605932280351026/detail) |
+| 爱奇艺 | AI NPC项目产品运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://careers.iqiyi.com/intern/position/7618413178918357267/detail) |
+| 携程 | 旅游业务培训生（业务运营）（2027届秋招）- 郑州(MJ036705) · 校招 | Zhengzhou | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036705) |
+| 携程 | 旅游业务培训生（业务运营）（2027届秋招）- 北京(MJ036702) · 校招 | Beijing | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036702) |
+| 携程 | 旅游业务培训生（业务运营）-日语/韩语/泰语/粤语（2027届秋招）(MJ036723) · 校招 | Shanghai | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036723) |
+| 携程 | AI机器人运营（客服智能化方向）- 阿拉伯语（2027届秋招）(MJ036696) · 校招 | Shanghai | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036696) |
+| 小红书 | 智能客服运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21384) |
+| 小红书 | 小红书商业化策划运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21883) |
+| 小红书 | 小红书-买手策略运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21538) |
+| 小红书 | 创新产品增长运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21887) |
+| 小红书 | 创新产品内容运营实习生 — 增长方向 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21912) |
+| 小红书 | 创新产品内容运营实习生 — 增长方向 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21911) |
+| 小红书 | 创新产品内容运营实习生 — 增长方向 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/20615) |
+| 小红书 | 会员业务运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21894) |
+| 小米 | 小爱-质量运营实习生-2027届 · 实习 | 武汉 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678594778422298916/detail) |
+| 哔哩哔哩 | 结算产品运营实习生（业财方向） · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30199) |
+| 哔哩哔哩 | 用户运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30197) |
+| 哔哩哔哩 | 流量运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30201) |
+| 哔哩哔哩 | 商业化-行业运营实习生-AI运营方向 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30205) |
+| 哔哩哔哩 | B站-商业化行业运营-美妆组实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30215) |
+| 哔哩哔哩 | AI项目运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30213) |
+| 字节跳动 | 商家产品运营（店铺产品方向）实习生 - 抖音电商 · 实习 | 上海 | 发布于 1 小时内 | [投递](https://jobs.bytedance.com/campus/position/7678633317797300485/detail) |
+| 字节跳动 | 奢品招商运营实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 1 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678618318864910645/detail) |
+| 字节跳动 | 策略运营（国补方向）实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 1 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678617203185453365/detail) |
+| 字节跳动 | 行业运营（海外膳食）实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 2 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678615687528040709/detail) |
+| 字节跳动 | 行业运营（粮油速食）实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 2 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678600746620487941/detail) |
+| 字节跳动 | 行业运营（男装）实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 3 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678591560045234485/detail) |
+| 字节跳动 | 行业运营（户外类目）实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 4 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678582526983194885/detail) |
+| 字节跳动 | 东南亚策略运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 6 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678552974926563589/detail) |
+| 字节跳动 | 行业策略实习生 - TikTok Shop · 实习 | 上海 | 发布于 6 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678550211495135493/detail) |
+| 字节跳动 | 治理运营实习生 - TikTok生活服务 · 实习 | 上海 | 发布于 7 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678537610326853893/detail) |
+| 字节跳动 | 商品策略运营实习生 - 抖音电商 · 实习 | 杭州 | 发布于 7 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678527667469125941/detail) |
+| 字节跳动 | 电商运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 17 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678371003115866373/detail) |
+| 字节跳动 | 货品策略运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 21 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678313576394950965/detail) |
+| 字节跳动 | 经营策略实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678271760915482933/detail) |
+| 字节跳动 | 平台活动场域实习生 - 抖音电商 · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678258762948675845/detail) |
+| 字节跳动 | 东南亚策略分析实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678223455796611381/detail) |
+| 字节跳动 | TikTok商业化创意产品运营实习生 - 国际化广告创意与品牌 · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678213113748982069/detail) |
+| 字节跳动 | AI培训与产品运营 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678170173711190325/detail) |
+| 商汤 | 运营实习生，开发者社区 · 实习 | 北京 | 发布于 1 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7678164592695101723/detail) |
+| 字节跳动 | 资源管理分析实习生 - 抖音电商 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678159169796819205/detail) |
+| 小米 | 运动健康实验室运营专员实习生（活动运营）-2027届 · 实习 | 北京 | 新收录 1 天前 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678149453454575935/detail) |
+| 字节跳动 | 商家入驻治理运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677973076232636677/detail) |
+| 字节跳动 | AI数据质量运营 - TikTok · 校招 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677965728884427061/detail) |
+| 字节跳动 | 国际电商大标品实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677907044152281349/detail) |
+| 字节跳动 | 区域商家运营 - 抖音生活服务 · 校招 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677903925353957637/detail) |
+| 字节跳动 | 服务体验运营实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677887765569341749/detail) |
 
 ---
 
@@ -207,20 +207,29 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 标准运营 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677529181178448181/detail) |
-| 字节跳动 | 网文内容安全策略实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677486762807052549/detail) |
-| 字节跳动 | 标准与质量运营实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677483899098220853/detail) |
-| 字节跳动 | 内容治理策略运营（Push方向）实习生 - 抖音增长 · 实习 | 上海 / 北京 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676418552257268021/detail) |
-| 字节跳动 | 模型运营（IP与版权方向） - 内容质量与数据服务平台 · 校招 | 成都 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7675940689016998149/detail) |
-| 字节跳动 | 内容安全研判运营（日语方向） - TikTok · 校招 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675711817519728901/detail) |
-| 字节跳动 | 内容质量管理 - TikTok · 校招 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675710536562280757/detail) |
-| 字节跳动 | 模型运营（游戏与社交） - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675644624045869317/detail) |
-| 字节跳动 | 内容安全策略运营（国内） - 剪映CapCut · 校招 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675252959013636357/detail) |
-| 字节跳动 | 内容策略实习生 - 抖音电商 · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675243215062780165/detail) |
-| 字节跳动 | AI内容种草&amp;评测运营实习生 - AI数据与安全 · 实习 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674953097318304005/detail) |
-| 字节跳动 | 体育运营实习生 - 中国内容与合作 · 实习 | 北京 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673380245657045253/detail) |
-| 字节跳动 | 本地化项目内容实习生 - TikTok Shop · 实习 | 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672663388685945093/detail) |
-| 字节跳动 | 领导力培训实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672656431764015365/detail) |
+| 网易 | 音乐内容拓展实习生 · 实习 | 成都 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78435) |
+| 网易 | 视频剪辑实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78432) |
+| 网易 | AI视频制作 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78418) |
+| 网易 | AI短剧实习生 · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=77229) |
+| 爱奇艺 | 海外内容排播（电影、动漫方向）实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://careers.iqiyi.com/intern/position/7678243596453382438/detail) |
+| 小红书 | 创作者变现与MCN机构运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21801) |
+| 字节跳动 | 内容策略运营（内容生产方向）实习生 - 今日头条 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678270608639134005/detail) |
+| 字节跳动 | 创作者策略运营实习生 - 今日头条 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678266929589766453/detail) |
+| 字节跳动 | 内容策略运营实习生 - 今日头条 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678265381508991237/detail) |
+| 字节跳动 | 体育热点运营实习生 - 中国内容与合作 · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678259257582749957/detail) |
+| 字节跳动 | 内容生态治理实习生 - TikTok · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678237205792393477/detail) |
+| 字节跳动 | 标准运营 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677529181178448181/detail) |
+| 字节跳动 | 网文内容安全策略实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677486762807052549/detail) |
+| 字节跳动 | 标准与质量运营实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677483899098220853/detail) |
+| 字节跳动 | 内容治理策略运营（Push方向）实习生 - 抖音增长 · 实习 | 上海 / 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7676418552257268021/detail) |
+| 字节跳动 | 模型运营（IP与版权方向） - 内容质量与数据服务平台 · 校招 | 成都 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675940689016998149/detail) |
+| 字节跳动 | 内容安全研判运营（日语方向） - TikTok · 校招 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675711817519728901/detail) |
+| 字节跳动 | 内容质量管理 - TikTok · 校招 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675710536562280757/detail) |
+| 字节跳动 | 模型运营（游戏与社交） - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675644624045869317/detail) |
+| 字节跳动 | 内容安全策略运营（国内） - 剪映CapCut · 校招 | 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675252959013636357/detail) |
+| 字节跳动 | 内容策略实习生 - 抖音电商 · 实习 | 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675243215062780165/detail) |
+| 字节跳动 | 体育运营实习生 - 中国内容与合作 · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673380245657045253/detail) |
+| 字节跳动 | 领导力培训实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672656431764015365/detail) |
 | 字节跳动 | 大模型训练实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672328869482875189/detail) |
 | 字节跳动 | 质量运营实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671251079667501317/detail) |
 | 字节跳动 | 安全策略运营 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671247934146545973/detail) |
@@ -258,15 +267,6 @@
 | 字节跳动 | 搜索内容质量评估（日语/韩语方向） - TikTok · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7669644479703943477/detail) |
 | 字节跳动 | 搜索内容质量评估（日语方向） - TikTok · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7669643836788885813/detail) |
 | 叠纸游戏 | 内容导演-UE5写实在研（2027届秋招） · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://career.papegames.com/campus/position/7669632858428459302/detail) |
-| 字节跳动 | AI内容研究与评测实习生 - TikTok · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7669625291543890181/detail) |
-| 字节跳动 | 电商内容策略运营（图文&amp;短视频&amp;直播） - TikTok Shop · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7669622751243766021/detail) |
-| 字节跳动 | 汽车业务策略运营 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668535341618284805/detail) |
-| 字节跳动 | 标准运营实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668531243873749301/detail) |
-| 叠纸游戏 | 编导-在研UE5（2027届秋招） · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://career.papegames.com/campus/position/7668519951787641094/detail) |
-| 字节跳动 | 反作弊策略运营实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668520180719012101/detail) |
-| 字节跳动 | 社交业务策略运营 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668516134585534725/detail) |
-| 字节跳动 | 大模型安全攻防实习生 - 内容质量与数据服务平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668515561866971397/detail) |
-| 字节跳动 | 抖音内容标准运营 - 抖音社区治理 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668279626915760389/detail) |
 
 ---
 
@@ -278,26 +278,39 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 美国市场商家达人机构运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 23 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677797357031950645/detail) |
-| 字节跳动 | 美国电商营销活动运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677588226387413301/detail) |
-| 字节跳动 | 品牌活动运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677543844053207349/detail) |
-| 字节跳动 | 印尼商城营销玩法实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677435692777687301/detail) |
-| 字节跳动 | 品牌运营/合作运营实习生 - 汽水音乐 · 实习 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677406894801094965/detail) |
-| 商汤 | 国际市场营销实习生-元萝卜机器人 · 实习 | 北京 | 发布于 4 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7676440639610079538/detail) |
-| 沐瞳科技 | 国内信息流投放（实习生） · 实习 | 上海 | 发布于 6 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7675688671308073222/detail) |
-| 字节跳动 | 海外活动运营（东南亚市场）实习生 - TikTok直播 · 实习 | 深圳 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675653643362355461/detail) |
-| 字节跳动 | 营销活动实习生 - 抖音电商 · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675650909445572869/detail) |
-| 字节跳动 | 品牌活动运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675625697136593157/detail) |
-| 字节跳动 | 市场传播实习生 - TikTok Shop · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675343405732333877/detail) |
-| 字节跳动 | 营销活动运营（到店餐饮）实习生 - 抖音生活服务 · 实习 | 成都 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675244491009837317/detail) |
-| 字节跳动 | 营销活动运营实习生（到店餐饮） - 抖音生活服务 · 实习 | 上海 / 成都 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675243164462893365/detail) |
-| 字节跳动 | AI玩法营销实习生 - 抖音电商 · 实习 | 北京 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673459434926491909/detail) |
-| 字节跳动 | 内容营销（图像方向）实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673419575381854469/detail) |
-| 字节跳动 | 整合营销实习生 - TikTok Shop · 实习 | 北京 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673419575379200261/detail) |
-| 字节跳动 | 内容营销经理（图像方向） - 剪映CapCut · 校招 | 深圳 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673377806341687557/detail) |
-| 字节跳动 | 市场营销实习生 - 飞书商业化 · 实习 | 深圳 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673091426204928309/detail) |
-| 字节跳动 | 美国市场活动营销实习生 - TikTok Shop · 实习 | 上海 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673055428368615685/detail) |
-| 字节跳动 | 品牌策略运营 - TikTok Shop · 校招 | 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672801278411589893/detail) |
+| 阿里巴巴 | AI 市场营销实习生 · 实习 | 广州 / 杭州 | 新收录 1 小时内 | [投递](https://campus-talent.alibaba.com/campus/position/199909180003) |
+| 网易 | 游戏营销素材实习生（山海奇旅） · 实习 | 上海 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78429) |
+| 网易 | 游戏海外营销实习生（MMO向） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=60455) |
+| 网易 | 投放运营实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=75812) |
+| 网易 | 品牌营销实习生（创意裂变活动） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78431) |
+| 网易 | 品牌内容营销实习生（AIGC方向） · 实习 | 广州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=77220) |
+| 网易 | 内容营销实习生（创意制作类） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=77722) |
+| 网易 | KOL营销实习生 · 实习 | 广州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=68758) |
+| 文远知行 | 市场公关实习生（广州） · 实习 | 地点未注明 | 新收录 1 小时内 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/a1b6b83c-841e-41cd-b31b-e28ece182f77) |
+| 文远知行 | 市场公关实习生 · 实习 | 地点未注明 | 新收录 1 小时内 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/0d5e154b-19f5-45ec-979b-70d1071ecc78) |
+| 小红书 | 品牌运营实习生（电商方向） · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/20065) |
+| MiniMax | 多模态-市场实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7678343729174350086/detail) |
+| MiniMax | 公关实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7677596881565141257/detail) |
+| 字节跳动 | 行业内容营销实习生 - 飞书商业化 · 实习 | 北京 | 发布于 2 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678604586857122101/detail) |
+| 字节跳动 | 营销运营实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 7 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678534277144725765/detail) |
+| 字节跳动 | 行业营销实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 7 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678526697503197493/detail) |
+| 字节跳动 | 家居生活行业商家运营实习生（欧洲市场） - TikTok Shop · 实习 | 深圳 | 发布于 22 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678302710945646853/detail) |
+| 字节跳动 | 美国市场商家达人机构运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677797357031950645/detail) |
+| 字节跳动 | 美国电商营销活动运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677588226387413301/detail) |
+| 字节跳动 | 品牌活动运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677543844053207349/detail) |
+| 字节跳动 | 印尼商城营销玩法实习生 - TikTok Shop · 实习 | 上海 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677435692777687301/detail) |
+| 字节跳动 | 品牌运营/合作运营实习生 - 汽水音乐 · 实习 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677406894801094965/detail) |
+| 商汤 | 国际市场营销实习生-元萝卜机器人 · 实习 | 北京 | 发布于 5 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7676440639610079538/detail) |
+| 沐瞳科技 | 国内信息流投放（实习生） · 实习 | 上海 | 发布于 7 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7675688671308073222/detail) |
+| 字节跳动 | 海外活动运营（东南亚市场）实习生 - TikTok直播 · 实习 | 深圳 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675653643362355461/detail) |
+| 字节跳动 | 品牌活动运营实习生 - TikTok Shop · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675625697136593157/detail) |
+| 字节跳动 | 市场传播实习生 - TikTok Shop · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675343405732333877/detail) |
+| 字节跳动 | 内容营销（图像方向）实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673419575381854469/detail) |
+| 字节跳动 | 整合营销实习生 - TikTok Shop · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673419575379200261/detail) |
+| 字节跳动 | 内容营销经理（图像方向） - 剪映CapCut · 校招 | 深圳 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673377806341687557/detail) |
+| 字节跳动 | 市场营销实习生 - 飞书商业化 · 实习 | 深圳 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673091426204928309/detail) |
+| 字节跳动 | 美国市场活动营销实习生 - TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673055428368615685/detail) |
+| 字节跳动 | 品牌策略运营 - TikTok Shop · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672801278411589893/detail) |
 | 字节跳动 | 美洲营销大促实习生 - TikTok Shop · 实习 | 广州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672428165587503413/detail) |
 | 沐瞳科技 | 国内投放素材创意实习生 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7672359354318883123/detail) |
 | 字节跳动 | 产品营销项目实习生（全球商业解决方案-亚太区-行业运营） - Global Business Solutions · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671123264605915445/detail) |
@@ -325,19 +338,6 @@
 | 字节跳动 | 品类营销传播 - 抖音生活服务 · 校招 | 北京 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668576803968452917/detail) |
 | 字节跳动 | 抖音星图达人运营经理 - 抖音品牌营销与星图达人 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668288079398258949/detail) |
 | 字节跳动 | 抖音品牌广告运营经理 - 抖音品牌营销与星图达人 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668288077781420341/detail) |
-| 字节跳动 | 招商运营经理 - 抖音品牌营销与星图达人 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668288833993591093/detail) |
-| 字节跳动 | 抖音文创营销运营经理 - 抖音运营 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668288079397275909/detail) |
-| 字节跳动 | 抖音营销内容治理策略 - 抖音社区治理 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668278936377166085/detail) |
-| 字节跳动 | 品牌创意传播 - 抖音生活服务 · 校招 | 北京 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668258698923460869/detail) |
-| 叠纸游戏 | 营销策划-恋与深空（2027届秋招） · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://career.papegames.com/campus/position/7668247468043831593/detail) |
-| 字节跳动 | 市场营销活动运营 - 抖音生活服务 · 校招 | 北京 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668246248919730485/detail) |
-| 字节跳动 | 市场营销活动运营（区域特色品类营销） - 抖音生活服务 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668221834371238197/detail) |
-| 字节跳动 | 创新增长营销经理 - 抖音 · 校招 | 北京 / 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667935633641441589/detail) |
-| 字节跳动 | 内容营销经理 - 抖音 · 校招 | 北京 / 深圳 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667934239069063429/detail) |
-| 字节跳动 | 营销大促实习生 - 抖音电商运营 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667861259279714613/detail) |
-| 字节跳动 | 广告投放运营经理（抖音AI产品人才校招） - 抖音 · 校招 | 北京 / 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667856152113711413/detail) |
-| 字节跳动 | 广告投放运营经理（抖音AI产品人才校招） - 抖音 · 校招 | 北京 / 上海 / 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667843386288245045/detail) |
-| 字节跳动 | 广告投放运营经理（抖音AI产品人才校招） - 抖音 · 校招 | 北京 / 上海 / 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667840474459392309/detail) |
 
 ---
 
@@ -349,10 +349,10 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 出海大客户/渠道销售（非电商-游戏） - Global Business Solutions · 校招 | 上海 / 深圳 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675583335754697013/detail) |
-| 字节跳动 | 出海大客户/渠道销售（非电商-应用） - Global Business Solutions · 校招 | 北京 / 深圳 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7675578915612231989/detail) |
-| 字节跳动 | 产品（渠道产品）实习生 - 国际支付 · 实习 | 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673456813362333957/detail) |
-| 字节跳动 | FDE实习生（华西） - 飞书商业化 · 实习 | 成都 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672757832937539845/detail) |
+| 字节跳动 | 出海大客户/渠道销售（非电商-游戏） - Global Business Solutions · 校招 | 上海 / 深圳 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675583335754697013/detail) |
+| 字节跳动 | 出海大客户/渠道销售（非电商-应用） - Global Business Solutions · 校招 | 北京 / 深圳 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675578915612231989/detail) |
+| 字节跳动 | 产品（渠道产品）实习生 - 国际支付 · 实习 | 上海 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673456813362333957/detail) |
+| 字节跳动 | FDE实习生（华西） - 飞书商业化 · 实习 | 成都 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672757832937539845/detail) |
 | 字节跳动 | 伙伴支持实习生 - 飞书商业化 · 实习 | 杭州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672435685895047477/detail) |
 | 字节跳动 | 行业销售支持实习生 - 飞书商业化 · 实习 | 杭州 / 上海 / 北京 / 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672438136791599365/detail) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 · 校招 | 北京 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670756030309435701/detail) |
@@ -394,7 +394,6 @@
 | 字节跳动 | 大客户销售（休闲娱乐） - 抖音生活服务 · 校招 | 北京 / 上海 / 广州 / 成都 / 杭州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7666755120239757621/detail) |
 | 字节跳动 | 大客户销售（创意经营） - 商业化 · 校招 | 北京 / 杭州 / 广州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7666353809203530037/detail) |
 | 字节跳动 | 大客户销售（金融与互动应用） - 商业化 · 校招 | 北京 / 上海 / 广州 / 杭州 / 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7666003045449025797/detail) |
-| 字节跳动 | 客户成功实习生 - 飞书 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7662690573024659717/detail) |
 | 商汤 | 【27届校招】FDE工程师-生态渠道部 · 校招 | 北京 / 上海 / 深圳 | 发布于 &gt;14 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7660078186973202731/detail) |
 | 商汤 | 【27届校招】售前解决方案经理-大装置 · 校招 | 北京 / 上海 / 深圳 / 成都 | 发布于 &gt;14 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7659351910298274054/detail) |
 | 字节跳动 | 售前AI解决方案管培实习生-飞书商业化 · 实习 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7654903568956590389/detail) |
@@ -409,6 +408,7 @@
 | 字节跳动 | 产品业务架构实习生-数据平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7647000977224878341/detail) |
 | 字节跳动 | FDE实习生（华南） - 飞书商业化 · 实习 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7629245814632466741/detail) |
 | 字节跳动 | FDE实习生 - 飞书商业化 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7629243671678994741/detail) |
+| 字节跳动 | 渠道销售实习生-飞书商业化 · 实习 | 成都 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7629239203839134005/detail) |
 
 ---
 
@@ -420,8 +420,15 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 国际化电商广告运营实习生 - Global Business Solutions · 实习 | 杭州 / 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673361601449429253/detail) |
-| 字节跳动 | 产品（支付解决方案）实习生 - 国际支付 · 实习 | 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672662989224544565/detail) |
+| 百度 | 商务运营实习生（J104890） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://talent.baidu.com/jobs/detail/INTERN/749b0e06-481c-4c81-848c-3960d0102d37) |
+| 携程 | AI Solution (Customer Service Intelligence) - Arabic (2027 Graduates)(MJ036717) · 校招 | Shanghai | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036717) |
+| 字节跳动 | 云与AI解决方案架构师 - 火山引擎 · 校招 | 北京 / 上海 / 杭州 / 深圳 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678245416031095045/detail) |
+| 字节跳动 | 国际网络商务 - AI算力基础设施 · 校招 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677875670571288837/detail) |
+| 字节跳动 | 国际化电商广告运营实习生 - Global Business Solutions · 实习 | 杭州 / 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673361601449429253/detail) |
+| 字节跳动 | IDC网络商务拓展 - AI算力基础设施 · 校招 | 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673098669784566069/detail) |
+| 字节跳动 | IDC网络商务拓展 - AI算力基础设施 · 校招 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673074047681579269/detail) |
+| 字节跳动 | IDC网络商务拓展 - AI算力基础设施 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673074052210690357/detail) |
+| 字节跳动 | 产品（支付解决方案）实习生 - 国际支付 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672662989224544565/detail) |
 | 字节跳动 | 豆包AI大模型产品解决方案实习生 - 火山方舟 · 实习 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672308679005899061/detail) |
 | 沐瞳科技 | 【2027届秋招】日本商务 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7669713220388047146/detail) |
 | 字节跳动 | 产品解决方案 - 集团信息系统 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7669690936641947957/detail) |
@@ -473,13 +480,6 @@
 | 美团 | 城市大客户商务合作专员 · 校招 | 合肥 / 杭州 / 南京 / 北京 / 苏州 / 天津 / 上海 / 西安 / 成都 / 昆明 / 长沙 / 重庆 / 济南 / 南昌 / 广州 / 郑州 / 深圳 / 武汉 | 存量岗位 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697264948&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 【实习】人工客服解决方案产品 · 实习 | 北京 | 存量岗位 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4251492686&amp;jobShareType=1&amp;highlightType=campus) |
 | 网易 | 音乐商务实习生（子弹工作室） · 实习 | 杭州 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=77919) |
-| 网易 | 音乐商务实习生（AI音乐方向） · 实习 | 广州 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=78396) |
-| 网易 | 音乐内容商务实习生 · 实习 | 北京 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=78187) |
-| 网易 | 音乐人商务实习生（喜雨工作室） · 实习 | 北京 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=77134) |
-| 网易 | 音乐人商务实习生（云上工作室） · 实习 | 北京 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=77972) |
-| 网易 | 海外商务实习生（AI方向） · 实习 | 广州 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=65647) |
-| 网易 | 海外商务实习生 · 实习 | 广州 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=77455) |
-| 网易 | 工作室商务实习生（云上工作室） · 实习 | 北京 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=78313) |
 
 ---
 
@@ -491,10 +491,15 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 商业化战略与运营（GTM方向）实习生 - Global Business Solutions · 实习 | 上海 / 广州 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675310151264225589/detail) |
-| 字节跳动 | 战略分析实习生 - 广告业务 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675224348436826421/detail) |
-| 字节跳动 | 战略分析师 - 红果短剧 · 校招 | 北京 | 发布于 11 天前 | [投递](https://jobs.bytedance.com/campus/position/7673774412449450293/detail) |
-| 字节跳动 | 生态合作商务（豆包方向）实习生 - 技术产业研究与合作 · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672804729569659141/detail) |
+| 阿里巴巴 | 日常实习生-技术战略实习生 · 实习 | 北京 / 杭州 | 新收录 1 小时内 | [投递](https://campus-talent.alibaba.com/campus/position/199904040012) |
+| 百度 | 网络生态研究（J105059） · 校招 | 北京 | 新收录 1 小时内 | [投递](https://talent.baidu.com/jobs/detail/INTERN/0af16356-be64-455b-bc77-d3a1a7f58505) |
+| 字节跳动 | 战略分析（医疗AI方向）实习生 - 小荷健康 · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678246853230512437/detail) |
+| 字节跳动 | 战略（Agent方向）实习生 - 剪映CapCut · 实习 | 北京 / 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678231419063585077/detail) |
+| 字节跳动 | 战略（AI内容方向）实习生 - 剪映CapCut · 实习 | 北京 / 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678188380380072197/detail) |
+| 字节跳动 | 商业化战略与运营（GTM方向）实习生 - Global Business Solutions · 实习 | 上海 / 广州 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675310151264225589/detail) |
+| 字节跳动 | 战略分析实习生 - 广告业务 · 实习 | 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675224348436826421/detail) |
+| 字节跳动 | 战略分析师 - 红果短剧 · 校招 | 北京 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673774412449450293/detail) |
+| 字节跳动 | 生态合作商务（豆包方向）实习生 - 技术产业研究与合作 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672804729569659141/detail) |
 | 莉莉丝 | 【2027秋招】战略研究员 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7672234461387884846/detail) |
 | 字节跳动 | 战略分析师 - Global Business Solutions · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670465951632312629/detail) |
 | 字节跳动 | 战略与分析实习生 - TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670057173891991861/detail) |
@@ -525,8 +530,6 @@
 | 字节跳动 | 战略实习生-TikTok Shop · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7632166964477675781/detail) |
 | 字节跳动 | 战略分析实习生 - 抖音生活服务 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7631948292233890101/detail) |
 | 字节跳动 | 战略分析实习生-抖音生活服务 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7631946929828759861/detail) |
-| 字节跳动 | AI战略研究实习生-飞书 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7631526236616100149/detail) |
-| 字节跳动 | AI战略研究实习生-飞书 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7631525507771697413/detail) |
 | 字节跳动 | 电商资源管理实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7631053984780077317/detail) |
 | 字节跳动 | 战略分析实习生 - 抖音生活服务 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7629573143905372469/detail) |
 | 字节跳动 | SEA战略资源管理实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7627060680110442757/detail) |
@@ -548,9 +551,6 @@
 | 字节跳动 | 战略资源管理实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7592866509657606405/detail) |
 | 字节跳动 | AI技术战略实习生-TikTok产品 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7585161864424032565/detail) |
 | 字节跳动 | 拉美产品战略实习生-国际支付 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7582504435174689029/detail) |
-| 字节跳动 | 直播战略实习生-TikTok直播 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7581732599363455285/detail) |
-| 字节跳动 | 电商战略与分析实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7574703901853714741/detail) |
-| 字节跳动 | 产品战略合作伙伴实习生-国际化产品 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7574629035352148277/detail) |
 
 ---
 
@@ -562,17 +562,20 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 效果广告数据分析&amp;AI Agent实习生 - Pangle · 实习 | 上海 | 发布于 16 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677898794873063685/detail) |
-| 字节跳动 | 经营分析实习生 - 抖音电商运营 · 实习 | 北京 | 发布于 20 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677840882946967813/detail) |
-| 字节跳动 | 数据分析实习生 - TikTok Shop · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677571671927212341/detail) |
-| 字节跳动 | 数据分析 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677527047489472821/detail) |
-| 字节跳动 | 商业分析实习生 - 广告业务 · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677447953821370677/detail) |
-| 字节跳动 | 数据分析实习生 - 抖音生活服务 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675313079169108277/detail) |
-| 字节跳动 | 拉美物流数据分析实习生 - TikTok Shop · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675255079121914165/detail) |
-| 字节跳动 | 国际电商数据分析实习生（全托管） - TikTok Shop · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675000277574912261/detail) |
-| 字节跳动 | 商业分析与数据分析师（物流与供应链） - TikTok Shop · 校招 | 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673491655744604469/detail) |
-| 字节跳动 | 商业分析实习生 - Global Business Solutions · 实习 | 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673380428015601973/detail) |
-| 字节跳动 | 经营数据分析师 - 音视频技术 · 校招 | 深圳 / 上海 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673101204725991733/detail) |
+| 爱奇艺 | 内容策略（数据分析）实习生 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://careers.iqiyi.com/intern/position/7524906711003760905/detail) |
+| 携程 | Eagle Program – Business Analyst (2027 Graduates)(MJ036639) · 校招 | Shanghai | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036639) |
+| 小红书 | 数据分析实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21873) |
+| 字节跳动 | 效果广告数据分析&amp;AI Agent实习生 - Pangle · 实习 | 上海 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677898794873063685/detail) |
+| 字节跳动 | 经营分析实习生 - 抖音电商运营 · 实习 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677840882946967813/detail) |
+| 字节跳动 | 数据分析实习生 - TikTok Shop · 实习 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677571671927212341/detail) |
+| 字节跳动 | 数据分析 - 内容质量与数据服务平台 · 校招 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677527047489472821/detail) |
+| 字节跳动 | 商业分析实习生 - 广告业务 · 实习 | 上海 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677447953821370677/detail) |
+| 字节跳动 | 数据分析实习生 - 抖音生活服务 · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675313079169108277/detail) |
+| 字节跳动 | 拉美物流数据分析实习生 - TikTok Shop · 实习 | 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675255079121914165/detail) |
+| 字节跳动 | 国际电商数据分析实习生（全托管） - TikTok Shop · 实习 | 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675000277574912261/detail) |
+| 字节跳动 | 商业分析与数据分析师（物流与供应链） - TikTok Shop · 校招 | 上海 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673491655744604469/detail) |
+| 字节跳动 | 商业分析实习生 - Global Business Solutions · 实习 | 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673380428015601973/detail) |
+| 字节跳动 | 经营数据分析师 - 音视频技术 · 校招 | 深圳 / 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673101204725991733/detail) |
 | 字节跳动 | 商业分析（行业研究）实习生 - 广告业务 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672282181927110917/detail) |
 | 莉莉丝 | 【2027秋招】数据分析师 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7672235212021680430/detail) |
 | 商汤 | AI商业分析实习生（科创生态） · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7671165397370308874/detail) |
@@ -619,9 +622,6 @@
 | 字节跳动 | 拉美商业分析实习生-TikTok Shop · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7659380875497163013/detail) |
 | 字节跳动 | 视觉生成策略运营（数据分析方向）实习生-AI数据与安全 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7658175124375406901/detail) |
 | 字节跳动 | 数据分析实习生-抖音UGC · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7658140212882721077/detail) |
-| 字节跳动 | 众包数据分析实习生-内容质量与数据服务平台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7657854886883461381/detail) |
-| 字节跳动 | 战略商业分析实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7656700625518266677/detail) |
-| 字节跳动 | 数据分析实习生-业务中台 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7656697312995313925/detail) |
 
 ---
 
@@ -633,12 +633,13 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 大模型PMO实习生 - Data AML · 实习 | 深圳 | 发布于 22 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677809080896293125/detail) |
-| 字节跳动 | 数据分析与项目管理实习生 - TikTok · 实习 | 北京 | 发布于 23 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677784499285428485/detail) |
-| 字节跳动 | 合规项目管理实习生 - TikTok Shop · 实习 | 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676034052038936885/detail) |
-| 字节跳动 | 本地化项目管理实习生（小云雀Pippit） - 剪映CapCut · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675257382511282485/detail) |
-| 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672746499483666741/detail) |
-| 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672617875840125237/detail) |
+| 阿里巴巴 | 具身业务项目经理（实习生） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://campus-talent.alibaba.com/campus/position/199909240001) |
+| 字节跳动 | 大模型PMO实习生 - Data AML · 实习 | 深圳 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677809080896293125/detail) |
+| 字节跳动 | 数据分析与项目管理实习生 - TikTok · 实习 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677784499285428485/detail) |
+| 字节跳动 | 合规项目管理实习生 - TikTok Shop · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7676034052038936885/detail) |
+| 字节跳动 | 本地化项目管理实习生（小云雀Pippit） - 剪映CapCut · 实习 | 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675257382511282485/detail) |
+| 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672746499483666741/detail) |
+| 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672617875840125237/detail) |
 | 字节跳动 | 项目管理实习生 - TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672254239335237893/detail) |
 | 沐瞳科技 | 【2027届秋招】研发PM-PC动作游戏 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7669736363574479113/detail) |
 | 沐瞳科技 | 【2027届秋招】项目管理-卡牌 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7669728979753929001/detail) |
@@ -692,7 +693,6 @@
 | 腾讯 | 项目管理 · 校招 | 西安 / 深圳 / 北京 / 上海 | 存量岗位 | [投递](https://join.qq.com/post_detail.html?postid=1282707379615819776) |
 | 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 存量岗位 | [投递](https://join.qq.com/post_detail.html?postid=1153452731391100930) |
 | 腾讯 | 项目管理 · 实习 | 深圳 / 上海 | 存量岗位 | [投递](https://join.qq.com/post_detail.html?postid=1224696276592067584) |
-| 美团 | 项目管理岗 · 校招 | 北京 / 深圳 | 存量岗位 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697322170&amp;jobShareType=1&amp;highlightType=campus) |
 
 ---
 
@@ -704,22 +704,31 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 豆包音乐设计实习生 - Data语音 · 实习 | 上海 | 发布于 20 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677831251039275269/detail) |
-| 字节跳动 | 产品UI设计师 - PICO · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677509004738693381/detail) |
-| 字节跳动 | 室内设计实习生 - Corporate Services · 实习 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677499638644001077/detail) |
-| 字节跳动 | AI工程设计实习生 - TikTok设计 · 实习 | 上海 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676438194907040005/detail) |
-| 字节跳动 | 游戏视频设计实习生 - 绿洲工作室 · 实习 | 北京 | 发布于 4 天前 | [投递](https://jobs.bytedance.com/campus/position/7676400015377664261/detail) |
-| 叠纸游戏 | 3D特效实习生-恋与深空 · 实习 | 上海 | 发布于 4 天前 | [投递](https://career.papegames.com/campus/position/7676311024710355250/detail) |
-| 字节跳动 | AI效果设计实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676029624820058421/detail) |
-| 沐瞳科技 | 【2027届秋招】交互设计师 · 校招 | 上海 | 发布于 7 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7675267656237631798/detail) |
-| 字节跳动 | UIUX设计师 - PICO · 校招 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675254604385192197/detail) |
-| 字节跳动 | 产品体验设计实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675207643691714821/detail) |
-| 字节跳动 | 抖音音乐产品设计师 - 抖音运营 · 校招 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674927852634605877/detail) |
-| 莉莉丝 | 【2027秋招】场景概念设计师 · 校招 | 上海 | 发布于 12 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7673446047993563434/detail) |
-| 字节跳动 | 产品设计师 - 抖音直播 · 校招 | 北京 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673143728328870149/detail) |
-| 字节跳动 | 视觉设计（AI漫剧方向）实习生 - 广告业务 · 实习 | 上海 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7673124783312570629/detail) |
-| 字节跳动 | 创意视觉设计师 - 番茄小说 · 校招 | 深圳 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7672970454508079413/detail) |
-| 莉莉丝 | 【2027秋招】美术商务专员 · 校招 | 上海 | 发布于 14 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7672607460725786890/detail) |
+| 美团 | 设计规划岗（空间设计） · 校招 | 北京 | 新收录 1 小时内 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4721439045&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | AI对话体验设计实习生 · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=52693) |
+| 爱奇艺 | 设计实习生（电商业务） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://careers.iqiyi.com/intern/position/7571410898280007982/detail) |
+| 爱奇艺 | 设计实习生（员工关怀） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://careers.iqiyi.com/intern/position/7389243209354021139/detail) |
+| 文远知行 | 机械结构设计工程师 · 实习 | 地点未注明 | 新收录 1 小时内 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/1acdc37c-b4e7-4e0b-8605-f36d4b3e05bd) |
+| 文远知行 | 工业设计工程师【2027届校招】 · 实习 | 地点未注明 | 新收录 1 小时内 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/e0a09b2e-dd28-44a8-8756-22047d8f9776) |
+| 小红书 | 视觉设计实习生-小红书官方设计中心 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/17343) |
+| 小红书 | 视觉设计实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21889) |
+| 哔哩哔哩 | 创意设计实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.bilibili.com/campus/positions/30195) |
+| 字节跳动 | 豆包音乐设计实习生 - Data语音 · 实习 | 上海 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677831251039275269/detail) |
+| 字节跳动 | 产品UI设计师 - PICO · 校招 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677509004738693381/detail) |
+| 字节跳动 | 室内设计实习生 - Corporate Services · 实习 | 北京 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677499638644001077/detail) |
+| 字节跳动 | 内容设计（AI工程方向）实习生 - TikTok设计 · 实习 | 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676438194907040005/detail) |
+| 字节跳动 | 游戏视频设计实习生 - 绿洲工作室 · 实习 | 北京 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7676400015377664261/detail) |
+| 叠纸游戏 | 3D特效实习生-恋与深空 · 实习 | 上海 | 发布于 6 天前 | [投递](https://career.papegames.com/campus/position/7676311024710355250/detail) |
+| 字节跳动 | AI效果设计实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7676029624820058421/detail) |
+| 沐瞳科技 | 【2027届秋招】交互设计师 · 校招 | 上海 | 发布于 9 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7675267656237631798/detail) |
+| 字节跳动 | UIUX设计师 - PICO · 校招 | 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675254604385192197/detail) |
+| 字节跳动 | 产品体验设计实习生 - 剪映CapCut · 实习 | 深圳 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675207643691714821/detail) |
+| 字节跳动 | 抖音音乐产品设计师 - 抖音运营 · 校招 | 上海 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674927852634605877/detail) |
+| 莉莉丝 | 【2027秋招】场景概念设计师 · 校招 | 上海 | 发布于 14 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7673446047993563434/detail) |
+| 字节跳动 | 产品设计师 - 抖音直播 · 校招 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673143728328870149/detail) |
+| 字节跳动 | 视觉设计（AI漫剧方向）实习生 - 广告业务 · 实习 | 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673124783312570629/detail) |
+| 字节跳动 | 创意视觉设计师 - 番茄小说 · 校招 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672970454508079413/detail) |
+| 莉莉丝 | 【2027秋招】美术商务专员 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7672607460725786890/detail) |
 | 字节跳动 | AIGC设计实习生 - TikTok Shop · 实习 | 广州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672430050375371013/detail) |
 | 莉莉丝 | 【2027秋招】音频设计师 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7672227100749596955/detail) |
 | 字节跳动 | HCI人机交互设计师 - PICO · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670920557747898677/detail) |
@@ -755,15 +764,6 @@
 | 字节跳动 | 机电设计专员 - Corporate Services · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668291384618895621/detail) |
 | 叠纸游戏 | 音乐设计（2027届秋招） · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://career.papegames.com/campus/position/7668247954033690930/detail) |
 | 叠纸游戏 | 音效设计（2027届秋招） · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://career.papegames.com/campus/position/7668247603289032996/detail) |
-| 叠纸游戏 | 技术美术-在研UE5（2027届秋招） · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://career.papegames.com/campus/position/7668245502529816841/detail) |
-| 沐瞳科技 | 【2027届秋招】音效设计师 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7668242771564251435/detail) |
-| 沐瞳科技 | 【2027届秋招】美术TA-PC动作游戏 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7668233992961689902/detail) |
-| 字节跳动 | 创意视觉设计师 - 飞书设计 · 校招 | 北京 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668225425977624885/detail) |
-| 字节跳动 | AI产品设计师 - 飞书设计 · 校招 | 深圳 / 北京 / 杭州 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668225112781474053/detail) |
-| 字节跳动 | 产品设计 - 集团信息系统 · 校招 | 广州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668212199454411013/detail) |
-| 字节跳动 | People产品设计 - 集团信息系统 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668191629681559861/detail) |
-| 字节跳动 | 品牌创意视觉设计师 - 抖音效果与创作 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667923692567300357/detail) |
-| 字节跳动 | AIGC模型效果 - 抖音效果与创作 · 校招 | 北京 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667916199541278981/detail) |
 
 ---
 
@@ -775,6 +775,7 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
+| 网易 | 游戏用户研究实习生（中台） · 实习 | 上海 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78426) |
 | 字节跳动 | 用户研究分析师 - 经营办公室（用户研究） · 校招 | 上海 / 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667609460127516933/detail) |
 | 字节跳动 | 用户研究实习生 - TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7655589162951379253/detail) |
 | 字节跳动 | 调研工具产品实习生-经营办公室（用户研究） · 实习 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7623018360788224309/detail) |
@@ -834,7 +835,6 @@
 | 京东 | 用户研究 · 实习 | 北京 | 存量岗位 | [投递](https://campus.jd.com/#/newDetails?publishId=4962) |
 | vivo | 用户研究经理（电商方向）-实习 · 实习 | 东莞 | 存量岗位 | [投递](https://hr-campus.vivo.com/intern/detail?jobAdId=561284097) |
 | vivo | 用户研究经理（IOT方向）-27届秋招 · 校招 | 东莞 | 存量岗位 | [投递](https://hr-campus.vivo.com/campus/detail?jobAdId=561282897) |
-| vivo | 用户研究专员（OS产品）-实习 · 实习 | 深圳 | 存量岗位 | [投递](https://hr-campus.vivo.com/intern/detail?jobAdId=561238059) |
 
 ---
 
@@ -846,7 +846,10 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 剧情策划（女性向游戏）实习生 - ZERO36工作室 · 实习 | 上海 | 发布于 5 天前 | [投递](https://jobs.bytedance.com/campus/position/7676062994207525173/detail) |
+| 网易 | 系统策划实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78427) |
+| 网易 | 游戏系统策划实习生（无限大） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78398) |
+| 网易 | 游戏玩法策划实习生（无限大） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78400) |
+| 字节跳动 | 剧情策划（女性向游戏）实习生 - ZERO36工作室 · 实习 | 上海 | 发布于 6 天前 | [投递](https://jobs.bytedance.com/campus/position/7676062994207525173/detail) |
 | 字节跳动 | 游戏系统策划实习生 - ZERO36工作室 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671128371046926597/detail) |
 | 字节跳动 | 游戏策划（回合制卡牌）实习生 - ZERO36工作室 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670802558391781637/detail) |
 | 字节跳动 | 游戏数值策划 - ZERO36工作室 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7669757119566514485/detail) |
@@ -903,9 +906,6 @@
 | 阿里巴巴 | 游戏策划（SLG） · 校招 | 广州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907680017) |
 | 阿里巴巴 | 游戏策划（MMO） · 校招 | 广州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907680018) |
 | 阿里巴巴 | 游戏服务体验管理 · 校招 | 广州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907780071) |
-| 阿里巴巴 | 游戏文案策划（克苏鲁题材） · 校招 | 广州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907680015) |
-| 阿里巴巴 | 游戏场景原画（国风） · 校招 | 上海 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907700017) |
-| 阿里巴巴 | 游戏场景原画（写实） · 校招 | 广州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907620015) |
 
 ---
 
@@ -917,15 +917,24 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 校招COE实习生 - 管理研究院 · 实习 | 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675357908361775365/detail) |
-| 字节跳动 | HR（芯片方向）实习生 - Data · 实习 | 北京 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675268171120953605/detail) |
-| 字节跳动 | 薪酬与激励 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675212852807174405/detail) |
-| 字节跳动 | 企业文化与雇主品牌 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 7 天前 | [投递](https://jobs.bytedance.com/campus/position/7675212390114035973/detail) |
-| 字节跳动 | 行业分析 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674928224138873141/detail) |
-| 字节跳动 | 行业人才研究 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673359574436628741/detail) |
-| Momenta | 招聘实习生 · 实习 | 北京 | 发布于 13 天前 | [投递](https://momenta.jobs.feishu.cn/campus/position/7672969848485857562/detail) |
-| 沐瞳科技 | 招聘实习生 · 实习 | 上海 | 发布于 14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7672695503336180009/detail) |
-| 字节跳动 | 招聘运营 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672609741508266293/detail) |
+| 美团 | HR实习生（招聘方向） · 实习 | 成都 | 新收录 1 小时内 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4558527566&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 招聘HR（实习生） · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=56868) |
+| 网易 | HR实习生（社招） · 实习 | 北京 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78441) |
+| 智元机器人 | HR SSC实习生 · 实习 | 北京 / 上海 / 深圳 | 新收录 1 小时内 | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7672241586076944682/detail) |
+| 携程 | HR 实习生(招聘方向-需要英文能力)(MJ036706) · 实习 | Shanghai | 新收录 1 小时内 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036706) |
+| 小红书 | 招聘HR实习生 · 实习 | 上海 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/10058) |
+| 小红书 | 产品招聘实习生 · 实习 | 上海 / 北京 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21888) |
+| 字节跳动 | 企业文化（设计方向） - 人力与管理部 · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678215066682591493/detail) |
+| 字节跳动 | 招聘实习生 - 生活服务 · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7678185468568029493/detail) |
+| 字节跳动 | 校招COE实习生 - 管理研究院 · 实习 | 上海 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7675357908361775365/detail) |
+| 字节跳动 | HR（芯片方向）实习生 - Data · 实习 | 北京 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675268171120953605/detail) |
+| 字节跳动 | 薪酬与激励 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675212852807174405/detail) |
+| 字节跳动 | 企业文化与雇主品牌 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 9 天前 | [投递](https://jobs.bytedance.com/campus/position/7675212390114035973/detail) |
+| 字节跳动 | 行业分析 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674928224138873141/detail) |
+| 字节跳动 | 行业人才研究 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673359574436628741/detail) |
+| Momenta | 招聘实习生 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://momenta.jobs.feishu.cn/campus/position/7672969848485857562/detail) |
+| 沐瞳科技 | 招聘实习生 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://moonton.jobs.feishu.cn/campus/position/7672695503336180009/detail) |
+| 字节跳动 | 招聘运营 - 人力与管理部 · 校招 | 北京 / 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7672609741508266293/detail) |
 | 字节跳动 | 组织效能实习生（TikTok） - 人力与管理部 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7671225514556786949/detail) |
 | 字节跳动 | 组织效能实习生 - 人力与管理部 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668691854535346485/detail) |
 | 字节跳动 | 企业文化实习生 - 人力与管理部 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668689417494661429/detail) |
@@ -962,21 +971,12 @@
 | 字节跳动 | 招聘实习生-电商招聘 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7662222839538747701/detail) |
 | 字节跳动 | 招聘实习生-抖音 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7660870367363729669/detail) |
 | 字节跳动 | HR招聘实习生-人力与管理部 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7660428705721911557/detail) |
-| 商汤 | 集团HR实习生，人才招聘 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7656794369643972870/detail) |
 | 字节跳动 | 招聘实习生-Bluesea Studio · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7655546685397502261/detail) |
 | 字节跳动 | 招聘策略与运营实习生-Data · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7654560740512581893/detail) |
 | 字节跳动 | 招聘实习生-集团职能 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7654117051637598469/detail) |
 | 字节跳动 | 招聘运营实习生-抖音电商 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7652292695806494981/detail) |
 | 字节跳动 | 招聘（国际化方向）实习生-飞书 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7649648584650737925/detail) |
 | 字节跳动 | 招聘实习生-抖音 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7647781784195352837/detail) |
-| 字节跳动 | 招聘实习生-AI数据与安全 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7644886524227799349/detail) |
-| 字节跳动 | HR实习生-剪映 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7644181525084735797/detail) |
-| 字节跳动 | 招聘实习生-招聘中心 · 实习 | 西安 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7637458186676488501/detail) |
-| Momenta | 招聘实习生（AI方向） · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://momenta.jobs.feishu.cn/campus/position/7637419097759713542/detail) |
-| 字节跳动 | 招聘实习生-招聘中心 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7637045573418584373/detail) |
-| 字节跳动 | 招聘实习生-TikTok · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7634035213697485061/detail) |
-| 字节跳动 | 招聘实习生-Data · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7632215891911952645/detail) |
-| 字节跳动 | 招聘实习生-TikTok · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7631220788725844277/detail) |
 
 ---
 
@@ -988,7 +988,12 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 财务实习生 · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677502703828633909/detail) |
+| 米哈游 | 财务实习生（统招） · 实习 | 上海 | 新收录 1 小时内 | [投递](https://jobs.mihoyo.com/#/position/9402) |
+| 小米 | 国际财务BP实习生-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7677548920553720102/detail) |
+| 小米 | 品类运营财务BP-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678163354208897286/detail) |
+| 字节跳动 | 财务实习生 · 实习 | 上海 | 发布于 23 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678279044723689733/detail) |
+| 字节跳动 | IDC流程管理 - AI算力基础设施 · 校招 | 北京 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677949763196045573/detail) |
+| 字节跳动 | 财务实习生 · 实习 | 上海 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677502703828633909/detail) |
 | 莉莉丝 | 【2027秋招】财务BP · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7670732533785741604/detail) |
 | 字节跳动 | 欺诈/安全策略分析师 - 财经业务 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670065395530008885/detail) |
 | 商汤 | 财务分析实习生 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7669631690973776179/detail) |
@@ -1010,12 +1015,12 @@
 | 字节跳动 | 国际支付财务实习生-国际支付 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7595561293253282053/detail) |
 | 字节跳动 | 数据实习生-财经业务 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7594289771743774981/detail) |
 | 字节跳动 | 财务实习生 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7586603140360112437/detail) |
+| 字节跳动 | 财务实习生 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7566242994865916165/detail) |
 | 字节跳动 | 财务BP实习生 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7325027700371589385/detail) |
 | 字节跳动 | 财务（境内资金账户）实习生 - 财资管理 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7221426046297409850/detail) |
 | 字节跳动 | 境外资金结算实习生 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7204765203832998181/detail) |
 | 字节跳动 | 境内资金结算实习生 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7204764622066649402/detail) |
 | 字节跳动 | 税务发票实习生 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7204757195757029689/detail) |
-| 字节跳动 | 税务实习生 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7204754503631030588/detail) |
 | 阿里巴巴 | 财务实习生 · 实习 | 广州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199906940010) |
 | 阿里巴巴 | 日常实习生-财务实习生-橙翼 · 实习 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199904860003) |
 | 蚂蚁集团 | OceanBase-AI应用财务实习生 · 实习 | 北京 | 存量岗位 | [投递](https://talent.antgroup.com/campus-position?positionId=260703010748730) |
@@ -1038,16 +1043,11 @@
 | 网易 | 网易财经智库剪辑实习生 · 实习 | 北京 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=78202) |
 | 网易 | 电商财务实习生 · 实习 | 杭州 | 存量岗位 | [投递](https://hr.163.com/job-detail.html?id=78254) |
 | 米哈游 | 财务（统招） · 校招 | 上海 | 存量岗位 | [投递](https://jobs.mihoyo.com/#/position/9164) |
-| 米哈游 | 财务实习生 · 实习 | 上海 | 存量岗位 | [投递](https://jobs.mihoyo.com/#/position/7856) |
-| 米哈游 | 财务分析实习生 · 实习 | 上海 | 存量岗位 | [投递](https://jobs.mihoyo.com/#/position/9028) |
-| 米哈游 | 税务实习生 · 实习 | 上海 | 存量岗位 | [投递](https://jobs.mihoyo.com/#/position/6555) |
 | 爱奇艺 | 财务实习生（资金组） · 实习 | 北京 | 存量岗位 | [投递](https://careers.iqiyi.com/intern/position/7455196090553403686/detail) |
 | 智谱AI | 财务实习生 · 实习 | 北京 | 存量岗位 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7581739856084011273/detail) |
 | 智元机器人 | 销售财经BP · 校招 | 上海 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7675541595932100910/detail) |
 | 智元机器人 | 税务专员 · 校招 | 上海 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7662204570316081449/detail) |
 | 智元机器人 | 会计专员 · 校招 | 上海 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7662041465691228443/detail) |
-| 快手 | 财务分析专员 · 校招 | 北京 | 存量岗位 | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=7336a1e16c4046a4b3c1eeb0d36eabfa) |
-| 快手 | 财务分析专员 · 校招 | 北京 | 存量岗位 | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=74c0e82159c74920bca4cfdfa040d21c) |
 
 ---
 
@@ -1059,6 +1059,10 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
+| 网易 | 音乐法务实习生 · 实习 | 杭州 | 新收录 1 小时内 | [投递](https://hr.163.com/job-detail.html?id=78439) |
+| 文远知行 | 安全合规工程师【2027届校招】 · 实习 | 地点未注明 | 新收录 1 小时内 | [投递](https://app.mokahr.com/campus_apply/jingchi/2137#/job/94c88b02-ebfb-49c8-89b3-c3bda270fb87) |
+| 小米 | 人事合规-2027届 · 实习 | 北京 | 新收录 1 小时内 | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7678163496760215862/detail) |
+| 字节跳动 | 申诉与合规运营实习生（日语） - TikTok Shop · 实习 | 上海 | 发布于 1 小时前 | [投递](https://jobs.bytedance.com/campus/position/7678620785459628293/detail) |
 | 字节跳动 | 合规AI解决方案 - 抖音生活服务 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668587571433490741/detail) |
 | 字节跳动 | 采购政策与合规 - Corporate Services · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668294727842531589/detail) |
 | 字节跳动 | 合规运营 - 国际支付 · 校招 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7667889676602149125/detail) |
@@ -1115,10 +1119,6 @@
 | 爱奇艺 | 公共事务实习生-驻外 · 实习 | 北京 | 存量岗位 | [投递](https://careers.iqiyi.com/intern/position/7555445105055697162/detail) |
 | 智谱AI | 法务实习生 · 实习 | 北京 | 存量岗位 | [投递](https://zhipu-ai.jobs.feishu.cn/index/position/7378148317522839845/detail) |
 | 智元机器人 | 法务实习生 · 实习 | 上海 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7507192385345308965/detail) |
-| 智元机器人 | 法务助理 · 校招 | 上海 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7662207553685850410/detail) |
-| 智元机器人 | 发货账务&amp;合规管理实习生 · 实习 | 慕尼黑 / 曼彻斯特 / 巴黎 / 上海 / 深圳 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7667037336386980132/detail) |
-| 智元机器人 | 专利工程师（机器人/人工智能方向） · 校招 | 上海 / 北京 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7662250233220958518/detail) |
-| 智元机器人 | 专利实习生 · 实习 | 上海 | 存量岗位 | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7657169379016182059/detail) |
 
 ---
 
@@ -1130,10 +1130,12 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 字节跳动 | 美国平台物流商家增长实习生 - TikTok Shop · 实习 | 深圳 | 发布于 23 小时前 | [投递](https://jobs.bytedance.com/campus/position/7677799494008457525/detail) |
-| 字节跳动 | 国际电商采购实习生 - TikTok Shop · 实习 | 上海 | 发布于 1 天前 | [投递](https://jobs.bytedance.com/campus/position/7677433299497830709/detail) |
-| 字节跳动 | 物流运营实习生 - TikTok Shop · 实习 | 深圳 | 发布于 8 天前 | [投递](https://jobs.bytedance.com/campus/position/7674900869247256837/detail) |
-| 字节跳动 | 服务器部件采购实习生 - AI算力基础设施 · 实习 | 北京 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7673413155523791157/detail) |
+| 莉莉丝 | 【校招储备】外包管理实习生 · 实习 | 上海 | 发布于 2 小时前 | [投递](https://lilithgames.jobs.feishu.cn/campus/position/7678602765958875401/detail) |
+| 商汤 | 供应链实习生-元萝卜机器人 · 实习 | 深圳 | 发布于 6 小时前 | [投递](https://hr-jobs.sensetime.com/edu/position/7678536875414669610/detail) |
+| 字节跳动 | 美国平台物流商家增长实习生 - TikTok Shop · 实习 | 深圳 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7677799494008457525/detail) |
+| 字节跳动 | 国际电商采购实习生 - TikTok Shop · 实习 | 上海 | 发布于 3 天前 | [投递](https://jobs.bytedance.com/campus/position/7677433299497830709/detail) |
+| 字节跳动 | 物流运营实习生 - TikTok Shop · 实习 | 深圳 | 发布于 10 天前 | [投递](https://jobs.bytedance.com/campus/position/7674900869247256837/detail) |
+| 字节跳动 | 服务器部件采购实习生 - AI算力基础设施 · 实习 | 北京 | 发布于 14 天前 | [投递](https://jobs.bytedance.com/campus/position/7673413155523791157/detail) |
 | 字节跳动 | 供应链商务管理专员 - AI算力基础设施 · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670180490167109941/detail) |
 | 字节跳动 | 芯片供应链专员 - 芯片研发 · 校招 | 上海 / 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670073430421047557/detail) |
 | 字节跳动 | IoT采购履行经理（结构件方向） - AI算力基础设施 · 校招 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7669691023115897141/detail) |
@@ -1160,7 +1162,7 @@
 | 商汤 | 【27届校招】硬件助理采购经理-大装置 · 校招 | 北京 / 上海 / 深圳 | 发布于 &gt;14 天前 | [投递](https://hr-jobs.sensetime.com/edu/position/7659338436319627583/detail) |
 | 字节跳动 | 国际物流服务体验实习生-TikTok Shop · 实习 | 杭州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7651931511106062645/detail) |
 | 字节跳动 | 国际电商采购助理实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7650316040949860661/detail) |
-| 字节跳动 | 库存运营管理实习生-算力数据中心与供应链 · 实习 | 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7643687903466735925/detail) |
+| 字节跳动 | IT品类采购实习生-Corporate Services · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7644850047612406069/detail) |
 | 字节跳动 | 物流运营实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7637188488245135669/detail) |
 | 字节跳动 | 供应链与物流实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7637024733319317765/detail) |
 | 字节跳动 | 印尼物流运营实习生-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7634104967352568117/detail) |
@@ -1170,7 +1172,7 @@
 | 字节跳动 | 美国FBT商家运营实习生（物流&amp;供应链）-TikTok Shop · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7530116969518762248/detail) |
 | 字节跳动 | FBT物流运营实习生-TikTok Shop · 实习 | 珠海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7517554482406820103/detail) |
 | 字节跳动 | 商家运营（物流&amp;供应链方向）实习生 - TikTok Shop · 实习 | 深圳 / 杭州 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7512738224515729672/detail) |
-| 阿里巴巴 | 采购校招生 · 校招 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199908500009) |
+| 阿里巴巴 | 采购专员 · 校招 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199908500009) |
 | 阿里巴巴 | 物流规划 · 校招 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199908540006) |
 | 阿里巴巴 | 物流供应链运营 · 校招 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199908380010) |
 | 阿里巴巴 | 供应链运营 · 校招 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907700033) |
@@ -1188,8 +1190,6 @@
 | 美团 | Keemart物资管理 · 实习 | 利雅得 | 存量岗位 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4056236125&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | Keemart-Logistics Product（运输方向） · 实习 | 北京 | 存量岗位 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4680953116&amp;jobShareType=1&amp;highlightType=campus) |
 | 米哈游 | IP周边衍生品采购 · 校招 | 上海 | 存量岗位 | [投递](https://jobs.mihoyo.com/#/position/9162) |
-| 百度 | 运营管理中台-采购行政实习生（J104535） · 实习 | 深圳 | 存量岗位 | [投递](https://talent.baidu.com/jobs/detail/INTERN/39529a0e-8a97-4166-86b9-44f73db70068) |
-| 百度 | 北京-采购专员(J100746) · 校招 | 北京 | 存量岗位 | [投递](https://talent.baidu.com/jobs/detail/GRADUATE/feba13ab-0676-468a-8342-d483d232c6ac) |
 
 ---
 
@@ -1197,10 +1197,11 @@
 
 ## 🏢 岗位类别：行政
 
-最新展示 35 条。
+最新展示 36 条。
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
+| 小红书 | 行政实习生（武汉） · 实习 | 武汉 | 新收录 1 小时内 | [投递](https://job.xiaohongshu.com/campus/position/21898) |
 | 字节跳动 | 硬件资产管理 - IT · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670143360515262773/detail) |
 | 字节跳动 | 软件资产管理 - IT · 校招 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7670140084751206661/detail) |
 | 字节跳动 | 行政运营管理 - Corporate Services · 校招 | 上海 / 北京 / 成都 / 深圳 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7668528911895955717/detail) |
@@ -1243,13 +1244,12 @@
 
 ## 🛡️ 岗位类别：审计风控
 
-最新展示 14 条。
+最新展示 13 条。
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
 | 字节跳动 | 内控数据实习生-内控 · 实习 | 上海 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7592911154697619717/detail) |
 | 字节跳动 | 内控实习生-内控 · 实习 | 北京 | 发布于 &gt;14 天前 | [投递](https://jobs.bytedance.com/campus/position/7374349710570899749/detail) |
-| 阿里巴巴 | 金融风控分析师 · 校招 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199907780010) |
 | 阿里巴巴 | 国际数字商业集团-风险管理部-泛应急管理-日常实习生 · 实习 | 杭州 | 存量岗位 | [投递](https://campus-talent.alibaba.com/campus/position/199906540003) |
 | 蚂蚁集团 | 风险策略分析师 · 校招 | 上海 / 杭州 / 重庆 | 存量岗位 | [投递](https://talent.antgroup.com/campus-position?positionId=260721010984480) |
 | 蚂蚁集团 | 安全策略分析师 · 校招 | 杭州 | 存量岗位 | [投递](https://talent.antgroup.com/campus-position?positionId=260721010995325) |
