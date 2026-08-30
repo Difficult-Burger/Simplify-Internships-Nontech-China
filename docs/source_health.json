@@ -1,15 +1,7 @@
 {
-  "checked_at": "2026-08-30T20:37:12+00:00",
-  "ok": false,
-  "failed_sources": [
-    "DeepSeek招聘",
-    "Moonshot招聘",
-    "哔哩哔哩招聘",
-    "文远知行招聘",
-    "旷视招聘",
-    "银河通用招聘",
-    "阶跃星辰招聘"
-  ],
+  "checked_at": "2026-08-30T20:45:05+00:00",
+  "ok": true,
+  "failed_sources": [],
   "sources": [
     {
       "company": "字节跳动",
@@ -18,7 +10,7 @@
       "error": "",
       "raw_count": 3220,
       "observed_raw_count": 3220,
-      "active_count": 3084,
+      "active_count": 3083,
       "anomaly_runs": 0
     },
     {
@@ -88,7 +80,7 @@
       "error": "",
       "raw_count": 90,
       "observed_raw_count": 90,
-      "active_count": 11,
+      "active_count": 10,
       "anomaly_runs": 0
     },
     {
@@ -108,7 +100,7 @@
       "error": "",
       "raw_count": 454,
       "observed_raw_count": 454,
-      "active_count": 59,
+      "active_count": 58,
       "anomaly_runs": 0
     },
     {
@@ -124,10 +116,10 @@
     {
       "company": "哔哩哔哩",
       "source": "哔哩哔哩招聘",
-      "status": "failed",
-      "error": "哔哩哔哩: 哔哩哔哩 campus: network error fetching CSRF: fetch failed; 哔哩哔哩 intern: network error fetching CSRF: fetch failed",
+      "status": "ok",
+      "error": "",
       "raw_count": 361,
-      "observed_raw_count": 0,
+      "observed_raw_count": 361,
       "active_count": 241,
       "anomaly_runs": 0
     },
@@ -156,8 +148,8 @@
       "source": "美团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 570,
-      "observed_raw_count": 570,
+      "raw_count": 569,
+      "observed_raw_count": 569,
       "active_count": 245,
       "anomaly_runs": 0
     },
@@ -168,7 +160,7 @@
       "error": "",
       "raw_count": 513,
       "observed_raw_count": 513,
-      "active_count": 435,
+      "active_count": 432,
       "anomaly_runs": 0
     },
     {
@@ -218,7 +210,7 @@
       "error": "",
       "raw_count": 11,
       "observed_raw_count": 11,
-      "active_count": 12,
+      "active_count": 9,
       "anomaly_runs": 0
     },
     {
@@ -284,22 +276,22 @@
     {
       "company": "旷视",
       "source": "旷视招聘",
-      "status": "failed",
-      "error": "旷视: 旷视 campus: network error: fetch failed",
+      "status": "ok",
+      "error": "",
       "raw_count": 3,
-      "observed_raw_count": 0,
+      "observed_raw_count": 3,
       "active_count": 1,
       "anomaly_runs": 0
     },
     {
       "company": "文远知行",
       "source": "文远知行招聘",
-      "status": "failed",
-      "error": "原始岗位量异常下降：上一完整快照 138，本轮 4",
+      "status": "ok",
+      "error": "",
       "raw_count": 138,
-      "observed_raw_count": 4,
+      "observed_raw_count": 138,
       "active_count": 2,
-      "anomaly_runs": 1
+      "anomaly_runs": 0
     },
     {
       "company": "爱奇艺",
@@ -314,30 +306,30 @@
     {
       "company": "DeepSeek",
       "source": "DeepSeek招聘",
-      "status": "failed",
-      "error": "DeepSeek: DeepSeek all: network error: fetch failed",
+      "status": "ok",
+      "error": "",
       "raw_count": 3,
-      "observed_raw_count": 0,
+      "observed_raw_count": 3,
       "active_count": 0,
       "anomaly_runs": 0
     },
     {
       "company": "Moonshot AI",
       "source": "Moonshot招聘",
-      "status": "failed",
-      "error": "Moonshot AI: Moonshot AI all: network error: fetch failed",
+      "status": "ok",
+      "error": "",
       "raw_count": 1,
-      "observed_raw_count": 0,
+      "observed_raw_count": 1,
       "active_count": 1,
       "anomaly_runs": 0
     },
     {
       "company": "阶跃星辰",
       "source": "阶跃星辰招聘",
-      "status": "failed",
-      "error": "阶跃星辰: 阶跃星辰 all: network error: fetch failed",
+      "status": "ok",
+      "error": "",
       "raw_count": 3,
-      "observed_raw_count": 0,
+      "observed_raw_count": 3,
       "active_count": 1,
       "anomaly_runs": 0
     },
@@ -354,8 +346,8 @@
     {
       "company": "银河通用",
       "source": "银河通用招聘",
-      "status": "failed",
-      "error": "银河通用: 银河通用 all: network error: fetch failed",
+      "status": "ok",
+      "error": "",
       "raw_count": 0,
       "observed_raw_count": 0,
       "active_count": 0,

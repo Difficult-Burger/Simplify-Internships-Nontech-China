@@ -15,13 +15,13 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6605** 条在招岗位。
+当前收录 **6596** 条在招岗位。
 
 ### 按岗位类别浏览
 
-🧭 **[产品](#category-1)**（1453）
+🧭 **[产品](#category-1)**（1451）
 
-⚙️ **[运营](#category-2)**（1993）
+⚙️ **[运营](#category-2)**（1987）
 
 ✎ **[内容](#category-3)**（278）
 
@@ -37,7 +37,7 @@
 
 📋 **[项目管理](#category-9)**（110）
 
-✦ **[设计](#category-10)**（620）
+✦ **[设计](#category-10)**（619）
 
 🔍 **[用户研究](#category-11)**（66）
 
@@ -65,7 +65,6 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 携程 | AI 产品经理（2027届秋招）(MJ036636) · 校招 | Shanghai | 新收录 15 小时前 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036636) |
 | 字节跳动 | AI数据产品实习生 - TikTok Shop · 实习 | 北京 | 发布于 2 天前 | [投递](https://jobs.bytedance.com/campus/position/7679058784224987445/detail) |
 | 美团 | Keeta Ads 商业产品实习生 · 实习 | 北京 | 新收录 2 天前 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4728610723&amp;jobShareType=1&amp;highlightType=campus) |
 | 网易 | 用户增长产品策划实习生（游戏方向） · 实习 | 杭州 | 新收录 2 天前 | [投递](https://hr.163.com/job-detail.html?id=59635) |
@@ -125,6 +124,7 @@
 | 字节跳动 | 兴趣推荐策略产品实习生-TikTok · 实习 | 上海 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7675242123075225909/detail) |
 | 字节跳动 | 具身数据产品实习生 - Seed · 实习 | 北京 | 发布于 12 天前 | [投递](https://jobs.bytedance.com/campus/position/7675239927936239877/detail) |
 | 字节跳动 | AI大模型评测产品实习生 - 火山方舟 · 实习 | 上海 / 北京 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7674950150314477877/detail) |
+| 字节跳动 | AIGC产品实习生（IAA方向） - 广告业务 · 实习 | 上海 | 发布于 13 天前 | [投递](https://jobs.bytedance.com/campus/position/7674944037608409349/detail) |
 
 ---
 
@@ -136,8 +136,6 @@
 
 | 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|
-| 携程 | 旅游业务培训生（业务运营）（2027届秋招）- 郑州(MJ036705) · 校招 | Zhengzhou | 新收录 15 小时前 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036705) |
-| 携程 | 旅游业务培训生（业务运营）（2027届秋招）- 北京(MJ036702) · 校招 | Beijing | 新收录 15 小时前 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036702) |
 | 携程 | 旅游业务培训生（业务运营）-日语/韩语/泰语/粤语（2027届秋招）(MJ036723) · 校招 | Shanghai | 新收录 15 小时前 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036723) |
 | 携程 | 策划运营（2027届秋招）(MJ036682) · 校招 | Shanghai | 新收录 1 天前 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036682) |
 | 携程 | 旅游业务培训生（业务运营）（2027届秋招）- 济南(MJ036703) · 校招 | Jinan | 新收录 1 天前 | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036703) |
@@ -196,6 +194,8 @@
 | 哔哩哔哩 | 结算产品运营实习生（业财方向） · 实习 | 上海 | 新收录 3 天前 | [投递](https://jobs.bilibili.com/campus/positions/30199) |
 | 哔哩哔哩 | 用户运营实习生 · 实习 | 上海 | 新收录 3 天前 | [投递](https://jobs.bilibili.com/campus/positions/30197) |
 | 哔哩哔哩 | 流量运营实习生 · 实习 | 上海 | 新收录 3 天前 | [投递](https://jobs.bilibili.com/campus/positions/30201) |
+| 哔哩哔哩 | 商业化-行业运营实习生-AI运营方向 · 实习 | 上海 | 新收录 3 天前 | [投递](https://jobs.bilibili.com/campus/positions/30205) |
+| 哔哩哔哩 | B站-商业化行业运营-美妆组实习生 · 实习 | 上海 | 新收录 3 天前 | [投递](https://jobs.bilibili.com/campus/positions/30215) |
 
 ---
 
