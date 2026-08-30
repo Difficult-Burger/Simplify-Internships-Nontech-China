@@ -1,7 +1,9 @@
 import unittest
+from subprocess import CompletedProcess
+from unittest.mock import MagicMock, patch
 
 from radar.company_pool import APPROVED_COMPANIES, EXCLUDED_COMPANIES, PENDING_COMPANIES, JobProCompany
-from radar.job_pro_sources import _normalize
+from radar.job_pro_sources import _normalize, _run_job_pro
 
 
 class CompanyPoolTest(unittest.TestCase):
@@ -29,6 +31,19 @@ class CompanyPoolTest(unittest.TestCase):
         }
         self.assertIsNone(_normalize(company, senior))
         self.assertEqual(_normalize(company, intern)["stage"], "实习")
+
+    @patch("radar.job_pro_sources.time.sleep")
+    @patch("radar.job_pro_sources.subprocess.run")
+    def test_transient_source_failure_retries_three_times(self, run: MagicMock, sleep: MagicMock) -> None:
+        run.side_effect = [
+            CompletedProcess([], 1, '{"ok":false,"message":"network error"}\n', ""),
+            CompletedProcess([], 1, '{"ok":false,"message":"network error"}\n', ""),
+            CompletedProcess([], 0, '{"ok":true,"positions":[{"post_id":"1"}]}\n', ""),
+        ]
+        company = JobProCompany("example", "示例公司", "示例招聘", ("example.com",), ("campus",))
+        self.assertEqual(_run_job_pro(company, "campus", 10), [{"post_id": "1"}])
+        self.assertEqual(run.call_count, 3)
+        self.assertEqual(sleep.call_count, 2)
 
 
 if __name__ == "__main__":

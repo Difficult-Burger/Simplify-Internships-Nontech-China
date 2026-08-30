@@ -3,6 +3,7 @@
 import json
 import re
 import subprocess
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any
 
@@ -27,17 +28,27 @@ def _run_job_pro(company: JobProCompany, scope: str, max_pages: int) -> list[Jso
         str(max_pages),
         "--compact",
     ]
-    result = subprocess.run(command, capture_output=True, text=True, timeout=240, check=False)
-    lines = [line for line in result.stdout.splitlines() if line.strip().startswith("{")]
-    if not lines:
-        detail = (result.stderr or result.stdout).strip().splitlines()[-1:] or ["no JSON output"]
-        raise RuntimeError(f"{company.company} {scope}: {detail[0]}")
-    payload = json.loads(lines[-1])
-    if not payload.get("ok"):
-        raise RuntimeError(f"{company.company} {scope}: {payload.get('message', 'upstream error')}")
-    if payload.get("truncated"):
-        raise RuntimeError(f"{company.company} {scope}: truncated at {payload.get('fetched')} / {payload.get('total')}")
-    return payload.get("positions") or []
+    last_error = "unknown error"
+    for attempt in range(1, 4):
+        try:
+            result = subprocess.run(command, capture_output=True, text=True, timeout=240, check=False)
+            lines = [line for line in result.stdout.splitlines() if line.strip().startswith("{")]
+            if not lines:
+                detail = (result.stderr or result.stdout).strip().splitlines()[-1:] or ["no JSON output"]
+                last_error = detail[0]
+            else:
+                payload = json.loads(lines[-1])
+                if not payload.get("ok"):
+                    last_error = str(payload.get("message") or "upstream error")
+                elif payload.get("truncated"):
+                    last_error = f"truncated at {payload.get('fetched')} / {payload.get('total')}"
+                else:
+                    return payload.get("positions") or []
+        except (subprocess.TimeoutExpired, json.JSONDecodeError) as error:
+            last_error = str(error)
+        if attempt < 3:
+            time.sleep(attempt * 2)
+    raise RuntimeError(f"{company.company} {scope}: {last_error}")
 
 
 def _stage(position: JsonObject) -> str:
