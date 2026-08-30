@@ -19,10 +19,12 @@ from radar.config import (
     SENIOR_TITLE_KEYWORDS,
     TECHNICAL_RAW_CATEGORY_KEYWORDS,
     TECHNICAL_TITLE_KEYWORDS,
+    TECHNICAL_TITLE_PATTERNS,
 )
 from radar.job_pro_sources import fetch_approved_companies
 from radar.sources import (
     fetch_bytedance,
+    fetch_horizon,
     fetch_lilith,
     fetch_momenta,
     fetch_moonton,
@@ -38,6 +40,9 @@ SITE_JSON = ROOT / "docs" / "jobs.json"
 SITE_CSV = ROOT / "docs" / "jobs.csv"
 COMPANIES_JSON = ROOT / "data" / "companies.json"
 SITE_COMPANIES_JSON = ROOT / "docs" / "companies.json"
+JOB_HISTORY_JSON = ROOT / "data" / "job_history.json"
+SOURCE_HEALTH_JSON = ROOT / "data" / "source_health.json"
+SITE_SOURCE_HEALTH_JSON = ROOT / "docs" / "source_health.json"
 README = ROOT / "README.md"
 REQUIRED_FIELDS = {
     "id",
@@ -54,6 +59,7 @@ REQUIRED_FIELDS = {
     "freshness_basis",
     "first_seen_at",
     "last_seen_at",
+    "missing_runs",
     "url",
     "source",
 }
@@ -65,6 +71,7 @@ SOURCE_RULES = {
     "莉莉丝招聘": {"company": "莉莉丝", "hosts": ("lilithgames.jobs.feishu.cn",)},
     "叠纸游戏招聘": {"company": "叠纸游戏", "hosts": ("career.papegames.com",)},
     "沐瞳科技招聘": {"company": "沐瞳科技", "hosts": ("moonton.jobs.feishu.cn",)},
+    "地平线招聘": {"company": "地平线", "hosts": ("wecruit.hotjob.cn",)},
     **{company.source: {"company": company.company, "hosts": company.hosts} for company in APPROVED_COMPANIES},
 }
 MONITORED_COMPANIES = [
@@ -75,10 +82,12 @@ MONITORED_COMPANIES = [
     {"company": "莉莉丝", "source": "莉莉丝招聘"},
     {"company": "叠纸游戏", "source": "叠纸游戏招聘"},
     {"company": "沐瞳科技", "source": "沐瞳科技招聘"},
+    {"company": "地平线", "source": "地平线招聘"},
     *[{"company": company.company, "source": company.source} for company in APPROVED_COMPANIES],
 ]
 VALID_STAGES = {"实习", "校招"}
 VALID_FRESHNESS_BASES = {"official", "discovered", "baseline"}
+MISSING_RUNS_BEFORE_REMOVAL = 3
 
 
 def _now() -> str:
@@ -102,6 +111,8 @@ def classify_job_details(title: str, raw_category: str) -> tuple[str, str] | Non
     title_text = title.casefold()
     raw_text = raw_category.casefold()
     if any(keyword.casefold() in title_text for keyword in TECHNICAL_TITLE_KEYWORDS):
+        return None
+    if any(re.search(pattern, title_text, re.IGNORECASE) for pattern in TECHNICAL_TITLE_PATTERNS):
         return None
     if any(keyword.casefold() in raw_text for keyword in TECHNICAL_RAW_CATEGORY_KEYWORDS):
         return None
@@ -182,11 +193,6 @@ def _normalize_location_piece(location: str) -> str:
     return location or "地点未注明"
 
 
-def _is_suspicious_source_drop(previous_count: int, current_count: int) -> bool:
-    """Protect the published dataset from a likely partial upstream response."""
-    return previous_count >= 20 and current_count < previous_count * 0.5
-
-
 def _load_jobs() -> list[dict[str, Any]]:
     if not JOBS_JSON.exists():
         return []
@@ -197,9 +203,44 @@ def _load_jobs() -> list[dict[str, Any]]:
     return data
 
 
-def _normalize(raw_jobs: list[dict[str, Any]], existing: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def _load_job_history(existing: list[dict[str, Any]]) -> dict[str, dict[str, str]]:
+    if JOB_HISTORY_JSON.exists():
+        with JOB_HISTORY_JSON.open(encoding="utf-8") as file:
+            data = json.load(file)
+        if isinstance(data, dict):
+            return data
+    return {
+        job["id"]: {
+            "first_seen_at": str(job["first_seen_at"]),
+            "freshness_basis": str(job["freshness_basis"]),
+            "url": str(job.get("url") or ""),
+        }
+        for job in existing
+        if job.get("id") and job.get("first_seen_at") and job.get("freshness_basis")
+    }
+
+
+def _load_source_health() -> dict[str, Any]:
+    if not SOURCE_HEALTH_JSON.exists():
+        return {}
+    with SOURCE_HEALTH_JSON.open(encoding="utf-8") as file:
+        data = json.load(file)
+    return data if isinstance(data, dict) else {}
+
+
+def _normalize(
+    raw_jobs: list[dict[str, Any]],
+    existing: list[dict[str, Any]],
+    history: dict[str, dict[str, str]] | None = None,
+) -> list[dict[str, Any]]:
     now = _now()
     old_by_id = {job["id"]: job for job in existing if job.get("id")}
+    old_by_url = {job["url"]: job for job in existing if job.get("url")}
+    history_by_url = {
+        str(item.get("url")): {**item, "id": job_id}
+        for job_id, item in (history or {}).items()
+        if item.get("url")
+    }
     normalized: dict[str, dict[str, Any]] = {}
     for raw in raw_jobs:
         title = str(raw.get("title", ""))
@@ -208,11 +249,20 @@ def _normalize(raw_jobs: list[dict[str, Any]], existing: list[dict[str, Any]]) -
         if not details:
             continue
         category, subcategory = details
-        job_id = str(raw["id"])
-        previous = old_by_id.get(job_id, {})
+        raw_job_id = str(raw["id"])
+        url = str(raw.get("url") or "")
+        previous = (
+            old_by_id.get(raw_job_id)
+            or old_by_url.get(url)
+            or (history or {}).get(raw_job_id)
+            or history_by_url.get(url)
+            or {}
+        )
+        job_id = str(previous.get("id") or raw_job_id)
         freshness_basis = "official" if raw.get("published_at") else previous.get("freshness_basis", "discovered")
         normalized[job_id] = {
             **raw,
+            "id": job_id,
             "category": category,
             "subcategory": subcategory,
             "program": classify_program(title, str(raw.get("stage", ""))),
@@ -221,6 +271,7 @@ def _normalize(raw_jobs: list[dict[str, Any]], existing: list[dict[str, Any]]) -
             "freshness_basis": freshness_basis,
             "first_seen_at": previous.get("first_seen_at", now),
             "last_seen_at": now,
+            "missing_runs": 0,
         }
     return sorted(
         normalized.values(),
@@ -235,9 +286,51 @@ def _freshness_timestamp(job: dict[str, Any]) -> str:
     return str(job.get("published_at") or job.get("first_seen_at") or "")
 
 
-def _write_json(path: Path, jobs: list[dict[str, Any]]) -> None:
+def _reconcile_jobs(
+    current: list[dict[str, Any]],
+    existing: list[dict[str, Any]],
+    successful_sources: set[str],
+) -> list[dict[str, Any]]:
+    """Keep transiently missing jobs and remove only after three complete successful absences."""
+    reconciled = {job["id"]: job for job in current}
+    current_urls = {job.get("url") for job in current if job.get("url")}
+    for old in existing:
+        job_id = str(old.get("id") or "")
+        source = str(old.get("source") or "")
+        if not job_id or job_id in reconciled or old.get("url") in current_urls or source not in SOURCE_RULES:
+            continue
+        if not classify_job_details(str(old.get("title", "")), str(old.get("raw_category", ""))):
+            continue
+        if source not in successful_sources:
+            reconciled[job_id] = old
+            continue
+        missing_runs = int(old.get("missing_runs") or 0) + 1
+        if missing_runs < MISSING_RUNS_BEFORE_REMOVAL:
+            reconciled[job_id] = {**old, "missing_runs": missing_runs}
+    return sorted(
+        reconciled.values(),
+        key=lambda job: (_freshness_timestamp(job), job["company"], job["title"]),
+        reverse=True,
+    )
+
+
+def _write_job_history(history: dict[str, dict[str, str]], jobs: list[dict[str, Any]]) -> None:
+    for job in jobs:
+        entry = history.setdefault(
+            job["id"],
+            {
+                "first_seen_at": str(job["first_seen_at"]),
+                "freshness_basis": str(job["freshness_basis"]),
+                "url": str(job.get("url") or ""),
+            },
+        )
+        entry["url"] = str(job.get("url") or "")
+    JOB_HISTORY_JSON.write_text(json.dumps(history, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def _write_json(path: Path, value: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(jobs, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def _company_manifest(jobs: list[dict[str, Any]], successful_sources: set[str] | None) -> list[dict[str, str]]:
@@ -271,6 +364,66 @@ def _company_manifest(jobs: list[dict[str, Any]], successful_sources: set[str] |
         for company in PENDING_COMPANIES
     )
     return manifest
+
+
+def _source_health_by_name(health: dict[str, Any]) -> dict[str, dict[str, Any]]:
+    return {
+        str(item.get("source")): item
+        for item in health.get("sources", [])
+        if isinstance(item, dict) and item.get("source")
+    }
+
+
+def _source_drop_error(
+    source: str,
+    observed_count: int,
+    previous_health: dict[str, Any],
+) -> tuple[str | None, int]:
+    previous = _source_health_by_name(previous_health).get(source, {})
+    previous_count = int(previous.get("raw_count") or 0)
+    if previous_count < 20 or observed_count >= previous_count * 0.5:
+        return None, 0
+    anomaly_runs = int(previous.get("anomaly_runs") or 0) + 1
+    if anomaly_runs >= MISSING_RUNS_BEFORE_REMOVAL:
+        return None, 0
+    return f"原始岗位量异常下降：上一完整快照 {previous_count}，本轮 {observed_count}", anomaly_runs
+
+
+def _write_source_health(
+    successful_sources: set[str],
+    source_errors: dict[str, str],
+    raw_counts: dict[str, int],
+    observed_counts: dict[str, int],
+    anomaly_runs: dict[str, int],
+    jobs: list[dict[str, Any]],
+    previous_health: dict[str, Any],
+) -> None:
+    previous = _source_health_by_name(previous_health)
+    active_counts = {source: sum(job.get("source") == source for job in jobs) for source in SOURCE_RULES}
+    sources: list[dict[str, Any]] = []
+    for company in MONITORED_COMPANIES:
+        source = company["source"]
+        prior = previous.get(source, {})
+        success = source in successful_sources
+        sources.append(
+            {
+                **company,
+                "status": "ok" if success else "failed",
+                "error": source_errors.get(source, ""),
+                "raw_count": raw_counts.get(source, int(prior.get("raw_count") or 0)),
+                "observed_raw_count": observed_counts.get(source, 0),
+                "active_count": active_counts.get(source, 0),
+                "anomaly_runs": anomaly_runs.get(source, 0),
+            }
+        )
+    payload = {
+        "checked_at": _now(),
+        "ok": not source_errors,
+        "failed_sources": sorted(source_errors),
+        "sources": sources,
+    }
+    _write_json(SOURCE_HEALTH_JSON, payload)
+    _write_json(SITE_SOURCE_HEALTH_JSON, payload)
 
 
 def _write_csv_file(path: Path, jobs: list[dict[str, Any]]) -> None:
@@ -382,6 +535,8 @@ def validate_data(jobs: list[dict[str, Any]] | None = None) -> None:
             errors.append(f"第 {index + 1} 条岗位标签格式无效")
         if job.get("freshness_basis") not in VALID_FRESHNESS_BASES:
             errors.append(f"第 {index + 1} 条新鲜度依据无效: {job.get('freshness_basis')}")
+        if not isinstance(job.get("missing_runs"), int) or int(job.get("missing_runs") or 0) < 0:
+            errors.append(f"第 {index + 1} 条连续缺失次数无效: {job.get('missing_runs')}")
         if job.get("published_at") and job.get("freshness_basis") != "official":
             errors.append(f"第 {index + 1} 条有官方时间但新鲜度依据不是 official")
         source = str(job.get("source", ""))
@@ -416,8 +571,18 @@ def validate_data(jobs: list[dict[str, Any]] | None = None) -> None:
     print(f"校验通过：{len(jobs)} 个岗位，ID 和官方链接均唯一。")
 
 
-def build_outputs(jobs: list[dict[str, Any]] | None = None, successful_sources: set[str] | None = None) -> None:
+def build_outputs(
+    jobs: list[dict[str, Any]] | None = None,
+    successful_sources: set[str] | None = None,
+    source_errors: dict[str, str] | None = None,
+    raw_counts: dict[str, int] | None = None,
+    observed_counts: dict[str, int] | None = None,
+    anomaly_runs: dict[str, int] | None = None,
+    previous_health: dict[str, Any] | None = None,
+    history: dict[str, dict[str, str]] | None = None,
+) -> None:
     jobs = _load_jobs() if jobs is None else jobs
+    history = history or _load_job_history(jobs)
     rebuilt: list[dict[str, Any]] = []
     for job in jobs:
         if job.get("source") not in SOURCE_RULES:
@@ -440,6 +605,7 @@ def build_outputs(jobs: list[dict[str, Any]] | None = None, successful_sources: 
                 "tags": classify_tags(title, raw_category),
                 "freshness_basis": freshness_basis,
                 "locations": normalize_locations(job.get("locations") or []),
+                "missing_runs": int(job.get("missing_runs") or 0),
             }
         )
     jobs = sorted(
@@ -455,14 +621,30 @@ def build_outputs(jobs: list[dict[str, Any]] | None = None, successful_sources: 
     _write_json(SITE_COMPANIES_JSON, companies)
     _write_csv_file(JOBS_CSV, jobs)
     _write_csv_file(SITE_CSV, jobs)
+    _write_job_history(history, jobs)
+    if successful_sources is not None:
+        _write_source_health(
+            successful_sources,
+            source_errors or {},
+            raw_counts or {},
+            observed_counts or {},
+            anomaly_runs or {},
+            jobs,
+            previous_health or {},
+        )
     _update_readme(jobs)
     print(f"已生成 README、JSON、CSV 和静态站点数据：{len(jobs)} 个岗位。")
 
 
 def fetch_and_build(max_pages: int = 50) -> None:
     existing = _load_jobs()
+    history = _load_job_history(existing)
+    previous_health = _load_source_health()
     raw_jobs: list[dict[str, Any]] = []
-    failures: list[str] = []
+    source_errors: dict[str, str] = {}
+    raw_counts: dict[str, int] = {}
+    observed_counts: dict[str, int] = {}
+    anomaly_runs: dict[str, int] = {}
     successful_sources: set[str] = set()
     sources = (
         ("字节跳动", "字节跳动招聘", fetch_bytedance),
@@ -472,46 +654,52 @@ def fetch_and_build(max_pages: int = 50) -> None:
         ("莉莉丝", "莉莉丝招聘", fetch_lilith),
         ("叠纸游戏", "叠纸游戏招聘", fetch_papegames),
         ("沐瞳科技", "沐瞳科技招聘", fetch_moonton),
+        ("地平线", "地平线招聘", fetch_horizon),
     )
     for name, source_label, fetcher in sources:
         try:
             source_jobs = fetcher(max_pages=max_pages)
-            previous_count = sum(job.get("source") == source_label for job in existing)
-            if _is_suspicious_source_drop(previous_count, len(source_jobs)):
-                raise RuntimeError(
-                    f"{name} 返回量异常下降：上一版 {previous_count} 条，本次 {len(source_jobs)} 条；保留上一版数据"
-                )
+            observed_counts[source_label] = len(source_jobs)
+            drop_error, anomaly_count = _source_drop_error(source_label, len(source_jobs), previous_health)
+            if drop_error:
+                anomaly_runs[source_label] = anomaly_count
+                raise RuntimeError(drop_error)
             raw_jobs.extend(source_jobs)
+            raw_counts[source_label] = len(source_jobs)
             successful_sources.add(source_label)
             print(f"{name}：抓取 {len(source_jobs)} 个非技术岗")
         except RuntimeError as error:
-            failures.append(str(error))
+            source_errors[source_label] = str(error)
             print(f"{name}：抓取失败，{error}")
 
     job_pro_groups, job_pro_failures = fetch_approved_companies(max_pages=max(max_pages, 100))
-    failures.extend(job_pro_failures)
+    source_errors.update(job_pro_failures)
     for source_label, source_jobs in job_pro_groups.items():
-        previous_count = sum(job.get("source") == source_label for job in existing)
-        if _is_suspicious_source_drop(previous_count, len(source_jobs)):
-            failures.append(f"{source_label} 返回量异常下降：上一版 {previous_count} 条，本次 {len(source_jobs)} 条")
+        observed_counts[source_label] = len(source_jobs)
+        drop_error, anomaly_count = _source_drop_error(source_label, len(source_jobs), previous_health)
+        if drop_error:
+            anomaly_runs[source_label] = anomaly_count
+            source_errors[source_label] = drop_error
             continue
         raw_jobs.extend(source_jobs)
+        raw_counts[source_label] = len(source_jobs)
         successful_sources.add(source_label)
         print(f"{source_label}：抓取 {len(source_jobs)} 个早期职业岗位")
-    for failure in job_pro_failures:
+    for failure in job_pro_failures.values():
         print(f"扩展公司抓取失败：{failure}")
     if not raw_jobs:
         raise RuntimeError("所有官方数据源均抓取失败；保留已有数据，未覆盖输出。")
-    jobs = _normalize(raw_jobs, existing)
-    if failures:
-        preserved = [
-            job for job in existing if job.get("source") not in successful_sources and job.get("source") in SOURCE_RULES
-        ]
-        jobs = sorted(
-            {job["id"]: job for job in [*jobs, *preserved]}.values(),
-            key=lambda job: (_freshness_timestamp(job), job["company"], job["title"]),
-            reverse=True,
-        )
-    build_outputs(jobs, successful_sources)
-    if failures:
+    jobs = _normalize(raw_jobs, existing, history)
+    jobs = _reconcile_jobs(jobs, existing, successful_sources)
+    build_outputs(
+        jobs,
+        successful_sources,
+        source_errors,
+        raw_counts,
+        observed_counts,
+        anomaly_runs,
+        previous_health,
+        history,
+    )
+    if source_errors:
         print("部分数据源失败；成功来源已更新，失败来源不会被伪装为最新数据。")

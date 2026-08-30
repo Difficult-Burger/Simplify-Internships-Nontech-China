@@ -5,10 +5,12 @@ import os
 import ssl
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 from radar.config import BYTEDANCE_CATEGORY_IDS, TENCENT_POSITION_FAMILY_IDS
 
@@ -40,10 +42,34 @@ def _post_json(url: str, payload: JsonObject, headers: dict[str, str]) -> JsonOb
         raise RuntimeError(f"请求失败 {url}: {error}") from error
 
 
+def _post_form_json(url: str, payload: JsonObject, headers: dict[str, str]) -> JsonObject:
+    request = urllib.request.Request(
+        url,
+        data=urllib.parse.urlencode(payload).encode("utf-8"),
+        headers={"User-Agent": USER_AGENT, "Content-Type": "application/x-www-form-urlencoded", **headers},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=30, context=_ssl_context()) as response:
+            return json.load(response)
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as error:
+        raise RuntimeError(f"请求失败 {url}: {error}") from error
+
+
 def _iso_from_milliseconds(value: Any) -> str:
     if not isinstance(value, (int, float)) or value <= 0:
         return ""
     return datetime.fromtimestamp(value / 1000, UTC).isoformat(timespec="seconds")
+
+
+def _iso_from_china_datetime(value: Any) -> str:
+    if not value:
+        return ""
+    try:
+        local = datetime.strptime(str(value), "%Y-%m-%d %H:%M:%S").replace(tzinfo=ZoneInfo("Asia/Shanghai"))
+    except ValueError:
+        return ""
+    return local.astimezone(UTC).isoformat(timespec="seconds")
 
 
 def fetch_bytedance(max_pages: int = 50, page_size: int = 100) -> list[JsonObject]:
@@ -273,3 +299,55 @@ def fetch_moonton(max_pages: int = 50) -> list[JsonObject]:
         id_prefix="moonton",
         max_pages=max_pages,
     )
+
+
+def fetch_horizon(max_pages: int = 50) -> list[JsonObject]:
+    """Fetch every Horizon campus page using the upstream-enforced five-row page size."""
+    host = "wecruit.hotjob.cn"
+    channel = "SU6409ef49bef57c635fd390a6"
+    headers = {
+        "Accept": "application/json, text/plain, */*",
+        "Origin": f"https://{host}",
+        "Referer": f"https://{host}/{channel}/pb/school.html",
+        "X-Requested-With": "XMLHttpRequest",
+    }
+    jobs: dict[str, JsonObject] = {}
+    total = 0
+    total_pages = 1
+    for page in range(1, max_pages + 1):
+        url = (
+            f"https://{host}/wecruit/positionInfo/listPosition/{channel}"
+            f"?iSaJAx=isAjax&request_locale=zh_CN&t={int(time.time() * 1000)}"
+        )
+        response = _post_form_json(
+            url,
+            {"isFrompb": "true", "recruitType": 1, "pageSize": 5, "currentPage": page},
+            headers,
+        )
+        if response.get("state") != "200":
+            raise RuntimeError(f"地平线接口返回错误: {response.get('msg', 'unknown error')}")
+        page_form = ((response.get("data") or {}).get("pageForm") or {})
+        total = int(page_form.get("dataCount") or 0)
+        total_pages = int(page_form.get("totalPage") or 0)
+        for row in page_form.get("pageData") or []:
+            post_id = str(row.get("postId") or "")
+            title = str(row.get("postName") or "").strip()
+            if not post_id or not title:
+                continue
+            recruit_text = f"{row.get('projectName', '')} {row.get('recruitmentType', '')} {title}"
+            jobs[post_id] = {
+                "id": f"horizonrobotics:{post_id}",
+                "company": "地平线",
+                "title": title,
+                "raw_category": str(row.get("postTypeName") or ""),
+                "locations": [str(row.get("workPlaceStr") or "")],
+                "stage": "实习" if "实习" in recruit_text else "校招",
+                "published_at": _iso_from_china_datetime(row.get("publishFirstDate") or row.get("publishDate")),
+                "url": f"https://{host}/{channel}/pb/school.html#/postDetail?postId={post_id}",
+                "source": "地平线招聘",
+            }
+        if page >= total_pages:
+            break
+    if total_pages > max_pages or len(jobs) != total:
+        raise RuntimeError(f"地平线分页不完整：抓取 {len(jobs)} / {total}，共 {total_pages} 页")
+    return list(jobs.values())

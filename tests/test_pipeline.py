@@ -5,8 +5,9 @@ from radar.pipeline import (
     _age_label,
     _company_manifest,
     _freshness_label,
-    _is_suspicious_source_drop,
     _normalize,
+    _reconcile_jobs,
+    _source_drop_error,
     classify_job,
     classify_job_details,
     classify_program,
@@ -91,16 +92,19 @@ class ClassifyJobTest(unittest.TestCase):
         self.assertIsNone(classify_job("AI芯片Linux平台软件工程师", "产品"))
         self.assertIsNone(classify_job("游戏客户端工程师（Unity3D）【2027届】", "游戏"))
         self.assertIsNone(classify_job("游戏服务端工程师【2027届】", "游戏"))
+        self.assertIsNone(classify_job("芯片设计工程师-总线方向", "设计类"))
+        self.assertIsNone(classify_job("游戏服务器架构开发实习生", "游戏"))
+        self.assertIsNone(classify_job("AI应用后端开发实习生 - AI 工具运营", "运营"))
+        self.assertIsNone(classify_job("游戏测试实习生（蛋仔派对）", "游戏"))
+        self.assertIsNone(classify_job("AI工具开发实习生-内容质量平台", "内容"))
+        self.assertIsNone(classify_job("模型运维实习生", "运营"))
+        self.assertIsNone(classify_job("嵌入式操作系统项目经理实习生", "项目管理"))
+        self.assertEqual(classify_job("开发者社区运营实习生", "运营"), "运营")
 
     def test_senior_social_roles_are_rejected(self) -> None:
         self.assertIsNone(classify_job("高级产品经理", "产品"))
         self.assertIsNone(classify_job("策略运营专家", "运营"))
         self.assertEqual(classify_job("商务合作主管实习生", "市场"), "商务拓展")
-
-    def test_large_source_drop_is_rejected(self) -> None:
-        self.assertTrue(_is_suspicious_source_drop(100, 49))
-        self.assertFalse(_is_suspicious_source_drop(100, 50))
-        self.assertFalse(_is_suspicious_source_drop(10, 0))
 
     def test_validation_rejects_wrong_official_domain(self) -> None:
         job = {
@@ -118,6 +122,7 @@ class ClassifyJobTest(unittest.TestCase):
             "freshness_basis": "baseline",
             "first_seen_at": "2026-08-24T00:00:00+00:00",
             "last_seen_at": "2026-08-24T01:00:00+00:00",
+            "missing_runs": 0,
             "url": "https://example.com/job/1",
             "source": "字节跳动招聘",
         }
@@ -177,6 +182,82 @@ class ClassifyJobTest(unittest.TestCase):
         self.assertEqual(by_id["old"]["freshness_basis"], "baseline")
         self.assertEqual(by_id["old"]["first_seen_at"], "2026-08-24T00:00:00+00:00")
         self.assertEqual(by_id["new"]["freshness_basis"], "discovered")
+
+    def test_reappearing_job_uses_permanent_history(self) -> None:
+        raw = {
+            "id": "restored",
+            "company": "示例公司",
+            "title": "产品经理实习生",
+            "raw_category": "产品",
+            "locations": ["北京"],
+            "stage": "实习",
+            "published_at": "",
+            "url": "https://example.com/job",
+            "source": "示例招聘",
+        }
+        history = {
+            "restored": {
+                "first_seen_at": "2026-08-24T00:00:00+00:00",
+                "freshness_basis": "baseline",
+            }
+        }
+        restored = _normalize([raw], [], history)[0]
+        self.assertEqual(restored["first_seen_at"], "2026-08-24T00:00:00+00:00")
+        self.assertEqual(restored["freshness_basis"], "baseline")
+
+    def test_changed_upstream_id_keeps_url_identity(self) -> None:
+        existing = [
+            {
+                "id": "old-id",
+                "url": "https://example.com/stable-job",
+                "first_seen_at": "2026-08-24T00:00:00+00:00",
+                "freshness_basis": "baseline",
+            }
+        ]
+        raw = {
+            "id": "new-id",
+            "company": "示例公司",
+            "title": "产品经理实习生",
+            "raw_category": "产品",
+            "locations": ["北京"],
+            "stage": "实习",
+            "published_at": "",
+            "url": "https://example.com/stable-job",
+            "source": "示例招聘",
+        }
+        normalized = _normalize([raw], existing)[0]
+        self.assertEqual(normalized["id"], "old-id")
+        self.assertEqual(normalized["first_seen_at"], "2026-08-24T00:00:00+00:00")
+
+    def test_missing_job_requires_three_successful_absences(self) -> None:
+        job = {
+            "id": "bytedance:missing",
+            "company": "字节跳动",
+            "title": "产品经理实习生",
+            "raw_category": "产品",
+            "source": "字节跳动招聘",
+            "freshness_basis": "baseline",
+            "first_seen_at": "2026-08-24T00:00:00+00:00",
+            "missing_runs": 0,
+        }
+        first = _reconcile_jobs([], [job], {"字节跳动招聘"})
+        second = _reconcile_jobs([], first, {"字节跳动招聘"})
+        third = _reconcile_jobs([], second, {"字节跳动招聘"})
+        self.assertEqual(first[0]["missing_runs"], 1)
+        self.assertEqual(second[0]["missing_runs"], 2)
+        self.assertEqual(third, [])
+        failed_run = _reconcile_jobs([], [job], set())
+        self.assertEqual(failed_run[0]["missing_runs"], 0)
+
+    def test_source_drop_uses_raw_history_and_three_run_confirmation(self) -> None:
+        previous = {"sources": [{"source": "示例招聘", "raw_count": 100, "anomaly_runs": 0}]}
+        error, count = _source_drop_error("示例招聘", 40, previous)
+        self.assertIsNotNone(error)
+        self.assertEqual(count, 1)
+        previous["sources"][0]["anomaly_runs"] = 2
+        error, count = _source_drop_error("示例招聘", 40, previous)
+        self.assertIsNone(error)
+        self.assertEqual(count, 0)
 
     def test_company_manifest_distinguishes_source_states(self) -> None:
         jobs = [{"source": "字节跳动招聘"}]

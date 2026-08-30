@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/jobs.json data/jobs.csv data/companies.json docs/jobs.json docs/jobs.csv docs/companies.json
+          git add README.md data/jobs.json data/jobs.csv data/companies.json data/job_history.json data/source_health.json docs/jobs.json docs/jobs.csv docs/companies.json docs/source_health.json
           git diff --cached --quiet || git commit -m "chore: update official job listings"
           git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF_NAME}
       - name: Configure GitHub Pages
@@ -54,3 +54,28 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  source-health:
+    needs: update
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fail on incomplete company sources
+        run: |
+          python - <<'PY'
+          import json
+          import sys
+
+          with open("data/source_health.json", encoding="utf-8") as file:
+              health = json.load(file)
+          if health["ok"]:
+              print("All monitored company sources completed successfully.")
+              raise SystemExit(0)
+          print("Incomplete company sources:")
+          for source in health["sources"]:
+              if source["status"] == "failed":
+                  print(f"- {source['company']}: {source['error']}")
+          sys.exit(1)
+          PY

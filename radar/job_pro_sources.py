@@ -82,15 +82,15 @@ def _fetch_company(company: JobProCompany, max_pages: int) -> list[JsonObject]:
                     positions[normalized["id"]] = normalized
         except (RuntimeError, subprocess.TimeoutExpired, json.JSONDecodeError) as error:
             errors.append(str(error))
-    if not positions and errors:
+    if errors:
         raise RuntimeError("; ".join(errors))
     return list(positions.values())
 
 
-def fetch_approved_companies(max_pages: int = 100) -> tuple[dict[str, list[JsonObject]], list[str]]:
+def fetch_approved_companies(max_pages: int = 100) -> tuple[dict[str, list[JsonObject]], dict[str, str]]:
     """Return jobs grouped by source label plus per-company failures."""
     grouped: dict[str, list[JsonObject]] = {}
-    failures: list[str] = []
+    failures: dict[str, str] = {}
     with ThreadPoolExecutor(max_workers=4) as pool:
         futures = {pool.submit(_fetch_company, company, max_pages): company for company in APPROVED_COMPANIES}
         for future in as_completed(futures):
@@ -98,5 +98,5 @@ def fetch_approved_companies(max_pages: int = 100) -> tuple[dict[str, list[JsonO
             try:
                 grouped[company.source] = future.result()
             except Exception as error:
-                failures.append(f"{company.company}: {error}")
+                failures[company.source] = f"{company.company}: {error}"
     return grouped, failures
