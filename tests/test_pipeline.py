@@ -1,5 +1,8 @@
 import unittest
 from datetime import UTC, datetime
+from pathlib import Path
+from tempfile import TemporaryDirectory
+from unittest.mock import patch
 
 from radar.pipeline import (
     _age_label,
@@ -8,6 +11,7 @@ from radar.pipeline import (
     _normalize,
     _reconcile_jobs,
     _source_drop_error,
+    _write_job_history,
     classify_job,
     classify_job_details,
     classify_program,
@@ -258,6 +262,26 @@ class ClassifyJobTest(unittest.TestCase):
         error, count = _source_drop_error("示例招聘", 40, previous)
         self.assertIsNone(error)
         self.assertEqual(count, 0)
+
+    def test_official_time_upgrades_history_basis(self) -> None:
+        history = {
+            "job": {
+                "first_seen_at": "2026-08-24T00:00:00+00:00",
+                "freshness_basis": "baseline",
+                "url": "https://example.com/job",
+            }
+        }
+        job = {
+            "id": "job",
+            "first_seen_at": "2026-08-24T00:00:00+00:00",
+            "freshness_basis": "official",
+            "url": "https://example.com/job",
+        }
+        with TemporaryDirectory() as directory:
+            target = Path(directory) / "history.json"
+            with patch("radar.pipeline.JOB_HISTORY_JSON", target):
+                _write_job_history(history, [job])
+        self.assertEqual(history["job"]["freshness_basis"], "official")
 
     def test_company_manifest_distinguishes_source_states(self) -> None:
         jobs = [{"source": "字节跳动招聘"}]

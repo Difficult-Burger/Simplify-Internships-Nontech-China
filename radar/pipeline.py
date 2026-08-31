@@ -325,6 +325,8 @@ def _write_job_history(history: dict[str, dict[str, str]], jobs: list[dict[str, 
             },
         )
         entry["url"] = str(job.get("url") or "")
+        if job.get("freshness_basis") == "official":
+            entry["freshness_basis"] = "official"
     JOB_HISTORY_JSON.write_text(json.dumps(history, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
