@@ -73,18 +73,17 @@ function chinaDate(value) {
 
 function relativeAge(timestamp) {
   const hours = Math.max(0, (Date.now() - timestamp) / 3600000);
-  if (hours < 1) return "1 小时内";
-  if (hours < 24) return `${Math.floor(hours)} 小时前`;
+  if (hours < 1) return "<1h";
+  if (hours < 24) return `${Math.floor(hours)}h`;
   const days = Math.floor(hours / 24);
-  return days > 14 ? ">14 天前" : `${days} 天前`;
+  return days > 14 ? ">14d" : `${days}d`;
 }
 
 function freshnessLabel(job) {
-  if (job.freshness_basis === "baseline") return "存量岗位";
+  if (job.freshness_basis === "baseline") return "未知";
   const timestamp = freshnessTimestamp(job);
-  if (!timestamp) return "存量岗位";
-  const age = relativeAge(timestamp);
-  return job.freshness_basis === "official" ? `发布于 ${age}` : `新收录 ${age}`;
+  if (!timestamp) return "未知";
+  return relativeAge(timestamp);
 }
 
 function freshnessEvidence(job) {
@@ -175,10 +174,11 @@ function render() {
       const duplicate = job.duplicate_count > 1 ? `<span class="duplicate-note">合并 ${job.duplicate_count} 条发布</span>` : "";
       return `<article class="job">
         <div class="company">${escapeHtml(job.company)}</div>
-        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)} · ${escapeHtml(job.stage)} · ${escapeHtml(freshness)}</div></div>
+        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)}</div><div class="compact-labels"><span class="stage">${escapeHtml(job.stage)}</span><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span></div></div>
         <div class="category-cell"><span class="tag">${escapeHtml(job.category)}</span><span class="direction">${escapeHtml(job.subcategory || job.category)}${escapeHtml(tags)}</span></div>
         <div class="location">${escapeHtml(cities)}</div>
-        <div class="timing"><span class="stage">${escapeHtml(job.stage)}</span><span class="direction">${escapeHtml(job.program || "")}</span><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span></div>
+        <div class="stage-cell"><span class="stage">${escapeHtml(job.stage)}</span></div>
+        <div class="freshness-cell"><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span></div>
         <a class="apply" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer">投递 ↗</a>
       </article>`;
     }).join("");
@@ -274,9 +274,9 @@ function selectedMatches(key, values) {
 function freshnessMatches(job) {
   const selected = state.selections.freshness;
   if (!selected.size) return true;
-  if (job.freshness_basis === "baseline") return selected.has("存量岗位");
+  if (job.freshness_basis === "baseline") return selected.has("未知");
   const timestamp = freshnessTimestamp(job);
-  if (!timestamp) return selected.has("存量岗位");
+  if (!timestamp) return selected.has("未知");
   const hours = Math.max(0, (Date.now() - timestamp) / 3600000);
   return (selected.has("最近24小时") && hours <= 24)
     || (selected.has("最近7天") && hours <= 24 * 7)
@@ -353,7 +353,7 @@ async function boot() {
       program: unique(state.grouped.map((job) => job.program)),
       tag: unique(state.grouped.flatMap((job) => job.tags || [])),
       stage: unique(state.grouped.map((job) => job.stage)),
-      freshness: ["最近24小时", "最近7天", "最近14天", "存量岗位"],
+      freshness: ["最近24小时", "最近7天", "最近14天", "未知"],
       city: unique(state.grouped.flatMap((job) => job.locations || [])),
       company: unique(state.companies.map((company) => company.company)),
     };

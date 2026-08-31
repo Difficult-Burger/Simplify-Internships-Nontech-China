@@ -61,7 +61,7 @@ h1 { margin: 0; font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC"
 .results-head p { margin: 0; font-size: 13px; }
 .results-head strong { font-size: 16px; }
 .results-head span { color: var(--muted); font-size: 11px; }
-.job-columns, .job { display: grid; grid-template-columns: 92px minmax(280px, 2.5fr) 112px 145px 125px 68px; gap: 12px; align-items: center; }
+.job-columns, .job { display: grid; grid-template-columns: 88px minmax(260px, 2.5fr) 108px 138px 70px 62px 62px; gap: 10px; align-items: center; }
 .job-columns { height: 32px; padding: 0 12px; color: var(--muted); font-size: 10px; border-bottom: 1px solid var(--line); }
 .job { min-height: 64px; padding: 8px 12px; background: var(--surface); border-bottom: 1px solid var(--line); }
 .job:hover { background: #fafcfb; }
@@ -70,11 +70,12 @@ h1 { margin: 0; font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC"
 .duplicate-note { margin-left: 6px; color: #8a918c; font-size: 10px; }
 .tag { display: inline-block; padding: 3px 6px; color: #31503e; background: var(--accent-soft); border-radius: 4px; font-size: 10px; }
 .direction { display: block; margin-top: 3px; color: var(--muted); font-size: 10px; }
-.location, .timing, .compact-meta { color: #4d5650; font-size: 11px; line-height: 1.4; }
+.location, .stage-cell, .freshness-cell, .compact-meta { color: #4d5650; font-size: 11px; line-height: 1.4; }
 .stage { color: var(--ink); font-weight: 650; }
-.time-label { display: block; margin-top: 2px; color: var(--muted); font-size: 10px; }
+.time-label { color: var(--muted); font-size: 10px; white-space: nowrap; }
 .time-label[title] { cursor: help; text-decoration: underline dotted; text-underline-offset: 2px; }
 .compact-meta { display: none; margin-top: 5px; color: var(--muted); }
+.compact-labels { display: none; align-items: center; gap: 8px; margin-top: 5px; }
 .apply { justify-self: end; color: var(--accent); text-decoration: none; font-size: 12px; font-weight: 700; white-space: nowrap; }
 .apply:hover { text-decoration: underline; }
 .empty { padding: 48px 12px; color: var(--muted); text-align: center; background: var(--surface); font-size: 13px; }
@@ -96,8 +97,9 @@ footer { display: flex; justify-content: space-between; padding: 16px max(20px, 
   .filter-panel button { grid-column: 3 / 5; }
   .job-columns { display: none; }
   .job { grid-template-columns: 76px minmax(0, 1fr) 58px; gap: 10px; min-height: 70px; }
-  .job .category-cell, .job .location, .job .timing { display: none; }
+  .job .category-cell, .job .location, .job .stage-cell, .job .freshness-cell { display: none; }
   .compact-meta { display: block; }
+  .compact-labels { display: flex; }
   .apply { grid-column: 3; grid-row: 1; }
   .page-number, .page-ellipsis { display: none; }
   .pagination-status { display: inline; }
