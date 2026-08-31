@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-31T21:47:35+00:00",
+  "checked_at": "2026-08-31T21:55:12+00:00",
   "ok": true,
   "failed_sources": [],
   "sources": [
@@ -10,7 +10,7 @@
       "error": "",
       "raw_count": 3213,
       "observed_raw_count": 3213,
-      "active_count": 3117,
+      "active_count": 3114,
       "anomaly_runs": 0
     },
     {
@@ -90,7 +90,7 @@
       "error": "",
       "raw_count": 1080,
       "observed_raw_count": 1080,
-      "active_count": 260,
+      "active_count": 259,
       "anomaly_runs": 0
     },
     {
@@ -150,7 +150,7 @@
       "error": "",
       "raw_count": 573,
       "observed_raw_count": 573,
-      "active_count": 251,
+      "active_count": 247,
       "anomaly_runs": 0
     },
     {
@@ -160,7 +160,7 @@
       "error": "",
       "raw_count": 517,
       "observed_raw_count": 517,
-      "active_count": 452,
+      "active_count": 451,
       "anomaly_runs": 0
     },
     {
@@ -180,7 +180,7 @@
       "error": "",
       "raw_count": 388,
       "observed_raw_count": 388,
-      "active_count": 195,
+      "active_count": 185,
       "anomaly_runs": 0
     },
     {
@@ -210,7 +210,7 @@
       "error": "",
       "raw_count": 11,
       "observed_raw_count": 11,
-      "active_count": 13,
+      "active_count": 12,
       "anomaly_runs": 0
     },
     {
@@ -240,7 +240,7 @@
       "error": "",
       "raw_count": 1288,
       "observed_raw_count": 1288,
-      "active_count": 487,
+      "active_count": 486,
       "anomaly_runs": 0
     },
     {
