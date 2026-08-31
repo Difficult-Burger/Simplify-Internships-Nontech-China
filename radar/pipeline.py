@@ -452,29 +452,30 @@ def _age_label(job: dict[str, Any], now: datetime | None = None) -> str:
 def _freshness_label(job: dict[str, Any], now: datetime | None = None) -> str:
     basis = job.get("freshness_basis")
     if basis == "baseline":
-        return "存量岗位"
+        return "未知"
     value = job.get("published_at") if basis == "official" else job.get("first_seen_at")
     if not value:
-        return "存量岗位"
+        return "未知"
     reference = now or datetime.now(UTC)
     hours = max(0, int((reference - datetime.fromisoformat(str(value))).total_seconds() // 3600))
     days = hours // 24
     if hours == 0:
-        age = "1 小时内"
+        age = "<1h"
     elif hours < 24:
-        age = f"{hours} 小时前"
+        age = f"{hours}h"
     else:
-        age = ">14 天前" if days > 14 else f"{days} 天前"
-    return f"发布于 {age}" if basis == "official" else f"新收录 {age}"
+        age = ">14d" if days > 14 else f"{days}d"
+    return age
 
 
 def _readme_table(jobs: list[dict[str, Any]]) -> str:
-    rows = ["| 公司 | 岗位 | 城市 | 新鲜度 | 投递链接 |", "|---|---|---|---|---|"]
+    rows = ["| 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |", "|---|---|---|---|---|---|"]
     for job in jobs:
         values = [
             job["company"],
-            f"{job['title']} · {job['stage']}",
+            job["title"],
             " / ".join(job["locations"]),
+            job["stage"],
             _freshness_label(job),
         ]
         safe = [html.escape(str(value)).replace("|", "\\|").replace("\n", " ") for value in values]
@@ -511,7 +512,7 @@ def _update_readme(jobs: list[dict[str, Any]]) -> None:
         f"\n\n当前收录 **{len(jobs)}** 条在招岗位。\n\n"
         f"### 按岗位类别浏览\n\n{links}\n\n---\n\n"
         f"{_readme_sections(jobs)}\n\n"
-        "> `发布于` 使用企业官方时间；`新收录` 是本项目首次发现时间；首批批量导入显示为`存量岗位`。\n\n"
+        "> 新鲜度使用企业官方发布时间；官网未提供时使用本项目首次发现时间，首批批量导入显示为`未知`。\n\n"
     )
     before, remainder = content.split(start, 1)
     _, after = remainder.split(end, 1)
