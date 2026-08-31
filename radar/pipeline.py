@@ -468,13 +468,19 @@ def _freshness_label(job: dict[str, Any], now: datetime | None = None) -> str:
     return age
 
 
+def _location_label(locations: list[str], limit: int = 3) -> str:
+    if len(locations) <= limit:
+        return " / ".join(locations)
+    return f"{'、'.join(locations[:limit])}等 {len(locations)} 个城市"
+
+
 def _readme_table(jobs: list[dict[str, Any]]) -> str:
     rows = ["| 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |", "|---|---|---|---|---|---|"]
     for job in jobs:
         values = [
             job["company"],
             job["title"],
-            " / ".join(job["locations"]),
+            _location_label(job["locations"]),
             job["stage"],
             _freshness_label(job),
         ]

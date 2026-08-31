@@ -94,6 +94,11 @@ function freshnessEvidence(job) {
   return `${prefix}：${chinaDate(value)}${merged}`;
 }
 
+function locationLabel(locations, limit = 3) {
+  if (locations.length <= limit) return locations.join(" / ");
+  return `${locations.slice(0, limit).join("、")}等 ${locations.length} 个城市`;
+}
+
 function pageNumbers(current, total) {
   const pages = new Set([1, total]);
   for (let page = current - 2; page <= current + 2; page += 1) {
@@ -167,16 +172,18 @@ function render() {
     list.innerHTML = `<p class="empty">${escapeHtml(message)}</p>`;
   } else {
     list.innerHTML = jobs.map((job) => {
-      const cities = (job.locations || []).join(" / ");
+      const locations = job.locations || [];
+      const cities = locationLabel(locations);
+      const allCities = locations.join(" / ");
       const freshness = freshnessLabel(job);
       const evidence = freshnessEvidence(job);
       const tags = (job.tags || []).length ? ` · ${(job.tags || []).join(" / ")}` : "";
       const duplicate = job.duplicate_count > 1 ? `<span class="duplicate-note">合并 ${job.duplicate_count} 条发布</span>` : "";
       return `<article class="job">
         <div class="company">${escapeHtml(job.company)}</div>
-        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · ${escapeHtml(cities)}</div><div class="compact-labels"><span class="stage">${escapeHtml(job.stage)}</span><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span></div></div>
+        <div><h3 class="title">${escapeHtml(job.title)}</h3>${duplicate}<div class="compact-meta">${escapeHtml(job.category)} · ${escapeHtml(job.subcategory || job.category)} · <span title="${escapeHtml(allCities)}">${escapeHtml(cities)}</span></div><div class="compact-labels"><span class="stage">${escapeHtml(job.stage)}</span><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span></div></div>
         <div class="category-cell"><span class="tag">${escapeHtml(job.category)}</span><span class="direction">${escapeHtml(job.subcategory || job.category)}${escapeHtml(tags)}</span></div>
-        <div class="location">${escapeHtml(cities)}</div>
+        <div class="location" title="${escapeHtml(allCities)}">${escapeHtml(cities)}</div>
         <div class="stage-cell"><span class="stage">${escapeHtml(job.stage)}</span></div>
         <div class="freshness-cell"><span class="time-label" title="${escapeHtml(evidence)}">${escapeHtml(freshness)}</span></div>
         <a class="apply" href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer">投递 ↗</a>
