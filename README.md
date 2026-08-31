@@ -11,7 +11,7 @@
 - 点击表格中的“投递”进入企业投递页面。
 - 新鲜度以 `<1h`、`6h`、`4d`、`>14d` 显示；无法判断时显示“未知”。
 - README 每个岗位类别展示最新 60 条；完整岗位请使用上方筛选页面。
-- 数据每天北京时间约 08:20 自动更新。
+- 数据每日自动更新。
 
 <!-- JOBS_START -->
 
@@ -349,24 +349,24 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 字节跳动 | 国际AI增长销售 - 火山引擎 | 深圳 | 校招 | 10h | [投递](https://jobs.bytedance.com/campus/position/7680144862659922181/detail) |
+| 字节跳动 | 国际AI增长销售 - 火山引擎 | 深圳 | 校招 | 11h | [投递](https://jobs.bytedance.com/campus/position/7680144862659922181/detail) |
 | 小红书 | 会员购渠道业务运营实习生 | 上海 | 实习 | 3d | [投递](https://job.xiaohongshu.com/campus/position/21913) |
 | 字节跳动 | 出海大客户/渠道销售（非电商-游戏） - Global Business Solutions | 上海 / 深圳 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7675583335754697013/detail) |
 | 字节跳动 | 出海大客户/渠道销售（非电商-应用） - Global Business Solutions | 北京 / 深圳 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7675578915612231989/detail) |
 | 字节跳动 | 产品（渠道产品）实习生 - 国际支付 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7673456813362333957/detail) |
 | 字节跳动 | FDE实习生（华西） - 飞书商业化 | 成都 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7672757832937539845/detail) |
 | 字节跳动 | 伙伴支持实习生 - 飞书商业化 | 杭州 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7672435685895047477/detail) |
-| 字节跳动 | 行业销售支持实习生 - 飞书商业化 | 杭州 / 上海 / 北京 / 深圳 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7672438136791599365/detail) |
+| 字节跳动 | 行业销售支持实习生 - 飞书商业化 | 杭州、上海、北京等 4 个城市 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7672438136791599365/detail) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 | 北京 / 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670756030309435701/detail) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670755843042642181/detail) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670755833004804405/detail) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 | 成都 / 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670755718954682677/detail) |
 | 沐瞳科技 | 【2027届秋招】支付渠道运营 | 上海 | 校招 | &gt;14d | [投递](https://moonton.jobs.feishu.cn/campus/position/7669724870918621459/detail) |
 | 字节跳动 | 渠道策略运营 - 商业化 | 北京 / 上海 / 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669691566811089157/detail) |
-| 字节跳动 | 渠道销售（全域经营） - 商业化 | 北京 / 上海 / 广州 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669690089723889973/detail) |
+| 字节跳动 | 渠道销售（全域经营） - 商业化 | 北京、上海、广州等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669690089723889973/detail) |
 | 字节跳动 | 大客户销售（互动影视） - 商业化 | 北京 / 上海 / 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669690054541150517/detail) |
 | 字节跳动 | 大客户销售（美妆日化） - 商业化 | 上海 / 广州 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669689830837684485/detail) |
-| 字节跳动 | 大客户销售（服饰与健康母婴） - 商业化 | 北京 / 上海 / 广州 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669689677919504645/detail) |
+| 字节跳动 | 大客户销售（服饰与健康母婴） - 商业化 | 北京、上海、广州等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669689677919504645/detail) |
 | 字节跳动 | 大客户销售（食饮家居） - 商业化 | 广州 / 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669689543863748917/detail) |
 | 字节跳动 | 大客户销售（教育与平台服务） - 商业化 | 北京 / 上海 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669689472541968645/detail) |
 | 字节跳动 | 大客户销售（互动娱乐） - 商业化 | 上海 / 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669689412078405941/detail) |
@@ -375,7 +375,7 @@
 | 字节跳动 | 大客户销售（游玩行业-酒店集团） - 抖音生活服务 | 上海 / 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668226002470258949/detail) |
 | 字节跳动 | 大客户销售（旅行社及交通） - 抖音生活服务 | 北京 / 广州 / 成都 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668225738499721525/detail) |
 | 字节跳动 | 大客户销售（商家发展运营） - 抖音生活服务 | 成都 / 武汉 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668226183586826501/detail) |
-| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 北京 / 上海 / 广州 / 成都 / 杭州 / 郑州 / 深圳 / 武汉 / 青岛 / 重庆 / 太原 / 西安 / 昆明 / 合肥 / 南京 / 厦门 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668225795955788037/detail) |
+| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 北京、上海、广州等 16 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668225795955788037/detail) |
 | 字节跳动 | 产品业务架构师 - 数据平台 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667586279020677381/detail) |
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 | 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667544823326509365/detail) |
 | 字节跳动 | 出海大客户/渠道销售 - Global Business Solutions | 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667458421112932613/detail) |
@@ -386,17 +386,17 @@
 | 字节跳动 | 出海大客户/渠道销售 - Global Business Solutions | 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667445216558811445/detail) |
 | 字节跳动 | 出海大客户/渠道销售 - Global Business Solutions | 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667436872096155957/detail) |
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 | 上海 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667154812605499653/detail) |
-| 字节跳动 | 云与AI咨询销售 - 火山引擎 | 北京 / 上海 / 成都 / 武汉 / 深圳 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667154545639246085/detail) |
-| 字节跳动 | 大客户销售（餐饮行业） - 抖音生活服务 | 北京 / 上海 / 广州 / 成都 / 杭州 / 郑州 / 济南 / 深圳 / 南京 / 武汉 / 青岛 / 福州 / 重庆 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667037562906970373/detail) |
-| 字节跳动 | 大客户销售（本地服务与亲子教培） - 抖音生活服务 | 上海 / 广州 / 杭州 / 北京 / 成都 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666763144032930053/detail) |
-| 字节跳动 | 大客户销售（日用商超） - 抖音生活服务 | 上海 / 广州 / 杭州 / 北京 / 成都 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666766713043749173/detail) |
-| 字节跳动 | 大客户销售（商业综合体） - 抖音生活服务 | 上海 / 广州 / 杭州 / 北京 / 成都 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666763735805561141/detail) |
-| 字节跳动 | 大客户销售（丽人） - 抖音生活服务 | 北京 / 上海 / 广州 / 成都 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666765797079157045/detail) |
-| 字节跳动 | 大客户销售（交通工具与汽车服务） - 抖音生活服务 | 北京 / 上海 / 广州 / 成都 / 杭州 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666759922750900533/detail) |
-| 字节跳动 | 大客户销售（休闲娱乐） - 抖音生活服务 | 北京 / 上海 / 广州 / 成都 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666755120239757621/detail) |
+| 字节跳动 | 云与AI咨询销售 - 火山引擎 | 北京、上海、成都等 6 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667154545639246085/detail) |
+| 字节跳动 | 大客户销售（餐饮行业） - 抖音生活服务 | 北京、上海、广州等 13 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667037562906970373/detail) |
+| 字节跳动 | 大客户销售（本地服务与亲子教培） - 抖音生活服务 | 上海、广州、杭州等 6 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666763144032930053/detail) |
+| 字节跳动 | 大客户销售（日用商超） - 抖音生活服务 | 上海、广州、杭州等 6 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666766713043749173/detail) |
+| 字节跳动 | 大客户销售（商业综合体） - 抖音生活服务 | 上海、广州、杭州等 5 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666763735805561141/detail) |
+| 字节跳动 | 大客户销售（丽人） - 抖音生活服务 | 北京、上海、广州等 5 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666765797079157045/detail) |
+| 字节跳动 | 大客户销售（交通工具与汽车服务） - 抖音生活服务 | 北京、上海、广州等 6 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666759922750900533/detail) |
+| 字节跳动 | 大客户销售（休闲娱乐） - 抖音生活服务 | 北京、上海、广州等 5 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666755120239757621/detail) |
 | 字节跳动 | 大客户销售（创意经营） - 商业化 | 北京 / 杭州 / 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666353809203530037/detail) |
-| 字节跳动 | 大客户销售（金融与互动应用） - 商业化 | 北京 / 上海 / 广州 / 杭州 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666003045449025797/detail) |
-| 商汤 | 【27届校招】售前解决方案经理-大装置 | 北京 / 上海 / 深圳 / 成都 | 校招 | &gt;14d | [投递](https://hr-jobs.sensetime.com/edu/position/7659351910298274054/detail) |
+| 字节跳动 | 大客户销售（金融与互动应用） - 商业化 | 北京、上海、广州等 5 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7666003045449025797/detail) |
+| 商汤 | 【27届校招】售前解决方案经理-大装置 | 北京、上海、深圳等 4 个城市 | 校招 | &gt;14d | [投递](https://hr-jobs.sensetime.com/edu/position/7659351910298274054/detail) |
 | 字节跳动 | 售前AI解决方案管培实习生-飞书商业化 | 深圳 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7654903568956590389/detail) |
 | 字节跳动 | 售前AI解决方案实习生 - 飞书商业化 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7654902974821206325/detail) |
 | 字节跳动 | 售前AI解决方案管培实习生-飞书商业化 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7654902973341780229/detail) |
@@ -427,7 +427,7 @@
 | 字节跳动 | 豆包AI大模型产品解决方案实习生 - 火山方舟 | 杭州 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7679047287167322421/detail) |
 | 哔哩哔哩 | BD Partnership | 新加坡 | 校招 | 3d | [投递](https://jobs.bilibili.com/campus/positions/30243) |
 | 百度 | 商务运营实习生（J104890） | 北京 | 实习 | 4d | [投递](https://talent.baidu.com/jobs/detail/INTERN/749b0e06-481c-4c81-848c-3960d0102d37) |
-| 字节跳动 | 云与AI解决方案架构师 - 火山引擎 | 北京 / 上海 / 成都 / 深圳 | 校招 | 5d | [投递](https://jobs.bytedance.com/campus/position/7678245416031095045/detail) |
+| 字节跳动 | 云与AI解决方案架构师 - 火山引擎 | 北京、上海、成都等 4 个城市 | 校招 | 5d | [投递](https://jobs.bytedance.com/campus/position/7678245416031095045/detail) |
 | 字节跳动 | 国际网络商务 - AI算力基础设施 | 北京 | 校招 | 6d | [投递](https://jobs.bytedance.com/campus/position/7677875670571288837/detail) |
 | 字节跳动 | 国际化电商广告运营实习生 - Global Business Solutions | 杭州 / 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7673361601449429253/detail) |
 | 字节跳动 | IDC网络商务拓展 - AI算力基础设施 | 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7673098669784566069/detail) |
@@ -446,7 +446,7 @@
 | 字节跳动 | 云与AI解决方案架构师 - 火山引擎 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667835349045840181/detail) |
 | 字节跳动 | 云与AI解决方案架构师 - 火山引擎 | 上海 / 成都 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667772793693473029/detail) |
 | 字节跳动 | 产品解决方案架构师 - 数据平台 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667582551188457781/detail) |
-| 字节跳动 | 豆包AI大模型产品解决方案 - 火山方舟 | 北京 / 上海 / 杭州 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667579728820259125/detail) |
+| 字节跳动 | 豆包AI大模型产品解决方案 - 火山方舟 | 北京、上海、杭州等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667579728820259125/detail) |
 | 字节跳动 | 云与AI解决方案架构师 - 火山引擎 | 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667537338419611957/detail) |
 | 字节跳动 | 行业解决方案架构师（金融行业） - 火山引擎 | 北京 / 上海 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667500448840042805/detail) |
 | 字节跳动 | 代理合作伙伴 - Global Business Solutions | 上海 / 广州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667464074172958981/detail) |
@@ -470,14 +470,14 @@
 | 地平线 | 算法工具链解决方案实习生 | 南京 | 实习 | &gt;14d | [投递](https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html#/postDetail?postId=69a9405f8e515379dc081e35) |
 | 字节跳动 | 语言中心实习生 - Global Business Solutions | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7317968206735771954/detail) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-音乐内容商务合作 | 北京 | 校招 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907920002) |
-| 阿里巴巴 | 虎鲸文娱娱跃班-演出商务拓展 | 北京 / 杭州 / 上海 / 深圳 | 校招 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908000004) |
+| 阿里巴巴 | 虎鲸文娱娱跃班-演出商务拓展 | 北京、杭州、上海等 4 个城市 | 校招 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908000004) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-剧场内容商务合作 | 北京 | 校招 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907920003) |
 | 阿里巴巴 | 海外演出商务拓展 | 北京 / 上海 | 校招 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199908200001) |
 | 阿里巴巴 | 商务拓展专员 | 杭州 | 校招 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199907680031) |
 | 阿里巴巴 | 商务实习生 | 北京 | 实习 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199906960006) |
 | 阿里巴巴 | Solution Architect Intern (North America Cloud &amp; AI) - Sunnyvale | 森尼韦尔 | 实习 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904400006) |
 | 阿里巴巴 | GenAI Business Development - Paris | 巴黎 | 校招 | 未知 | [投递](https://campus-talent.alibaba.com/campus/position/199904260009) |
-| 腾讯 | 商务拓展 | 深圳 / 北京 / 广州 / 中国香港 | 校招 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1282707380882482176) |
+| 腾讯 | 商务拓展 | 深圳、北京、广州等 4 个城市 | 校招 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1282707380882482176) |
 | 腾讯 | 商务拓展 | 深圳 / 北京 / 广州 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1200889496565214209) |
 | 腾讯 | 商务拓展 | 深圳 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1228831632895911936) |
 
@@ -961,12 +961,12 @@
 | 字节跳动 | 人才管理 - 人力与管理部 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667501193568782597/detail) |
 | 字节跳动 | 招聘实习生 - Seed | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667426953645672757/detail) |
 | 字节跳动 | 人力运营 - 人力与管理部 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667395350599125253/detail) |
-| 字节跳动 | HRBP - 人力与管理部 | 北京 / 广州 / 上海 / 成都 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667391284950436101/detail) |
-| 字节跳动 | 产品/运营/分析/设计类组织招聘 - 人力与管理部 | 北京 / 上海 / 深圳 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667391119591901493/detail) |
-| 字节跳动 | 市场/销售类组织招聘 - 人力与管理部 | 北京 / 上海 / 深圳 / 杭州 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667389415075055877/detail) |
+| 字节跳动 | HRBP - 人力与管理部 | 北京、广州、上海等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667391284950436101/detail) |
+| 字节跳动 | 产品/运营/分析/设计类组织招聘 - 人力与管理部 | 北京、上海、深圳等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667391119591901493/detail) |
+| 字节跳动 | 市场/销售类组织招聘 - 人力与管理部 | 北京、上海、深圳等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667389415075055877/detail) |
 | 字节跳动 | 研发技术类组织招聘 - 人力与管理部 | 北京 / 上海 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667388757523876149/detail) |
 | 字节跳动 | 集团职能招聘 - 人力与管理部 | 北京 / 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667385537558628613/detail) |
-| 字节跳动 | 招聘中心招聘 - 人力与管理部 | 北京 / 上海 / 成都 / 武汉 / 南京 / 西安 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667382356454525237/detail) |
+| 字节跳动 | 招聘中心招聘 - 人力与管理部 | 北京、上海、成都等 6 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667382356454525237/detail) |
 | 商汤 | 校招HR实习生 | 深圳 | 实习 | &gt;14d | [投递](https://hr-jobs.sensetime.com/edu/position/7665659021178063142/detail) |
 | 字节跳动 | HR实习生（招聘方向） - 招聘中心 | 武汉 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7665257427956713733/detail) |
 | 字节跳动 | HR实习生 - 招聘中心 | 西安 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7665256158279534853/detail) |
@@ -1096,15 +1096,15 @@
 | 腾讯 | 法务 | 深圳 / 北京 | 校招 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361664) |
 | 腾讯 | 法务 | 深圳 / 北京 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930816) |
 | 腾讯 | 公共事务 | 深圳 / 北京 | 校招 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361665) |
-| 腾讯 | 公共事务 | 北京 / 重庆 / 成都 / 中国香港 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102080) |
+| 腾讯 | 公共事务 | 北京、重庆、成都等 4 个城市 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957086077102080) |
 | 腾讯 | 专利 | 深圳 / 北京 | 校招 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284512614101361666) |
 | 腾讯 | 专利 | 北京 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930817) |
 | 腾讯 | Overseas Legal Counsel | 深圳 | 校招 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555970) |
 | 腾讯 | Overseas Legal Counsel | 深圳 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957123234441217) |
-| 美团 | 法务岗(诉讼方向) | 北京 / 重庆 / 上海 / 广州 / 武汉 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697314746&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 法务岗(诉讼方向) | 北京、重庆、上海等 5 个城市 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697314746&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 法务岗 | 北京 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695022677&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 法务AI产品岗 | 北京 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697285242&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 公共事务岗 | 北京 / 济南 / 西安 / 广州 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697287258&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 公共事务岗 | 北京、济南、西安等 4 个城市 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697287258&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 公共事务 | 上海 | 实习 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3620337309&amp;jobShareType=1&amp;highlightType=campus) |
 | 网易 | 诉讼实习生 | 杭州 | 实习 | 未知 | [投递](https://hr.163.com/job-detail.html?id=62912) |
 | 米哈游 | 法务实习生（游戏业务） | 上海 | 实习 | 未知 | [投递](https://jobs.mihoyo.com/#/position/9279) |
@@ -1187,9 +1187,9 @@
 | 美团 | 采购与供应链管理岗 | 北京 / 深圳 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697207939&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 物流运营岗 | 北京 / 广州 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697312507&amp;jobShareType=1&amp;highlightType=campus) |
 | 美团 | 物流规划岗 | 北京 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4694853960&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 物流管理储备岗 | 杭州 / 南京 / 北京 / 苏州 / 天津 / 上海 / 西安 / 成都 / 长沙 / 东莞 / 广州 / 武汉 / 深圳 / 佛山 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697381206&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 招商采购岗 | 杭州 / 北京 / 上海 / 利雅得 / 成都 / 深圳 / 武汉 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695162972&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 商品品质管理岗 | 合肥 / 福州 / 杭州 / 南京 / 苏州 / 北京 / 沈阳 / 南宁 / 上海 / 石家庄 / 西安 / 成都 / 长沙 / 重庆 / 东莞 / 济南 / 南昌 / 青岛 / 广州 / 深圳 / 郑州 / 武汉 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697286525&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 物流管理储备岗 | 杭州、南京、北京等 14 个城市 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697381206&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 招商采购岗 | 杭州、北京、上海等 7 个城市 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695162972&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 商品品质管理岗 | 合肥、福州、杭州等 22 个城市 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697286525&amp;jobShareType=1&amp;highlightType=campus) |
 
 ---
 
@@ -1207,7 +1207,7 @@
 | 小红书 | 行政实习生（武汉） | 武汉 | 实习 | 4d | [投递](https://job.xiaohongshu.com/campus/position/21898) |
 | 字节跳动 | 硬件资产管理 - IT | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670143360515262773/detail) |
 | 字节跳动 | 软件资产管理 - IT | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670140084751206661/detail) |
-| 字节跳动 | 行政运营管理 - Corporate Services | 上海 / 北京 / 成都 / 深圳 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668528911895955717/detail) |
+| 字节跳动 | 行政运营管理 - Corporate Services | 上海、北京、成都等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668528911895955717/detail) |
 | 字节跳动 | 行政策略分析 - Corporate Services | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668289574554110213/detail) |
 | 字节跳动 | 部门助理实习生-火山引擎 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7641802028666079541/detail) |
 | 字节跳动 | 硬件资产管理实习生-IT | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7598087743488100613/detail) |

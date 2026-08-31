@@ -8,6 +8,7 @@ from radar.pipeline import (
     _age_label,
     _company_manifest,
     _freshness_label,
+    _location_label,
     _normalize,
     _reconcile_jobs,
     _source_drop_error,
@@ -22,6 +23,10 @@ from radar.pipeline import (
 
 
 class ClassifyJobTest(unittest.TestCase):
+    def test_location_label_collapses_long_city_lists(self) -> None:
+        self.assertEqual(_location_label(["北京", "上海", "深圳"]), "北京 / 上海 / 深圳")
+        self.assertEqual(_location_label(["北京", "上海", "深圳", "广州"]), "北京、上海、深圳等 4 个城市")
+
     def test_title_keyword_has_priority(self) -> None:
         self.assertEqual(classify_job_details("国际化增长产品经理实习生", "产品"), ("产品", "产品经理"))
         self.assertEqual(classify_tags("国际化增长产品经理实习生", "产品"), ["增长", "国际化"])
