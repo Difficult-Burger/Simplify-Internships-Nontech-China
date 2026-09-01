@@ -6,7 +6,7 @@
     <meta name="description" content="中国科技公司非技术实习与校招岗位，每日从企业官方招聘网站更新。" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23182720'/%3E%3Cpath d='M17 19h30v7H17zm0 12h22v7H17zm0 12h15v7H17z' fill='%23fff'/%3E%3C/svg%3E" />
     <title>中国非技术岗雷达</title>
-    <link rel="stylesheet" href="styles.css?v=20260831-1" />
+    <link rel="stylesheet" href="styles.css?v=20260901-1" />
   </head>
   <body>
     <header class="topbar">
@@ -14,9 +14,7 @@
         <span class="brand-mark" aria-hidden="true">N</span>
         <span>中国非技术岗雷达</span>
       </a>
-      <nav aria-label="数据链接">
-        <a href="jobs.json">JSON</a>
-        <a href="jobs.csv">CSV</a>
+      <nav aria-label="项目链接">
         <a href="https://github.com/Difficult-Burger/Simplify-Internships-Nontech-China">GitHub</a>
       </nav>
     </header>
@@ -25,9 +23,9 @@
       <section class="page-head" aria-labelledby="page-title">
         <div>
           <h1 id="page-title">中国科技公司非技术岗</h1>
-          <p>按岗位大类、方向和招聘项目浏览互联网与 AI 行业实习及校招。</p>
+          <p>互联网与 AI 公司非技术实习与校招，直接跳转企业官网投递。</p>
         </div>
-        <div class="page-status"><span><i></i>每日更新</span><span id="updated-at">读取数据中…</span></div>
+        <div class="page-status"><span><i></i>企业官方来源 · 每日自动更新</span></div>
       </section>
 
       <section id="filter-panel" class="filter-panel" aria-label="岗位筛选">
@@ -36,20 +34,26 @@
           <input id="search" type="search" placeholder="搜索岗位、公司或城市" autocomplete="off" />
         </label>
         <div class="filter-field"><span>岗位类别</span><details id="category-filter" class="multi-filter"><summary id="category-summary">全部类别</summary><div id="category-options" class="option-panel"></div></details></div>
-        <div class="filter-field"><span>细分方向</span><details id="subcategory-filter" class="multi-filter is-disabled"><summary id="subcategory-summary">先选岗位类别</summary><div id="subcategory-options" class="option-panel"></div></details></div>
-        <div class="filter-field"><span>招聘项目</span><details id="program-filter" class="multi-filter"><summary id="program-summary">全部项目</summary><div id="program-options" class="option-panel"></div></details></div>
-        <div class="filter-field"><span>岗位标签</span><details id="tag-filter" class="multi-filter"><summary id="tag-summary">全部标签</summary><div id="tag-options" class="option-panel"></div></details></div>
         <div class="filter-field"><span>招聘类型</span><details id="stage-filter" class="multi-filter"><summary id="stage-summary">全部类型</summary><div id="stage-options" class="option-panel"></div></details></div>
-        <div class="filter-field"><span>新鲜度</span><details id="freshness-filter" class="multi-filter"><summary id="freshness-summary">全部时间</summary><div id="freshness-options" class="option-panel"></div></details></div>
         <div class="filter-field"><span>城市</span><details id="city-filter" class="multi-filter"><summary id="city-summary">全部城市</summary><div id="city-options" class="option-panel option-panel-wide"></div></details></div>
         <div class="filter-field"><span>公司</span><details id="company-filter" class="multi-filter"><summary id="company-summary">全部公司</summary><div id="company-options" class="option-panel option-panel-wide"></div></details></div>
-        <button id="reset" type="button">清空</button>
+        <div class="filter-actions">
+          <details id="advanced-filters" class="advanced-filters">
+            <summary id="advanced-summary">更多筛选</summary>
+            <div class="advanced-panel">
+              <div class="filter-field"><span>细分方向</span><details id="subcategory-filter" class="multi-filter is-disabled"><summary id="subcategory-summary">先选岗位类别</summary><div id="subcategory-options" class="option-panel"></div></details></div>
+              <div class="filter-field"><span>招聘项目</span><details id="program-filter" class="multi-filter"><summary id="program-summary">全部项目</summary><div id="program-options" class="option-panel"></div></details></div>
+              <div class="filter-field"><span>岗位标签</span><details id="tag-filter" class="multi-filter"><summary id="tag-summary">全部标签</summary><div id="tag-options" class="option-panel"></div></details></div>
+              <div class="filter-field"><span>新鲜度</span><details id="freshness-filter" class="multi-filter"><summary id="freshness-summary">全部时间</summary><div id="freshness-options" class="option-panel"></div></details></div>
+            </div>
+          </details>
+          <button id="reset" type="button">清空</button>
+        </div>
       </section>
       <p id="source-status" class="source-status" hidden></p>
 
       <section class="results-head">
         <p><strong id="result-count">0</strong> 个岗位</p>
-        <span>最新岗位优先</span>
       </section>
 
       <div class="job-columns" aria-hidden="true">
@@ -66,6 +70,6 @@
       <span>岗位内容与开放状态以企业官网为准</span>
       <a href="https://github.com/Difficult-Burger/Simplify-Internships-Nontech-China/issues">反馈问题</a>
     </footer>
-    <script src="app.js?v=20260831-2" defer></script>
+    <script src="app.js?v=20260901-1" defer></script>
   </body>
 </html>

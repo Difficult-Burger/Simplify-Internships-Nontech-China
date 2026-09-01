@@ -1,4 +1,5 @@
 const filterKeys = ["category", "subcategory", "program", "tag", "stage", "freshness", "city", "company"];
+const advancedFilterKeys = ["subcategory", "program", "tag", "freshness"];
 const majorCities = ["北京", "上海", "深圳", "广州", "杭州", "成都", "南京", "武汉", "西安", "苏州"];
 const filterNames = {
   category: "岗位类别",
@@ -209,6 +210,12 @@ function updateFilterSummary(key) {
   $(`#${key}-summary`).textContent = selected.length === 0
     ? filterDefaults[key]
     : selected.length === 1 ? selected[0] : `已选 ${selected.length} 项`;
+  updateAdvancedSummary();
+}
+
+function updateAdvancedSummary() {
+  const count = advancedFilterKeys.reduce((total, key) => total + state.selections[key].size, 0);
+  $("#advanced-summary").textContent = count ? `更多筛选 · ${count}` : "更多筛选";
 }
 
 function optionChoices(key, values) {
@@ -271,6 +278,7 @@ function renderAllFilters() {
   ["program", "tag", "stage", "freshness", "city", "company"].forEach((key) => {
     renderMultiFilter(key, state.optionValues[key]);
   });
+  updateAdvancedSummary();
 }
 
 function selectedMatches(key, values) {
@@ -353,8 +361,6 @@ async function boot() {
     state.filtered = state.grouped;
     const requestedPage = Number(new URLSearchParams(window.location.search).get("page"));
     state.page = Number.isInteger(requestedPage) && requestedPage > 0 ? requestedPage : 1;
-    const latestSeen = state.jobs.map((job) => Date.parse(job.last_seen_at || 0)).filter(Boolean).sort((a, b) => b - a)[0];
-    $("#updated-at").textContent = latestSeen ? `更新 ${chinaDate(latestSeen)}` : "等待更新";
     state.optionValues = {
       category: unique(state.grouped.map((job) => job.category)),
       program: unique(state.grouped.map((job) => job.program)),
@@ -368,7 +374,6 @@ async function boot() {
     render();
   } catch (error) {
     $("#job-list").innerHTML = `<p class="empty">数据读取失败：${escapeHtml(error.message)}</p>`;
-    $("#updated-at").textContent = "数据读取失败";
   }
 }
 
@@ -395,6 +400,7 @@ $("#reset").addEventListener("click", () => {
   $("#search").value = "";
   filterKeys.forEach((key) => state.selections[key].clear());
   document.querySelectorAll(".multi-filter").forEach((details) => { details.open = false; });
+  $("#advanced-filters").open = false;
   renderAllFilters();
   applyFilters();
 });
@@ -407,6 +413,7 @@ document.querySelectorAll(".multi-filter").forEach((details) => {
   });
 });
 document.addEventListener("click", (event) => {
+  if (!event.target.closest(".advanced-filters")) $("#advanced-filters").open = false;
   if (event.target.closest(".multi-filter")) return;
   document.querySelectorAll(".multi-filter").forEach((details) => { details.open = false; });
 });
