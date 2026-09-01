@@ -15,13 +15,13 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6609** 条在招岗位。
+当前收录 **6607** 条在招岗位。
 
 ### 按岗位类别浏览
 
 🧭 **[产品](#category-1)**（1460）
 
-⚙️ **[运营](#category-2)**（1994）
+⚙️ **[运营](#category-2)**（1992）
 
 ✎ **[内容](#category-3)**（278）
 
@@ -150,12 +150,12 @@
 | 字节跳动 | 菲律宾商家运营实习生 - TikTok Shop | 上海 | 实习 | 15h | [投递](https://jobs.bytedance.com/campus/position/7680130658399979781/detail) |
 | 字节跳动 | VN秒杀策略运营实习生 - TikTok Shop | 上海 | 实习 | 15h | [投递](https://jobs.bytedance.com/campus/position/7680124872300792069/detail) |
 | 字节跳动 | 商家运营实习生 - 抖音电商 | 北京 | 实习 | 15h | [投递](https://jobs.bytedance.com/campus/position/7680122046559947013/detail) |
-| 字节跳动 | ph策略运营实习生 - TikTok Shop | 上海 | 实习 | 15h | [投递](https://jobs.bytedance.com/campus/position/7680120917565163829/detail) |
+| 字节跳动 | ph策略运营实习生 - TikTok Shop | 上海 | 实习 | 16h | [投递](https://jobs.bytedance.com/campus/position/7680120917565163829/detail) |
 | 字节跳动 | PGC达人营销产品运营实习生 - TikTok | 上海 | 实习 | 17h | [投递](https://jobs.bytedance.com/campus/position/7680098614949349685/detail) |
 | 字节跳动 | 联盟策略实习生 - TikTok生活服务 | 北京 | 实习 | 17h | [投递](https://jobs.bytedance.com/campus/position/7680095864015456565/detail) |
 | 字节跳动 | 商家内容运营实习生 - TikTok Shop | 上海 | 实习 | 17h | [投递](https://jobs.bytedance.com/campus/position/7680092485494262069/detail) |
-| 字节跳动 | 增长产品运营实习生 - TikTok直播 | 上海 | 实习 | 17h | [投递](https://jobs.bytedance.com/campus/position/7680090754324351285/detail) |
-| 字节跳动 | AIGC策略运营实习生 - 抖音 | 深圳 | 实习 | 17h | [投递](https://jobs.bytedance.com/campus/position/7680090534141610245/detail) |
+| 字节跳动 | 增长产品运营实习生 - TikTok直播 | 上海 | 实习 | 18h | [投递](https://jobs.bytedance.com/campus/position/7680090754324351285/detail) |
+| 字节跳动 | AIGC策略运营实习生 - 抖音 | 深圳 | 实习 | 18h | [投递](https://jobs.bytedance.com/campus/position/7680090534141610245/detail) |
 | 字节跳动 | 印尼头部达人&amp;MCN运营实习生 - TikTok Shop | 珠海 | 实习 | 19h | [投递](https://jobs.bytedance.com/campus/position/7680066180976462133/detail) |
 | 网易 | 账号运营实习生 | 杭州 | 实习 | 19h | [投递](https://hr.163.com/job-detail.html?id=78495) |
 | 网易 | 直播运营实习生 | 杭州 | 实习 | 19h | [投递](https://hr.163.com/job-detail.html?id=48251) |
@@ -287,7 +287,7 @@
 | 智元机器人 | 产品营销实习生 | 上海 | 实习 | 19h | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7680029910907603243/detail) |
 | 小米 | 技术品牌传播实习生-2027届 | 北京 | 实习 | 19h | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7680015411248859398/detail) |
 | 字节跳动 | 整合营销实习生 - TikTok Shop | 上海 | 实习 | 21h | [投递](https://jobs.bytedance.com/campus/position/7680034352530721029/detail) |
-| 字节跳动 | 增长营销实习生 - TikTok | 上海 | 实习 | 21h | [投递](https://jobs.bytedance.com/campus/position/7680028231587891509/detail) |
+| 字节跳动 | 增长营销实习生 - TikTok | 上海 | 实习 | 22h | [投递](https://jobs.bytedance.com/campus/position/7680028231587891509/detail) |
 | 阿里巴巴 | 市场部实习生（展厅运营/讲解方向） | 杭州 | 实习 | 3d | [投递](https://campus-talent.alibaba.com/campus/position/199909240003) |
 | 美团 | Online Marketing Campaign Intern | 北京 | 实习 | 3d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4724711057&amp;jobShareType=1&amp;highlightType=campus) |
 | 网易 | 游戏营销策划实习生 | 广州 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=69985) |
