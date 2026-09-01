@@ -25,11 +25,10 @@ button, input, select { font: inherit; }
 .page-head { display: flex; align-items: end; justify-content: space-between; gap: 24px; }
 h1 { margin: 0; font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif; font-size: 28px; letter-spacing: -.03em; }
 .page-head p { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
-.page-status { display: flex; gap: 14px; padding-bottom: 2px; color: var(--muted); font-size: 11px; white-space: nowrap; }
-.page-status span:first-child { color: var(--accent); }
+.page-status { padding-bottom: 2px; color: var(--accent); font-size: 11px; white-space: nowrap; }
 .page-status i { display: inline-block; width: 6px; height: 6px; margin-right: 6px; background: #25a267; border-radius: 50%; }
 
-.filter-panel { position: sticky; top: 0; z-index: 5; display: grid; grid-template-columns: 2fr repeat(8, minmax(84px, 1fr)) auto; gap: 8px; margin-top: 18px; padding: 9px; background: rgba(246, 247, 246, .96); border: 1px solid var(--line); border-radius: 8px; backdrop-filter: blur(10px); }
+.filter-panel { position: sticky; top: 0; z-index: 5; display: grid; grid-template-columns: minmax(220px, 2fr) repeat(4, minmax(105px, 1fr)) minmax(170px, auto); gap: 8px; margin-top: 18px; padding: 9px; background: rgba(246, 247, 246, .96); border: 1px solid var(--line); border-radius: 8px; backdrop-filter: blur(10px); }
 .filter-panel label, .filter-field { min-width: 0; }
 .filter-panel label > span, .filter-field > span { display: block; margin: 0 0 3px 2px; color: var(--muted); font-size: 10px; }
 .filter-panel input { width: 100%; height: 34px; padding: 0 9px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; outline: none; font-size: 12px; }
@@ -53,11 +52,17 @@ h1 { margin: 0; font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC"
 .option-choice input { width: 14px; height: 14px; flex: 0 0 auto; margin: 0; accent-color: var(--accent); }
 .option-choice span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 #subcategory-filter .option-panel, #tag-filter .option-panel, #freshness-filter .option-panel, #city-filter .option-panel, #company-filter .option-panel { right: 0; left: auto; }
+.filter-actions { position: relative; display: grid; grid-template-columns: minmax(100px, 1fr) auto; gap: 8px; align-self: end; min-width: 0; }
+.advanced-filters { position: static; min-width: 0; }
+.advanced-filters > summary { height: 34px; padding: 9px 12px 0; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; cursor: pointer; font-size: 12px; text-align: center; white-space: nowrap; list-style: none; }
+.advanced-filters > summary::-webkit-details-marker { display: none; }
+.advanced-filters[open] > summary { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
+.advanced-panel { position: absolute; top: 40px; right: 0; z-index: 15; display: grid; grid-template-columns: 1fr 1fr; gap: 9px; width: min(460px, calc(100vw - 40px)); padding: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 14px 34px rgba(23, 32, 25, .16); }
 .filter-panel button { align-self: end; height: 34px; padding: 0 13px; color: var(--accent); background: var(--surface); border: 1px solid #b9d3c3; border-radius: 6px; cursor: pointer; font-size: 12px; }
 .filter-panel button:hover { background: var(--accent-soft); }
 .source-status { margin: 7px 2px -3px; color: #7a5d20; font-size: 11px; }
 
-.results-head { display: flex; align-items: center; justify-content: space-between; height: 46px; margin-top: 14px; border-bottom: 1px solid var(--line); }
+.results-head { display: flex; align-items: center; height: 42px; margin-top: 10px; border-bottom: 1px solid var(--line); }
 .results-head p { margin: 0; font-size: 13px; }
 .results-head strong { font-size: 16px; }
 .results-head span { color: var(--muted); font-size: 11px; }
@@ -94,7 +99,7 @@ footer { display: flex; justify-content: space-between; padding: 16px max(20px, 
 @media (max-width: 900px) {
   .filter-panel { position: static; grid-template-columns: repeat(4, 1fr); }
   .filter-panel .search-field { grid-column: 1 / 3; }
-  .filter-panel button { grid-column: 3 / 5; }
+  .filter-actions { grid-column: 3 / 5; }
   .job-columns { display: none; }
   .job { grid-template-columns: 76px minmax(0, 1fr) 58px; gap: 10px; min-height: 70px; }
   .job .category-cell, .job .location, .job .stage-cell, .job .freshness-cell { display: none; }
@@ -107,8 +112,6 @@ footer { display: flex; justify-content: space-between; padding: 16px max(20px, 
 
 @media (max-width: 560px) {
   .topbar { padding: 0 14px; }
-  .topbar nav { gap: 14px; }
-  .topbar nav a:nth-child(-n+2) { display: none; }
   .shell { width: calc(100vw - 20px); padding-top: 16px; }
   .page-head { display: block; }
   h1 { font-size: 23px; }
@@ -116,7 +119,8 @@ footer { display: flex; justify-content: space-between; padding: 16px max(20px, 
   .page-status { margin-top: 8px; }
   .filter-panel { grid-template-columns: 1fr 1fr; margin-top: 12px; }
   .filter-panel .search-field { grid-column: 1 / -1; }
-  .filter-panel button { grid-column: auto; }
+  .filter-actions { grid-column: 1 / -1; }
+  .advanced-panel { right: 0; grid-template-columns: 1fr 1fr; width: calc(100vw - 40px); }
   .results-head { margin-top: 8px; }
   .job { grid-template-columns: 54px minmax(0, 1fr) 48px; gap: 8px; padding: 8px; }
   .company { font-size: 12px; }
