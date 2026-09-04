@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T04:37:16+00:00",
+  "checked_at": "2026-09-04T04:39:12+00:00",
   "ok": true,
   "failed_sources": [],
   "sources": [
@@ -8,9 +8,9 @@
       "source": "字节跳动招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 3268,
-      "observed_raw_count": 3268,
-      "active_count": 3162,
+      "raw_count": 3275,
+      "observed_raw_count": 3275,
+      "active_count": 3179,
       "anomaly_runs": 0
     },
     {
@@ -18,8 +18,8 @@
       "source": "腾讯校招",
       "status": "ok",
       "error": "",
-      "raw_count": 198,
-      "observed_raw_count": 198,
+      "raw_count": 168,
+      "observed_raw_count": 168,
       "active_count": 194,
       "anomaly_runs": 0
     },
@@ -48,8 +48,8 @@
       "source": "莉莉丝招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 20,
-      "observed_raw_count": 20,
+      "raw_count": 19,
+      "observed_raw_count": 19,
       "active_count": 8,
       "anomaly_runs": 0
     },
@@ -98,9 +98,9 @@
       "source": "蚂蚁集团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 460,
-      "observed_raw_count": 460,
-      "active_count": 57,
+      "raw_count": 468,
+      "observed_raw_count": 468,
+      "active_count": 58,
       "anomaly_runs": 0
     },
     {
@@ -108,9 +108,9 @@
       "source": "百度招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 624,
-      "observed_raw_count": 624,
-      "active_count": 288,
+      "raw_count": 628,
+      "observed_raw_count": 628,
+      "active_count": 290,
       "anomaly_runs": 0
     },
     {
@@ -118,9 +118,9 @@
       "source": "哔哩哔哩招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 367,
-      "observed_raw_count": 367,
-      "active_count": 256,
+      "raw_count": 368,
+      "observed_raw_count": 368,
+      "active_count": 259,
       "anomaly_runs": 0
     },
     {
@@ -138,9 +138,9 @@
       "source": "快手招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 703,
-      "observed_raw_count": 703,
-      "active_count": 236,
+      "raw_count": 700,
+      "observed_raw_count": 700,
+      "active_count": 238,
       "anomaly_runs": 0
     },
     {
@@ -148,9 +148,9 @@
       "source": "美团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 577,
-      "observed_raw_count": 577,
-      "active_count": 259,
+      "raw_count": 583,
+      "observed_raw_count": 583,
+      "active_count": 260,
       "anomaly_runs": 0
     },
     {
@@ -158,9 +158,9 @@
       "source": "网易招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 539,
-      "observed_raw_count": 539,
-      "active_count": 463,
+      "raw_count": 538,
+      "observed_raw_count": 538,
+      "active_count": 473,
       "anomaly_runs": 0
     },
     {
@@ -170,7 +170,7 @@
       "error": "",
       "raw_count": 31,
       "observed_raw_count": 31,
-      "active_count": 36,
+      "active_count": 23,
       "anomaly_runs": 0
     },
     {
@@ -180,7 +180,7 @@
       "error": "",
       "raw_count": 406,
       "observed_raw_count": 406,
-      "active_count": 204,
+      "active_count": 207,
       "anomaly_runs": 0
     },
     {
@@ -200,7 +200,7 @@
       "error": "",
       "raw_count": 265,
       "observed_raw_count": 265,
-      "active_count": 167,
+      "active_count": 166,
       "anomaly_runs": 0
     },
     {
@@ -238,9 +238,9 @@
       "source": "小米招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 1296,
-      "observed_raw_count": 1296,
-      "active_count": 497,
+      "raw_count": 1321,
+      "observed_raw_count": 1321,
+      "active_count": 503,
       "anomaly_runs": 0
     },
     {
@@ -258,9 +258,9 @@
       "source": "智元机器人招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 696,
-      "observed_raw_count": 696,
-      "active_count": 143,
+      "raw_count": 698,
+      "observed_raw_count": 698,
+      "active_count": 144,
       "anomaly_runs": 0
     },
     {
@@ -298,8 +298,8 @@
       "source": "爱奇艺招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 91,
-      "observed_raw_count": 91,
+      "raw_count": 93,
+      "observed_raw_count": 93,
       "active_count": 79,
       "anomaly_runs": 0
     },
