@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T04:33:18+00:00",
+  "checked_at": "2026-09-06T04:42:32+00:00",
   "ok": true,
   "failed_sources": [],
   "sources": [
@@ -8,9 +8,9 @@
       "source": "字节跳动招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 3259,
-      "observed_raw_count": 3259,
-      "active_count": 3179,
+      "raw_count": 3258,
+      "observed_raw_count": 3258,
+      "active_count": 3155,
       "anomaly_runs": 0
     },
     {
@@ -20,7 +20,7 @@
       "error": "",
       "raw_count": 168,
       "observed_raw_count": 168,
-      "active_count": 194,
+      "active_count": 164,
       "anomaly_runs": 0
     },
     {
@@ -50,7 +50,7 @@
       "error": "",
       "raw_count": 18,
       "observed_raw_count": 18,
-      "active_count": 8,
+      "active_count": 7,
       "anomaly_runs": 0
     },
     {
@@ -90,7 +90,7 @@
       "error": "",
       "raw_count": 1081,
       "observed_raw_count": 1081,
-      "active_count": 256,
+      "active_count": 253,
       "anomaly_runs": 0
     },
     {
@@ -120,7 +120,7 @@
       "error": "",
       "raw_count": 373,
       "observed_raw_count": 373,
-      "active_count": 266,
+      "active_count": 259,
       "anomaly_runs": 0
     },
     {
@@ -140,7 +140,7 @@
       "error": "",
       "raw_count": 700,
       "observed_raw_count": 700,
-      "active_count": 237,
+      "active_count": 234,
       "anomaly_runs": 0
     },
     {
@@ -150,7 +150,7 @@
       "error": "",
       "raw_count": 588,
       "observed_raw_count": 588,
-      "active_count": 262,
+      "active_count": 261,
       "anomaly_runs": 0
     },
     {
@@ -160,7 +160,7 @@
       "error": "",
       "raw_count": 539,
       "observed_raw_count": 539,
-      "active_count": 473,
+      "active_count": 458,
       "anomaly_runs": 0
     },
     {
@@ -178,9 +178,9 @@
       "source": "小红书招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 407,
-      "observed_raw_count": 407,
-      "active_count": 200,
+      "raw_count": 403,
+      "observed_raw_count": 403,
+      "active_count": 193,
       "anomaly_runs": 0
     },
     {
@@ -238,8 +238,8 @@
       "source": "小米招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 1328,
-      "observed_raw_count": 1328,
+      "raw_count": 1332,
+      "observed_raw_count": 1332,
       "active_count": 499,
       "anomaly_runs": 0
     },
@@ -300,7 +300,7 @@
       "error": "",
       "raw_count": 94,
       "observed_raw_count": 94,
-      "active_count": 79,
+      "active_count": 78,
       "anomaly_runs": 0
     },
     {
