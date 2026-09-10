@@ -1,16 +1,25 @@
 {
-  "checked_at": "2026-09-09T04:45:42+00:00",
-  "ok": true,
-  "failed_sources": [],
+  "checked_at": "2026-09-10T04:47:01+00:00",
+  "ok": false,
+  "failed_sources": [
+    "DeepSeek招聘",
+    "Moonshot招聘",
+    "哔哩哔哩招聘",
+    "小红书招聘",
+    "文远知行招聘",
+    "旷视招聘",
+    "银河通用招聘",
+    "阶跃星辰招聘"
+  ],
   "sources": [
     {
       "company": "字节跳动",
       "source": "字节跳动招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 3269,
-      "observed_raw_count": 3269,
-      "active_count": 3168,
+      "raw_count": 3315,
+      "observed_raw_count": 3315,
+      "active_count": 3200,
       "anomaly_runs": 0
     },
     {
@@ -38,8 +47,8 @@
       "source": "商汤招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 152,
-      "observed_raw_count": 152,
+      "raw_count": 150,
+      "observed_raw_count": 150,
       "active_count": 38,
       "anomaly_runs": 0
     },
@@ -48,9 +57,9 @@
       "source": "莉莉丝招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 19,
-      "observed_raw_count": 19,
-      "active_count": 6,
+      "raw_count": 21,
+      "observed_raw_count": 21,
+      "active_count": 7,
       "anomaly_runs": 0
     },
     {
@@ -60,7 +69,7 @@
       "error": "",
       "raw_count": 39,
       "observed_raw_count": 39,
-      "active_count": 27,
+      "active_count": 30,
       "anomaly_runs": 0
     },
     {
@@ -88,9 +97,9 @@
       "source": "阿里巴巴招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 1081,
-      "observed_raw_count": 1081,
-      "active_count": 256,
+      "raw_count": 1082,
+      "observed_raw_count": 1082,
+      "active_count": 257,
       "anomaly_runs": 0
     },
     {
@@ -98,8 +107,8 @@
       "source": "蚂蚁集团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 466,
-      "observed_raw_count": 466,
+      "raw_count": 463,
+      "observed_raw_count": 463,
       "active_count": 57,
       "anomaly_runs": 0
     },
@@ -108,18 +117,18 @@
       "source": "百度招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 631,
-      "observed_raw_count": 631,
-      "active_count": 294,
+      "raw_count": 616,
+      "observed_raw_count": 616,
+      "active_count": 284,
       "anomaly_runs": 0
     },
     {
       "company": "哔哩哔哩",
       "source": "哔哩哔哩招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "哔哩哔哩: 哔哩哔哩 campus: network error fetching CSRF: fetch failed",
       "raw_count": 383,
-      "observed_raw_count": 383,
+      "observed_raw_count": 0,
       "active_count": 268,
       "anomaly_runs": 0
     },
@@ -130,7 +139,7 @@
       "error": "",
       "raw_count": 350,
       "observed_raw_count": 350,
-      "active_count": 161,
+      "active_count": 160,
       "anomaly_runs": 0
     },
     {
@@ -138,9 +147,9 @@
       "source": "快手招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 701,
-      "observed_raw_count": 701,
-      "active_count": 236,
+      "raw_count": 699,
+      "observed_raw_count": 699,
+      "active_count": 235,
       "anomaly_runs": 0
     },
     {
@@ -148,9 +157,9 @@
       "source": "美团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 603,
-      "observed_raw_count": 603,
-      "active_count": 277,
+      "raw_count": 606,
+      "observed_raw_count": 606,
+      "active_count": 284,
       "anomaly_runs": 0
     },
     {
@@ -158,9 +167,9 @@
       "source": "网易招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 546,
-      "observed_raw_count": 546,
-      "active_count": 479,
+      "raw_count": 549,
+      "observed_raw_count": 549,
+      "active_count": 482,
       "anomaly_runs": 0
     },
     {
@@ -176,10 +185,10 @@
     {
       "company": "小红书",
       "source": "小红书招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "小红书: 小红书 intern: network error: fetch failed",
       "raw_count": 538,
-      "observed_raw_count": 538,
+      "observed_raw_count": 0,
       "active_count": 245,
       "anomaly_runs": 0
     },
@@ -198,8 +207,8 @@
       "source": "米哈游招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 265,
-      "observed_raw_count": 265,
+      "raw_count": 263,
+      "observed_raw_count": 263,
       "active_count": 168,
       "anomaly_runs": 0
     },
@@ -208,9 +217,9 @@
       "source": "携程招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 11,
-      "observed_raw_count": 11,
-      "active_count": 13,
+      "raw_count": 10,
+      "observed_raw_count": 10,
+      "active_count": 10,
       "anomaly_runs": 0
     },
     {
@@ -220,7 +229,7 @@
       "error": "",
       "raw_count": 238,
       "observed_raw_count": 238,
-      "active_count": 83,
+      "active_count": 81,
       "anomaly_runs": 0
     },
     {
@@ -230,7 +239,7 @@
       "error": "",
       "raw_count": 255,
       "observed_raw_count": 255,
-      "active_count": 72,
+      "active_count": 69,
       "anomaly_runs": 0
     },
     {
@@ -238,9 +247,9 @@
       "source": "小米招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 1348,
-      "observed_raw_count": 1348,
-      "active_count": 518,
+      "raw_count": 1346,
+      "observed_raw_count": 1346,
+      "active_count": 511,
       "anomaly_runs": 0
     },
     {
@@ -258,8 +267,8 @@
       "source": "智元机器人招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 723,
-      "observed_raw_count": 723,
+      "raw_count": 725,
+      "observed_raw_count": 725,
       "active_count": 147,
       "anomaly_runs": 0
     },
@@ -276,48 +285,48 @@
     {
       "company": "旷视",
       "source": "旷视招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "旷视: 旷视 campus: network error: fetch failed",
       "raw_count": 3,
-      "observed_raw_count": 3,
+      "observed_raw_count": 0,
       "active_count": 1,
       "anomaly_runs": 0
     },
     {
       "company": "文远知行",
       "source": "文远知行招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "原始岗位量异常下降：上一完整快照 141，本轮 4",
       "raw_count": 141,
-      "observed_raw_count": 141,
+      "observed_raw_count": 4,
       "active_count": 2,
-      "anomaly_runs": 0
+      "anomaly_runs": 1
     },
     {
       "company": "爱奇艺",
       "source": "爱奇艺招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 93,
-      "observed_raw_count": 93,
-      "active_count": 86,
+      "raw_count": 94,
+      "observed_raw_count": 94,
+      "active_count": 85,
       "anomaly_runs": 0
     },
     {
       "company": "DeepSeek",
       "source": "DeepSeek招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "DeepSeek: DeepSeek all: network error: fetch failed",
       "raw_count": 3,
-      "observed_raw_count": 3,
+      "observed_raw_count": 0,
       "active_count": 0,
       "anomaly_runs": 0
     },
     {
       "company": "Moonshot AI",
       "source": "Moonshot招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "Moonshot AI: Moonshot AI all: network error: fetch failed",
       "raw_count": 0,
       "observed_raw_count": 0,
       "active_count": 1,
@@ -326,10 +335,10 @@
     {
       "company": "阶跃星辰",
       "source": "阶跃星辰招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "阶跃星辰: 阶跃星辰 all: network error: fetch failed",
       "raw_count": 3,
-      "observed_raw_count": 3,
+      "observed_raw_count": 0,
       "active_count": 1,
       "anomaly_runs": 0
     },
@@ -346,8 +355,8 @@
     {
       "company": "银河通用",
       "source": "银河通用招聘",
-      "status": "ok",
-      "error": "",
+      "status": "failed",
+      "error": "银河通用: 银河通用 all: network error: fetch failed",
       "raw_count": 0,
       "observed_raw_count": 0,
       "active_count": 0,
