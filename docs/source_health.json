@@ -1,9 +1,8 @@
 {
-  "checked_at": "2026-09-12T04:38:34+00:00",
+  "checked_at": "2026-09-13T04:54:45+00:00",
   "ok": false,
   "failed_sources": [
     "DeepSeek招聘",
-    "字节跳动招聘",
     "小红书招聘",
     "文远知行招聘",
     "旷视招聘",
@@ -14,11 +13,11 @@
     {
       "company": "字节跳动",
       "source": "字节跳动招聘",
-      "status": "failed",
-      "error": "请求失败 https://jobs.bytedance.com/api/v1/search/job/posts: The read operation timed out",
+      "status": "ok",
+      "error": "",
       "raw_count": 3346,
-      "observed_raw_count": 0,
-      "active_count": 3233,
+      "observed_raw_count": 3346,
+      "active_count": 3242,
       "anomaly_runs": 0
     },
     {
@@ -128,7 +127,7 @@
       "error": "",
       "raw_count": 387,
       "observed_raw_count": 387,
-      "active_count": 274,
+      "active_count": 270,
       "anomaly_runs": 0
     },
     {
@@ -156,9 +155,9 @@
       "source": "美团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 605,
-      "observed_raw_count": 605,
-      "active_count": 280,
+      "raw_count": 604,
+      "observed_raw_count": 604,
+      "active_count": 273,
       "anomaly_runs": 0
     },
     {
@@ -168,7 +167,7 @@
       "error": "",
       "raw_count": 555,
       "observed_raw_count": 555,
-      "active_count": 476,
+      "active_count": 469,
       "anomaly_runs": 0
     },
     {
@@ -208,7 +207,7 @@
       "error": "",
       "raw_count": 262,
       "observed_raw_count": 262,
-      "active_count": 163,
+      "active_count": 162,
       "anomaly_runs": 0
     },
     {
@@ -299,7 +298,7 @@
       "raw_count": 141,
       "observed_raw_count": 4,
       "active_count": 2,
-      "anomaly_runs": 1
+      "anomaly_runs": 2
     },
     {
       "company": "爱奇艺",
@@ -308,7 +307,7 @@
       "error": "",
       "raw_count": 97,
       "observed_raw_count": 97,
-      "active_count": 91,
+      "active_count": 84,
       "anomaly_runs": 0
     },
     {
