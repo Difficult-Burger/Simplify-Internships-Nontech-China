@@ -40253,5 +40253,530 @@
     "first_seen_at": "2026-09-14T05:00:34+00:00",
     "freshness_basis": "official",
     "url": "https://jobs.bytedance.com/campus/position/7667170619678787893/detail"
+  },
+  "alibaba:199909580002": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909580002"
+  },
+  "alibaba:199909620004": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909620004"
+  },
+  "alibaba:199909620003": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909620003"
+  },
+  "meituan:4762519753": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4762519753&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4770380293": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4770380293&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4773003577": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4773003577&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4763601175": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4763601175&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4634013867": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4634013867&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4748742497": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4748742497&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4765068334": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4765068334&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4771872677": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4771872677&jobShareType=1&highlightType=campus"
+  },
+  "meituan:4763742047": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4763742047&jobShareType=1&highlightType=campus"
+  },
+  "netease:70368": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=70368"
+  },
+  "netease:70660": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=70660"
+  },
+  "netease:77192": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=77192"
+  },
+  "netease:78790": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78790"
+  },
+  "netease:78840": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78840"
+  },
+  "netease:78862": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78862"
+  },
+  "netease:74252": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=74252"
+  },
+  "netease:78842": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78842"
+  },
+  "netease:75757": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=75757"
+  },
+  "netease:74418": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=74418"
+  },
+  "netease:78836": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78836"
+  },
+  "netease:78838": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78838"
+  },
+  "netease:78846": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78846"
+  },
+  "netease:78835": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78835"
+  },
+  "netease:78863": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78863"
+  },
+  "netease:78861": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78861"
+  },
+  "netease:78860": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=78860"
+  },
+  "netease:64621": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=64621"
+  },
+  "netease:16023": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://hr.163.com/job-detail.html?id=16023"
+  },
+  "baidu:4ebf5ec7-51c6-442d-9402-c80916ea8141": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://talent.baidu.com/jobs/detail/INTERN/4ebf5ec7-51c6-442d-9402-c80916ea8141"
+  },
+  "baidu:4bb34b2e-c2db-4500-9ff6-15029024820b": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://talent.baidu.com/jobs/detail/INTERN/4bb34b2e-c2db-4500-9ff6-15029024820b"
+  },
+  "baidu:b42bdaee-0259-48ef-9aa8-4f007486aeac": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://talent.baidu.com/jobs/detail/INTERN/b42bdaee-0259-48ef-9aa8-4f007486aeac"
+  },
+  "iqiyi:7656631815491619123": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7656631815491619123/detail"
+  },
+  "iqiyi:7685308564290357513": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7685308564290357513/detail"
+  },
+  "iqiyi:7553561652333316406": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7553561652333316406/detail"
+  },
+  "iqiyi:7589859390485760283": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7589859390485760283/detail"
+  },
+  "iqiyi:7685295200861096218": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7685295200861096218/detail"
+  },
+  "iqiyi:7625932712075921707": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7625932712075921707/detail"
+  },
+  "iqiyi:7685601433312037163": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7685601433312037163/detail"
+  },
+  "agibot:7685294576714500395": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://agirobot.jobs.feishu.cn/internrecruitment/position/7685294576714500395/detail"
+  },
+  "kuaishou:da474da0927e4264bd25a583c4cca3c3": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=da474da0927e4264bd25a583c4cca3c3"
+  },
+  "kuaishou:8edc8a5e3c33420dac6a765a3fa39993": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=8edc8a5e3c33420dac6a765a3fa39993"
+  },
+  "kuaishou:0368ade6e50b4fba926cf5101889015d": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=0368ade6e50b4fba926cf5101889015d"
+  },
+  "xiaohongshu:8521": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://job.xiaohongshu.com/campus/position/8521"
+  },
+  "xiaohongshu:22447": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://job.xiaohongshu.com/campus/position/22447"
+  },
+  "xiaohongshu:22442": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://job.xiaohongshu.com/campus/position/22442"
+  },
+  "xiaohongshu:22433": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://job.xiaohongshu.com/campus/position/22433"
+  },
+  "xiaohongshu:19961": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://job.xiaohongshu.com/campus/position/19961"
+  },
+  "xiaohongshu:19293": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://job.xiaohongshu.com/campus/position/19293"
+  },
+  "xiaohongshu:14616": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://job.xiaohongshu.com/campus/position/14616"
+  },
+  "xiaomi:7670883882711976219": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670883882711976219/detail"
+  },
+  "xiaomi:7670883911417497883": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670883911417497883/detail"
+  },
+  "xiaomi:7670934973654026532": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670934973654026532/detail"
+  },
+  "xiaomi:7685585218233485587": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7685585218233485587/detail"
+  },
+  "xiaomi:7685366997660698886": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7685366997660698886/detail"
+  },
+  "xiaomi:7671523987466733870": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523987466733870/detail"
+  },
+  "xiaomi:7685578165381695750": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7685578165381695750/detail"
+  },
+  "xiaomi:7677765250351155499": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7677765250351155499/detail"
+  },
+  "xiaomi:7670882725168335155": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670882725168335155/detail"
+  },
+  "xiaomi:7670882755622422835": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670882755622422835/detail"
+  },
+  "xiaomi:7670882950686574894": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670882950686574894/detail"
+  },
+  "xiaomi:7670883759310768434": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670883759310768434/detail"
+  },
+  "xiaomi:7670883858238621961": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670883858238621961/detail"
+  },
+  "xiaomi:7670883814630492467": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670883814630492467/detail"
+  },
+  "xiaomi:7685272412003535142": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7685272412003535142/detail"
+  },
+  "bilibili:30520": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30520"
+  },
+  "bilibili:30504": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30504"
+  },
+  "bilibili:30506": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30506"
+  },
+  "bilibili:30518": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30518"
+  },
+  "bilibili:30522": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30522"
+  },
+  "bilibili:30514": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30514"
+  },
+  "bilibili:30502": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30502"
+  },
+  "bilibili:30509": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30509"
+  },
+  "bilibili:30516": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30516"
+  },
+  "bilibili:30512": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30512"
+  },
+  "bytedance:7685613376076613941": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685613376076613941/detail"
+  },
+  "bytedance:7685612033076857093": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685612033076857093/detail"
+  },
+  "bytedance:7685612037252712709": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685612037252712709/detail"
+  },
+  "bytedance:7685612032234293509": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685612032234293509/detail"
+  },
+  "bytedance:7685608383439325445": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685608383439325445/detail"
+  },
+  "bytedance:7685608673108855093": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685608673108855093/detail"
+  },
+  "bytedance:7685607443188173061": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685607443188173061/detail"
+  },
+  "bytedance:7685585789283600645": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685585789283600645/detail"
+  },
+  "bytedance:7685583465404991797": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685583465404991797/detail"
+  },
+  "bytedance:7685556842068494645": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685556842068494645/detail"
+  },
+  "bytedance:7685372621907593477": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685372621907593477/detail"
+  },
+  "bytedance:7685369238918220037": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685369238918220037/detail"
+  },
+  "bytedance:7685351314527652149": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685351314527652149/detail"
+  },
+  "bytedance:7685318573782321413": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685318573782321413/detail"
+  },
+  "bytedance:7685308521659844917": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685308521659844917/detail"
+  },
+  "lilith:7685305116837562687": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://lilithgames.jobs.feishu.cn/campus/position/7685305116837562687/detail"
+  },
+  "lilith:7685305468067023167": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://lilithgames.jobs.feishu.cn/campus/position/7685305468067023167/detail"
+  },
+  "bytedance:7685301052825520389": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685301052825520389/detail"
+  },
+  "bytedance:7685295795688098101": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685295795688098101/detail"
+  },
+  "bytedance:7685295423053121845": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685295423053121845/detail"
+  },
+  "bytedance:7685278156750194949": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685278156750194949/detail"
+  },
+  "bytedance:7685271322096437509": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685271322096437509/detail"
+  },
+  "bytedance:7685260940589975861": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7685260940589975861/detail"
+  },
+  "bytedance:7684106269700245765": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7684106269700245765/detail"
+  },
+  "bytedance:7667443865706563845": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7667443865706563845/detail"
+  },
+  "bytedance:7579151346537007365": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7579151346537007365/detail"
+  },
+  "bytedance:7534605795813820679": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7534605795813820679/detail"
+  },
+  "bytedance:7383988677585979675": {
+    "first_seen_at": "2026-09-15T04:58:22+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7383988677585979675/detail"
   }
 }

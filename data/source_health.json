@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14T05:00:35+00:00",
+  "checked_at": "2026-09-15T04:58:23+00:00",
   "ok": true,
   "failed_sources": [],
   "sources": [
@@ -8,9 +8,9 @@
       "source": "字节跳动招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 3349,
-      "observed_raw_count": 3349,
-      "active_count": 3233,
+      "raw_count": 3352,
+      "observed_raw_count": 3352,
+      "active_count": 3238,
       "anomaly_runs": 0
     },
     {
@@ -38,8 +38,8 @@
       "source": "商汤招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 146,
-      "observed_raw_count": 146,
+      "raw_count": 148,
+      "observed_raw_count": 148,
       "active_count": 37,
       "anomaly_runs": 0
     },
@@ -48,9 +48,9 @@
       "source": "莉莉丝招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 22,
-      "observed_raw_count": 22,
-      "active_count": 7,
+      "raw_count": 25,
+      "observed_raw_count": 25,
+      "active_count": 9,
       "anomaly_runs": 0
     },
     {
@@ -68,8 +68,8 @@
       "source": "沐瞳科技招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 94,
-      "observed_raw_count": 94,
+      "raw_count": 93,
+      "observed_raw_count": 93,
       "active_count": 69,
       "anomaly_runs": 0
     },
@@ -88,9 +88,9 @@
       "source": "阿里巴巴招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 1087,
-      "observed_raw_count": 1087,
-      "active_count": 262,
+      "raw_count": 1089,
+      "observed_raw_count": 1089,
+      "active_count": 265,
       "anomaly_runs": 0
     },
     {
@@ -98,8 +98,8 @@
       "source": "蚂蚁集团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 463,
-      "observed_raw_count": 463,
+      "raw_count": 465,
+      "observed_raw_count": 465,
       "active_count": 57,
       "anomaly_runs": 0
     },
@@ -108,9 +108,9 @@
       "source": "百度招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 630,
-      "observed_raw_count": 630,
-      "active_count": 281,
+      "raw_count": 619,
+      "observed_raw_count": 619,
+      "active_count": 284,
       "anomaly_runs": 0
     },
     {
@@ -118,9 +118,9 @@
       "source": "哔哩哔哩招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 389,
-      "observed_raw_count": 389,
-      "active_count": 268,
+      "raw_count": 395,
+      "observed_raw_count": 395,
+      "active_count": 278,
       "anomaly_runs": 0
     },
     {
@@ -128,8 +128,8 @@
       "source": "京东招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 347,
-      "observed_raw_count": 347,
+      "raw_count": 346,
+      "observed_raw_count": 346,
       "active_count": 160,
       "anomaly_runs": 0
     },
@@ -138,9 +138,9 @@
       "source": "快手招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 705,
-      "observed_raw_count": 705,
-      "active_count": 236,
+      "raw_count": 708,
+      "observed_raw_count": 708,
+      "active_count": 239,
       "anomaly_runs": 0
     },
     {
@@ -148,9 +148,9 @@
       "source": "美团招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 591,
-      "observed_raw_count": 591,
-      "active_count": 275,
+      "raw_count": 587,
+      "observed_raw_count": 587,
+      "active_count": 285,
       "anomaly_runs": 0
     },
     {
@@ -158,9 +158,9 @@
       "source": "网易招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 554,
-      "observed_raw_count": 554,
-      "active_count": 474,
+      "raw_count": 562,
+      "observed_raw_count": 562,
+      "active_count": 493,
       "anomaly_runs": 0
     },
     {
@@ -178,9 +178,9 @@
       "source": "小红书招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 529,
-      "observed_raw_count": 529,
-      "active_count": 241,
+      "raw_count": 536,
+      "observed_raw_count": 536,
+      "active_count": 238,
       "anomaly_runs": 0
     },
     {
@@ -198,8 +198,8 @@
       "source": "米哈游招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 262,
-      "observed_raw_count": 262,
+      "raw_count": 259,
+      "observed_raw_count": 259,
       "active_count": 161,
       "anomaly_runs": 0
     },
@@ -208,8 +208,8 @@
       "source": "携程招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 13,
-      "observed_raw_count": 13,
+      "raw_count": 12,
+      "observed_raw_count": 12,
       "active_count": 12,
       "anomaly_runs": 0
     },
@@ -238,9 +238,9 @@
       "source": "小米招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 1357,
-      "observed_raw_count": 1357,
-      "active_count": 507,
+      "raw_count": 1348,
+      "observed_raw_count": 1348,
+      "active_count": 522,
       "anomaly_runs": 0
     },
     {
@@ -248,8 +248,8 @@
       "source": "MiniMax招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 97,
-      "observed_raw_count": 97,
+      "raw_count": 99,
+      "observed_raw_count": 99,
       "active_count": 23,
       "anomaly_runs": 0
     },
@@ -258,9 +258,9 @@
       "source": "智元机器人招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 734,
-      "observed_raw_count": 734,
-      "active_count": 148,
+      "raw_count": 735,
+      "observed_raw_count": 735,
+      "active_count": 149,
       "anomaly_runs": 0
     },
     {
@@ -298,9 +298,9 @@
       "source": "爱奇艺招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 98,
-      "observed_raw_count": 98,
-      "active_count": 85,
+      "raw_count": 99,
+      "observed_raw_count": 99,
+      "active_count": 94,
       "anomaly_runs": 0
     },
     {
