@@ -1,10 +1,8 @@
 {
-  "checked_at": "2026-09-25T05:01:34+00:00",
+  "checked_at": "2026-09-26T05:01:15+00:00",
   "ok": false,
   "failed_sources": [
-    "哔哩哔哩招聘",
-    "小红书招聘",
-    "银河通用招聘"
+    "小红书招聘"
   ],
   "sources": [
     {
@@ -14,7 +12,7 @@
       "error": "",
       "raw_count": 3383,
       "observed_raw_count": 3383,
-      "active_count": 3271,
+      "active_count": 3241,
       "anomaly_runs": 0
     },
     {
@@ -44,7 +42,7 @@
       "error": "",
       "raw_count": 150,
       "observed_raw_count": 150,
-      "active_count": 39,
+      "active_count": 38,
       "anomaly_runs": 0
     },
     {
@@ -94,7 +92,7 @@
       "error": "",
       "raw_count": 1086,
       "observed_raw_count": 1086,
-      "active_count": 255,
+      "active_count": 254,
       "anomaly_runs": 0
     },
     {
@@ -104,7 +102,7 @@
       "error": "",
       "raw_count": 470,
       "observed_raw_count": 470,
-      "active_count": 53,
+      "active_count": 51,
       "anomaly_runs": 0
     },
     {
@@ -114,17 +112,17 @@
       "error": "",
       "raw_count": 668,
       "observed_raw_count": 668,
-      "active_count": 304,
+      "active_count": 297,
       "anomaly_runs": 0
     },
     {
       "company": "哔哩哔哩",
       "source": "哔哩哔哩招聘",
-      "status": "failed",
-      "error": "哔哩哔哩: 哔哩哔哩 campus: network error fetching CSRF: fetch failed",
-      "raw_count": 405,
-      "observed_raw_count": 0,
-      "active_count": 295,
+      "status": "ok",
+      "error": "",
+      "raw_count": 410,
+      "observed_raw_count": 410,
+      "active_count": 291,
       "anomaly_runs": 0
     },
     {
@@ -154,7 +152,7 @@
       "error": "",
       "raw_count": 578,
       "observed_raw_count": 578,
-      "active_count": 251,
+      "active_count": 249,
       "anomaly_runs": 0
     },
     {
@@ -164,7 +162,7 @@
       "error": "",
       "raw_count": 582,
       "observed_raw_count": 582,
-      "active_count": 494,
+      "active_count": 491,
       "anomaly_runs": 0
     },
     {
@@ -204,7 +202,7 @@
       "error": "",
       "raw_count": 265,
       "observed_raw_count": 265,
-      "active_count": 160,
+      "active_count": 157,
       "anomaly_runs": 0
     },
     {
@@ -214,7 +212,7 @@
       "error": "",
       "raw_count": 10,
       "observed_raw_count": 10,
-      "active_count": 4,
+      "active_count": 3,
       "anomaly_runs": 0
     },
     {
@@ -244,7 +242,7 @@
       "error": "",
       "raw_count": 1348,
       "observed_raw_count": 1348,
-      "active_count": 522,
+      "active_count": 511,
       "anomaly_runs": 0
     },
     {
@@ -254,7 +252,7 @@
       "error": "",
       "raw_count": 99,
       "observed_raw_count": 99,
-      "active_count": 25,
+      "active_count": 24,
       "anomaly_runs": 0
     },
     {
@@ -304,7 +302,7 @@
       "error": "",
       "raw_count": 97,
       "observed_raw_count": 97,
-      "active_count": 83,
+      "active_count": 81,
       "anomaly_runs": 0
     },
     {
@@ -350,8 +348,8 @@
     {
       "company": "银河通用",
       "source": "银河通用招聘",
-      "status": "failed",
-      "error": "银河通用: 银河通用 all: network error: fetch failed",
+      "status": "ok",
+      "error": "",
       "raw_count": 0,
       "observed_raw_count": 0,
       "active_count": 0,

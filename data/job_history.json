@@ -43558,5 +43558,30 @@
     "first_seen_at": "2026-09-25T05:01:33+00:00",
     "freshness_basis": "official",
     "url": "https://jobs.bytedance.com/campus/position/7641579845491673397/detail"
+  },
+  "bilibili:30674": {
+    "first_seen_at": "2026-09-26T05:01:14+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30674"
+  },
+  "bilibili:30662": {
+    "first_seen_at": "2026-09-26T05:01:14+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30662"
+  },
+  "bilibili:30677": {
+    "first_seen_at": "2026-09-26T05:01:14+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30677"
+  },
+  "bilibili:30660": {
+    "first_seen_at": "2026-09-26T05:01:14+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30660"
+  },
+  "bilibili:30672": {
+    "first_seen_at": "2026-09-26T05:01:14+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://jobs.bilibili.com/campus/positions/30672"
   }
 }
