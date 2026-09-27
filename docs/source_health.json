@@ -1,9 +1,7 @@
 {
-  "checked_at": "2026-09-26T05:01:15+00:00",
-  "ok": false,
-  "failed_sources": [
-    "小红书招聘"
-  ],
+  "checked_at": "2026-09-27T05:22:15+00:00",
+  "ok": true,
+  "failed_sources": [],
   "sources": [
     {
       "company": "字节跳动",
@@ -12,7 +10,7 @@
       "error": "",
       "raw_count": 3383,
       "observed_raw_count": 3383,
-      "active_count": 3241,
+      "active_count": 3233,
       "anomaly_runs": 0
     },
     {
@@ -42,7 +40,7 @@
       "error": "",
       "raw_count": 150,
       "observed_raw_count": 150,
-      "active_count": 38,
+      "active_count": 37,
       "anomaly_runs": 0
     },
     {
@@ -112,7 +110,7 @@
       "error": "",
       "raw_count": 668,
       "observed_raw_count": 668,
-      "active_count": 297,
+      "active_count": 296,
       "anomaly_runs": 0
     },
     {
@@ -122,7 +120,7 @@
       "error": "",
       "raw_count": 410,
       "observed_raw_count": 410,
-      "active_count": 291,
+      "active_count": 282,
       "anomaly_runs": 0
     },
     {
@@ -142,7 +140,7 @@
       "error": "",
       "raw_count": 714,
       "observed_raw_count": 714,
-      "active_count": 239,
+      "active_count": 238,
       "anomaly_runs": 0
     },
     {
@@ -178,11 +176,11 @@
     {
       "company": "小红书",
       "source": "小红书招聘",
-      "status": "failed",
-      "error": "小红书: 小红书 campus: network error: fetch failed; 小红书 intern: network error: fetch failed",
-      "raw_count": 544,
-      "observed_raw_count": 0,
-      "active_count": 220,
+      "status": "ok",
+      "error": "",
+      "raw_count": 543,
+      "observed_raw_count": 543,
+      "active_count": 215,
       "anomaly_runs": 0
     },
     {
@@ -202,7 +200,7 @@
       "error": "",
       "raw_count": 265,
       "observed_raw_count": 265,
-      "active_count": 157,
+      "active_count": 156,
       "anomaly_runs": 0
     },
     {
@@ -242,7 +240,7 @@
       "error": "",
       "raw_count": 1348,
       "observed_raw_count": 1348,
-      "active_count": 511,
+      "active_count": 507,
       "anomaly_runs": 0
     },
     {
