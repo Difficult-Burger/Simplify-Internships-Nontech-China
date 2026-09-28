@@ -43583,5 +43583,40 @@
     "first_seen_at": "2026-09-26T05:01:14+00:00",
     "freshness_basis": "discovered",
     "url": "https://jobs.bilibili.com/campus/positions/30672"
+  },
+  "iqiyi:7690402210827667750": {
+    "first_seen_at": "2026-09-28T05:28:54+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://careers.iqiyi.com/intern/position/7690402210827667750/detail"
+  },
+  "agibot:7690428456848918830": {
+    "first_seen_at": "2026-09-28T05:28:54+00:00",
+    "freshness_basis": "discovered",
+    "url": "https://agirobot.jobs.feishu.cn/internrecruitment/position/7690428456848918830/detail"
+  },
+  "bytedance:7690414168255498549": {
+    "first_seen_at": "2026-09-28T05:28:54+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7690414168255498549/detail"
+  },
+  "bytedance:7690413231816853765": {
+    "first_seen_at": "2026-09-28T05:28:54+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7690413231816853765/detail"
+  },
+  "bytedance:7690408509064087813": {
+    "first_seen_at": "2026-09-28T05:28:54+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7690408509064087813/detail"
+  },
+  "bytedance:7690150241305102597": {
+    "first_seen_at": "2026-09-28T05:28:54+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7690150241305102597/detail"
+  },
+  "bytedance:7614061893473110277": {
+    "first_seen_at": "2026-09-28T05:28:54+00:00",
+    "freshness_basis": "official",
+    "url": "https://jobs.bytedance.com/campus/position/7614061893473110277/detail"
   }
 }
