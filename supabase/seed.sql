@@ -1,0 +1,1 @@
+-- Prototype intentionally ships without users, entitlements, or payment records.

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23172019'/%3E%3Cpath d='M17 19h30v7H17zm0 12h22v7H17zm0 12h15v7H17z' fill='%23fff'/%3E%3C/svg%3E" />
+    <title>岗位订阅 · 产品原型</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="prototype-header">
+      <a class="brand" href="../../docs/"><span class="brand-mark">N</span><span>中国非技术岗雷达</span></a>
+      <span class="prototype-badge">产品测试 · 未接真实支付</span>
+    </header>
+
+    <main>
+      <p id="prototype-error" class="error" hidden></p>
+
+      <section id="login-view" class="auth-layout">
+        <div class="intro-copy">
+          <span class="eyebrow">岗位提醒</span>
+          <h1>只看你真正关心的岗位</h1>
+          <p>选好岗位类别、城市和公司。每天有新岗位时，我们整理成一封邮件发给你。</p>
+          <ul><li>公开岗位页面始终免费</li><li>订阅只提供个性化邮件提醒</li><li>随时可以暂停或修改条件</li></ul>
+        </div>
+        <form id="login-form" class="login-card">
+          <span class="step">01 / 登录</span>
+          <h2>先验证接收邮箱</h2>
+          <label for="email">邮箱</label>
+          <input id="email" type="email" placeholder="name@example.com" required autocomplete="email" />
+          <button type="submit">进入测试配置</button>
+          <small>正式版本将发送免密码登录链接；原型不会发送邮件或创建账户。</small>
+        </form>
+      </section>
+
+      <section id="builder-view" class="builder" hidden>
+        <div class="builder-head">
+          <div><span class="step">02 / 订阅条件</span><h1>你想监控哪些岗位？</h1><p>先选岗位类别，再按需要限定招聘类型、城市或公司。</p></div>
+          <div class="account"><span>测试账户</span><strong id="account-email"></strong></div>
+        </div>
+
+        <div class="builder-grid">
+          <div class="preference-card">
+            <fieldset>
+              <legend>岗位类别 <em>至少选择一项</em></legend>
+              <div id="category-options" class="choice-grid"></div>
+            </fieldset>
+
+            <fieldset>
+              <legend>招聘类型</legend>
+              <div class="choice-row">
+                <button type="button" class="choice-chip" data-filter="stages" data-value="实习"><span>实习</span></button>
+                <button type="button" class="choice-chip" data-filter="stages" data-value="校招"><span>校招</span></button>
+              </div>
+            </fieldset>
+
+            <div class="picker-grid">
+              <details class="picker">
+                <summary id="cities-summary">不限城市</summary>
+                <div class="picker-panel"><input type="search" data-search="cities" placeholder="搜索城市" /><div id="cities-options" class="picker-options"></div></div>
+              </details>
+              <details class="picker">
+                <summary id="companies-summary">不限公司</summary>
+                <div class="picker-panel"><input type="search" data-search="companies" placeholder="搜索公司" /><div id="companies-options" class="picker-options"></div></div>
+              </details>
+            </div>
+
+            <div class="delivery-row"><div><strong>每日邮件汇总</strong><span>每天更新完成后，只在出现匹配岗位时发送</span></div><span class="selected-plan">已选择</span></div>
+          </div>
+
+          <aside class="summary-card">
+            <span class="step">03 / 确认</span>
+            <div class="match-number"><strong id="match-count">0</strong><span>个当前岗位符合条件</span></div>
+            <ul id="preview-list" class="preview-list"></ul>
+            <div class="price-row"><span>测试价格</span><strong>待定</strong></div>
+            <button id="activate" type="button" disabled>模拟购买并开启提醒</button>
+            <small>不会扣款。真实价格和支付方式将在成本与支付主体确认后决定。</small>
+          </aside>
+        </div>
+      </section>
+
+      <section id="success-view" class="success-card" hidden>
+        <span class="success-mark">✓</span>
+        <span class="step">测试流程完成</span>
+        <h1>岗位提醒已模拟开启</h1>
+        <p>正式版本会把 <strong id="success-categories"></strong> 的新增岗位发送到 <strong id="success-email"></strong>。</p>
+        <button id="restart" type="button">重新测试</button>
+      </section>
+    </main>
+
+    <script type="module" src="app.mjs"></script>
+  </body>
+</html>
