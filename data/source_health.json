@@ -1,18 +1,16 @@
 {
-  "checked_at": "2026-10-01T05:57:40+00:00",
-  "ok": false,
-  "failed_sources": [
-    "小红书招聘"
-  ],
+  "checked_at": "2026-10-02T05:42:58+00:00",
+  "ok": true,
+  "failed_sources": [],
   "sources": [
     {
       "company": "字节跳动",
       "source": "字节跳动招聘",
       "status": "ok",
       "error": "",
-      "raw_count": 3339,
-      "observed_raw_count": 3339,
-      "active_count": 3228,
+      "raw_count": 3338,
+      "observed_raw_count": 3338,
+      "active_count": 3220,
       "anomaly_runs": 0
     },
     {
@@ -52,7 +50,7 @@
       "error": "",
       "raw_count": 18,
       "observed_raw_count": 18,
-      "active_count": 7,
+      "active_count": 5,
       "anomaly_runs": 0
     },
     {
@@ -92,7 +90,7 @@
       "error": "",
       "raw_count": 1083,
       "observed_raw_count": 1083,
-      "active_count": 255,
+      "active_count": 254,
       "anomaly_runs": 0
     },
     {
@@ -152,7 +150,7 @@
       "error": "",
       "raw_count": 571,
       "observed_raw_count": 571,
-      "active_count": 245,
+      "active_count": 243,
       "anomaly_runs": 0
     },
     {
@@ -162,7 +160,7 @@
       "error": "",
       "raw_count": 563,
       "observed_raw_count": 563,
-      "active_count": 498,
+      "active_count": 473,
       "anomaly_runs": 0
     },
     {
@@ -172,17 +170,17 @@
       "error": "",
       "raw_count": 38,
       "observed_raw_count": 38,
-      "active_count": 28,
+      "active_count": 27,
       "anomaly_runs": 0
     },
     {
       "company": "小红书",
       "source": "小红书招聘",
-      "status": "failed",
-      "error": "小红书: 小红书 intern: network error: fetch failed",
-      "raw_count": 503,
-      "observed_raw_count": 0,
-      "active_count": 212,
+      "status": "ok",
+      "error": "",
+      "raw_count": 497,
+      "observed_raw_count": 497,
+      "active_count": 213,
       "anomaly_runs": 0
     },
     {
@@ -202,7 +200,7 @@
       "error": "",
       "raw_count": 260,
       "observed_raw_count": 260,
-      "active_count": 154,
+      "active_count": 153,
       "anomaly_runs": 0
     },
     {
@@ -262,7 +260,7 @@
       "error": "",
       "raw_count": 749,
       "observed_raw_count": 749,
-      "active_count": 157,
+      "active_count": 156,
       "anomaly_runs": 0
     },
     {
@@ -302,7 +300,7 @@
       "error": "",
       "raw_count": 95,
       "observed_raw_count": 95,
-      "active_count": 84,
+      "active_count": 82,
       "anomaly_runs": 0
     },
     {
