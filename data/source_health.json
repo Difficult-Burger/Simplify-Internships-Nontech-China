@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T05:42:58+00:00",
+  "checked_at": "2026-10-03T05:21:59+00:00",
   "ok": true,
   "failed_sources": [],
   "sources": [
@@ -10,7 +10,7 @@
       "error": "",
       "raw_count": 3338,
       "observed_raw_count": 3338,
-      "active_count": 3220,
+      "active_count": 3193,
       "anomaly_runs": 0
     },
     {
@@ -110,7 +110,7 @@
       "error": "",
       "raw_count": 643,
       "observed_raw_count": 643,
-      "active_count": 288,
+      "active_count": 282,
       "anomaly_runs": 0
     },
     {
@@ -120,7 +120,7 @@
       "error": "",
       "raw_count": 411,
       "observed_raw_count": 411,
-      "active_count": 285,
+      "active_count": 284,
       "anomaly_runs": 0
     },
     {
@@ -180,7 +180,7 @@
       "error": "",
       "raw_count": 497,
       "observed_raw_count": 497,
-      "active_count": 213,
+      "active_count": 186,
       "anomaly_runs": 0
     },
     {
@@ -230,7 +230,7 @@
       "error": "",
       "raw_count": 253,
       "observed_raw_count": 253,
-      "active_count": 69,
+      "active_count": 68,
       "anomaly_runs": 0
     },
     {
@@ -300,7 +300,7 @@
       "error": "",
       "raw_count": 95,
       "observed_raw_count": 95,
-      "active_count": 82,
+      "active_count": 78,
       "anomaly_runs": 0
     },
     {

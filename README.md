@@ -15,43 +15,43 @@
 
 <!-- JOBS_START -->
 
-当前收录 **6882** 条在招岗位。
+当前收录 **6816** 条在招岗位。
 
 ### 按岗位类别浏览
 
-🧭 **[产品](#category-1)**（1470）
+🧭 **[产品](#category-1)**（1449）
 
-⚙️ **[运营](#category-2)**（2055）
+⚙️ **[运营](#category-2)**（2033）
 
-✎ **[内容](#category-3)**（329）
+✎ **[内容](#category-3)**（328）
 
-📣 **[市场](#category-4)**（476）
+📣 **[市场](#category-4)**（474）
 
-💼 **[销售](#category-5)**（209）
+💼 **[销售](#category-5)**（208）
 
 🤝 **[商务拓展](#category-6)**（126）
 
-♟️ **[战略投资](#category-7)**（151）
+♟️ **[战略投资](#category-7)**（149）
 
-📊 **[数据分析](#category-8)**（233）
+📊 **[数据分析](#category-8)**（230）
 
 📋 **[项目管理](#category-9)**（118）
 
-✦ **[设计](#category-10)**（656）
+✦ **[设计](#category-10)**（654）
 
 🔍 **[用户研究](#category-11)**（62）
 
 🎮 **[游戏](#category-12)**（163）
 
-🧑‍💼 **[HR](#category-13)**（445）
+🧑‍💼 **[HR](#category-13)**（438）
 
 🧾 **[财务](#category-14)**（97）
 
-⚖️ **[法务合规](#category-15)**（101）
+⚖️ **[法务合规](#category-15)**（99）
 
 📦 **[采购供应链](#category-16)**（137）
 
-🏢 **[行政](#category-17)**（41）
+🏢 **[行政](#category-17)**（38）
 
 🛡️ **[审计风控](#category-18)**（13）
 
@@ -66,65 +66,65 @@
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
 | 哔哩哔哩 | 增长策略产品经理【2027届】 | 上海 | 校招 | 2d | [投递](https://jobs.bilibili.com/campus/positions/30712) |
-| 字节跳动 | 垂类Agent产品经理 - TikTok | 北京 / 上海 | 校招 | 2d | [投递](https://jobs.bytedance.com/campus/position/7691185619025103157/detail) |
-| 阿里巴巴 | 入境游项目实习生 | 上海 | 实习 | 2d | [投递](https://campus-talent.alibaba.com/campus/position/199909980001) |
-| 美团 | 具身智能/无人机传感器系统实习生 | 北京 / 深圳 | 实习 | 2d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4806085819&amp;jobShareType=1&amp;highlightType=campus) |
-| 百度 | 推荐产品实习生（J106280） | 北京 | 实习 | 2d | [投递](https://talent.baidu.com/jobs/detail/INTERN/31515862-8488-40f4-ae4d-c0e356d74dda) |
-| 字节跳动 | 语音大模型AI产品实习生 - Data语音 | 北京 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690408509064087813/detail) |
-| 百度 | MaaS产品经理实习生（J105157） | 北京 | 实习 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/275a1b63-47ac-4afd-82f7-8cf1c4318a18) |
-| 百度 | Agent产品经理实习生（用户体验方向）（J105527） | 北京 | 实习 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/1dacd81b-b78e-49a3-be9a-5c427967c2fe) |
-| 百度 | Agent产品经理实习生（J105528） | 北京 | 实习 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/ee4f887e-dda3-4bda-9989-6d1bdfff28d5) |
-| 百度 | Agent产品实习生（J105916） | 北京 | 实习 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/f4467a76-b35e-4ff8-bb4f-dd2c21ee9220) |
-| 百度 | Agent产品实习生（J105730） | 上海 | 实习 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/8930fd37-ded0-439d-b859-446bbc09ddd8) |
-| 字节跳动 | 大模型平台产品实习生 - TikTok | 上海 | 实习 | 7d | [投递](https://jobs.bytedance.com/campus/position/7689008806607440133/detail) |
-| 美团 | 餐饮SaaS产品经理实习生 | 成都 | 实习 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4795474377&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 美团充电宝用户产品实习生 | 北京 | 实习 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4799642125&amp;jobShareType=1&amp;highlightType=campus) |
-| 字节跳动 | AI互动产品实习生 - 抖音社交与互动 | 深圳 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688631333216045317/detail) |
-| 字节跳动 | 用户风控策略产品实习生 - 抖音电商 | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688614828563302709/detail) |
-| 字节跳动 | AI产品实习生 - TikTok直播 | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688613641994766645/detail) |
-| 字节跳动 | 国际化短剧产品实习生 - 番茄小说 | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688612094849992965/detail) |
-| 字节跳动 | 产品实习生（客户诊断方向） - 国际化电商广告 | 上海 / 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688607039737022773/detail) |
-| 字节跳动 | AI产品实习生 - TikTok直播 | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688605229466077493/detail) |
-| 字节跳动 | 流量策略产品实习生 - 国际化电商广告 | 上海 / 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688601896338655493/detail) |
-| 百度 | 搜索策略产品经理实习生（J106177） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/1fec7cde-f812-4a5a-a254-e0e6c6af3ebb) |
-| 百度 | 产品实习生（J106187） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/cee7b5be-8c75-42d7-80ef-1912b88d8adb) |
-| 百度 | 产品实习生（J106136） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/125f3bc0-a9b3-4fb9-9b0d-9fcadb14b8c9) |
-| 爱奇艺 | AI内容创作产品实习生 | 北京 | 实习 | 9d | [投递](https://careers.iqiyi.com/intern/position/7603568867067365673/detail) |
-| 小红书 | 种草产品实习生 | 北京 / 上海 | 实习 | 9d | [投递](https://job.xiaohongshu.com/campus/position/22589) |
-| 小米 | 音频产品经理-2027届 | 北京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686831256054860073/detail) |
-| 小米 | 运动健康产品经理实习生 | 北京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687575499958847798/detail) |
-| 小米 | 财务运营AI产品实习生-2027届 | 武汉 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687790142161848585/detail) |
-| 小米 | 产品经理实习生-2027届 | 南京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688560832972818714/detail) |
-| 字节跳动 | AIGC创意产品实习生 - 广告业务 | 北京 / 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688577144895064325/detail) |
-| 字节跳动 | AI产品经理（直播治理方向） - TikTok | 上海 | 校招 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688569734046714117/detail) |
-| 字节跳动 | 大模型数据（财会）实习生 - AI数据与安全 | 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688566180978657541/detail) |
-| 字节跳动 | 推荐策略产品实习生 - 抖音电商 | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688548750234585349/detail) |
-| 字节跳动 | 电商直播间用户产品实习生 - 抖音电商 | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688547060120308021/detail) |
-| 字节跳动 | 产品实习生（发卡产品） - 国际支付 | 上海 / 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688302813479160117/detail) |
-| 字节跳动 | 豆包AI大模型产品实习生 - 火山方舟 | 杭州 / 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688267140178004229/detail) |
-| 百度 | 用户产品经理实习生（J106134） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/a312a0e5-623b-4894-87ca-3b660020ef9c) |
-| 百度 | 产品经理实习生（J106008） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/2a30a008-be18-46bc-b6d5-9dedac0bfa25) |
-| 爱奇艺 | 产品实习生（创作者平台方向） | 北京 | 实习 | 10d | [投递](https://careers.iqiyi.com/intern/position/7620385100698863882/detail) |
-| 小红书 | 图文消费产品实习生 | 北京 | 实习 | 10d | [投递](https://job.xiaohongshu.com/campus/position/22580) |
-| 小米 | 生态链软件产品实习生 | 武汉 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687528214218049842/detail) |
-| 字节跳动 | 搜索策略产品实习生 - TikTok搜索 | 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687943232394856757/detail) |
-| 字节跳动 | AI产品实习生（代码方向） - 抖音AI | 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687927224771643701/detail) |
-| 字节跳动 | AI计算产品经理 - AI算力基础设施 | 北京、杭州、上海等 4 个城市 | 校招 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687893581964773685/detail) |
-| 字节跳动 | AI产品实习生（效果评测方向） - TikTok | 上海 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687890394097436933/detail) |
-| 蚂蚁集团 | 财富AI Lab-AI产品经理 | 杭州 | 校招 | 11d | [投递](https://talent.antgroup.com/campus-position?positionId=260920012140234) |
-| 美团 | 美团-C 端AI 产品实习生 | 上海 | 实习 | 11d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4786668648&amp;jobShareType=1&amp;highlightType=campus) |
-| 智元机器人 | 交互智能产品经理实习生 | 上海 | 实习 | 11d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7687804820422314267/detail) |
-| 字节跳动 | 推荐策略产品实习生 - TikTok | 北京 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687846373169318149/detail) |
-| 字节跳动 | 商业化策略产品实习生 - TikTok | 上海 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687841225036826885/detail) |
-| 字节跳动 | 主框架产品实习生 - 剪映CapCut | 北京 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687528420886284549/detail) |
-| 字节跳动 | 欧洲区域商家产品实习生 - TikTok Shop | 上海 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687525532749728005/detail) |
-| 字节跳动 | 激励策略产品实习生 - 抖音增长 | 上海 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687494217808038197/detail) |
-| 美团 | AI产品实习 | 上海 | 实习 | 12d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4790166200&amp;jobShareType=1&amp;highlightType=campus) |
-| 百度 | 电商产品经理实习生（用商方向）（J105987） | 北京 | 实习 | 12d | [投递](https://talent.baidu.com/jobs/detail/INTERN/d320f9ca-153c-439b-a847-4f55d701ceb0) |
-| 百度 | 流量策略产品实习生（J105753） | 上海 | 实习 | 12d | [投递](https://talent.baidu.com/jobs/detail/INTERN/70700d51-0662-4961-ace3-9570acca0a27) |
-| 百度 | 汽车搜索产品经理（实习）（J105082） | 北京 | 实习 | 12d | [投递](https://talent.baidu.com/jobs/detail/INTERN/51faa6ae-9ec9-4d4f-bd54-4b5ccebd9726) |
-| 百度 | 产品经理实习生（J105983） | 北京 | 实习 | 12d | [投递](https://talent.baidu.com/jobs/detail/INTERN/f80447ec-e117-4f64-ac87-5738d8d04211) |
-| 小米 | TTS语音生成产品经理-2027届 | 北京 | 实习 | 12d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687421651307219238/detail) |
+| 字节跳动 | 垂类Agent产品经理 - TikTok | 北京 / 上海 | 校招 | 3d | [投递](https://jobs.bytedance.com/campus/position/7691185619025103157/detail) |
+| 阿里巴巴 | 入境游项目实习生 | 上海 | 实习 | 3d | [投递](https://campus-talent.alibaba.com/campus/position/199909980001) |
+| 美团 | 具身智能/无人机传感器系统实习生 | 北京 / 深圳 | 实习 | 3d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4806085819&amp;jobShareType=1&amp;highlightType=campus) |
+| 百度 | 推荐产品实习生（J106280） | 北京 | 实习 | 3d | [投递](https://talent.baidu.com/jobs/detail/INTERN/31515862-8488-40f4-ae4d-c0e356d74dda) |
+| 字节跳动 | 语音大模型AI产品实习生 - Data语音 | 北京 | 实习 | 5d | [投递](https://jobs.bytedance.com/campus/position/7690408509064087813/detail) |
+| 百度 | MaaS产品经理实习生（J105157） | 北京 | 实习 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/275a1b63-47ac-4afd-82f7-8cf1c4318a18) |
+| 百度 | Agent产品经理实习生（用户体验方向）（J105527） | 北京 | 实习 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/1dacd81b-b78e-49a3-be9a-5c427967c2fe) |
+| 百度 | Agent产品经理实习生（J105528） | 北京 | 实习 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/ee4f887e-dda3-4bda-9989-6d1bdfff28d5) |
+| 百度 | Agent产品实习生（J105916） | 北京 | 实习 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/f4467a76-b35e-4ff8-bb4f-dd2c21ee9220) |
+| 百度 | Agent产品实习生（J105730） | 上海 | 实习 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/8930fd37-ded0-439d-b859-446bbc09ddd8) |
+| 字节跳动 | 大模型平台产品实习生 - TikTok | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7689008806607440133/detail) |
+| 美团 | 餐饮SaaS产品经理实习生 | 成都 | 实习 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4795474377&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 美团充电宝用户产品实习生 | 北京 | 实习 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4799642125&amp;jobShareType=1&amp;highlightType=campus) |
+| 字节跳动 | AI互动产品实习生 - 抖音社交与互动 | 深圳 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688631333216045317/detail) |
+| 字节跳动 | 用户风控策略产品实习生 - 抖音电商 | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688614828563302709/detail) |
+| 字节跳动 | AI产品实习生 - TikTok直播 | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688613641994766645/detail) |
+| 字节跳动 | 国际化短剧产品实习生 - 番茄小说 | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688612094849992965/detail) |
+| 字节跳动 | 产品实习生（客户诊断方向） - 国际化电商广告 | 上海 / 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688607039737022773/detail) |
+| 字节跳动 | AI产品实习生 - TikTok直播 | 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688605229466077493/detail) |
+| 字节跳动 | 流量策略产品实习生 - 国际化电商广告 | 上海 / 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688601896338655493/detail) |
+| 百度 | 搜索策略产品经理实习生（J106177） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/1fec7cde-f812-4a5a-a254-e0e6c6af3ebb) |
+| 百度 | 产品实习生（J106187） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/cee7b5be-8c75-42d7-80ef-1912b88d8adb) |
+| 百度 | 产品实习生（J106136） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/125f3bc0-a9b3-4fb9-9b0d-9fcadb14b8c9) |
+| 爱奇艺 | AI内容创作产品实习生 | 北京 | 实习 | 10d | [投递](https://careers.iqiyi.com/intern/position/7603568867067365673/detail) |
+| 小红书 | 种草产品实习生 | 北京 / 上海 | 实习 | 10d | [投递](https://job.xiaohongshu.com/campus/position/22589) |
+| 小米 | 音频产品经理-2027届 | 北京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686831256054860073/detail) |
+| 小米 | 运动健康产品经理实习生 | 北京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687575499958847798/detail) |
+| 小米 | 财务运营AI产品实习生-2027届 | 武汉 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687790142161848585/detail) |
+| 小米 | 产品经理实习生-2027届 | 南京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688560832972818714/detail) |
+| 字节跳动 | AIGC创意产品实习生 - 广告业务 | 北京 / 上海 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688577144895064325/detail) |
+| 字节跳动 | AI产品经理（直播治理方向） - TikTok | 上海 | 校招 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688569734046714117/detail) |
+| 字节跳动 | 大模型数据（财会）实习生 - AI数据与安全 | 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688566180978657541/detail) |
+| 字节跳动 | 推荐策略产品实习生 - 抖音电商 | 上海 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688548750234585349/detail) |
+| 字节跳动 | 电商直播间用户产品实习生 - 抖音电商 | 上海 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688547060120308021/detail) |
+| 字节跳动 | 产品实习生（发卡产品） - 国际支付 | 上海 / 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688302813479160117/detail) |
+| 字节跳动 | 豆包AI大模型产品实习生 - 火山方舟 | 杭州 / 上海 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688267140178004229/detail) |
+| 百度 | 用户产品经理实习生（J106134） | 北京 | 实习 | 11d | [投递](https://talent.baidu.com/jobs/detail/INTERN/a312a0e5-623b-4894-87ca-3b660020ef9c) |
+| 百度 | 产品经理实习生（J106008） | 北京 | 实习 | 11d | [投递](https://talent.baidu.com/jobs/detail/INTERN/2a30a008-be18-46bc-b6d5-9dedac0bfa25) |
+| 爱奇艺 | 产品实习生（创作者平台方向） | 北京 | 实习 | 11d | [投递](https://careers.iqiyi.com/intern/position/7620385100698863882/detail) |
+| 小红书 | 图文消费产品实习生 | 北京 | 实习 | 11d | [投递](https://job.xiaohongshu.com/campus/position/22580) |
+| 小米 | 生态链软件产品实习生 | 武汉 | 实习 | 11d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687528214218049842/detail) |
+| 字节跳动 | 搜索策略产品实习生 - TikTok搜索 | 北京 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687943232394856757/detail) |
+| 字节跳动 | AI产品实习生（代码方向） - 抖音AI | 北京 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687927224771643701/detail) |
+| 字节跳动 | AI计算产品经理 - AI算力基础设施 | 北京、杭州、上海等 4 个城市 | 校招 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687893581964773685/detail) |
+| 字节跳动 | AI产品实习生（效果评测方向） - TikTok | 上海 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687890394097436933/detail) |
+| 蚂蚁集团 | 财富AI Lab-AI产品经理 | 杭州 | 校招 | 12d | [投递](https://talent.antgroup.com/campus-position?positionId=260920012140234) |
+| 美团 | 美团-C 端AI 产品实习生 | 上海 | 实习 | 12d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4786668648&amp;jobShareType=1&amp;highlightType=campus) |
+| 智元机器人 | 交互智能产品经理实习生 | 上海 | 实习 | 12d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7687804820422314267/detail) |
+| 字节跳动 | 推荐策略产品实习生 - TikTok | 北京 | 实习 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687846373169318149/detail) |
+| 字节跳动 | 商业化策略产品实习生 - TikTok | 上海 | 实习 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687841225036826885/detail) |
+| 字节跳动 | 主框架产品实习生 - 剪映CapCut | 北京 | 实习 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687528420886284549/detail) |
+| 字节跳动 | 欧洲区域商家产品实习生 - TikTok Shop | 上海 | 实习 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687525532749728005/detail) |
+| 字节跳动 | 激励策略产品实习生 - 抖音增长 | 上海 | 实习 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687494217808038197/detail) |
+| 美团 | AI产品实习 | 上海 | 实习 | 13d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4790166200&amp;jobShareType=1&amp;highlightType=campus) |
+| 百度 | 电商产品经理实习生（用商方向）（J105987） | 北京 | 实习 | 13d | [投递](https://talent.baidu.com/jobs/detail/INTERN/d320f9ca-153c-439b-a847-4f55d701ceb0) |
+| 百度 | 流量策略产品实习生（J105753） | 上海 | 实习 | 13d | [投递](https://talent.baidu.com/jobs/detail/INTERN/70700d51-0662-4961-ace3-9570acca0a27) |
+| 百度 | 汽车搜索产品经理（实习）（J105082） | 北京 | 实习 | 13d | [投递](https://talent.baidu.com/jobs/detail/INTERN/51faa6ae-9ec9-4d4f-bd54-4b5ccebd9726) |
+| 百度 | 产品经理实习生（J105983） | 北京 | 实习 | 13d | [投递](https://talent.baidu.com/jobs/detail/INTERN/f80447ec-e117-4f64-ac87-5738d8d04211) |
+| 小米 | TTS语音生成产品经理-2027届 | 北京 | 实习 | 13d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687421651307219238/detail) |
 
 ---
 
@@ -136,66 +136,66 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 百度 | DuMate生态运营实习生（J106312） | 北京 | 实习 | 23h | [投递](https://talent.baidu.com/jobs/detail/INTERN/ef7bf24d-667d-4bec-bdfc-a7cae4dd7bb8) |
-| 字节跳动 | 招商策略运营实习生 - TikTok Shop | 上海 | 实习 | 1d | [投递](https://jobs.bytedance.com/campus/position/7691242372164258101/detail) |
-| 字节跳动 | 马来西亚电商达人运营实习生 - TikTok Shop | 上海 | 实习 | 1d | [投递](https://jobs.bytedance.com/campus/position/7691230827590306053/detail) |
-| 字节跳动 | 达人运营实习生 - 抖音电商运营 | 上海 | 实习 | 1d | [投递](https://jobs.bytedance.com/campus/position/7691226117898733829/detail) |
+| 百度 | DuMate生态运营实习生（J106312） | 北京 | 实习 | 1d | [投递](https://talent.baidu.com/jobs/detail/INTERN/ef7bf24d-667d-4bec-bdfc-a7cae4dd7bb8) |
+| 字节跳动 | 招商策略运营实习生 - TikTok Shop | 上海 | 实习 | 2d | [投递](https://jobs.bytedance.com/campus/position/7691242372164258101/detail) |
+| 字节跳动 | 马来西亚电商达人运营实习生 - TikTok Shop | 上海 | 实习 | 2d | [投递](https://jobs.bytedance.com/campus/position/7691230827590306053/detail) |
+| 字节跳动 | 达人运营实习生 - 抖音电商运营 | 上海 | 实习 | 2d | [投递](https://jobs.bytedance.com/campus/position/7691226117898733829/detail) |
 | 百度 | SQC业务运营实习生（J106295） | 北京 | 实习 | 2d | [投递](https://talent.baidu.com/jobs/detail/INTERN/9ba0eeb1-990b-4099-abb4-1856124f9751) |
 | 爱奇艺 | 数据标注实习生 | 成都 | 实习 | 2d | [投递](https://careers.iqiyi.com/intern/position/7389823421561325887/detail) |
 | 小米 | 销售运营实习生-2027届 | 北京 | 实习 | 2d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688548955249150259/detail) |
 | 哔哩哔哩 | 海外内容创作者运营（实习） | 上海 | 实习 | 2d | [投递](https://jobs.bilibili.com/campus/positions/30710) |
-| 字节跳动 | 产品运营实习生 - Global Business Solutions | 上海 | 实习 | 2d | [投递](https://jobs.bytedance.com/campus/position/7691159122796054837/detail) |
-| 字节跳动 | 商家增长策略运营 - 抖音生活服务 | 上海 / 北京 | 校招 | 2d | [投递](https://jobs.bytedance.com/campus/position/7690883262235429125/detail) |
-| 网易 | 运营策划日常实习生（产品运营方向） | 上海 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79127) |
-| 网易 | 运营策划日常实习生（产品运营方向） | 上海 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79125) |
-| 网易 | 短视频品类实习生 | 北京 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79138) |
-| 网易 | 内容运营实习生（广州） | 广州 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79119) |
-| 哔哩哔哩 | 海外运营实习生 | 深圳 | 实习 | 2d | [投递](https://jobs.bilibili.com/campus/positions/30686) |
+| 字节跳动 | 产品运营实习生 - Global Business Solutions | 上海 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7691159122796054837/detail) |
+| 字节跳动 | 商家增长策略运营 - 抖音生活服务 | 上海 / 北京 | 校招 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690883262235429125/detail) |
+| 网易 | 运营策划日常实习生（产品运营方向） | 上海 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79127) |
+| 网易 | 运营策划日常实习生（产品运营方向） | 上海 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79125) |
+| 网易 | 短视频品类实习生 | 北京 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79138) |
+| 网易 | 内容运营实习生（广州） | 广州 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79119) |
+| 哔哩哔哩 | 海外运营实习生 | 深圳 | 实习 | 3d | [投递](https://jobs.bilibili.com/campus/positions/30686) |
 | 字节跳动 | 价格力策略运营实习生 - TikTok Shop | 上海 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690827184344369461/detail) |
 | 字节跳动 | 内容运营实习生 - 抖音电商 | 北京 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690826188868045061/detail) |
-| 字节跳动 | AI模型数据运营实习生（葡语/西语） - TikTok | 上海 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690786313524381957/detail) |
-| 字节跳动 | 增长策略运营（抖音AI产品人才校招） - 抖音音乐 | 北京 | 校招 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690781100918884613/detail) |
-| 字节跳动 | 商家商品策略实习生 - 抖音电商运营 | 上海 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690768137100331317/detail) |
-| 字节跳动 | 中泰双语达人运营实习生 - TikTok Shop | 北京 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690489307534788917/detail) |
-| 字节跳动 | AI工具增长运营（应用搭建方向）实习生 - 集团信息系统 | 上海 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690479164097628469/detail) |
-| 字节跳动 | 东南亚跨境策略运营实习生 - TikTok Shop | 上海 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690467088117254405/detail) |
-| 字节跳动 | 商家运营实习生 - TikTok Shop | 深圳 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690150241305102597/detail) |
-| 哔哩哔哩 | 商业化行业运营实习生 | 上海 | 实习 | 6d | [投递](https://jobs.bilibili.com/campus/positions/30677) |
-| 阿里巴巴 | 千问办公-内容运营实习生 | 杭州 / 上海 | 实习 | 7d | [投递](https://campus-talent.alibaba.com/campus/position/199909820002) |
-| 阿里巴巴 | 千问办公-AI产品运营实习生 | 杭州 | 实习 | 7d | [投递](https://campus-talent.alibaba.com/campus/position/199909940001) |
-| 网易 | 内容运营实习生 | 杭州 | 实习 | 7d | [投递](https://hr.163.com/job-detail.html?id=77459) |
-| 米哈游 | AI 创新运营实习生 | 上海 | 实习 | 7d | [投递](https://jobs.mihoyo.com/#/position/8616) |
-| 百度 | 运营分析师（J106244） | 北京 | 校招 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/068d61d1-7843-406a-8bdc-17a39bb3f3f6) |
-| 小米 | 视频剪辑运营实习生 | 北京 | 实习 | 7d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688228028929394963/detail) |
-| 字节跳动 | 家清日用行业实习生 - 抖音电商运营 | 上海 | 实习 | 7d | [投递](https://jobs.bytedance.com/campus/position/7689039437923862789/detail) |
-| 字节跳动 | 内容运营（AI方向）实习生 - 抖音UGC | 北京 | 实习 | 7d | [投递](https://jobs.bytedance.com/campus/position/7689029882064374021/detail) |
-| 美团 | 充电宝产品运营实习生（资产管理方向） | 北京 | 实习 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4799979043&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 【国际化业务】销售运营岗/Sales Operations Specialist | 科威特城 | 校招 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803892030&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 【国际化业务】AI产品运营岗/AI Product Operations Specialist | 科威特城 | 校招 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803800880&amp;jobShareType=1&amp;highlightType=campus) |
-| 网易 | 创作者运营实习生 | 北京 | 实习 | 8d | [投递](https://hr.163.com/job-detail.html?id=79094) |
-| 爱奇艺 | 爱奇艺乐园公众号运营实习生 | 扬州 | 实习 | 8d | [投递](https://careers.iqiyi.com/intern/position/7612968454974753043/detail) |
-| 小红书 | 喜剧创作者运营实习生 | 北京 | 实习 | 8d | [投递](https://job.xiaohongshu.com/campus/position/22602) |
-| 小红书 | NLP/多模态/大模型 实习生- Agentic审核方向 | 杭州 | 实习 | 8d | [投递](https://job.xiaohongshu.com/campus/position/22601) |
-| 小米 | 小米汽车-售后服务运营实习生 | 北京 | 实习 | 8d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688918981902944538/detail) |
-| 字节跳动 | 商业运营实习生 - 飞书商业化 | 上海 / 北京 / 广州 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688951884846942469/detail) |
-| 字节跳动 | 行业运营（学习用品与乐器）实习生 - 抖音电商运营 | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688913148255471877/detail) |
-| 字节跳动 | 女装行业实习生 - 抖音电商运营 | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688912590709328133/detail) |
-| 字节跳动 | 商业化运营实习生 - Global Business Solutions | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688753651264276789/detail) |
-| 字节跳动 | 大模型生产力评测实习生 - AI数据与安全 | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688656538642417925/detail) |
-| 字节跳动 | 豆包工作用户运营实习生 - 飞书商业化 | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688626517052492085/detail) |
-| 字节跳动 | 体育产品运营实习生 - TikTok | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688607286710208821/detail) |
-| 字节跳动 | 推荐策略实习生 - TikTok | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688605229449546037/detail) |
-| 网易 | 客户运营实习生 | 杭州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79049) |
-| 网易 | AI原生游戏产品运营实习生 | 上海 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79058) |
-| 百度 | 活动运营实习生（J106132） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/e54f1107-f7e0-44c8-8bbc-0e8758e5c472) |
-| 百度 | 业务运营实习生（J106166） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/0d875125-a574-4984-9fba-4c1047a6fb45) |
-| 百度 | AIGC内容运营实习生（J106133） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/7feca2a9-b4c3-4321-8d27-8b1532457e1d) |
-| 小红书 | 培训运营实习生 | 北京 | 实习 | 9d | [投递](https://job.xiaohongshu.com/campus/position/22590) |
-| 小米 | 资金运营实习生-2027届 | 北京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688241970145823012/detail) |
-| 小米 | 内容运营实习生-2027届 | 北京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688279862091761939/detail) |
-| 哔哩哔哩 | 衍生品活动运营 | 上海 | 实习 | 9d | [投递](https://jobs.bilibili.com/campus/positions/30636) |
-| 哔哩哔哩 | 数码3C 行业运营实习生 | 上海 | 实习 | 9d | [投递](https://jobs.bilibili.com/campus/positions/30650) |
-| 哔哩哔哩 | 动画与影视内容运营实习生 | 上海 | 实习 | 9d | [投递](https://jobs.bilibili.com/campus/positions/30654) |
+| 字节跳动 | AI模型数据运营实习生（葡语/西语） - TikTok | 上海 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690786313524381957/detail) |
+| 字节跳动 | 增长策略运营（抖音AI产品人才校招） - 抖音音乐 | 北京 | 校招 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690781100918884613/detail) |
+| 字节跳动 | 商家商品策略实习生 - 抖音电商运营 | 上海 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690768137100331317/detail) |
+| 字节跳动 | 中泰双语达人运营实习生 - TikTok Shop | 北京 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690489307534788917/detail) |
+| 字节跳动 | AI工具增长运营（应用搭建方向）实习生 - 集团信息系统 | 上海 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690479164097628469/detail) |
+| 字节跳动 | 东南亚跨境策略运营实习生 - TikTok Shop | 上海 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690467088117254405/detail) |
+| 字节跳动 | 商家运营实习生 - TikTok Shop | 深圳 | 实习 | 5d | [投递](https://jobs.bytedance.com/campus/position/7690150241305102597/detail) |
+| 哔哩哔哩 | 商业化行业运营实习生 | 上海 | 实习 | 7d | [投递](https://jobs.bilibili.com/campus/positions/30677) |
+| 阿里巴巴 | 千问办公-内容运营实习生 | 杭州 / 上海 | 实习 | 8d | [投递](https://campus-talent.alibaba.com/campus/position/199909820002) |
+| 阿里巴巴 | 千问办公-AI产品运营实习生 | 杭州 | 实习 | 8d | [投递](https://campus-talent.alibaba.com/campus/position/199909940001) |
+| 网易 | 内容运营实习生 | 杭州 | 实习 | 8d | [投递](https://hr.163.com/job-detail.html?id=77459) |
+| 米哈游 | AI 创新运营实习生 | 上海 | 实习 | 8d | [投递](https://jobs.mihoyo.com/#/position/8616) |
+| 百度 | 运营分析师（J106244） | 北京 | 校招 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/068d61d1-7843-406a-8bdc-17a39bb3f3f6) |
+| 小米 | 视频剪辑运营实习生 | 北京 | 实习 | 8d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688228028929394963/detail) |
+| 字节跳动 | 家清日用行业实习生 - 抖音电商运营 | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7689039437923862789/detail) |
+| 字节跳动 | 内容运营（AI方向）实习生 - 抖音UGC | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7689029882064374021/detail) |
+| 美团 | 充电宝产品运营实习生（资产管理方向） | 北京 | 实习 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4799979043&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 【国际化业务】销售运营岗/Sales Operations Specialist | 科威特城 | 校招 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803892030&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 【国际化业务】AI产品运营岗/AI Product Operations Specialist | 科威特城 | 校招 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803800880&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 创作者运营实习生 | 北京 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79094) |
+| 爱奇艺 | 爱奇艺乐园公众号运营实习生 | 扬州 | 实习 | 9d | [投递](https://careers.iqiyi.com/intern/position/7612968454974753043/detail) |
+| 小红书 | 喜剧创作者运营实习生 | 北京 | 实习 | 9d | [投递](https://job.xiaohongshu.com/campus/position/22602) |
+| 小红书 | NLP/多模态/大模型 实习生- Agentic审核方向 | 杭州 | 实习 | 9d | [投递](https://job.xiaohongshu.com/campus/position/22601) |
+| 小米 | 小米汽车-售后服务运营实习生 | 北京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688918981902944538/detail) |
+| 字节跳动 | 商业运营实习生 - 飞书商业化 | 上海 / 北京 / 广州 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688951884846942469/detail) |
+| 字节跳动 | 行业运营（学习用品与乐器）实习生 - 抖音电商运营 | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688913148255471877/detail) |
+| 字节跳动 | 女装行业实习生 - 抖音电商运营 | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688912590709328133/detail) |
+| 字节跳动 | 商业化运营实习生 - Global Business Solutions | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688753651264276789/detail) |
+| 字节跳动 | 豆包工作用户运营实习生 - 飞书商业化 | 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688626517052492085/detail) |
+| 字节跳动 | 体育产品运营实习生 - TikTok | 上海 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688607286710208821/detail) |
+| 字节跳动 | 推荐策略实习生 - TikTok | 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688605229449546037/detail) |
+| 网易 | 客户运营实习生 | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79049) |
+| 网易 | AI原生游戏产品运营实习生 | 上海 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79058) |
+| 百度 | 活动运营实习生（J106132） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/e54f1107-f7e0-44c8-8bbc-0e8758e5c472) |
+| 百度 | 业务运营实习生（J106166） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/0d875125-a574-4984-9fba-4c1047a6fb45) |
+| 百度 | AIGC内容运营实习生（J106133） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/7feca2a9-b4c3-4321-8d27-8b1532457e1d) |
+| 小红书 | 培训运营实习生 | 北京 | 实习 | 10d | [投递](https://job.xiaohongshu.com/campus/position/22590) |
+| 小米 | 资金运营实习生-2027届 | 北京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688241970145823012/detail) |
+| 小米 | 内容运营实习生-2027届 | 北京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688279862091761939/detail) |
+| 哔哩哔哩 | 衍生品活动运营 | 上海 | 实习 | 10d | [投递](https://jobs.bilibili.com/campus/positions/30636) |
+| 哔哩哔哩 | 数码3C 行业运营实习生 | 上海 | 实习 | 10d | [投递](https://jobs.bilibili.com/campus/positions/30650) |
+| 哔哩哔哩 | 动画与影视内容运营实习生 | 上海 | 实习 | 10d | [投递](https://jobs.bilibili.com/campus/positions/30654) |
+| 字节跳动 | 创作者运营实习生（AI PGC） - 剪映CapCut | 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688575880847296821/detail) |
 
 ---
 
@@ -207,30 +207,30 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 网易 | 视频摄像剪辑实习生 | 北京 | 实习 | 23h | [投递](https://hr.163.com/job-detail.html?id=79148) |
+| 网易 | 视频摄像剪辑实习生 | 北京 | 实习 | 1d | [投递](https://hr.163.com/job-detail.html?id=79148) |
 | 网易 | 视频剪辑实习生（含AI方向） | 北京 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=76296) |
-| 爱奇艺 | 海外内容排播（陆剧、综艺方向）实习生 | 北京 | 实习 | 2d | [投递](https://careers.iqiyi.com/intern/position/7630733091745204521/detail) |
-| 哔哩哔哩 | 字幕制作实习生 | 上海 | 实习 | 2d | [投递](https://jobs.bilibili.com/campus/positions/30684) |
-| 哔哩哔哩 | 内容策划实习生 | 上海 | 实习 | 2d | [投递](https://jobs.bilibili.com/campus/positions/30702) |
-| 字节跳动 | PGC短剧内容质量管理（韩语方向） - TikTok | 上海 | 校招 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690414168255498549/detail) |
-| 字节跳动 | PGC短剧内容质量管理（日语方向） - TikTok | 上海 | 校招 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690413231816853765/detail) |
-| 哔哩哔哩 | 语音模型评测实习生（泰语内容制作及翻译评测方向） | 上海 | 实习 | 6d | [投递](https://jobs.bilibili.com/campus/positions/30674) |
-| 哔哩哔哩 | 虚拟偶像制作实习生 | 重庆 | 实习 | 6d | [投递](https://jobs.bilibili.com/campus/positions/30662) |
-| 哔哩哔哩 | 内容生态策略产品 | 上海 | 实习 | 6d | [投递](https://jobs.bilibili.com/campus/positions/30660) |
-| 网易 | 视频摄像剪辑实习生 | 北京 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=73577) |
-| 爱奇艺 | 海外内容版权实习生 | 北京 | 实习 | 9d | [投递](https://careers.iqiyi.com/intern/position/7688232417929283891/detail) |
-| 哔哩哔哩 | AI内容创作实习生 | 上海 | 实习 | 9d | [投递](https://jobs.bilibili.com/campus/positions/30656) |
-| 百度 | 内容商业化实习生（J105755） | 北京 | 实习 | 11d | [投递](https://talent.baidu.com/jobs/detail/INTERN/bfe9eddb-e80d-489b-8aec-063e13317bf2) |
-| 哔哩哔哩 | 版权支持实习生（知识产权方向） | 上海 | 实习 | 11d | [投递](https://jobs.bilibili.com/campus/positions/30632) |
-| 字节跳动 | 短剧内容安全策略 - 内容质量与数据服务平台 | 北京 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687455038013425973/detail) |
-| 网易 | AI导演实习生 | 北京 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78980) |
-| 网易 | 语音大模型数据标注实习生 | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=71723) |
-| 网易 | 视频剪辑与后期制作实习生 | 北京 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78959) |
-| 网易 | 浪潮视频策划实习生 | 北京 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78961) |
-| 小红书 | 【2027校招】rednote全球内容理解模型策略 | 北京 / 上海 | 校招 | 14d | [投递](https://job.xiaohongshu.com/campus/position/22504) |
-| 哔哩哔哩 | 海外社媒内容实习生 | 上海 | 实习 | 14d | [投递](https://jobs.bilibili.com/campus/positions/30588) |
-| 哔哩哔哩 | 原创音乐实习生 | 上海 | 实习 | 14d | [投递](https://jobs.bilibili.com/campus/positions/30602) |
-| 字节跳动 | 内容策略运营实习生 - 抖音UGC | 上海 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686396445432137989/detail) |
+| 爱奇艺 | 海外内容排播（陆剧、综艺方向）实习生 | 北京 | 实习 | 3d | [投递](https://careers.iqiyi.com/intern/position/7630733091745204521/detail) |
+| 哔哩哔哩 | 字幕制作实习生 | 上海 | 实习 | 3d | [投递](https://jobs.bilibili.com/campus/positions/30684) |
+| 哔哩哔哩 | 内容策划实习生 | 上海 | 实习 | 3d | [投递](https://jobs.bilibili.com/campus/positions/30702) |
+| 字节跳动 | PGC短剧内容质量管理（韩语方向） - TikTok | 上海 | 校招 | 5d | [投递](https://jobs.bytedance.com/campus/position/7690414168255498549/detail) |
+| 字节跳动 | PGC短剧内容质量管理（日语方向） - TikTok | 上海 | 校招 | 5d | [投递](https://jobs.bytedance.com/campus/position/7690413231816853765/detail) |
+| 哔哩哔哩 | 语音模型评测实习生（泰语内容制作及翻译评测方向） | 上海 | 实习 | 7d | [投递](https://jobs.bilibili.com/campus/positions/30674) |
+| 哔哩哔哩 | 虚拟偶像制作实习生 | 重庆 | 实习 | 7d | [投递](https://jobs.bilibili.com/campus/positions/30662) |
+| 哔哩哔哩 | 内容生态策略产品 | 上海 | 实习 | 7d | [投递](https://jobs.bilibili.com/campus/positions/30660) |
+| 网易 | 视频摄像剪辑实习生 | 北京 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=73577) |
+| 爱奇艺 | 海外内容版权实习生 | 北京 | 实习 | 10d | [投递](https://careers.iqiyi.com/intern/position/7688232417929283891/detail) |
+| 哔哩哔哩 | AI内容创作实习生 | 上海 | 实习 | 10d | [投递](https://jobs.bilibili.com/campus/positions/30656) |
+| 百度 | 内容商业化实习生（J105755） | 北京 | 实习 | 12d | [投递](https://talent.baidu.com/jobs/detail/INTERN/bfe9eddb-e80d-489b-8aec-063e13317bf2) |
+| 哔哩哔哩 | 版权支持实习生（知识产权方向） | 上海 | 实习 | 12d | [投递](https://jobs.bilibili.com/campus/positions/30632) |
+| 字节跳动 | 短剧内容安全策略 - 内容质量与数据服务平台 | 北京 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687455038013425973/detail) |
+| 网易 | AI导演实习生 | 北京 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78980) |
+| 网易 | 语音大模型数据标注实习生 | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=71723) |
+| 网易 | 视频剪辑与后期制作实习生 | 北京 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78959) |
+| 网易 | 浪潮视频策划实习生 | 北京 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78961) |
+| 小红书 | 【2027校招】rednote全球内容理解模型策略 | 北京 / 上海 | 校招 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22504) |
+| 哔哩哔哩 | 海外社媒内容实习生 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30588) |
+| 哔哩哔哩 | 原创音乐实习生 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30602) |
+| 字节跳动 | 内容策略运营实习生 - 抖音UGC | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686396445432137989/detail) |
 | 哔哩哔哩 | 多语种内容标注实习生（英语/西语/阿语/日语等） | 深圳 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30557) |
 | 字节跳动 | AI内容策略运营实习生 - 抖音生态 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686332350209509637/detail) |
 | 网易 | 韩语业务实习生 | 北京 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78875) |
@@ -278,45 +278,45 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 小红书 | 小红书 · 创新产品市场运营实习生 | 北京 / 上海 | 实习 | &lt;1h | [投递](https://job.xiaohongshu.com/campus/position/22615) |
+| 小红书 | 小红书 · 创新产品市场运营实习生 | 北京 / 上海 | 实习 | 23h | [投递](https://job.xiaohongshu.com/campus/position/22615) |
 | 智元机器人 | 雇主品牌运营 | 上海 | 校招 | 2d | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7690829841441507634/detail) |
-| 网易 | 品牌创意实习生（七日世界） | 上海 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79126) |
-| 网易 | 公关传播实习生（MMO游戏） | 广州 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79117) |
-| 百度 | 漫剧运营实习生（品牌方向）（J106287） | 北京 | 实习 | 2d | [投递](https://talent.baidu.com/jobs/detail/INTERN/b30a9c04-f711-42a6-912d-cf9dc2a7da14) |
-| 爱奇艺 | 媒介实习生-北京 | 北京 | 实习 | 2d | [投递](https://careers.iqiyi.com/intern/position/7395457550595934502/detail) |
-| 智元机器人 | 欧美地区部市场营销经理 | 旧金山 / 巴黎 / 慕尼黑 | 校招 | 2d | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7647799552854640934/detail) |
-| 哔哩哔哩 | 品类营销实习生 | 上海 | 实习 | 2d | [投递](https://jobs.bilibili.com/campus/positions/30688) |
-| 字节跳动 | 平台营销活动实习生 - TikTok Shop | 上海 | 实习 | 7d | [投递](https://jobs.bytedance.com/campus/position/7689101094866766085/detail) |
-| 字节跳动 | 剪映市场实习生 - 剪映CapCut | 深圳 / 北京 | 实习 | 7d | [投递](https://jobs.bytedance.com/campus/position/7689014591235623173/detail) |
-| 字节跳动 | PR实习生 - 中国公共关系 | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688661294886619445/detail) |
-| 百度 | 品牌运营实习生（J106147） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/96788144-97db-49bf-a141-4bab1d69da14) |
-| 哔哩哔哩 | 投放实习生 | 上海 | 实习 | 9d | [投递](https://jobs.bilibili.com/campus/positions/30648) |
-| MiniMax | Global Marketing | 旧金山 | 校招 | 9d | [投递](https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7684113173146798372/detail) |
-| 网易 | 游戏营销实习生（生态方向-射击类） | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79029) |
-| 网易 | 内容营销实习生（外贸通） | 北京 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79040) |
-| 网易 | 内容素材营销（王牌竞速） | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79037) |
-| 字节跳动 | 机构平台产品（AI产品）实习生 - 抖音品牌营销与星图达人 | 上海 / 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687924038083447045/detail) |
-| 小米 | 营销传播经理 Storyteller | 北京 | 校招 | 11d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670882803018828059/detail) |
-| 字节跳动 | 用户增长运营（投放策略） - 抖音生活服务 | 上海 / 北京 | 校招 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687573366027028789/detail) |
-| 字节跳动 | 营销玩法策略实习生 - 抖音电商 | 上海 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687549575980435765/detail) |
-| 百度 | 海外品牌市场运营实习生（J104581） | 北京 | 实习 | 12d | [投递](https://talent.baidu.com/jobs/detail/INTERN/d8a550e4-7666-4201-a913-4fb4899920e9) |
-| 网易 | 游戏营销实习生（自媒体方向-日语/英语） | 上海 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78967) |
-| 网易 | 守望先锋新媒体实习生 | 杭州 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=76399) |
-| 米哈游 | 国际化品牌实习生-绝区零（线下活动和整合营销方向） | 上海 | 实习 | 13d | [投递](https://jobs.mihoyo.com/#/position/9544) |
-| 小米 | 公关策略专员 | 北京 | 校招 | 13d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7686764793517001010/detail) |
-| 小米 | 公关传播专员 | 北京 | 校招 | 13d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7686764781294078254/detail) |
-| 字节跳动 | 营销活动运营实习生 - 抖音生活服务 | 上海 | 实习 | 13d | [投递](https://jobs.bytedance.com/campus/position/7686829732369058101/detail) |
-| 网易 | 用户增长营销实习生（LOFTER） | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78940) |
-| 网易 | 海外投放实习生 | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78941) |
-| 网易 | 新媒体内容营销实习生（音乐人） | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78939) |
-| 网易 | 公关传播实习生（MMO游戏） | 广州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78956) |
-| 米哈游 | 市场内容实习生（前瞻节目制作）-绝区零 | 上海 | 实习 | 14d | [投递](https://jobs.mihoyo.com/#/position/9541) |
-| 百度 | 百度健康品牌市场实习生（J105999） | 北京 | 实习 | 14d | [投递](https://talent.baidu.com/jobs/detail/INTERN/8065fc21-68da-4ac8-976a-6d71b987c5b7) |
-| 智元机器人 | 海外品牌实习生 | 上海 | 实习 | 14d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7686374801413687602/detail) |
-| 小米 | 整合营销专员-2027届 | 北京 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686306449975281939/detail) |
-| 小米 | 创意策划实习生-2027届 | 北京 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686475169103808777/detail) |
-| 字节跳动 | 整合营销实习生 - TikTok Shop | 上海 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686455811204057397/detail) |
-| 商汤 | 产品市场实习生 | 深圳 / 上海 / 杭州 | 实习 | 14d | [投递](https://hr-jobs.sensetime.com/edu/position/7686433974025668902/detail) |
+| 网易 | 品牌创意实习生（七日世界） | 上海 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79126) |
+| 网易 | 公关传播实习生（MMO游戏） | 广州 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79117) |
+| 百度 | 漫剧运营实习生（品牌方向）（J106287） | 北京 | 实习 | 3d | [投递](https://talent.baidu.com/jobs/detail/INTERN/b30a9c04-f711-42a6-912d-cf9dc2a7da14) |
+| 爱奇艺 | 媒介实习生-北京 | 北京 | 实习 | 3d | [投递](https://careers.iqiyi.com/intern/position/7395457550595934502/detail) |
+| 智元机器人 | 欧美地区部市场营销经理 | 旧金山 / 巴黎 / 慕尼黑 | 校招 | 3d | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7647799552854640934/detail) |
+| 哔哩哔哩 | 品类营销实习生 | 上海 | 实习 | 3d | [投递](https://jobs.bilibili.com/campus/positions/30688) |
+| 字节跳动 | 平台营销活动实习生 - TikTok Shop | 上海 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7689101094866766085/detail) |
+| 字节跳动 | 剪映市场实习生 - 剪映CapCut | 深圳 / 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7689014591235623173/detail) |
+| 字节跳动 | PR实习生 - 中国公共关系 | 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688661294886619445/detail) |
+| 百度 | 品牌运营实习生（J106147） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/96788144-97db-49bf-a141-4bab1d69da14) |
+| 哔哩哔哩 | 投放实习生 | 上海 | 实习 | 10d | [投递](https://jobs.bilibili.com/campus/positions/30648) |
+| MiniMax | Global Marketing | 旧金山 | 校招 | 10d | [投递](https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7684113173146798372/detail) |
+| 网易 | 游戏营销实习生（生态方向-射击类） | 杭州 | 实习 | 11d | [投递](https://hr.163.com/job-detail.html?id=79029) |
+| 网易 | 内容营销实习生（外贸通） | 北京 | 实习 | 11d | [投递](https://hr.163.com/job-detail.html?id=79040) |
+| 网易 | 内容素材营销（王牌竞速） | 杭州 | 实习 | 11d | [投递](https://hr.163.com/job-detail.html?id=79037) |
+| 字节跳动 | 机构平台产品（AI产品）实习生 - 抖音品牌营销与星图达人 | 上海 / 北京 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687924038083447045/detail) |
+| 小米 | 营销传播经理 Storyteller | 北京 | 校招 | 12d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670882803018828059/detail) |
+| 字节跳动 | 用户增长运营（投放策略） - 抖音生活服务 | 上海 / 北京 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687573366027028789/detail) |
+| 字节跳动 | 营销玩法策略实习生 - 抖音电商 | 上海 | 实习 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687549575980435765/detail) |
+| 百度 | 海外品牌市场运营实习生（J104581） | 北京 | 实习 | 13d | [投递](https://talent.baidu.com/jobs/detail/INTERN/d8a550e4-7666-4201-a913-4fb4899920e9) |
+| 网易 | 游戏营销实习生（自媒体方向-日语/英语） | 上海 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78967) |
+| 网易 | 守望先锋新媒体实习生 | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=76399) |
+| 米哈游 | 国际化品牌实习生-绝区零（线下活动和整合营销方向） | 上海 | 实习 | 14d | [投递](https://jobs.mihoyo.com/#/position/9544) |
+| 小米 | 公关策略专员 | 北京 | 校招 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7686764793517001010/detail) |
+| 小米 | 公关传播专员 | 北京 | 校招 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7686764781294078254/detail) |
+| 字节跳动 | 营销活动运营实习生 - 抖音生活服务 | 上海 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686829732369058101/detail) |
+| 网易 | 用户增长营销实习生（LOFTER） | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78940) |
+| 网易 | 海外投放实习生 | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78941) |
+| 网易 | 新媒体内容营销实习生（音乐人） | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78939) |
+| 网易 | 公关传播实习生（MMO游戏） | 广州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78956) |
+| 米哈游 | 市场内容实习生（前瞻节目制作）-绝区零 | 上海 | 实习 | &gt;14d | [投递](https://jobs.mihoyo.com/#/position/9541) |
+| 百度 | 百度健康品牌市场实习生（J105999） | 北京 | 实习 | &gt;14d | [投递](https://talent.baidu.com/jobs/detail/INTERN/8065fc21-68da-4ac8-976a-6d71b987c5b7) |
+| 智元机器人 | 海外品牌实习生 | 上海 | 实习 | &gt;14d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7686374801413687602/detail) |
+| 小米 | 整合营销专员-2027届 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686306449975281939/detail) |
+| 小米 | 创意策划实习生-2027届 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686475169103808777/detail) |
+| 字节跳动 | 整合营销实习生 - TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686455811204057397/detail) |
+| 商汤 | 产品市场实习生 | 深圳 / 上海 / 杭州 | 实习 | &gt;14d | [投递](https://hr-jobs.sensetime.com/edu/position/7686433974025668902/detail) |
 | 字节跳动 | 东南亚跨境增长营销实习生 - TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686362407325468981/detail) |
 | 网易 | 足球内容营销实习生 | 广州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=68442) |
 | 网易 | 推广媒介实习生 | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78919) |
@@ -349,19 +349,19 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 小米 | 零售顾问-安徽 | 合肥 | 校招 | 23h | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523131105888553/detail) |
-| 小米 | 新零售校招生-安徽 | 合肥 | 校招 | 23h | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524184715217193/detail) |
-| 小米 | 中国区-网格/区经方向-安徽 | 合肥 | 校招 | 23h | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524803547416882/detail) |
+| 小米 | 零售顾问-安徽 | 合肥 | 校招 | 1d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671523131105888553/detail) |
+| 小米 | 新零售校招生-安徽 | 合肥 | 校招 | 1d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524184715217193/detail) |
+| 小米 | 中国区-网格/区经方向-安徽 | 合肥 | 校招 | 1d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671524803547416882/detail) |
 | 智元机器人 | 【共创】渠道经理-酷拓子公司 | 深圳 | 校招 | 2d | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7690911083343956278/detail) |
-| 小米 | 零售顾问实习生-2027届 | 深圳 | 实习 | 2d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7656789976588077331/detail) |
-| 美团 | 【国际化业务】大客户合作岗/Key Account Specialist | 迪拜 | 校招 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803837512&amp;jobShareType=1&amp;highlightType=campus) |
-| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 昆明 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687461679454947637/detail) |
-| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 西安 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687460003879487797/detail) |
-| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 太原 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687459682923186485/detail) |
-| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 重庆 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687458075242793269/detail) |
-| 字节跳动 | 大客户销售（餐饮行业） - 抖音生活服务 | 青岛 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687449220245506357/detail) |
-| 字节跳动 | 大客户销售（餐饮行业） - 抖音生活服务 | 郑州 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687448320140970245/detail) |
-| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 郑州 | 校招 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687439247805368629/detail) |
+| 小米 | 零售顾问实习生-2027届 | 深圳 | 实习 | 3d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7656789976588077331/detail) |
+| 美团 | 【国际化业务】大客户合作岗/Key Account Specialist | 迪拜 | 校招 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803837512&amp;jobShareType=1&amp;highlightType=campus) |
+| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 昆明 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687461679454947637/detail) |
+| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 西安 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687460003879487797/detail) |
+| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 太原 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687459682923186485/detail) |
+| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 重庆 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687458075242793269/detail) |
+| 字节跳动 | 大客户销售（餐饮行业） - 抖音生活服务 | 青岛 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687449220245506357/detail) |
+| 字节跳动 | 大客户销售（餐饮行业） - 抖音生活服务 | 郑州 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687448320140970245/detail) |
+| 字节跳动 | 大客户销售（游玩行业） - 抖音生活服务 | 郑州 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7687439247805368629/detail) |
 | 字节跳动 | 销售支持实习生 - 抖音生活服务 | 南京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7685626350325123381/detail) |
 | 小米 | 销售管理 | 北京 | 校招 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670883911417497883/detail) |
 | 美团 | 视频拍摄及制作项目实习（客户案例&amp;产品方向） | 北京 | 实习 | &gt;14d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4757161735&amp;jobShareType=1&amp;highlightType=campus) |
@@ -420,18 +420,18 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 沐瞳科技 | 【2027届秋招】游戏赛事商务 | 上海 | 校招 | 2d | [投递](https://moonton.jobs.feishu.cn/campus/position/7690943461939366190/detail) |
-| 商汤 | 商务运营实习生-深圳 | 深圳 | 实习 | 2d | [投递](https://hr-jobs.sensetime.com/edu/position/7690887161617582399/detail) |
-| 字节跳动 | 豆包AI大模型产品解决方案实习生 - 火山方舟 | 深圳 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690515308227397893/detail) |
-| 网易 | 商务实习生（游戏/IP方向） | 上海 | 实习 | 7d | [投递](https://hr.163.com/job-detail.html?id=79099) |
-| 百度 | MaaS解决方案实习生（J106037） | 上海 | 实习 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/46bd7fb9-60cd-4418-bce8-eecd0e350607) |
-| 网易 | 家清商务实习生 | 杭州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79055) |
-| 百度 | 千帆大模型解决方案实习生（J106160） | 深圳 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/898fc360-28f5-4f18-b98b-7207034075e5) |
-| 哔哩哔哩 | 商务实习生 | 上海 | 实习 | 9d | [投递](https://jobs.bilibili.com/campus/positions/30643) |
-| 拼多多 | 商务管培生（香港） | 中国香港 | 校招 | 10d | [投递](https://careers.pinduoduo.com/campus/grad?id=01bf6409-6ce9-44b8-b36f-494fc13a3785) |
-| 蚂蚁集团 | 产品解决方案 | 深圳 / 中国香港 | 校招 | 11d | [投递](https://talent.antgroup.com/campus-position?positionId=260721010984484) |
-| 美团 | KA酒店运营-解决方案实习生 | 上海 | 实习 | 11d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4779387503&amp;jobShareType=1&amp;highlightType=campus) |
-| 小米 | 健康解决方案实习生-2027届 | 北京 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7683739392560793894/detail) |
+| 沐瞳科技 | 【2027届秋招】游戏赛事商务 | 上海 | 校招 | 3d | [投递](https://moonton.jobs.feishu.cn/campus/position/7690943461939366190/detail) |
+| 商汤 | 商务运营实习生-深圳 | 深圳 | 实习 | 3d | [投递](https://hr-jobs.sensetime.com/edu/position/7690887161617582399/detail) |
+| 字节跳动 | 豆包AI大模型产品解决方案实习生 - 火山方舟 | 深圳 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690515308227397893/detail) |
+| 网易 | 商务实习生（游戏/IP方向） | 上海 | 实习 | 8d | [投递](https://hr.163.com/job-detail.html?id=79099) |
+| 百度 | MaaS解决方案实习生（J106037） | 上海 | 实习 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/46bd7fb9-60cd-4418-bce8-eecd0e350607) |
+| 网易 | 家清商务实习生 | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79055) |
+| 百度 | 千帆大模型解决方案实习生（J106160） | 深圳 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/898fc360-28f5-4f18-b98b-7207034075e5) |
+| 哔哩哔哩 | 商务实习生 | 上海 | 实习 | 10d | [投递](https://jobs.bilibili.com/campus/positions/30643) |
+| 拼多多 | 商务管培生（香港） | 中国香港 | 校招 | 11d | [投递](https://careers.pinduoduo.com/campus/grad?id=01bf6409-6ce9-44b8-b36f-494fc13a3785) |
+| 蚂蚁集团 | 产品解决方案 | 深圳 / 中国香港 | 校招 | 12d | [投递](https://talent.antgroup.com/campus-position?positionId=260721010984484) |
+| 美团 | KA酒店运营-解决方案实习生 | 上海 | 实习 | 12d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4779387503&amp;jobShareType=1&amp;highlightType=campus) |
+| 小米 | 健康解决方案实习生-2027届 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7683739392560793894/detail) |
 | 网易 | 海外商务实习生 | 广州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78936) |
 | 百度 | 商务实习生（J105941） | 深圳 | 实习 | &gt;14d | [投递](https://talent.baidu.com/jobs/detail/INTERN/70b66b2b-75b1-44ad-93f9-830509b1939f) |
 | 网易 | 商务拓展实习生（可转正） | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78888) |
@@ -491,10 +491,10 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 百度 | 大模型行业研究及规划助理（J106083） | 北京 | 校招 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/f8b9ece0-c31b-4cc1-af33-023e7efdffc1) |
-| 小红书 | 小红书国际化战略实习生 | 上海 | 实习 | 9d | [投递](https://job.xiaohongshu.com/campus/position/21716) |
-| 商汤 | 【27届校招】行业研究员（AI科研方向） | 上海 | 校招 | 12d | [投递](https://hr-jobs.sensetime.com/edu/position/7687448448497371419/detail) |
-| 百度 | AI战略分析实习生（长期）（J106007） | 北京 | 实习 | 14d | [投递](https://talent.baidu.com/jobs/detail/INTERN/3646756e-448a-4bd0-a6bd-f6a8b671946c) |
+| 百度 | 大模型行业研究及规划助理（J106083） | 北京 | 校招 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/f8b9ece0-c31b-4cc1-af33-023e7efdffc1) |
+| 小红书 | 小红书国际化战略实习生 | 上海 | 实习 | 10d | [投递](https://job.xiaohongshu.com/campus/position/21716) |
+| 商汤 | 【27届校招】行业研究员（AI科研方向） | 上海 | 校招 | 13d | [投递](https://hr-jobs.sensetime.com/edu/position/7687448448497371419/detail) |
+| 百度 | AI战略分析实习生（长期）（J106007） | 北京 | 实习 | &gt;14d | [投递](https://talent.baidu.com/jobs/detail/INTERN/3646756e-448a-4bd0-a6bd-f6a8b671946c) |
 | 小米 | 投资专员 | 北京 | 校招 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7670922681268734214/detail) |
 | 百度 | 战略分析实习生（J105886） | 北京 | 实习 | &gt;14d | [投递](https://talent.baidu.com/jobs/detail/INTERN/5e795d2b-0698-4029-baa1-96c33c90ac70) |
 | 百度 | 战略分析实习生（J105846） | 北京 | 实习 | &gt;14d | [投递](https://talent.baidu.com/jobs/detail/INTERN/56c70b4f-4de1-450c-989d-effcda8ba4a0) |
@@ -510,8 +510,6 @@
 | 字节跳动 | 战略分析实习生 - Global Business Solutions | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7680565406628710661/detail) |
 | 字节跳动 | 战略资源管理实习生 - TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7680059704340498693/detail) |
 | 网易 | 投资实习生（AI与具身智能方向） | 北京 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=75374) |
-| 小红书 | 商分战略实习生 | 北京 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/21914) |
-| 小红书 | 商分战略事务实习生 | 上海 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/21885) |
 | 京东 | 战略 | 北京 | 实习 | &gt;14d | [投递](https://campus.jd.com/#/newDetails?publishId=4990) |
 | 字节跳动 | TikTok电商战略分析实习生 - TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7679025267634292997/detail) |
 | 阿里巴巴 | 日常实习生-技术战略实习生 | 北京 / 杭州 | 实习 | &gt;14d | [投递](https://campus-talent.alibaba.com/campus/position/199904040012) |
@@ -551,6 +549,8 @@
 | 字节跳动 | 战略实习生-TikTok Shop | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7632166964477675781/detail) |
 | 字节跳动 | 战略分析实习生 - 抖音生活服务 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7631948292233890101/detail) |
 | 字节跳动 | 战略分析实习生-抖音生活服务 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7631946929828759861/detail) |
+| 字节跳动 | 电商资源管理实习生-TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7631053984780077317/detail) |
+| 字节跳动 | 战略分析实习生 - 抖音生活服务 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7629573143905372469/detail) |
 
 ---
 
@@ -562,21 +562,21 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 网易 | 数据分析实习生(会员方向) | 杭州 | 实习 | 23h | [投递](https://hr.163.com/job-detail.html?id=79146) |
-| 哔哩哔哩 | 品类数据分析实习生 | 上海 | 实习 | 2d | [投递](https://jobs.bilibili.com/campus/positions/30690) |
-| 字节跳动 | 广告经营分析实习生 - 抖音电商运营 | 杭州、上海、北京等 4 个城市 | 实习 | 3d | [投递](https://jobs.bytedance.com/campus/position/7690496149443545397/detail) |
-| 字节跳动 | 数据分析（海外生活服务）实习生 | 北京 | 实习 | 7d | [投递](https://jobs.bytedance.com/campus/position/7689027642424969477/detail) |
-| 美团 | 【国际化业务】商业分析师（BA/DS）/Business Analyst | 迪拜 | 校招 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803890129&amp;jobShareType=1&amp;highlightType=campus) |
-| 字节跳动 | 企业信息化与数据分析实习生 - 芯片研发 | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688633878031091973/detail) |
-| 百度 | 用户增长数据分析实习生（J105515） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/4f38fd1d-a193-47ff-931d-0dffc89ef556) |
-| 百度 | 商业分析实习生（J106171） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/19480212-255f-4ba8-925a-14864e99ad17) |
-| 美团 | 商家侧-数据分析 | 北京 / 上海 | 实习 | 10d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4769309162&amp;jobShareType=1&amp;highlightType=campus) |
-| 快手 | 算法数据分析师 | 北京 | 校招 | 11d | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=6ac93c9d57d5493ab8845fbda7a1cdbf) |
-| 小红书 | 数据分析实习生【28届，面向转正】 | 上海 | 实习 | 11d | [投递](https://job.xiaohongshu.com/campus/position/22540) |
-| 字节跳动 | 经营分析实习生 - 抖音电商 | 上海 | 实习 | 13d | [投递](https://jobs.bytedance.com/campus/position/7686747699420678405/detail) |
-| 小米 | 经营分析实习生 | 北京 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686317679854750003/detail) |
-| 字节跳动 | 印尼电商商业分析实习生 - TikTok Shop | 上海 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686457874079435061/detail) |
-| 字节跳动 | 经营分析实习生 - 抖音电商 | 北京 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686382178279934261/detail) |
+| 网易 | 数据分析实习生(会员方向) | 杭州 | 实习 | 1d | [投递](https://hr.163.com/job-detail.html?id=79146) |
+| 哔哩哔哩 | 品类数据分析实习生 | 上海 | 实习 | 3d | [投递](https://jobs.bilibili.com/campus/positions/30690) |
+| 字节跳动 | 广告经营分析实习生 - 抖音电商运营 | 杭州、上海、北京等 4 个城市 | 实习 | 4d | [投递](https://jobs.bytedance.com/campus/position/7690496149443545397/detail) |
+| 字节跳动 | 数据分析（海外生活服务）实习生 | 北京 | 实习 | 8d | [投递](https://jobs.bytedance.com/campus/position/7689027642424969477/detail) |
+| 美团 | 【国际化业务】商业分析师（BA/DS）/Business Analyst | 迪拜 | 校招 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803890129&amp;jobShareType=1&amp;highlightType=campus) |
+| 字节跳动 | 企业信息化与数据分析实习生 - 芯片研发 | 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688633878031091973/detail) |
+| 百度 | 用户增长数据分析实习生（J105515） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/4f38fd1d-a193-47ff-931d-0dffc89ef556) |
+| 百度 | 商业分析实习生（J106171） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/19480212-255f-4ba8-925a-14864e99ad17) |
+| 美团 | 商家侧-数据分析 | 北京 / 上海 | 实习 | 11d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4769309162&amp;jobShareType=1&amp;highlightType=campus) |
+| 快手 | 算法数据分析师 | 北京 | 校招 | 12d | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=6ac93c9d57d5493ab8845fbda7a1cdbf) |
+| 小红书 | 数据分析实习生【28届，面向转正】 | 上海 | 实习 | 12d | [投递](https://job.xiaohongshu.com/campus/position/22540) |
+| 字节跳动 | 经营分析实习生 - 抖音电商 | 上海 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686747699420678405/detail) |
+| 小米 | 经营分析实习生 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686317679854750003/detail) |
+| 字节跳动 | 印尼电商商业分析实习生 - TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686457874079435061/detail) |
+| 字节跳动 | 经营分析实习生 - 抖音电商 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686382178279934261/detail) |
 | 智元机器人 | 商业分析实习生 / 战略拓展实习生 (具身智能) | 上海 | 实习 | &gt;14d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7686027887941765414/detail) |
 | 小红书 | 数据分析实习生（社区方向） | 北京 / 上海 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/20314) |
 | 哔哩哔哩 | 数据分析实习生（策略） | 上海 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30569) |
@@ -601,7 +601,6 @@
 | 携程 | 数据分析师（技术方向）（2027届秋招）(MJ036670) | Shanghai | 校招 | &gt;14d | [投递](https://careers.ctrip.com/campus#/experienced/job-detail/MJ036670) |
 | 爱奇艺 | 内容策略（数据分析）实习生 | 北京 | 实习 | &gt;14d | [投递](https://careers.iqiyi.com/intern/position/7524906711003760905/detail) |
 | 小红书 | 数据分析实习生 | 上海 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/21873) |
-| 字节跳动 | 效果广告数据分析&amp;AI Agent实习生 - Pangle | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7677898794873063685/detail) |
 | 字节跳动 | 数据分析实习生 - TikTok Shop | 北京 / 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7677571671927212341/detail) |
 | 字节跳动 | 数据分析 - 内容质量与数据服务平台 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7677527047489472821/detail) |
 | 字节跳动 | 商业分析实习生 - 广告业务 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7677447953821370677/detail) |
@@ -622,6 +621,7 @@
 | 字节跳动 | 经营分析 - 抖音电商 | 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669698605365709061/detail) |
 | 字节跳动 | 经营分析 - 商业化 | 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7669691874189658421/detail) |
 | 字节跳动 | 数据分析实习生 - TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668930444044339461/detail) |
+| 字节跳动 | 用户增长数据分析师 - TikTok | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668657994767419701/detail) |
 
 ---
 
@@ -633,13 +633,13 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 智元机器人 | 交互项目交付项目经理实习生 | 上海 | 实习 | 2d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7690470168607115562/detail) |
+| 智元机器人 | 交互项目交付项目经理实习生 | 上海 | 实习 | 3d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7690470168607115562/detail) |
 | 爱奇艺 | 海外AI项目管理实习生 | 北京 | 实习 | 4d | [投递](https://careers.iqiyi.com/intern/position/7690402210827667750/detail) |
-| 百度 | 大模型项目经理PMO（J105160） | 北京 | 校招 | 7d | [投递](https://talent.baidu.com/jobs/detail/INTERN/ff005250-d184-43d1-9454-5760f868d842) |
-| 商汤 | 产业智能化交付项目实习生 | 上海 | 实习 | 7d | [投递](https://hr-jobs.sensetime.com/edu/position/7689050171598539054/detail) |
-| 智元机器人 | 数据采集项目经理实习生（具身智能方向） | 上海 | 实习 | 8d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7688938253856213274/detail) |
-| 爱奇艺 | 配音管理实习生（英语） | 重庆 | 实习 | 11d | [投递](https://careers.iqiyi.com/intern/position/7413266377504950579/detail) |
-| 字节跳动 | 租赁项目管理实习生 - Corporate Services | 北京 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687808381138340149/detail) |
+| 百度 | 大模型项目经理PMO（J105160） | 北京 | 校招 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/ff005250-d184-43d1-9454-5760f868d842) |
+| 商汤 | 产业智能化交付项目实习生 | 上海 | 实习 | 8d | [投递](https://hr-jobs.sensetime.com/edu/position/7689050171598539054/detail) |
+| 智元机器人 | 数据采集项目经理实习生（具身智能方向） | 上海 | 实习 | 9d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7688938253856213274/detail) |
+| 爱奇艺 | 配音管理实习生（英语） | 重庆 | 实习 | 12d | [投递](https://careers.iqiyi.com/intern/position/7413266377504950579/detail) |
+| 字节跳动 | 租赁项目管理实习生 - Corporate Services | 北京 | 实习 | 12d | [投递](https://jobs.bytedance.com/campus/position/7687808381138340149/detail) |
 | 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7685686152326760709/detail) |
 | 阿里巴巴 | 项目管理实习生 | 北京 | 实习 | &gt;14d | [投递](https://campus-talent.alibaba.com/campus/position/199909580002) |
 | 哔哩哔哩 | IP项目管理实习生 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30516) |
@@ -704,37 +704,37 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 网易 | 游戏体验设计实习生（第五人格） | 杭州 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79121) |
-| 网易 | 游戏体验设计实习生（梦幻西游-畅玩服） | 广州 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79122) |
-| 网易 | 品牌素材创意实习生（AI美术方向） | 上海 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79123) |
-| 网易 | 产品体验设计实习生 | 杭州 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79124) |
+| 网易 | 游戏体验设计实习生（第五人格） | 杭州 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79121) |
+| 网易 | 游戏体验设计实习生（梦幻西游-畅玩服） | 广州 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79122) |
+| 网易 | 品牌素材创意实习生（AI美术方向） | 上海 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79123) |
+| 网易 | 产品体验设计实习生 | 杭州 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79124) |
 | 智元机器人 | 多模交互系统方案实习生 | 上海 | 实习 | 4d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7690428456848918830/detail) |
-| 哔哩哔哩 | AI动画导演/ACG实习生 | 上海 | 实习 | 6d | [投递](https://jobs.bilibili.com/campus/positions/30672) |
-| 美团 | 设计及项目运营实习生 | 北京 | 实习 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4802263232&amp;jobShareType=1&amp;highlightType=campus) |
-| 网易 | 创意视觉设计师（艺粉方向） | 杭州 | 实习 | 8d | [投递](https://hr.163.com/job-detail.html?id=79097) |
-| 网易 | 游戏测评实习生（决战平安京） | 广州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79066) |
-| 网易 | 游戏体验设计实习生（梦幻西游） | 广州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79064) |
-| 网易 | 游戏体验设计实习生（巅峰极速） | 广州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79063) |
-| 网易 | 游戏体验设计实习生-大话 | 杭州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79062) |
-| 小米 | AI交互人因研究实习生-2027届 | 北京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686070561626392895/detail) |
-| 字节跳动 | 创意设计实习生 - 剪映CapCut | 北京 / 深圳 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688246124075944197/detail) |
-| 美团 | AI 产品设计师-实习 | 北京 | 实习 | 10d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4783317158&amp;jobShareType=1&amp;highlightType=campus) |
-| 网易 | 游戏原画设计实习生（欧美卡通） | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=40040) |
-| 网易 | 动画视频设计实习生 | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=47182) |
-| 百度 | 用户体验设计师实习生（J106151） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/198a03f6-c9c8-4fb9-b5cf-c6364ce65d84) |
-| 百度 | 交互设计实习生（J106120） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/59a14345-809e-48b9-bedd-aae0464e4ce7) |
-| 字节跳动 | 游戏音频实习生 - 研发支持中心 | 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687867314923981061/detail) |
-| 小红书 | 室内设计实习生 | 上海 | 实习 | 11d | [投递](https://job.xiaohongshu.com/campus/position/22564) |
-| 百度 | UI设计实习生（J106036） | 北京 | 实习 | 12d | [投递](https://talent.baidu.com/jobs/detail/INTERN/cb2f24d2-2f9c-441a-9de7-9c174a7542c4) |
-| 网易 | 视觉设计实习生（元气工作室） | 杭州 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78982) |
-| 网易 | 游戏测评实习生（第五人格） | 杭州 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78965) |
-| 网易 | 游戏测评实习生（漫威争锋） | 广州 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78971) |
-| 网易 | 游戏体验设计实习生（梦幻西游-时间服） | 广州 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78972) |
-| 智元机器人 | 机器人灵巧手GUI/UX设计师实习岗 | 上海 | 实习 | 13d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7686770313350498602/detail) |
-| 网易 | 游戏体验设计实习生（漫威争锋） | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78954) |
-| 哔哩哔哩 | 设计实习生 | 上海 | 实习 | 14d | [投递](https://jobs.bilibili.com/campus/positions/30604) |
-| 字节跳动 | 游戏UI设计（女性向游戏）实习生 - ZERO36工作室 | 上海 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686467327227349301/detail) |
-| 字节跳动 | Seedance2.5动画导演实习生 - 火山方舟 | 北京 | 实习 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686447736229300533/detail) |
+| 哔哩哔哩 | AI动画导演/ACG实习生 | 上海 | 实习 | 7d | [投递](https://jobs.bilibili.com/campus/positions/30672) |
+| 美团 | 设计及项目运营实习生 | 北京 | 实习 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4802263232&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 创意视觉设计师（艺粉方向） | 杭州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79097) |
+| 网易 | 游戏测评实习生（决战平安京） | 广州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79066) |
+| 网易 | 游戏体验设计实习生（梦幻西游） | 广州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79064) |
+| 网易 | 游戏体验设计实习生（巅峰极速） | 广州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79063) |
+| 网易 | 游戏体验设计实习生-大话 | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79062) |
+| 小米 | AI交互人因研究实习生-2027届 | 北京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686070561626392895/detail) |
+| 字节跳动 | 创意设计实习生 - 剪映CapCut | 北京 / 深圳 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688246124075944197/detail) |
+| 美团 | AI 产品设计师-实习 | 北京 | 实习 | 11d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4783317158&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 游戏原画设计实习生（欧美卡通） | 杭州 | 实习 | 11d | [投递](https://hr.163.com/job-detail.html?id=40040) |
+| 网易 | 动画视频设计实习生 | 杭州 | 实习 | 11d | [投递](https://hr.163.com/job-detail.html?id=47182) |
+| 百度 | 用户体验设计师实习生（J106151） | 北京 | 实习 | 11d | [投递](https://talent.baidu.com/jobs/detail/INTERN/198a03f6-c9c8-4fb9-b5cf-c6364ce65d84) |
+| 百度 | 交互设计实习生（J106120） | 北京 | 实习 | 11d | [投递](https://talent.baidu.com/jobs/detail/INTERN/59a14345-809e-48b9-bedd-aae0464e4ce7) |
+| 字节跳动 | 游戏音频实习生 - 研发支持中心 | 北京 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687867314923981061/detail) |
+| 小红书 | 室内设计实习生 | 上海 | 实习 | 12d | [投递](https://job.xiaohongshu.com/campus/position/22564) |
+| 百度 | UI设计实习生（J106036） | 北京 | 实习 | 13d | [投递](https://talent.baidu.com/jobs/detail/INTERN/cb2f24d2-2f9c-441a-9de7-9c174a7542c4) |
+| 网易 | 视觉设计实习生（元气工作室） | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78982) |
+| 网易 | 游戏测评实习生（第五人格） | 杭州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78965) |
+| 网易 | 游戏测评实习生（漫威争锋） | 广州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78971) |
+| 网易 | 游戏体验设计实习生（梦幻西游-时间服） | 广州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78972) |
+| 智元机器人 | 机器人灵巧手GUI/UX设计师实习岗 | 上海 | 实习 | 14d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7686770313350498602/detail) |
+| 网易 | 游戏体验设计实习生（漫威争锋） | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78954) |
+| 哔哩哔哩 | 设计实习生 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30604) |
+| 字节跳动 | 游戏UI设计（女性向游戏）实习生 - ZERO36工作室 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686467327227349301/detail) |
+| 字节跳动 | Seedance2.5动画导演实习生 - 火山方舟 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686447736229300533/detail) |
 | 爱奇艺 | 海外后台产品设计实习生 | 北京 | 实习 | &gt;14d | [投递](https://careers.iqiyi.com/intern/position/7686330708567230761/detail) |
 | 爱奇艺 | AIGC动画制片实习生 | 北京 | 实习 | &gt;14d | [投递](https://careers.iqiyi.com/intern/position/7649947819154983204/detail) |
 | 小红书 | 社区内容体验设计实习生 | 上海 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/19518) |
@@ -775,12 +775,12 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 网易 | 游戏用户研究实习生（巅峰极速） | 广州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=79065) |
-| 小红书 | 社区用户研究实习生 | 上海 | 实习 | 9d | [投递](https://job.xiaohongshu.com/campus/position/20719) |
-| 百度 | 用户研究方向实习生（J105962） | 北京 | 实习 | 10d | [投递](https://talent.baidu.com/jobs/detail/INTERN/9ed5cd68-582b-4a4f-b612-3250a3a62735) |
-| 美团 | 用户研究（实习生） | 北京 | 实习 | 11d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4786982058&amp;jobShareType=1&amp;highlightType=campus) |
-| 网易 | 游戏用户研究实习生（黑暗破坏神-不朽） | 上海 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78969) |
-| 网易 | 游戏用户研究实习生（天下3） | 广州 | 实习 | 13d | [投递](https://hr.163.com/job-detail.html?id=78968) |
+| 网易 | 游戏用户研究实习生（巅峰极速） | 广州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79065) |
+| 小红书 | 社区用户研究实习生 | 上海 | 实习 | 10d | [投递](https://job.xiaohongshu.com/campus/position/20719) |
+| 百度 | 用户研究方向实习生（J105962） | 北京 | 实习 | 11d | [投递](https://talent.baidu.com/jobs/detail/INTERN/9ed5cd68-582b-4a4f-b612-3250a3a62735) |
+| 美团 | 用户研究（实习生） | 北京 | 实习 | 12d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4786982058&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 游戏用户研究实习生（黑暗破坏神-不朽） | 上海 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78969) |
+| 网易 | 游戏用户研究实习生（天下3） | 广州 | 实习 | 14d | [投递](https://hr.163.com/job-detail.html?id=78968) |
 | 小红书 | 用户研究实习生（AI方向） | 北京 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/21967) |
 | 小红书 | 【2027校招】用户研究 | 北京 / 上海 | 校招 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22197) |
 | 小米 | 体验运营-用户研究方向 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7680483565625706795/detail) |
@@ -846,11 +846,11 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 阿里巴巴 | 游戏文案策划（日系幻想） | 广州 | 校招 | 2d | [投递](https://campus-talent.alibaba.com/campus/position/199909900004) |
-| 阿里巴巴 | 数值策划（MMO） | 广州 | 校招 | 2d | [投递](https://campus-talent.alibaba.com/campus/position/199909820003) |
-| 网易 | AI工具应用实习生 | 上海 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=79118) |
-| 快手 | 游戏关卡策划 | 杭州 | 校招 | 2d | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=58bb5c9adbf04905be0b9a0da2849fa2) |
-| 字节跳动 | 游戏系统策划实习生 - 绿洲工作室 | 北京 | 实习 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688294966737438981/detail) |
+| 阿里巴巴 | 游戏文案策划（日系幻想） | 广州 | 校招 | 3d | [投递](https://campus-talent.alibaba.com/campus/position/199909900004) |
+| 阿里巴巴 | 数值策划（MMO） | 广州 | 校招 | 3d | [投递](https://campus-talent.alibaba.com/campus/position/199909820003) |
+| 网易 | AI工具应用实习生 | 上海 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=79118) |
+| 快手 | 游戏关卡策划 | 杭州 | 校招 | 3d | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=58bb5c9adbf04905be0b9a0da2849fa2) |
+| 字节跳动 | 游戏系统策划实习生 - 绿洲工作室 | 北京 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7688294966737438981/detail) |
 | 网易 | 游戏数值策划实习生（天谕） | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=56347) |
 | 网易 | 关卡策划实习生（七日世界） | 上海 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78887) |
 | 网易 | GUI实习生（上海） | 上海 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78882) |
@@ -918,26 +918,25 @@
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
 | 智元机器人 | 共创-招聘专员-智鼎子公司 | 上海 | 校招 | 2d | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7690916335445920009/detail) |
-| 网易 | 招聘实习生（智邮） | 杭州 | 实习 | 2d | [投递](https://hr.163.com/job-detail.html?id=64999) |
-| MiniMax | AI 招聘实习生（职能方向） | 北京 | 实习 | 2d | [投递](https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7690521998430832959/detail) |
-| 网易 | 招聘实习生 | 杭州 | 实习 | 7d | [投递](https://hr.163.com/job-detail.html?id=79102) |
-| 百度 | hr招聘实习生（J106195） | 北京 | 实习 | 8d | [投递](https://talent.baidu.com/jobs/detail/INTERN/00c074a8-4ea5-43c6-8e1a-643fa65cb710) |
-| 爱奇艺 | 人力资源设计实习生（重庆） | 重庆 | 实习 | 8d | [投递](https://careers.iqiyi.com/intern/position/7402866692438001939/detail) |
-| 叠纸游戏 | 招聘HR（2027届秋招） | 上海 | 校招 | 8d | [投递](https://career.papegames.com/campus/position/7688946223290485055/detail) |
-| 字节跳动 | 组织效能 - 人力与管理部 | 北京 | 校招 | 8d | [投递](https://jobs.bytedance.com/campus/position/7688665771778083077/detail) |
-| 美团 | 招聘实习生 | 北京 | 实习 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4771790802&amp;jobShareType=1&amp;highlightType=campus) |
-| 网易 | 招聘实习生 | 上海 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=74381) |
-| 小红书 | HR实习生（招聘方向） | 上海 | 实习 | 10d | [投递](https://job.xiaohongshu.com/campus/position/22578) |
-| 字节跳动 | 招聘实习生 - 人力与管理部 | 深圳 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687965100078942517/detail) |
-| 字节跳动 | 人力运营（灵活用工管理）实习生 - 人力运营 | 上海 | 实习 | 10d | [投递](https://jobs.bytedance.com/campus/position/7687868901078944053/detail) |
-| 爱奇艺 | hr招聘实习生 | 北京 | 实习 | 11d | [投递](https://careers.iqiyi.com/intern/position/7620385356391434502/detail) |
-| 智元机器人 | 招聘专员 | 上海 | 校招 | 11d | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7687587597858703642/detail) |
-| 智元机器人 | HR实习生（校招方向） | 上海 | 实习 | 11d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7687811133314730266/detail) |
-| 百度 | 北京-人力资源专员(J105970) | 北京 | 校招 | 12d | [投递](https://talent.baidu.com/jobs/detail/GRADUATE/6ea8538d-4ea0-4488-98f5-0fac33564f03) |
-| 小米 | 人力资源专员-2027届 | 北京 | 实习 | 12d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687430603797924142/detail) |
-| 美团 | HR实习生（招聘方向） | 北京 | 实习 | 13d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4630957228&amp;jobShareType=1&amp;highlightType=campus) |
-| 美团 | 招聘HR实习生-AI方向 | 北京 | 实习 | 14d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4784179517&amp;jobShareType=1&amp;highlightType=campus) |
-| 小红书 | HR实习生 | 北京 | 实习 | 14d | [投递](https://job.xiaohongshu.com/campus/position/14452) |
+| 网易 | 招聘实习生（智邮） | 杭州 | 实习 | 3d | [投递](https://hr.163.com/job-detail.html?id=64999) |
+| MiniMax | AI 招聘实习生（职能方向） | 北京 | 实习 | 3d | [投递](https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7690521998430832959/detail) |
+| 网易 | 招聘实习生 | 杭州 | 实习 | 8d | [投递](https://hr.163.com/job-detail.html?id=79102) |
+| 百度 | hr招聘实习生（J106195） | 北京 | 实习 | 9d | [投递](https://talent.baidu.com/jobs/detail/INTERN/00c074a8-4ea5-43c6-8e1a-643fa65cb710) |
+| 爱奇艺 | 人力资源设计实习生（重庆） | 重庆 | 实习 | 9d | [投递](https://careers.iqiyi.com/intern/position/7402866692438001939/detail) |
+| 叠纸游戏 | 招聘HR（2027届秋招） | 上海 | 校招 | 9d | [投递](https://career.papegames.com/campus/position/7688946223290485055/detail) |
+| 字节跳动 | 组织效能 - 人力与管理部 | 北京 | 校招 | 9d | [投递](https://jobs.bytedance.com/campus/position/7688665771778083077/detail) |
+| 美团 | 招聘实习生 | 北京 | 实习 | 10d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4771790802&amp;jobShareType=1&amp;highlightType=campus) |
+| 网易 | 招聘实习生 | 上海 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=74381) |
+| 小红书 | HR实习生（招聘方向） | 上海 | 实习 | 11d | [投递](https://job.xiaohongshu.com/campus/position/22578) |
+| 字节跳动 | 招聘实习生 - 人力与管理部 | 深圳 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687965100078942517/detail) |
+| 字节跳动 | 人力运营（灵活用工管理）实习生 - 人力运营 | 上海 | 实习 | 11d | [投递](https://jobs.bytedance.com/campus/position/7687868901078944053/detail) |
+| 爱奇艺 | hr招聘实习生 | 北京 | 实习 | 12d | [投递](https://careers.iqiyi.com/intern/position/7620385356391434502/detail) |
+| 智元机器人 | 招聘专员 | 上海 | 校招 | 12d | [投递](https://agirobot.jobs.feishu.cn/campusrecruitment/position/7687587597858703642/detail) |
+| 智元机器人 | HR实习生（校招方向） | 上海 | 实习 | 12d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7687811133314730266/detail) |
+| 百度 | 北京-人力资源专员(J105970) | 北京 | 校招 | 13d | [投递](https://talent.baidu.com/jobs/detail/GRADUATE/6ea8538d-4ea0-4488-98f5-0fac33564f03) |
+| 小米 | 人力资源专员-2027届 | 北京 | 实习 | 13d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687430603797924142/detail) |
+| 美团 | HR实习生（招聘方向） | 北京 | 实习 | 14d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4630957228&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 招聘HR实习生-AI方向 | 北京 | 实习 | &gt;14d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4784179517&amp;jobShareType=1&amp;highlightType=campus) |
 | 小红书 | 招聘HR实习生 | 上海 / 北京 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/9488) |
 | 小米 | 人力资源实习生—上海 | 上海 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7683129623799187721/detail) |
 | 美团 | HR实习生(AI招聘方向) | 上海 | 实习 | &gt;14d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4708601760&amp;jobShareType=1&amp;highlightType=campus) |
@@ -948,7 +947,6 @@
 | 智元机器人 | HRBP实习生 | 上海 | 实习 | &gt;14d | [投递](https://agirobot.jobs.feishu.cn/internrecruitment/position/7685294576714500395/detail) |
 | 小红书 | 国际化招聘实习生 | 上海 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22433) |
 | 小红书 | hr实习生 | 北京 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/19293) |
-| 小红书 | HR实习生 | 上海 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/14616) |
 | 哔哩哔哩 | B站HR实习生（招聘方向） | 上海 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30512) |
 | 字节跳动 | 招聘实习生 - 招聘中心 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7685271320315414789/detail) |
 | 爱奇艺 | 人力资源信息化实习生 | 北京 | 实习 | &gt;14d | [投递](https://careers.iqiyi.com/intern/position/7389955917733955859/detail) |
@@ -977,6 +975,8 @@
 | 小红书 | 【2027校招】PMO | 北京 / 上海 | 校招 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22031) |
 | 小红书 | 【2027校招】NoSQL&amp;KVCache 分布式缓存数据库研发 | 上海 / 杭州 | 校招 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22035) |
 | 小红书 | 【2027校招】Dots-大语言模型基础技术研究员 | 北京 / 上海 | 校招 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/20734) |
+| 小红书 | 【2027校招】AI创意影像制作 | 上海 | 校招 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22152) |
+| 米哈游 | 招聘（大模型方向） | 北京 | 校招 | &gt;14d | [投递](https://jobs.mihoyo.com/#/position/9466) |
 
 ---
 
@@ -988,16 +988,16 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 小米 | 财务分析专员-2027届 | 上海 | 实习 | 2d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7690763724156700938/detail) |
-| 小米 | Channel Finance BP （CDI） | 巴黎 | 校招 | 2d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7690761452894161188/detail) |
-| 美团 | 充电宝项目实习生 | 北京 | 实习 | 9d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4797744676&amp;jobShareType=1&amp;highlightType=campus) |
-| 小米 | 财务档案管理实习生 | 北京 | 实习 | 9d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688557167330478372/detail) |
-| 小米 | 财务分析专员-实习-2027届 | 吉隆坡 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7685730747726416178/detail) |
-| 小米 | 产供财经分析 | 北京 | 实习 | 12d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687454343691929907/detail) |
-| 哔哩哔哩 | 财务实习生（税务） | 上海 | 实习 | 13d | [投递](https://jobs.bilibili.com/campus/positions/30610) |
-| 小米 | 财务专员实习生-2027届 | 武汉 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686708760043653418/detail) |
-| 小米 | 平台财经实习生-2027届 | 北京 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7685273815232809235/detail) |
-| 小米 | 国际财经实习生 Intl. Finance Intern | 布达佩斯 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686459834884475186/detail) |
+| 小米 | 财务分析专员-2027届 | 上海 | 实习 | 3d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7690763724156700938/detail) |
+| 小米 | Channel Finance BP （CDI） | 巴黎 | 校招 | 3d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7690761452894161188/detail) |
+| 美团 | 充电宝项目实习生 | 北京 | 实习 | 10d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4797744676&amp;jobShareType=1&amp;highlightType=campus) |
+| 小米 | 财务档案管理实习生 | 北京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688557167330478372/detail) |
+| 小米 | 财务分析专员-实习-2027届 | 吉隆坡 | 实习 | 11d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7685730747726416178/detail) |
+| 小米 | 产供财经分析 | 北京 | 实习 | 13d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7687454343691929907/detail) |
+| 哔哩哔哩 | 财务实习生（税务） | 上海 | 实习 | 14d | [投递](https://jobs.bilibili.com/campus/positions/30610) |
+| 小米 | 财务专员实习生-2027届 | 武汉 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686708760043653418/detail) |
+| 小米 | 平台财经实习生-2027届 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7685273815232809235/detail) |
+| 小米 | 国际财经实习生 Intl. Finance Intern | 布达佩斯 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7686459834884475186/detail) |
 | 网易 | 财经tube视频剪辑实习生 | 北京 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=78915) |
 | 小红书 | 财务分析实习生 | 北京 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/21388) |
 | 小米 | 税务专员实习生 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7685732606470883638/detail) |
@@ -1059,17 +1059,17 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 米哈游 | 涉外法务-业务项目支持方向（28届） | 上海 | 实习 | 9d | [投递](https://jobs.mihoyo.com/#/position/9574) |
-| 米哈游 | 涉外法务-业务项目支持方向（27届） | 上海 | 校招 | 9d | [投递](https://jobs.mihoyo.com/#/position/9575) |
-| 爱奇艺 | 法律实习生（维权诉讼组） | 上海 | 实习 | 9d | [投递](https://careers.iqiyi.com/intern/position/7402449684797196580/detail) |
-| 网易 | 法务实习生（杭州） | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79041) |
-| 网易 | 法务实习生（广州） | 广州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=79042) |
-| 小米 | 手机法务BP实习生-2027届 | 北京 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688167747691448619/detail) |
-| 小米 | 公共事务专员实习生-2027届 | 武汉 | 实习 | 10d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688166873079302454/detail) |
-| 爱奇艺 | 法律实习生（商务组） | 北京 | 实习 | 13d | [投递](https://careers.iqiyi.com/intern/position/7415880589109070143/detail) |
-| 小米 | 隐私合规实习生 | 北京 | 实习 | 13d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7685274166756804870/detail) |
-| 字节跳动 | AI产品生态运营（法律/教育方向） - AI数据与安全 | 北京 | 校招 | 13d | [投递](https://jobs.bytedance.com/campus/position/7686812261238966581/detail) |
-| 小红书 | 公共事务实习生 | 北京 | 实习 | 14d | [投递](https://job.xiaohongshu.com/campus/position/22510) |
+| 米哈游 | 涉外法务-业务项目支持方向（28届） | 上海 | 实习 | 10d | [投递](https://jobs.mihoyo.com/#/position/9574) |
+| 米哈游 | 涉外法务-业务项目支持方向（27届） | 上海 | 校招 | 10d | [投递](https://jobs.mihoyo.com/#/position/9575) |
+| 爱奇艺 | 法律实习生（维权诉讼组） | 上海 | 实习 | 10d | [投递](https://careers.iqiyi.com/intern/position/7402449684797196580/detail) |
+| 网易 | 法务实习生（杭州） | 杭州 | 实习 | 11d | [投递](https://hr.163.com/job-detail.html?id=79041) |
+| 网易 | 法务实习生（广州） | 广州 | 实习 | 11d | [投递](https://hr.163.com/job-detail.html?id=79042) |
+| 小米 | 手机法务BP实习生-2027届 | 北京 | 实习 | 11d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688167747691448619/detail) |
+| 小米 | 公共事务专员实习生-2027届 | 武汉 | 实习 | 11d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7688166873079302454/detail) |
+| 爱奇艺 | 法律实习生（商务组） | 北京 | 实习 | 14d | [投递](https://careers.iqiyi.com/intern/position/7415880589109070143/detail) |
+| 小米 | 隐私合规实习生 | 北京 | 实习 | 14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7685274166756804870/detail) |
+| 字节跳动 | AI产品生态运营（法律/教育方向） - AI数据与安全 | 北京 | 校招 | 14d | [投递](https://jobs.bytedance.com/campus/position/7686812261238966581/detail) |
+| 小红书 | 公共事务实习生 | 北京 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22510) |
 | 字节跳动 | 合规运营实习生 - 开发者服务 | 北京 / 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7685984603031669045/detail) |
 | 网易 | 法务实习生（杭州） | 杭州 | 实习 | &gt;14d | [投递](https://hr.163.com/job-detail.html?id=74418) |
 | 小米 | 海外合规专员 | 北京 | 校招 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7684165944163977482/detail) |
@@ -1089,8 +1089,6 @@
 | 字节跳动 | 合规运营 - 国际支付 | 上海 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667889676602149125/detail) |
 | 字节跳动 | 合规策略 - 国际支付 | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667887768395073797/detail) |
 | 字节跳动 | 法务运营（诉讼数字化方向）实习生 - 中国法务 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7667809990523390213/detail) |
-| 字节跳动 | 安全合规实习生-飞书办公套件 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7661568636862089477/detail) |
-| 字节跳动 | 安全合规实习生-飞书办公套件 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7661573380647356725/detail) |
 | 字节跳动 | 申诉与合规运营实习生-TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7627038766969096501/detail) |
 | 字节跳动 | 合规运营实习生-国际支付 | 北京 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7620280676891527429/detail) |
 | 字节跳动 | 合规运营实习生-国际支付 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7620275252517423413/detail) |
@@ -1119,6 +1117,8 @@
 | 腾讯 | 专利 | 北京 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957104464930817) |
 | 腾讯 | Overseas Legal Counsel | 深圳 | 校招 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1284512614105555970) |
 | 腾讯 | Overseas Legal Counsel | 深圳 | 实习 | 未知 | [投递](https://join.qq.com/post_detail.html?postid=1226957123234441217) |
+| 美团 | 法务岗(诉讼方向) | 北京、重庆、上海等 5 个城市 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697314746&amp;jobShareType=1&amp;highlightType=campus) |
+| 美团 | 法务岗 | 北京 | 校招 | 未知 | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4695022677&amp;jobShareType=1&amp;highlightType=campus) |
 
 ---
 
@@ -1130,9 +1130,9 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 哔哩哔哩 | 技术采购实习生 | 上海 | 实习 | 23h | [投递](https://jobs.bilibili.com/campus/positions/30714) |
-| 美团 | 【国际化业务】招商采购岗 | 利雅得 | 校招 | 7d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4808461508&amp;jobShareType=1&amp;highlightType=campus) |
-| 京东 | 风控 | 天津、北京、深圳等 4 个城市 | 实习 | 7d | [投递](https://campus.jd.com/#/newDetails?publishId=4972) |
+| 哔哩哔哩 | 技术采购实习生 | 上海 | 实习 | 1d | [投递](https://jobs.bilibili.com/campus/positions/30714) |
+| 美团 | 【国际化业务】招商采购岗 | 利雅得 | 校招 | 8d | [投递](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4808461508&amp;jobShareType=1&amp;highlightType=campus) |
+| 京东 | 风控 | 天津、北京、深圳等 4 个城市 | 实习 | 8d | [投递](https://campus.jd.com/#/newDetails?publishId=4972) |
 | 字节跳动 | 大客户物流解决方案实习生 - TikTok Shop | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7686029224306264373/detail) |
 | 哔哩哔哩 | 采购实习生 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bilibili.com/campus/positions/30506) |
 | 拼多多 | 仓配物流管培生（区域业务） | 全国多省区 | 校招 | &gt;14d | [投递](https://careers.pinduoduo.com/campus/grad?id=b168e225-3034-4cac-8e3a-ea4aff372a67) |
@@ -1197,12 +1197,12 @@
 
 ## 🏢 岗位类别：行政
 
-最新展示 41 条。
+最新展示 38 条。
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 小米 | 行政专员实习生-2027届 | 北京 | 实习 | 7d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7689009829167630655/detail) |
-| 网易 | 行政助理实习生 | 杭州 | 实习 | 9d | [投递](https://hr.163.com/job-detail.html?id=74896) |
+| 小米 | 行政专员实习生-2027届 | 北京 | 实习 | 8d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7689009829167630655/detail) |
+| 网易 | 行政助理实习生 | 杭州 | 实习 | 10d | [投递](https://hr.163.com/job-detail.html?id=74896) |
 | 小红书 | 行政设计实习生 | 上海 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/22449) |
 | 腾讯 | 秘书 | 深圳 | 实习 | &gt;14d | [投递](https://join.qq.com/post_detail.html?postid=1295854455115448320) |
 | 拼多多 | 行政管培生（上海） | 上海 | 校招 | &gt;14d | [投递](https://careers.pinduoduo.com/campus/grad?id=ccf2e8fa-ed82-4b8d-8641-3d5334fb1160) |
@@ -1210,8 +1210,6 @@
 | 小米 | 行政专员 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7677847681193298202/detail) |
 | 小米 | 行政专员（福利文化） | 北京 | 校招 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7679025822254401855/detail) |
 | 小米 | 行政专员（海外行政） | 北京 | 校招 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7679026007857236275/detail) |
-| 小红书 | 行政设计运营实习生 | 北京 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/19914) |
-| 小红书 | 行政实习生（武汉） | 武汉 | 实习 | &gt;14d | [投递](https://job.xiaohongshu.com/campus/position/21898) |
 | 字节跳动 | 硬件资产管理 - IT | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670143360515262773/detail) |
 | 字节跳动 | 软件资产管理 - IT | 北京 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7670140084751206661/detail) |
 | 字节跳动 | 行政运营管理 - Corporate Services | 上海、北京、成都等 4 个城市 | 校招 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7668528911895955717/detail) |
@@ -1235,7 +1233,6 @@
 | 米哈游 | IT资产管理 | 上海 | 校招 | 未知 | [投递](https://jobs.mihoyo.com/#/position/9169) |
 | 百度 | 北京-行政专员(J100832) | 北京 | 校招 | 未知 | [投递](https://talent.baidu.com/jobs/detail/GRADUATE/46cc7bf1-1d94-4d3b-a699-0322632eb43a) |
 | 快手 | 软件资产管理员 | 北京 | 校招 | 未知 | [投递](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/?code=d0e591c948864443bff0c4a746005eaf) |
-| 小红书 | 行政数字系统运营实习生 | 上海 | 实习 | 未知 | [投递](https://job.xiaohongshu.com/campus/position/21750) |
 | 小米 | 行政专员 | 武汉 / 北京 | 校招 | 未知 | [投递](https://xiaomi.jobs.f.mioffice.cn/campus/position/7671291333982521627/detail) |
 | 哔哩哔哩 | 资产管理实习生 | 上海 | 实习 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/26353) |
 | 哔哩哔哩 | 行政实习生（泰国） | 泰国 | 实习 | 未知 | [投递](https://jobs.bilibili.com/campus/positions/29207) |
@@ -1253,7 +1250,7 @@
 
 | 公司 | 岗位 | 城市 | 招聘类型 | 新鲜度 | 投递链接 |
 |---|---|---|---|---|---|
-| 哔哩哔哩 | 内审实习生 | 上海 | 实习 | 9d | [投递](https://jobs.bilibili.com/campus/positions/30658) |
+| 哔哩哔哩 | 内审实习生 | 上海 | 实习 | 10d | [投递](https://jobs.bilibili.com/campus/positions/30658) |
 | 小米 | 信用风险管理组实习生-2027届 | 北京 | 实习 | &gt;14d | [投递](https://xiaomi.jobs.f.mioffice.cn/internship/position/7660791605549418798/detail) |
 | 阿里巴巴 | 风险策略分析师 | 杭州 | 校招 | &gt;14d | [投递](https://campus-talent.alibaba.com/campus/position/199909260001) |
 | 字节跳动 | 内控数据实习生-内控 | 上海 | 实习 | &gt;14d | [投递](https://jobs.bytedance.com/campus/position/7592911154697619717/detail) |
